@@ -1,4 +1,4 @@
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from keras.preprocessing.image import ImageDataGenerator
 
 # Create ImageDataGenerators for training and validation datasets
 train_datagen = ImageDataGenerator(rescale=1./255)
