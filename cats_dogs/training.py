@@ -1,5 +1,5 @@
-from cats_vs_dogs.simple_cnn import SimpleCNN
-from cats_vs_dogs.data_preparation import train_generator, validation_generator
+from simple_cnn import SimpleCNN
+from dataset_generation import train_generator, validation_generator
 
 # Create an instance of the model
 model = SimpleCNN()
@@ -8,7 +8,7 @@ model = SimpleCNN()
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
 # Model summary
-model.build((None, 224, 224, 3))  # `build` is called to define the input shape so the model can be summarized
+model.build((None, 256, 256, 3))  # `build` is called to define the input shape so the model can be summarized
 model.summary()
 
 history = model.fit(
