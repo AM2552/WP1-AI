@@ -5,22 +5,22 @@ train_datagen = ImageDataGenerator(rescale=1./255)
 validation_datagen = ImageDataGenerator(rescale=1./255)
 
 # Assuming your dataset is in a directory with a structure:
-# dataset/
-#     train/
-#         cats/
-#         dogs/
+# datasetname/
+#     training/
+#         cat/
+#         dog/
 #     validation/
-#         cats/
-#         dogs/
+#         cat/
+#         dog/
 
 train_generator = train_datagen.flow_from_directory(
-        'datasets/cats_vs_dogs/training',
-        target_size=(256, 256),
+        'datasets/cat&dog/training',
+        target_size=(224, 224),
         batch_size=32,
         class_mode='binary')
 
 validation_generator = validation_datagen.flow_from_directory(
-        'datasets/cats_vs_dogs/validation',
-        target_size=(256, 256),
+        'datasets/cat&dog/validation',
+        target_size=(224, 224),
         batch_size=32,
         class_mode='binary')
