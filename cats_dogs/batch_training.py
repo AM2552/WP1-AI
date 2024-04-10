@@ -53,9 +53,10 @@ results = []
 
 # Parameter combinations to try
 parameter_presets = {
-    'Preset1': (5, 3, 0.1, 50, True),
-    'Preset2': (5, 3, 0.01, 50, True),
-    'Preset3': (5, 3, 0.001, 50, True),
+    'Preset1': (5, 3, 0.0005, 50, True),
+    'Preset2': (5, 3, 0.00025, 50, True),
+    'Preset3': (6, 3, 0.0005, 50, True),
+    'Preset4': (6, 3, 0.00025, 50, True),
 }
 
 # Train the model with each combination of parameters
