@@ -1,32 +1,34 @@
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+from tensorflow.keras.optimizers import Adam
 from dataset_generation import train_generator, validation_generator
 import matplotlib.pyplot as plt
 
-def train_model(conv_layers, dense_layers, optimizer, epochs, dropout=bool):
+def train_model(conv_layers, dense_layers, learning_rate, epochs, dropout=bool):
     # Define the model
     model = Sequential()
     model.add(Conv2D(32, (3, 3), activation='relu', input_shape=(224, 224, 3)))
     model.add(MaxPooling2D(pool_size=(2, 2)))
-    if dropout:
-        model.add(Dropout(0.25))  # Add dropout to prevent overfitting
     
     filters = 64
     for _ in range(conv_layers - 1):
         model.add(Conv2D(filters, (3, 3), activation='relu'))
         model.add(MaxPooling2D(pool_size=(2, 2)))
-        if dropout:
-            model.add(Dropout(0.25))  # Add dropout to prevent overfitting
         filters *= 2  # Double the number of filters for the next layer
 
     model.add(Flatten())
     
     for _ in range(dense_layers):
         model.add(Dense(64, activation='relu'))
-        if dropout:
-            model.add(Dropout(0.25))  # Add dropout to prevent overfitting
+    
+    if dropout:
+        model.add(Dropout(0.2))  # Add dropout to prevent overfitting
     
     model.add(Dense(1, activation='sigmoid'))
+
+    model.summary()
+
+    optimizer = Adam(learning_rate=learning_rate)
 
     # Compile the model
     model.compile(optimizer=optimizer, loss='binary_crossentropy', metrics=['accuracy'])
@@ -39,44 +41,42 @@ def train_model(conv_layers, dense_layers, optimizer, epochs, dropout=bool):
         validation_data=validation_generator,
         validation_steps=50
     )
-    
+    accuracy_history = history.history['val_accuracy']
+    #################
+    model.save('cats_vs_dogs_model.h5')
+    #################
     # Return the final validation accuracy
-    return history.history['val_accuracy']
+    return accuracy_history
 
 # List to store results
 results = []
 
 # Parameter combinations to try
 parameter_presets = {
-    'Preset1': (2, 1, 'adam', 25, False),
-    'Preset2': (2, 1, 'adam', 25, True),
-    'Preset3': (3, 1, 'adam', 25, False),
-    'Preset4': (3, 1, 'adam', 25, True),
-    'Preset5': (3, 2, 'adam', 25, False),
-    'Preset6': (3, 2, 'adam', 25, True),
-    'Preset7': (2, 1, 'sgd', 25, False),
-    'Preset8': (2, 1, 'sgd', 25, True),
-    'Preset9': (3, 1, 'sgd', 25, False),
-    'Preset10': (3, 1, 'sgd', 25, True),
-    'Preset11': (3, 2, 'sgd', 25, False),
-    'Preset12': (3, 2, 'sgd', 25, True),
+    'Preset1': (5, 3, 0.1, 50, True),
+    'Preset2': (5, 3, 0.01, 50, True),
+    'Preset3': (5, 3, 0.001, 50, True),
 }
 
 # Train the model with each combination of parameters
-for preset_name, params in parameter_presets.items():
-    accuracy_history = train_model(*params)
-    single_accuracy = accuracy_history[-1]
-    results.append((single_accuracy, preset_name))  # Store the preset name instead of the params
+for preset_name, parameters in parameter_presets.items():
+    accuracy_history = train_model(*parameters)
+    results.append((accuracy_history[-1], preset_name))
     
     # Plot the accuracy history
-    plt.plot(accuracy_history, label=preset_name)  # Use the preset name as the label
+    plt.plot(accuracy_history, label=preset_name)
+    
 
 # Sort the results by accuracy
 results.sort(reverse=True)
 
 # Print the sorted results
-for accuracy, params in results:
-    print(f'Accuracy: {accuracy:.4f}, Params: {params}')
-    
+for result in results:
+    print(f'Preset: {result[1]}, Final accuracy: {result[0]}')
+
+plt.title('Model accuracy')
+plt.ylabel('Accuracy')
+plt.xlabel('Epoch')
 plt.legend()
+plt.savefig('cat&dog_accuracy.png')
 plt.show()

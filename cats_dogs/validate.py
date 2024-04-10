@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 model = load_model('cats_vs_dogs_model.h5')
 
 # Specify the path to your folder containing the images
-folder_path = './test_images/'
+folder_path = './cats_dogs/test_images/'
 
 # Loop through all files in the folder
 for filename in os.listdir(folder_path):
