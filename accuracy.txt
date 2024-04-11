@@ -1,3 +1,3 @@
-Dog accuracy: 80.00%
-Cat accuracy: 100.00%
+Dog accuracy: 100.00%
+Cat accuracy: 80.00%
 Validation accuracy: 90.00%

@@ -3,15 +3,27 @@ from tensorflow.keras.models import load_model
 import numpy as np
 import os
 import matplotlib.pyplot as plt
+from PIL import Image
 
 # Load the model
-model = load_model('cats_vs_dogs_model_92.h5')
+model = load_model('cats_vs_dogs_model_93.h5')
 
 # Specify the path to your folder containing the images
 folder_path = './cats_dogs/test_images/'
 accuracy_counter = 0
 dog_accuracy = 0
 cat_accuracy = 0
+
+def pad_image(image_path):
+    try:
+        img = Image.open(image_path)
+        width, height = img.size
+        size = max(width, height)
+        new_img = Image.new("RGB", (size, size))
+        new_img.paste(img, ((size - width) // 2, (size - height) // 2))
+        return new_img
+    except OSError:
+        print(f"Skipping file due to OSError: {image_path}")
 
 # Loop through all files in the folder
 for folder in os.listdir(folder_path):
@@ -20,12 +32,12 @@ for folder in os.listdir(folder_path):
         cat_counter = len(os.listdir(os.path.join(folder_path, 'cat')))
         if filename.endswith(('.png', '.jpg', '.jpeg')):  # Add/check your image file extensions here
             img_path = os.path.join(folder_path, folder, filename)
-            img = image.load_img(img_path, target_size=(224, 224))  # Load and resize the image
-
-            ## Display the resized image
-            #plt.imshow(img)
-            #plt.title(f"Resized Image: {filename}")
-            #plt.show()
+            img = pad_image(img_path)
+            img = img.resize((256, 256))
+            
+            plt.imshow(img)
+            plt.title(f"Resized Image: {filename}")
+            plt.show()
 
             img_array = image.img_to_array(img)  # Convert the image to a numpy array
             img_array /= 255.0  # Scale the image pixels

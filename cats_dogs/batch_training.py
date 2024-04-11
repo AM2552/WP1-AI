@@ -1,5 +1,5 @@
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, ZeroPadding2D
 from tensorflow.keras.optimizers import Adam
 from dataset_generation import train_generator, validation_generator
 import matplotlib.pyplot as plt
@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 def train_model(conv_layers, dense_layers, learning_rate, epochs, dropout=bool):
     # Define the model
     model = Sequential()
-    model.add(Conv2D(32, (3, 3), activation='relu', input_shape=(224, 224, 3)))
+    model.add(Conv2D(32, (3, 3), activation='relu', input_shape=(256, 256, 3)))
     model.add(MaxPooling2D(pool_size=(2, 2)))
     
     filters = 64

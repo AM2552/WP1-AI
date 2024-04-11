@@ -14,13 +14,13 @@ validation_datagen = ImageDataGenerator(rescale=1./255)
 #         dog/
 
 train_generator = train_datagen.flow_from_directory(
-        'datasets/cat&dog/training',
-        target_size=(224, 224),
+        'datasets/cat&dog_padded/training',
+        target_size=(256, 256),
         batch_size=32,
         class_mode='binary')
 
 validation_generator = validation_datagen.flow_from_directory(
-        'datasets/cat&dog/validation',
-        target_size=(224, 224),
+        'datasets/cat&dog_padded/validation',
+        target_size=(256, 256),
         batch_size=32,
         class_mode='binary')
