@@ -4,12 +4,12 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt
 from PIL import Image
+from tqdm import tqdm
 
-# Load the model
-model = load_model('cats_vs_dogs_model_93.h5')
+model = load_model('cats_vs_dogs_model_Preset1.h5')
 
-# Specify the path to your folder containing the images
-folder_path = './cats_dogs/test_images/'
+#folder_path = './datasets/cat&dog_padded/validation/'
+folder_path = './datasets/cat_vs_dog/test'
 accuracy_counter = 0
 dog_accuracy = 0
 cat_accuracy = 0
@@ -25,40 +25,38 @@ def pad_image(image_path):
     except OSError:
         print(f"Skipping file due to OSError: {image_path}")
 
-# Loop through all files in the folder
-for folder in os.listdir(folder_path):
-    for filename in os.listdir(os.path.join(folder_path, folder)):
+for folder in tqdm(os.listdir(folder_path), desc="Processing classes"):
+    for filename in tqdm(os.listdir(os.path.join(folder_path, folder)), desc="Processing images"):
         dog_counter = len(os.listdir(os.path.join(folder_path, 'dog')))
         cat_counter = len(os.listdir(os.path.join(folder_path, 'cat')))
-        if filename.endswith(('.png', '.jpg', '.jpeg')):  # Add/check your image file extensions here
+        if filename.endswith(('.png', '.jpg', '.jpeg')):
             img_path = os.path.join(folder_path, folder, filename)
             img = pad_image(img_path)
+            #img = Image.open(img_path)
             img = img.resize((256, 256))
             
-            plt.imshow(img)
-            plt.title(f"Resized Image: {filename}")
-            plt.show()
+            #plt.imshow(img)
+            #plt.title(f"Resized Image: {filename}")
+            #plt.show()
 
-            img_array = image.img_to_array(img)  # Convert the image to a numpy array
-            img_array /= 255.0  # Scale the image pixels
-            img_array = np.expand_dims(img_array, axis=0)  # Add a batch dimension
+            img_array = image.img_to_array(img)
+            img_array /= 255.0
+            img_array = np.expand_dims(img_array, axis=0)
 
-            # Make a prediction
-            prediction = model.predict(img_array)
+            prediction = model.predict(img_array, verbose=0)
             class_name = "dog" if prediction[0][0] > 0.5 else "cat"
             probability = prediction[0][0] * 100 if class_name == "dog" else (1 - prediction[0][0]) * 100
             
             # get prob per class
-            if class_name == 'dog' and class_name in filename:
+            if class_name == 'dog' and class_name in folder:
                 dog_accuracy += 1
-            elif class_name == 'cat' and class_name in filename:
+            elif class_name == 'cat' and class_name in folder:
                 cat_accuracy += 1
 
-            print(f"{filename}: The image is a {class_name} with probability {probability:.2f}%")
+            #print(f"{filename}: The image is a {class_name} with probability {probability:.2f}%")
 
-            # Print Accuracy of validation set to txt-file
-            with open('accuracy.txt', 'w') as f:
-                f.write(f"{filename}: The image is a {class_name} with probability {probability:.2f}%")
+            #with open('accuracy.txt', 'w') as f:
+            #    f.write(f"{filename}: The image is a {class_name} with probability {probability:.2f}%")
 
 total_images = len(os.listdir(folder_path))
 dog_accuracy = dog_accuracy / dog_counter * 100

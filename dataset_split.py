@@ -32,42 +32,58 @@ dataset/
     class2/
       img1.jpg
       ...
+  test/
+    class1/
+      img1.jpg
+      ...
+    class2/
+      img1.jpg
+      ...
 """
 
 ############################################
 source_folder = '/Users/Xandi/Desktop/Datasets/PetImages'
-new_dataset_path = './datasets/cat&dog'
+new_dataset_path = './datasets/cat_vs_dog'
 ############################################
           
-def split_dataset(split_ratio=0.8):
+def split_dataset():
     classes = os.listdir(source_folder)
-    training_path = new_dataset_path +'/training'
-    validation_path = new_dataset_path +'/validation'
+    training_path = os.path.join(new_dataset_path, 'training')
+    validation_path = os.path.join(new_dataset_path, 'validation')
+    test_path = os.path.join(new_dataset_path, 'test')
     
-    if not os.path.exists(new_dataset_path):
-        os.mkdir(new_dataset_path)
-    if not os.path.exists(training_path):
-        os.mkdir(training_path)
-    if not os.path.exists(validation_path):
-        os.mkdir(validation_path)
+    for path in [new_dataset_path, training_path, validation_path, test_path]:
+        if not os.path.exists(path):
+            os.mkdir(path)
     
     for element in tqdm(classes, desc="Processing classes"):
-        class_training_path = training_path + '/' + element
-        if not os.path.exists(class_training_path):
-            os.mkdir(class_training_path)
-        class_validation_path = validation_path + '/' + element
-        if not os.path.exists(class_validation_path):
-            os.mkdir(class_validation_path)
+        class_folder = os.path.join(source_folder, element)
+        images = os.listdir(class_folder)
         
-        class_folder = source_folder + '/' + element
-        dataset = os.listdir(class_folder)
-        train_size = int(len(dataset) * split_ratio)
-        train_set = dataset[:train_size]
-        test_set = dataset[train_size:]
-        for img in tqdm(train_set, desc="Copying training images"):
-            shutil.copy2(os.path.join(class_folder, img), os.path.join(class_training_path, img))
-        for img in tqdm(test_set, desc="Copying validation images"):
-            shutil.copy2(os.path.join(class_folder, img), os.path.join(class_validation_path, img))
+        # split ratio 70/15/15
+        total_images = len(images)
+        train_split_idx = int(total_images * 0.7)
+        validation_split_idx = train_split_idx + int(total_images * 0.15)
+        
+        train_images = images[:train_split_idx]
+        validation_images = images[train_split_idx:validation_split_idx]
+        test_images = images[validation_split_idx:]
+        
+        class_paths = {
+            'training': os.path.join(training_path, element),
+            'validation': os.path.join(validation_path, element),
+            'test': os.path.join(test_path, element)
+        }
+        
+        for path in class_paths.values():
+            if not os.path.exists(path):
+                os.mkdir(path)
+        
+        for image_set, path in tqdm(zip([train_images, validation_images, test_images], class_paths.values()), desc="Processing images"):
+            for image_name in image_set:
+                source = os.path.join(class_folder, image_name)
+                destination = os.path.join(path, image_name)
+                shutil.copyfile(source, destination)
         
 if __name__ == '__main__':
     split_dataset()

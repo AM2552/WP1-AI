@@ -10,7 +10,7 @@ from tqdm import tqdm
 #         cat/
 #         dog/
 
-dataset_path = 'datasets/cat&dog_padded'
+dataset_path = 'datasets/cat_vs_dog'
 
 def pad_image(image_path, output_path):
     try:

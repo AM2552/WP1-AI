@@ -1,0 +1,11 @@
+Preset1: (2, 2, 0.0003, 50, True)
+Preset2: (3, 2, 0.0003, 50, True)
+Preset3: (4, 2, 0.0003, 50, True)
+Preset4: (5, 2, 0.0003, 50, True)
+Preset5: (6, 2, 0.0003, 50, True)
+
+Preset5, Final accuracy: 0.9206249713897705
+Preset4, Final accuracy: 0.9137499928474426
+Preset3, Final accuracy: 0.878125011920929
+Preset2, Final accuracy: 0.8118749856948853
+Preset1, Final accuracy: 0.7649999856948853
