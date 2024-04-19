@@ -62,7 +62,7 @@ def split_dataset():
         
         # split ratio 70/15/15
         total_images = len(images)
-        train_split_idx = int(total_images * 0.7)
+        train_split_idx = int(total_images * 0.8)
         validation_split_idx = train_split_idx + int(total_images * 0.15)
         
         train_images = images[:train_split_idx]

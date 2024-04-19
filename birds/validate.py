@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 from tqdm import tqdm
 
-model = load_model('cats_vs_dogs_model_Preset1.h5')
+model = load_model('cats_vs_dogs_model_Preset3.h5')
 
 #folder_path = './datasets/cat&dog_padded/validation/'
 folder_path = './datasets/cat_vs_dog/test'
