@@ -1,4 +1,3 @@
-GitHub Copilot
 Improving the accuracy of a model can be approached in several ways. Here are a few suggestions:
 
 Add more Convolutional Layers: Deeper networks can extract more complex features. You could add more Conv2D and MaxPooling2D layers to your model.
