@@ -10,7 +10,7 @@ from tqdm import tqdm
 #         cat/
 #         dog/
 
-dataset_path = 'datasets/cat_vs_dog'
+dataset_path = 'cats_dogs/test_images/'
 
 def pad_image(image_path, output_path):
     try:
@@ -23,9 +23,15 @@ def pad_image(image_path, output_path):
     except OSError:
         print(f"Skipping file due to OSError: {output_path}")
 
-for datatype in tqdm(os.listdir(dataset_path), desc="Processing datatypes"):
-    for label in tqdm(os.listdir(os.path.join(dataset_path, datatype)), desc="Processing classes"):
-        for filename in tqdm(os.listdir(os.path.join(dataset_path, datatype, label)), desc="Processing images"):
-            if filename.endswith(".jpg") or filename.endswith(".png"): 
-                image_path = os.path.join(dataset_path, datatype, label, filename)
-                pad_image(image_path, image_path)
+#for datatype in tqdm(os.listdir(dataset_path), desc="Processing datatypes"):
+#    for label in tqdm(os.listdir(os.path.join(dataset_path, datatype)), desc="Processing classes"):
+#        for filename in tqdm(os.listdir(os.path.join(dataset_path, datatype, label)), desc="Processing images"):
+#            if filename.endswith(('.png', '.jpg', '.jpeg')): 
+#                image_path = os.path.join(dataset_path, datatype, label, filename)
+#                pad_image(image_path, image_path)
+
+for folder in tqdm(os.listdir(dataset_path), desc="Processing classes"):
+    for filename in tqdm(os.listdir(os.path.join(dataset_path, folder)), desc="Processing images"):
+        if filename.endswith(('.png', '.jpg', '.jpeg')): 
+            image_path = os.path.join(dataset_path, folder, filename)
+            pad_image(image_path, image_path)

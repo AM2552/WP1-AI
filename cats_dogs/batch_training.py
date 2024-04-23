@@ -1,23 +1,22 @@
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, BatchNormalization, Activation
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras import backend
 from dataset_generation import train_generator, validation_generator
 import matplotlib.pyplot as plt
 
-TODO = """
-batch normalization
-data augmentation
-"""
-
 
 def train_model(conv_layers, dense_layers, learning_rate, epochs, dropout=bool, preset_name=str()):
     model = Sequential()
-    model.add(Conv2D(32, (3, 3), activation='relu', input_shape=(256, 256, 3)))
+    model.add(Conv2D(32, (3, 3), use_bias=False, input_shape=(256, 256, 3)))
+    model.add(BatchNormalization())
+    model.add(Activation('relu'))
     model.add(MaxPooling2D(pool_size=(2, 2)))
     filters = 64
     for _ in range(conv_layers - 1):
-        model.add(Conv2D(filters, (3, 3), activation='relu'))
+        model.add(Conv2D(filters, (3, 3), use_bias=False))
+        model.add(BatchNormalization())
+        model.add(Activation('relu'))
         model.add(MaxPooling2D(pool_size=(2, 2)))
         filters *= 2
     model.add(Flatten())
@@ -49,7 +48,7 @@ results = []
 parameter_presets = {
     'Preset1': (6, 4, 0.0001, 70, True),
     #'Preset2': (6, 4, 0.0003, 50, True),
-    'Preset3': (6, 3, 0.0001, 70, True),
+    #'Preset3': (6, 3, 0.0001, 70, True),
     #'Preset4': (6, 3, 0.0003, 50, True)
 }
 
