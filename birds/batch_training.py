@@ -3,6 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 from dataset_generation import train_loader, validation_loader
 import matplotlib.pyplot as plt
+from tqdm import tqdm
 from torch.utils.tensorboard import SummaryWriter
 
 # Define the model
@@ -52,16 +53,17 @@ def train_model(conv_layers, dense_layers, num_classes, learning_rate, epochs, d
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
     # Setup TensorBoard
-    writer = SummaryWriter(f'runs/{preset_name}')
+    writer = SummaryWriter(f'./runs/{preset_name}')
     metrics = {'train_loss': [], 'train_acc': [], 'val_loss': [], 'val_acc': []}
 
     for epoch in range(epochs):
+        print(f'Epoch {epoch + 1}/{epochs}')
         model.train()
         train_loss = 0.0
         correct = 0
         total = 0
 
-        for images, labels in train_loader:
+        for images, labels in tqdm(train_loader, desc='Training'):
             images, labels = images.to(device), labels.to(device)
             optimizer.zero_grad()
             outputs = model(images)
@@ -89,7 +91,7 @@ def train_model(conv_layers, dense_layers, num_classes, learning_rate, epochs, d
         correct = 0
         total = 0
         with torch.no_grad():
-            for images, labels in validation_loader:
+            for images, labels in tqdm(validation_loader, desc='Validation'):
                 images, labels = images.to(device), labels.to(device)
                 outputs = model(images)
                 loss = criterion(outputs, labels)
@@ -107,8 +109,7 @@ def train_model(conv_layers, dense_layers, num_classes, learning_rate, epochs, d
         writer.add_scalar('Loss/validation', validation_loss, epoch)
         writer.add_scalar('Accuracy/validation', validation_accuracy, epoch)
 
-        print(f'Epoch {epoch + 1}/{epochs}, '
-              f'Train Loss: {train_loss:.4f}, Train Acc: {train_accuracy * 100:.2f}%, '
+        print(f'Train Loss: {train_loss:.4f}, Train Acc: {train_accuracy * 100:.2f}%, '
               f'Val Loss: {validation_loss:.4f}, Val Acc: {validation_accuracy * 100:.2f}%')
 
     writer.close()
@@ -118,11 +119,11 @@ def train_model(conv_layers, dense_layers, num_classes, learning_rate, epochs, d
 def main():
     results = []
     parameter_presets = {
-        'Preset1': (2, 1, 200, 0.0001, 30, True),
-        'Preset2': (3, 1, 200, 0.0001, 30, True),
-        'Preset3': (4, 1, 200, 0.0001, 30, True),
-        'Preset4': (5, 1, 200, 0.0001, 30, True),
-        'Preset5': (6, 1, 200, 0.0001, 30, True),
+        'Preset1': (2, 1, 200, 0.0001, 10, True),
+        'Preset2': (3, 1, 200, 0.0001, 10, True),
+        'Preset3': (4, 1, 200, 0.0001, 10, True),
+        'Preset4': (5, 1, 200, 0.0001, 10, True),
+        'Preset5': (6, 1, 200, 0.0001, 10, True),
     }
 
     for preset_name, parameters in parameter_presets.items():
