@@ -1,33 +1,46 @@
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, BatchNormalization, Activation
-from tensorflow.keras.optimizers import Adam
-from tensorflow.keras import backend
+from tensorflow import keras
+from keras.models import Sequential
+from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, BatchNormalization, Activation, GlobalAveragePooling2D
+from keras.optimizers import Adam, SGD
+from keras import backend
 from dataset_generation import train_generator, validation_generator
 import matplotlib.pyplot as plt
 
 
-def train_model(conv_layers, dense_layers, learning_rate, epochs, dropout=bool, preset_name=str()):
-    model = Sequential()
-    model.add(Conv2D(32, (3, 3), use_bias=False, input_shape=(256, 256, 3)))
-    model.add(BatchNormalization())
-    model.add(Activation('relu'))
+def conv_layer(model, filters):
+    model.add(Conv2D(filters, (3, 3), activation='relu', padding='same'))
     model.add(MaxPooling2D(pool_size=(2, 2)))
+
+def conv_block(model, filters, layers):
+    for _ in range(layers):
+        conv_layer(model, filters)
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+
+def train_model(conv_layers, dense_layers, learning_rate, optimizer, epochs, dropout=bool,  preset_name=str()):
+    model = Sequential()
+    model.add(Conv2D(32, (3, 3), activation='relu', padding='same', input_shape=(256, 256, 3)))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+    
     filters = 64
     for _ in range(conv_layers - 1):
-        model.add(Conv2D(filters, (3, 3), use_bias=False))
-        model.add(BatchNormalization())
-        model.add(Activation('relu'))
-        model.add(MaxPooling2D(pool_size=(2, 2)))
+        conv_layer(model, filters)
         filters *= 2
+    
     model.add(Flatten())
+    neurons = 128
     for _ in range(dense_layers):
-        model.add(Dense(64, activation='relu'))
+        model.add(Dense(neurons, activation='relu'))
+        neurons /= 2
     if dropout:
-        model.add(Dropout(0.2))
+        model.add(Dropout(0.3))
+    model.add(Dense(neurons, activation='relu'))
     model.add(Dense(1, activation='sigmoid'))
 
     model.summary()
-    optimizer = Adam(learning_rate=learning_rate)
+    if optimizer == 'adam':
+        optimizer = Adam(learning_rate=learning_rate)
+    elif optimizer == 'sgd':
+        optimizer = SGD(learning_rate=learning_rate)
     model.compile(optimizer=optimizer, loss='binary_crossentropy', metrics=['accuracy'])
 
     history = model.fit(
@@ -46,10 +59,14 @@ def train_model(conv_layers, dense_layers, learning_rate, epochs, dropout=bool, 
 results = []
 
 parameter_presets = {
-    'Preset1': (6, 4, 0.0001, 70, True),
-    #'Preset2': (6, 4, 0.0003, 50, True),
-    #'Preset3': (6, 3, 0.0001, 70, True),
-    #'Preset4': (6, 3, 0.0003, 50, True)
+    'Preset1': (6, 3, 0.0001, 'adam', 200, True),
+    #'Preset2': (6, 3, 0.00005, 'adam', 100, True),
+    #'Preset3': (6, 3, 0.00001, 'adam', 100, True),
+    #'Preset4': (6, 3, 0.0001, 'sgd', 100, True),
+    #'Preset5': (6, 3, 0.00005, 'sgd', 100, True),
+    #'Preset6': (6, 3, 0.00001, 'sgd', 100, True),
+    #'Preset7': (6, 0, 0.0001, 50, False),
+    #'Preset8': (6, 0, 0.00001, 50, False),
 }
 
 for preset_name, parameters in parameter_presets.items():
@@ -57,7 +74,7 @@ for preset_name, parameters in parameter_presets.items():
     accuracy_history = train_model(*parameters, preset_name)
     results.append((accuracy_history[-1], preset_name))
     
-    plt.plot(accuracy_history, label=preset_name)
+    plt.plot(accuracy_history, label=f'{preset_name} - CL({parameters[0]}) DL({parameters[1]}) LR({parameters[2]}) {parameters[3]}')
     
 results.sort(reverse=True)
 for result in results:

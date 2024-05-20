@@ -52,9 +52,9 @@ def split_dataset():
         class_folder = os.path.join(source_folder, class_name)
         images = [img for img in os.listdir(class_folder) if img.lower().endswith(('.png', '.jpg', '.jpeg'))]
         
-        # split ratio 70/30
+        # split ratio 85/15
         total_images = len(images)
-        train_split = int(total_images * 0.7)
+        train_split = int(total_images * 0.85)
         
         train_images = images[:train_split]
         validation_images = images[train_split:]

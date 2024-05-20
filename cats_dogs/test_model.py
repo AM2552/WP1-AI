@@ -1,15 +1,16 @@
+from tensorflow import keras
 from tensorflow.keras.preprocessing import image
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 import numpy as np
 import os
 import matplotlib.pyplot as plt
 from PIL import Image
 from tqdm import tqdm
 
-model = load_model('cats_vs_dogs_model_Preset1.h5')
+model = load_model('cats_vs_dogs_model_943.h5')
 
-folder_path = './cats_dogs/test_images'
-#folder_path = './datasets/cat_vs_dog/test'
+#folder_path = './cats_dogs/test_images'
+folder_path = './datasets/cat_vs_dog/test'
 accuracy_counter = 0
 dog_accuracy = 0
 cat_accuracy = 0
@@ -31,8 +32,8 @@ for folder in tqdm(os.listdir(folder_path), desc="Processing classes"):
         cat_counter = len(os.listdir(os.path.join(folder_path, 'cat')))
         if filename.endswith(('.png', '.jpg', '.jpeg')):
             img_path = os.path.join(folder_path, folder, filename)
-            img = pad_image(img_path)
-            #img = Image.open(img_path)
+            #img = pad_image(img_path)
+            img = Image.open(img_path)
             img = img.resize((256, 256))
             
             #plt.imshow(img)
