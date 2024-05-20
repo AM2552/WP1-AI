@@ -1,6 +1,7 @@
 import os
 import shutil
 from tqdm import tqdm
+import random
 
 """
 source_folder should look like this:
@@ -59,6 +60,7 @@ def split_dataset():
     for element in tqdm(classes, desc="Processing classes"):
         class_folder = os.path.join(source_folder, element)
         images = os.listdir(class_folder)
+        random.shuffle(images)
         
         # split ratio 90/5/5
         total_images = len(images)
@@ -79,8 +81,8 @@ def split_dataset():
             if not os.path.exists(path):
                 os.mkdir(path)
         
-        for image_set, path in tqdm(zip([train_images, validation_images, test_images], class_paths.values()), desc="Processing images"):
-            for image_name in image_set:
+        for image_set, path in tqdm(zip([train_images, validation_images, test_images], class_paths.values()), desc="Processing class sets"):
+            for image_name in tqdm(image_set, desc="Processing images in set"):
                 source = os.path.join(class_folder, image_name)
                 destination = os.path.join(path, image_name)
                 shutil.copyfile(source, destination)
