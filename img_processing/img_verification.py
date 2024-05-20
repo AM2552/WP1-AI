@@ -1,10 +1,11 @@
 from PIL import Image
 import os
+from tqdm import tqdm
 
-image_dir = '/Users/Xandi/Desktop/Datasets/PetImages/Dog/'
+image_dir = '/Users/Xandi/Desktop/Datasets/bcd/bird'
 problematic_files = []
 
-for filename in os.listdir(image_dir):
+for filename in tqdm(os.listdir(image_dir), desc="Processing images"):
     if filename.endswith(('.jpg', '.jpeg', '.png', '.bmp', '.gif')):
         try:
             with Image.open(os.path.join(image_dir, filename)) as img:
