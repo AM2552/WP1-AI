@@ -10,16 +10,17 @@ from tqdm import tqdm
 #         cat/
 #         dog/
 
-dataset_path = 'datasets/birds/'
+dataset_path = 'datasets/bird_cat_dog'
 
 def pad_image(image_path, output_path):
     try:
         img = Image.open(image_path)
         width, height = img.size
-        size = max(width, height)
-        new_img = Image.new("RGB", (size, size))
-        new_img.paste(img, ((size - width) // 2, (size - height) // 2))
-        new_img.save(output_path)
+        if not width == height:
+            size = max(width, height)
+            new_img = Image.new("RGB", (size, size))
+            new_img.paste(img, ((size - width) // 2, (size - height) // 2))
+            new_img.save(output_path)
     except OSError:
         print(f"Skipping file due to OSError: {output_path}")
 

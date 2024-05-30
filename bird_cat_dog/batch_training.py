@@ -3,7 +3,7 @@ from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, BatchNormalization, Activation
 from keras.optimizers import Adam, SGD
 from keras import backend
-from dataset_generation import train_generator, validation_generator
+from bird_cat_dog.dataset_generation_bcd import train_generator, validation_generator
 import matplotlib.pyplot as plt
 
 
@@ -61,12 +61,7 @@ results = []
 parameter_presets = {
     'Preset1': (6, 3, 0.0001, 'adam', 200, True),
     #'Preset2': (6, 3, 0.00005, 'adam', 100, True),
-    #'Preset3': (6, 3, 0.00001, 'adam', 100, True),
-    #'Preset4': (6, 3, 0.0001, 'sgd', 100, True),
-    #'Preset5': (6, 3, 0.00005, 'sgd', 100, True),
-    #'Preset6': (6, 3, 0.00001, 'sgd', 100, True),
-    #'Preset7': (6, 0, 0.0001, 50, False),
-    #'Preset8': (6, 0, 0.00001, 50, False),
+    #'Preset3': (6, 3, 0.00001, 'adam', 100, True)
 }
 
 for preset_name, parameters in parameter_presets.items():

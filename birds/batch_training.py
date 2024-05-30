@@ -1,147 +1,114 @@
-import torch
-import torch.nn as nn
-import torch.optim as optim
-from dataset_generation import train_loader, validation_loader
+from tensorflow import keras
+from keras.models import Sequential
+from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, BatchNormalization, Activation
+from keras.optimizers import Adam, SGD
+from keras import backend, regularizers
+from dataset_generation_birds import train_generator, validation_generator
 import matplotlib.pyplot as plt
-from tqdm import tqdm
-from torch.utils.tensorboard import SummaryWriter
 
-# Define the model
-class ConvNet(nn.Module):
-    def __init__(self, conv_layers, dense_layers, num_classes, dropout):
-        super(ConvNet, self).__init__()
-        self.layers = nn.Sequential()
 
-        # Initial number of filters and input channels
-        filters = 32
-        in_channels = 3  # RGB images have 3 channels
+def conv_layer(model, filters):
+    model.add(Conv2D(filters, (3, 3), activation='relu', padding='same', input_shape=(256, 256, 3)))
+    model.add(Conv2D(filters, (3, 3), activation='relu', padding='same', input_shape=(256, 256, 3)))
+    model.add(BatchNormalization())
+    model.add(MaxPooling2D(pool_size=(2, 2)))
 
-        # Adding convolutional layers dynamically
-        for i in range(conv_layers):
-            self.layers.add_module(f"conv{i}", nn.Conv2d(in_channels, filters, kernel_size=3, padding=1))
-            self.layers.add_module(f"relu{i}", nn.ReLU())
-            self.layers.add_module(f"pool{i}", nn.MaxPool2d(kernel_size=2, stride=2))
-            in_channels = filters
-            filters *= 2  # Double the number of filters after each layer
+def train_model(conv_layers, dense_layers, learning_rate, optimizer, epochs, dropout=bool,  preset_name=str(), l1_reg=0.01, l2_reg=0.01):
+    model = Sequential()
+    model.add(Conv2D(32, (3, 3), activation='relu', padding='same', input_shape=(256, 256, 3)))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+    
+    filters = 64
+    for _ in range(conv_layers - 1):
+        conv_layer(model, filters)
+        filters *= 2
+    model.add(Conv2D(filters, (3, 3), activation='relu', padding='same', input_shape=(256, 256, 3)))
+    model.add(BatchNormalization())
+    model.add(MaxPooling2D(pool_size=(2, 2)))
 
-        # Flattening the output of the last pooling layer
-        self.layers.add_module("flatten", nn.Flatten())
+    model.add(Flatten())
+    
+    neurons = 512
+    for _ in range(dense_layers):
+        model.add(Dense(neurons, activation='relu', kernel_regularizer=regularizers.l1_l2(l1=l1_reg, l2=l2_reg)))
+        neurons = int(neurons * 0.7)
+    if dropout:
+        model.add(Dropout(0.3))
+    model.add(Dense(neurons, activation='relu'))
+    model.add(Dense(200, activation='softmax'))
+   
+    model.summary()
+    if optimizer == 'adam':
+        optimizer = Adam(learning_rate=learning_rate)
+    elif optimizer == 'sgd':
+        optimizer = SGD(learning_rate=learning_rate)
+    model.compile(optimizer=optimizer, loss='categorical_crossentropy', metrics=['accuracy'])  # Updated loss function
 
-        # Calculate the total number of features after flattening
-        # Assuming the input images are 256x256
-        self.final_conv_output_size = (256 // (2 ** conv_layers)) ** 2 * in_channels
+    history = model.fit(
+        train_generator,
+        steps_per_epoch=100,  # Adjust these steps based on your actual data and batch size
+        epochs=epochs,
+        validation_data=validation_generator,
+        validation_steps=50  # Adjust these steps as well
+    )
+    
+    train_accuracy_history = history.history['accuracy']
+    val_accuracy_history = history.history['val_accuracy']
+    train_loss_history = history.history['loss']
+    val_loss_history = history.history['val_loss']
 
-        # Dense layers
-        previous_output_size = self.final_conv_output_size
-        for j in range(dense_layers):
-            self.layers.add_module(f"dense{j}", nn.Linear(previous_output_size, 64))
-            self.layers.add_module(f"relu_dense{j}", nn.ReLU())
-            previous_output_size = 64
-            if dropout:
-                self.layers.add_module("dropout", nn.Dropout(0.2))
+    model.save(f'bird_classification_model_{preset_name}.h5')  # Updated model naming
+    # add json log file with histories
+    with open(f'bird_classification_model_{preset_name}.json', 'w') as f:
+        f.write(str(history.history))
+    return train_accuracy_history, val_accuracy_history, train_loss_history, val_loss_history
 
-        # Output layer
-        self.layers.add_module("output", nn.Linear(previous_output_size, num_classes))
+results = []
 
-    def forward(self, x):
-        return self.layers(x)
+parameter_presets = {
+    'Preset1': (6, 3, 0.00009, 'adam', 10, True),
+    'Preset2': (6, 3, 0.0001, 'adam', 10, True),
+    #'Preset3': (6, 3, 0.0002, 'adam', 300, True),
+    #'Preset4': (6, 3, 0.0001, 'sgd', 300, True)
+}
 
-def train_model(conv_layers, dense_layers, num_classes, learning_rate, epochs, dropout, preset_name):
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model = ConvNet(conv_layers, dense_layers, num_classes, dropout).to(device)
-    criterion = nn.CrossEntropyLoss()
-    optimizer = optim.Adam(model.parameters(), lr=learning_rate)
+for preset_name, parameters in parameter_presets.items():
+    backend.clear_session()
+    train_accuracy_history , val_accuracy_history, train_loss_history , val_loss_history = train_model(*parameters, preset_name)
+    results.append((val_accuracy_history[-1], preset_name))
+    
+    plt.plot(val_accuracy_history, label=f'{preset_name} - CL({parameters[0]}) DL({parameters[1]}) LR({parameters[2]}) {parameters[3]}')
 
-    # Setup TensorBoard
-    writer = SummaryWriter(f'./runs/{preset_name}')
-    metrics = {'train_loss': [], 'train_acc': [], 'val_loss': [], 'val_acc': []}
+    fig, axs = plt.subplots(2, 1, figsize=(20, 20))
 
-    for epoch in range(epochs):
-        print(f'Epoch {epoch + 1}/{epochs}')
-        model.train()
-        train_loss = 0.0
-        correct = 0
-        total = 0
+    # First subplot for accuracy
+    axs[0].plot(train_accuracy_history, label='Train Accuracy')
+    axs[0].plot(val_accuracy_history, label='Validation Accuracy')
+    axs[0].set_title(f'{preset_name} - CL({parameters[0]}) DL({parameters[1]}) LR({parameters[2]}) {parameters[3]}')
+    axs[0].set_ylabel('Accuracy')
+    axs[0].set_xlabel('Epoch')
+    axs[0].legend()
+    
+    # Second subplot for loss
+    axs[1].plot(train_loss_history, label='Train Loss')
+    axs[1].plot(val_loss_history, label='Validation Loss')
+    axs[1].set_title(f'{preset_name} - CL({parameters[0]}) DL({parameters[1]}) LR({parameters[2]}) {parameters[3]}')
+    axs[1].set_ylabel('Loss')
+    axs[1].set_xlabel('Epoch')
+    axs[1].legend()
+    
+    plt.tight_layout()
+    plt.savefig(f'bird_classification_performance_{preset_name}.png')
+    
+results.sort(reverse=True)
+for result in results:
+    print(f'Preset: {result[1]}, Final accuracy: {result[0]}')
 
-        for images, labels in tqdm(train_loader, desc='Training'):
-            images, labels = images.to(device), labels.to(device)
-            optimizer.zero_grad()
-            outputs = model(images)
-            loss = criterion(outputs, labels)
-            loss.backward()
-            optimizer.step()
 
-            train_loss += loss.item() * images.size(0)
-            _, predicted = torch.max(outputs, 1)
-            total += labels.size(0)
-            correct += (predicted == labels).sum().item()
 
-        train_accuracy = correct / total
-        train_loss /= total
-        metrics['train_loss'].append(train_loss)
-        metrics['train_acc'].append(train_accuracy)
-
-        # Log training metrics
-        writer.add_scalar('Loss/train', train_loss, epoch)
-        writer.add_scalar('Accuracy/train', train_accuracy, epoch)
-
-        # Validation phase
-        model.eval()
-        validation_loss = 0.0
-        correct = 0
-        total = 0
-        with torch.no_grad():
-            for images, labels in tqdm(validation_loader, desc='Validation'):
-                images, labels = images.to(device), labels.to(device)
-                outputs = model(images)
-                loss = criterion(outputs, labels)
-                validation_loss += loss.item() * images.size(0)
-                _, predicted = torch.max(outputs, 1)
-                total += labels.size(0)
-                correct += (predicted == labels).sum().item()
-
-        validation_accuracy = correct / total
-        validation_loss /= total
-        metrics['val_loss'].append(validation_loss)
-        metrics['val_acc'].append(validation_accuracy)
-
-        # Log validation metrics
-        writer.add_scalar('Loss/validation', validation_loss, epoch)
-        writer.add_scalar('Accuracy/validation', validation_accuracy, epoch)
-
-        print(f'Train Loss: {train_loss:.4f}, Train Acc: {train_accuracy * 100:.2f}%, '
-              f'Val Loss: {validation_loss:.4f}, Val Acc: {validation_accuracy * 100:.2f}%')
-
-    writer.close()
-    torch.save(model.state_dict(), f'{preset_name}_model.pt')
-    return metrics
-
-def main():
-    results = []
-    parameter_presets = {
-        'Preset1': (2, 1, 200, 0.0001, 10, True),
-        'Preset2': (3, 1, 200, 0.0001, 10, True),
-        'Preset3': (4, 1, 200, 0.0001, 10, True),
-        'Preset4': (5, 1, 200, 0.0001, 10, True),
-        'Preset5': (6, 1, 200, 0.0001, 10, True),
-    }
-
-    for preset_name, parameters in parameter_presets.items():
-        metrics = train_model(*parameters, preset_name)
-        validation_accuracy = metrics['val_acc']
-        results.append((validation_accuracy[-1], preset_name))
-        plt.plot(validation_accuracy, label=preset_name)
-
-    results.sort(reverse=True, key=lambda x: x[0])
-    for result in results:
-        print(f'Preset: {result[1]}, Final accuracy: {result[0]:.2f}%')
-
-    plt.title('Model accuracy for birds')
-    plt.ylabel('Accuracy')
-    plt.xlabel('Epoch')
-    plt.legend()
-    plt.savefig('birds_accuracy.png')
-    plt.show()
-
-if __name__ == '__main__':
-    main()
+#plt.title('Model accuracy')
+#plt.ylabel('Accuracy')
+#plt.xlabel('Epoch')
+#plt.legend()
+#plt.savefig('bird_classification_accuracy.png')
+#plt.show()

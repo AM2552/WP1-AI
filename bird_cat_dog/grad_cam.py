@@ -9,10 +9,11 @@ import tensorflow as tf
 from keras.utils import load_img, img_to_array
 
 # Load the pre-trained model
-model = load_model('tbd')
+model = load_model('bird_cat_dog_model_916.h5')
 
 # Set the path to the folder containing the images
-folder_path = './bird_cat_dog/test_images'
+folder_path = 'datasets/bird_cat_dog/test'
+output_path = './bird_cat_dog/test_images/grad_cam'
 class_names = ['bird', 'cat', 'dog']
 
 accuracy_counter = 0
@@ -110,13 +111,18 @@ for folder in tqdm(os.listdir(folder_path), desc="Processing classes"):
 
             last_conv_layer_name = "conv2d_5"  # Update with the correct name of your model's last convolutional layer
             heatmap = make_gradcam_heatmap(img_array, model, last_conv_layer_name)
-            save_and_display_gradcam(img_path, heatmap, cam_path=f"grad_cam_{filename}")
+            save_and_display_gradcam(img_path, heatmap, cam_path=os.path.join(output_path, folder, f"grad_cam_{filename}"))
+            if class_name != folder:
+                with open("image_details.txt", "a") as f:
+                    f.write(f"Image: {filename} - ")
+                    f.write(f"Class: {class_name} - ")
+                    f.write(f"Probability: {probability}\n")
 
 total_images = len(os.listdir(folder_path))
 dog_accuracy = dog_accuracy / dog_counter * 100
 cat_accuracy = cat_accuracy / cat_counter * 100
 bird_accuracy = bird_accuracy / bird_counter * 100
-val_accuracy = accuracy_counter / total_images * 100
+val_accuracy = (bird_accuracy + cat_accuracy + dog_accuracy) / total_images
 
 with open('test_report.txt', 'w') as f:
     f.write(f"Bird accuracy: {bird_accuracy:.2f}%\n")

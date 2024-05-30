@@ -9,10 +9,10 @@ import tensorflow as tf
 from keras.utils import load_img, img_to_array
 
 # Load the pre-trained model
-model = load_model('tbd')
+model = load_model('bird_cat_dog_model_Preset1.h5')
 
 # Set the path to the folder containing the images
-folder_path = './bird_cat_dog/test_images'
+folder_path = 'datasets/bird_cat_dog/test'
 class_names = ['bird', 'cat', 'dog']
 
 accuracy_counter = 0
@@ -33,10 +33,6 @@ def pad_image(image_path):
 
 for folder in tqdm(os.listdir(folder_path), desc="Processing classes"):
     for filename in tqdm(os.listdir(os.path.join(folder_path, folder)), desc="Processing images"):
-        bird_counter = len(os.listdir(os.path.join(folder_path, 'bird')))
-        cat_counter = len(os.listdir(os.path.join(folder_path, 'cat')))
-        dog_counter = len(os.listdir(os.path.join(folder_path, 'dog')))
-        
         if filename.endswith(('.png', '.jpg', '.jpeg')):
             img_path = os.path.join(folder_path, folder, filename)
             img = pad_image(img_path)
@@ -59,12 +55,15 @@ for folder in tqdm(os.listdir(folder_path), desc="Processing classes"):
                 elif folder == 'dog':
                     dog_accuracy += 1
 
+bird_counter = len(os.listdir(os.path.join(folder_path, 'bird')))
+cat_counter = len(os.listdir(os.path.join(folder_path, 'cat')))
+dog_counter = len(os.listdir(os.path.join(folder_path, 'dog')))
 
 total_images = len(os.listdir(folder_path))
 dog_accuracy = dog_accuracy / dog_counter * 100
 cat_accuracy = cat_accuracy / cat_counter * 100
 bird_accuracy = bird_accuracy / bird_counter * 100
-val_accuracy = accuracy_counter / total_images * 100
+val_accuracy = (dog_accuracy + bird_accuracy + cat_accuracy) / total_images
 
 with open('test_report.txt', 'w') as f:
     f.write(f"Bird accuracy: {bird_accuracy:.2f}%\n")
