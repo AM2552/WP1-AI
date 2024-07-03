@@ -5,7 +5,7 @@ from keras.optimizers import Adam
 from keras import backend
 from keras.callbacks import Callback
 from keras.applications import EfficientNetB1
-from bird_cat_dog.dataset_generation_bcd import train_generator, validation_generator
+from dataset_generation_bcd import train_generator, validation_generator
 import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
