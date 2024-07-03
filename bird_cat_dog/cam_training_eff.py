@@ -166,7 +166,7 @@ def train_model(dense_layers, learning_rate, epochs, dropout=bool, bird_img_path
 results = []
 
 parameter_presets = {
-    'Preset1': (3, 0.0001, 50, True, 'bird_cat_dog/test_images/bird/bird1.jpg', 'bird_cat_dog/test_images/cat/cat2.jpg', 'bird_cat_dog/test_images/dog/dog2.jpg', 'top_conv')
+    'Preset1': (3, 0.0001, 50, True, 'bird_cat_dog/test_images/bird/bird1.jpg', 'bird_cat_dog/test_images/cat/cat2.jpg', 'bird_cat_dog/test_images/dog/dog2.jpg', 'efficientnetb1')
     #'Preset2': (6, 4, 0.0003, 50, True, './cats_dogs/test_images/cat/cat1.jpg', './cats_dogs/test_images/dog/dog1.jpg', 'conv2d_5'),
     #'Preset3': (6, 3, 0.0001, 70, True, './cats_dogs/test_images/cat/cat1.jpg', './cats_dogs/test_images/dog/dog1.jpg', 'conv2d_5'),
     #'Preset4': (6, 3, 0.0003, 50, True, './cats_dogs/test_images/cat/cat1.jpg', './cats_dogs/test_images/dog/dog1.jpg', 'conv2d_5')
