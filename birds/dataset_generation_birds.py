@@ -25,7 +25,7 @@ train_datagen = ImageDataGenerator(
 train_generator = train_datagen.flow_from_directory(
         'datasets/birds/training',
         target_size=(256, 256),
-        batch_size=16,
+        batch_size=4,
         class_mode='categorical')
 
 validation_datagen = ImageDataGenerator(rescale=1./255)
@@ -33,5 +33,5 @@ validation_datagen = ImageDataGenerator(rescale=1./255)
 validation_generator = validation_datagen.flow_from_directory(
         'datasets/birds/validation',
         target_size=(256, 256),
-        batch_size=16,
+        batch_size=4,
         class_mode='categorical')
