@@ -4,30 +4,18 @@ from keras.layers import Dense, Dropout, BatchNormalization, Activation, GlobalA
 from keras.optimizers import Adam, SGD
 from keras.applications import EfficientNetB0, EfficientNetB1
 from keras import backend
-from dataset_generation_bcd import train_generator, validation_generator
+from dataset_generation_bcd_eff import train_generator, validation_generator
 import matplotlib.pyplot as plt
 
 
-def train_model(dense_layers, learning_rate, optimizer, epochs, dropout=bool, preset_name=str()):
-    base_model = EfficientNetB1(include_top=False, weights=None, input_shape=(256, 256, 3))
-    base_model.trainable = True  # Train the base model from scratch
+def train_model(learning_rate, optimizer, epochs, preset_name=str()):
+    base_model = EfficientNetB1(include_top=False, weights='imagenet', input_shape=(240, 240, 3))
+    base_model.trainable = False
     
     model = Sequential()
     model.add(base_model)
     model.add(GlobalAveragePooling2D())
-    
-    neurons = 512
-    for _ in range(dense_layers):
-        model.add(Dense(neurons))
-        model.add(BatchNormalization())
-        model.add(Activation('relu'))
-        neurons /= 2
-        if dropout:
-            model.add(Dropout(0.3))
-    
-    model.add(Dense(neurons))
-    model.add(BatchNormalization())
-    model.add(Activation('relu'))
+    model.add(Dropout(0.2))
     model.add(Dense(3, activation='softmax'))
 
     model.summary()
@@ -43,33 +31,51 @@ def train_model(dense_layers, learning_rate, optimizer, epochs, dropout=bool, pr
         validation_data=validation_generator,
     )
     
-    accuracy_history = history.history['val_accuracy']
+    train_accuracy_history = history.history['accuracy']
+    val_accuracy_history = history.history['val_accuracy']
+    train_loss_history = history.history['loss']
+    val_loss_history = history.history['val_loss']
     model.save(f'bird_cat_dog_model_{preset_name}_eff1.h5')
     
-    return accuracy_history
+    return train_accuracy_history, val_accuracy_history, train_loss_history, val_loss_history
 
 results = []
 
 parameter_presets = {
-    'adam': (2, 0.0001, 'adam', 50, True),
-    'sgd': (2, 0.005, 'sgd', 50, True),
+    'adam_notop': (0.001, 'adam', 50),
+    #'sgd': (2, 0.005, 'sgd', 50, True),
     #'Preset3': (3, 0.0001, 'adam', 50, True),
 }
 
 for preset_name, parameters in parameter_presets.items():
     backend.clear_session()
-    accuracy_history = train_model(*parameters, preset_name)
-    results.append((accuracy_history[-1], preset_name))
+    train_accuracy_history , val_accuracy_history, train_loss_history , val_loss_history = train_model(*parameters, preset_name)
+    results.append((val_accuracy_history[-1], preset_name))
     
-    plt.plot(accuracy_history, label=f'{preset_name} - DL({parameters[0]})')
+    plt.plot(val_accuracy_history, label=f'{preset_name} - CL({parameters[0]}) DL({parameters[1]}) LR({parameters[2]}) {parameters[3]}')
+    
+    fig, axs = plt.subplots(2, 1, figsize=(20, 20))
+
+    # First subplot for accuracy
+    axs[0].plot(train_accuracy_history, label='Train Accuracy')
+    axs[0].plot(val_accuracy_history, label='Validation Accuracy')
+    axs[0].set_title(f'{preset_name} - CL({parameters[0]}) DL({parameters[1]}) LR({parameters[2]}) {parameters[3]}')
+    axs[0].set_ylabel('Accuracy')
+    axs[0].set_xlabel('Epoch')
+    axs[0].legend()
+    
+    # Second subplot for loss
+    axs[1].plot(train_loss_history, label='Train Loss')
+    axs[1].plot(val_loss_history, label='Validation Loss')
+    axs[1].set_title(f'{preset_name} - CL({parameters[0]}) DL({parameters[1]}) LR({parameters[2]}) {parameters[3]}')
+    axs[1].set_ylabel('Loss')
+    axs[1].set_xlabel('Epoch')
+    axs[1].legend()
+    
+    plt.tight_layout()
+    plt.savefig(f'bcd_eff1_{preset_name}.png')
     
 results.sort(reverse=True)
 for result in results:
     print(f'Preset: {result[1]}, Final accuracy: {result[0]}')
 
-plt.title('Model accuracy')
-plt.ylabel('Accuracy')
-plt.xlabel('Epoch')
-plt.legend()
-plt.savefig('bird_cat_dog_accuracy_eff1.png')
-plt.show()

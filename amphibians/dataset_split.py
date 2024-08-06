@@ -43,8 +43,8 @@ dataset/
 """
 
 ############################################
-source_folder = '/Users/Xandi/Desktop/Datasets/birds/CUB_200_2011/images'
-new_dataset_path = './datasets/birds'
+source_folder = '/Users/Xandi/Desktop/Datasets/amphibien/'
+new_dataset_path = './datasets/amphibia'
 ############################################
           
 def split_dataset():
@@ -62,10 +62,10 @@ def split_dataset():
         images = os.listdir(class_folder)
         random.shuffle(images)
         
-        # split ratio 85/12/3
+        # split ratio 80/10/10
         total_images = len(images)
-        train_split_idx = int(total_images * 0.85)
-        validation_split_idx = train_split_idx + int(total_images * 0.12)
+        train_split_idx = int(total_images * 0.80)
+        validation_split_idx = train_split_idx + int(total_images * 0.10)
         
         train_images = images[:train_split_idx]
         validation_images = images[train_split_idx:validation_split_idx]

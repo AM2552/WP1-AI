@@ -9,7 +9,7 @@ import tensorflow as tf
 from keras.utils import load_img, img_to_array
 
 # Load the pre-trained model
-model = load_model('bird_cat_dog_model_Preset3_continued.h5')
+model = load_model('bird_cat_dog_model_adam_eff1.h5')
 
 # Set the path to the folder containing the images
 folder_path = 'datasets/bird_cat_dog/test'

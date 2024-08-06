@@ -3,55 +3,52 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout, BatchNormalization, Activation, GlobalAveragePooling2D
 from keras.optimizers import Adam, SGD
 from keras.callbacks import LearningRateScheduler
-from keras.applications import EfficientNetB0, EfficientNetB1, EfficientNetB2, EfficientNetB3, EfficientNetB4, EfficientNetB5, EfficientNetB6, EfficientNetB7
-from keras import backend
-from dataset_generation_birds import train_generator, validation_generator
+from keras.applications import EfficientNetB1
+from keras import backend, layers
+from keras.regularizers import l2
+from dataset_generation_birds import train_dataset, validation_dataset
 import matplotlib.pyplot as plt
+from PIL import Image
 
-def lr_schedule(epoch, lr):
-    if epoch > 30:
-        return float(lr * 0.01)
+def lr_schedule(epoch):
+    if epoch > 40:
+        return 0.0001
+    elif epoch > 30:
+        return 0.0005
     elif epoch > 15:
-        return float(lr * 0.1)
+        return 0.005
+    else:
+        return 0.01
 
-def train_model(dense_layers, initial_learning_rate, optimizer_name, epochs, dropout=True, preset_name=''):
-    base_model = EfficientNetB1(include_top=False, weights=None, input_shape=(256, 256, 3))
-    base_model.trainable = True  # Train the base model from scratch
+def train_model(initial_learning_rate, optimizer_name, epochs, preset_name=''):
+    inputs = layers.Input(shape=(240, 240, 3))
+    model = EfficientNetB1(include_top=False, weights='imagenet', input_tensor=inputs)
+    model.trainable = False
     
-    model = Sequential()
-    model.add(base_model)
-    model.add(GlobalAveragePooling2D())
-    
-    neurons = 1024
-    for _ in range(dense_layers):
-        model.add(Dense(neurons))
-        model.add(BatchNormalization())
-        model.add(Activation('relu'))
-        neurons = int(neurons * 0.7)
-        if dropout:
-            model.add(Dropout(0.5))
-    
-    model.add(Dense(neurons))
-    model.add(BatchNormalization())
-    model.add(Activation('relu'))
-    model.add(Dense(200, activation='softmax'))
+    x = layers.GlobalAveragePooling2D()(model.output)
+    x = layers.BatchNormalization()(x)
+    x = layers.Dropout(0.2)(x)
+    outputs = layers.Dense(200, activation='softmax')(x)
 
+    model = keras.Model(inputs, outputs)
     model.summary()
     
     if optimizer_name == 'adam':
         optimizer = Adam(learning_rate=initial_learning_rate)
     elif optimizer_name == 'sgd':
-        optimizer = SGD(learning_rate=initial_learning_rate, momentum=0.9)
+        optimizer = SGD(learning_rate=initial_learning_rate, momentum=0.9, nesterov=True)
     
     model.compile(optimizer=optimizer, loss='categorical_crossentropy', metrics=['accuracy'])
+    
 
-    lr_scheduler = LearningRateScheduler(lr_schedule(lr=initial_learning_rate))
+    #lr_scheduler = LearningRateScheduler(lr_schedule)
 
     history = model.fit(
-        train_generator,
+        train_dataset,
         epochs=epochs,
-        validation_data=validation_generator,
-        callbacks=[lr_scheduler]
+        validation_data=validation_dataset,
+        #callbacks=[lr_scheduler],
+        shuffle=True
     )
     
     train_accuracy_history = history.history['accuracy']
@@ -66,9 +63,11 @@ def train_model(dense_layers, initial_learning_rate, optimizer_name, epochs, dro
 results = []
 
 parameter_presets = {
-    'Preset1': (2, 0.01, 'sgd', 45, True),
-    #'Preset2': (3, 0.0001, 'adam', 50, True),
-    #'Preset3': (3, 0.0001, 'adam', 50, True),
+    'adam': (0.001, 'adam', 30),
+    #'adam_wtop_30': (0.001, 'adam', 30),
+    #'adam2': (0.0007, 'adam', 50),
+    #'adam3': (0.0005, 'adam', 50),
+    #'adam4': (0.0003, 'adam', 50),
 }
 
 for preset_name, parameters in parameter_presets.items():
@@ -76,14 +75,14 @@ for preset_name, parameters in parameter_presets.items():
     train_accuracy_history , val_accuracy_history, train_loss_history , val_loss_history = train_model(*parameters, preset_name)
     results.append((val_accuracy_history[-1], preset_name))
     
-    plt.plot(val_accuracy_history, label=f'{preset_name} - DL({parameters[0]}) LR({parameters[1]}) {parameters[2]}')
+    plt.plot(val_accuracy_history, label=f'{preset_name} - LR({parameters[0]})')
 
     fig, axs = plt.subplots(2, 1, figsize=(20, 20))
 
     # First subplot for accuracy
     axs[0].plot(train_accuracy_history, label='Train Accuracy')
     axs[0].plot(val_accuracy_history, label='Validation Accuracy')
-    axs[0].set_title(f'{preset_name} - DL({parameters[0]}) LR({parameters[1]}) {parameters[2]}')
+    axs[0].set_title(f'{preset_name} - LR({parameters[0]}) ')
     axs[0].set_ylabel('Accuracy')
     axs[0].set_xlabel('Epoch')
     axs[0].legend()
@@ -91,14 +90,21 @@ for preset_name, parameters in parameter_presets.items():
     # Second subplot for loss
     axs[1].plot(train_loss_history, label='Train Loss')
     axs[1].plot(val_loss_history, label='Validation Loss')
-    axs[1].set_title(f'{preset_name} - DL({parameters[0]}) LR({parameters[1]}) {parameters[2]}')
+    axs[1].set_title(f'{preset_name} - LR({parameters[0]}) ')
     axs[1].set_ylabel('Loss')
     axs[1].set_xlabel('Epoch')
     axs[1].legend()
     
     plt.tight_layout()
-    plt.savefig(f'birds_eff7_{preset_name}.png')
+    plt.savefig(f'birds_eff1_{preset_name}.png')
     
 results.sort(reverse=True)
 for result in results:
     print(f'Preset: {result[1]}, Final accuracy: {result[0]}')
+
+#plt.title('Model accuracy')
+#plt.ylabel('Accuracy')
+#plt.xlabel('Epoch')
+#plt.legend()
+#plt.savefig('bcd_sgd_test.png')
+#plt.show()
