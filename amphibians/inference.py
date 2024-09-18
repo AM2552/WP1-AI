@@ -1,7 +1,7 @@
 import torch
-from torchvision.models.detection.faster_rcnn import fasterrcnn_resnet50_fpn, FastRCNNPredictor
+from torchvision.models.detection.faster_rcnn import FastRCNNPredictor, fasterrcnn_resnet50_fpn_v2, fasterrcnn_mobilenet_v3_large_320_fpn
 from torchvision.transforms import functional as F
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
 import json
 import os
 
@@ -28,7 +28,8 @@ label_mapping = {
 THRESHOLD = 0.5
 
 def get_model(num_classes):
-    model = fasterrcnn_resnet50_fpn(weights=None)
+    #model = fasterrcnn_resnet50_fpn_v2(weights=None)
+    model = fasterrcnn_mobilenet_v3_large_320_fpn(weights=None)
     in_features = model.roi_heads.box_predictor.cls_score.in_features
     model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
     return model
@@ -55,6 +56,13 @@ def visualize_predictions(image_path, predictions, save_path, threshold=THRESHOL
     image = Image.open(image_path).convert("RGB")
     draw = ImageDraw.Draw(image)
     
+
+    font_size = 15
+    try:
+        font = ImageFont.truetype("arial.ttf", font_size)
+    except IOError:
+        font = ImageFont.load_default()
+    
     for box, label, score in zip(predictions[0]['boxes'], predictions[0]['labels'], predictions[0]['scores']):
         if score >= threshold:
             draw.rectangle(
@@ -62,10 +70,23 @@ def visualize_predictions(image_path, predictions, save_path, threshold=THRESHOL
                 outline="red",
                 width=2
             )
-            draw.text((box[0].item(), box[1].item()), label_mapping[label.item()], fill="red")
+            
+            text = f"{label_mapping[label.item()]}: {score.item():.2f}"
+            text_width, text_height = draw.textsize(text, font=font)
+            text_position = (box[0].item(), box[1].item())
+            
+            # Draw a rectangle behind the text for better visibility (optional)
+            draw.rectangle(
+                [text_position, (text_position[0] + text_width, text_position[1] + text_height)],
+                fill="red"
+            )
+            
+            # Write the text on the image
+            draw.text(text_position, text, fill="white", font=font)
     
-    # Save the image with drawn bounding boxes
+    # Save the image with drawn bounding boxes and text
     image.save(save_path)
+
 
 def process_directory(test_dir, model_path, output_dir):
     num_classes = 17  # Including the background class
@@ -107,7 +128,7 @@ def process_directory(test_dir, model_path, output_dir):
                         })
 
                 # Print the predicted boxes
-                print(json.dumps(predicted_boxes, indent=4, ensure_ascii=False))
+                #print(json.dumps(predicted_boxes, indent=4, ensure_ascii=False))
                 # Visualize and save predictions
                 visualize_predictions(image_path, predictions, save_path)
 
