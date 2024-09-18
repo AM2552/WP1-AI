@@ -2,7 +2,6 @@ import torch
 from torchvision.models.detection.faster_rcnn import FastRCNNPredictor, fasterrcnn_resnet50_fpn_v2, fasterrcnn_mobilenet_v3_large_320_fpn
 from torchvision.transforms import functional as F
 from PIL import Image, ImageDraw, ImageFont
-import json
 import os
 
 label_mapping = {
@@ -24,7 +23,6 @@ label_mapping = {
     16: 'wasserfrosch'
 }
 
-# Global threshold variable
 THRESHOLD = 0.5
 
 def get_model(num_classes):
@@ -41,11 +39,9 @@ def load_model(model_path, num_classes):
     return model
 
 def predict(model, image_path, device='cuda'):
-    # Load and transform the image
     image = Image.open(image_path).convert("RGB")
     image_tensor = F.to_tensor(image).unsqueeze(0).to(device)
 
-    # Perform inference
     model.to(device)
     with torch.no_grad():
         predictions = model(image_tensor)
@@ -75,49 +71,38 @@ def visualize_predictions(image_path, predictions, save_path, threshold=THRESHOL
             text_width, text_height = draw.textsize(text, font=font)
             text_position = (box[0].item(), box[1].item())
             
-            # Draw a rectangle behind the text for better visibility (optional)
+            # Draw a rectangle behind the text for better visibility
             draw.rectangle(
                 [text_position, (text_position[0] + text_width, text_position[1] + text_height)],
                 fill="red"
             )
-            
-            # Write the text on the image
             draw.text(text_position, text, fill="white", font=font)
     
-    # Save the image with drawn bounding boxes and text
     image.save(save_path)
 
 
 def process_directory(test_dir, model_path, output_dir):
-    num_classes = 17  # Including the background class
+    num_classes = 17
     device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
-    
-    # Load the trained model
     model = load_model(model_path, num_classes)
 
-    # Ensure output directory exists
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # Process each image in the directory
     for subdir, _, files in os.walk(test_dir):
         for file in files:
             if file.lower().endswith(('png', 'jpg', 'jpeg')):
                 image_path = os.path.join(subdir, file)
                 save_path = os.path.join(output_dir, os.path.relpath(image_path, start=test_dir))
                 
-                # Ensure subdirectories in the output directory exist
                 os.makedirs(os.path.dirname(save_path), exist_ok=True)
                 
                 print(f"Processing {image_path}")
                 
-                # Perform predictions
                 predictions = predict(model, image_path, device)
-
-                # Map predictions to labels
                 predicted_boxes = []
                 for box, label, score in zip(predictions[0]['boxes'], predictions[0]['labels'], predictions[0]['scores']):
-                    if score >= THRESHOLD:  # Use the global threshold variable
+                    if score >= THRESHOLD:
                         predicted_boxes.append({
                             "xmin": box[0].item(),
                             "ymin": box[1].item(),
@@ -127,13 +112,11 @@ def process_directory(test_dir, model_path, output_dir):
                             "score": score.item()
                         })
 
-                # Print the predicted boxes
                 #print(json.dumps(predicted_boxes, indent=4, ensure_ascii=False))
-                # Visualize and save predictions
                 visualize_predictions(image_path, predictions, save_path)
 
 if __name__ == "__main__":
-    test_dir = 'datasets/amphibia/test'  # Update with the path to your test folder
-    model_path = 'amphibians/models/best_model.pth'  # Update with the path to your trained model
-    output_dir = 'amphibians/evaluation'  # Update with the path to your output folder
+    test_dir = 'datasets/amphibia/test'
+    model_path = 'amphibians/models/best_mobilenet_320_pt.pth'
+    output_dir = 'amphibians/evaluation'
     process_directory(test_dir, model_path, output_dir)
