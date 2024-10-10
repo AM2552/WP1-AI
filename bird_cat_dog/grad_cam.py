@@ -8,10 +8,9 @@ from tqdm import tqdm
 import tensorflow as tf
 from keras.utils import load_img, img_to_array
 
-# Load the pre-trained model
-model = load_model('bird_cat_dog_model_adam_eff1.h5')
+model = load_model('bird_cat_dog_model_916.h5')
+model.summary()
 
-# Set the path to the folder containing the images
 folder_path = 'datasets/bird_cat_dog/test'
 output_path = './bird_cat_dog/test_images/grad_cam'
 class_names = ['bird', 'cat', 'dog']
@@ -21,20 +20,10 @@ bird_accuracy = 0
 cat_accuracy = 0
 dog_accuracy = 0
 
-def pad_image(image_path):
-    try:
-        img = Image.open(image_path)
-        width, height = img.size
-        size = max(width, height)
-        new_img = Image.new("RGB", (size, size))
-        new_img.paste(img, ((size - width) // 2, (size - height) // 2))
-        return new_img
-    except OSError:
-        print(f"Skipping file due to OSError: {image_path}")
-
 def get_img_array(img_path, size):
     img = load_img(img_path, target_size=size)
     array = img_to_array(img)
+    array = array / 255.0
     array = np.expand_dims(array, axis=0)
     return array
 
@@ -67,29 +56,29 @@ def save_and_display_gradcam(img_path, heatmap, cam_path="cam.jpg", alpha=1.0):
 
     heatmap = np.uint8(255 * heatmap)
 
-    jet = plt.colormaps.get_cmap("jet")
+    jet = plt.get_cmap("jet")
 
     jet_colors = jet(np.arange(256))[:, :3]
     jet_heatmap = jet_colors[heatmap]
 
-    jet_heatmap = keras.preprocessing.image.array_to_img(jet_heatmap)
+    jet_heatmap = keras.utils.array_to_img(jet_heatmap)
     jet_heatmap = jet_heatmap.resize((img.shape[1], img.shape[0]))
-    jet_heatmap = keras.preprocessing.image.img_to_array(jet_heatmap)
+    jet_heatmap = keras.utils.img_to_array(jet_heatmap)
 
     superimposed_img = jet_heatmap * alpha + img
-    superimposed_img = keras.preprocessing.image.array_to_img(superimposed_img)
+    superimposed_img = keras.utils.array_to_img(superimposed_img)
 
     superimposed_img.save(cam_path)
 
+bird_counter = len(os.listdir(os.path.join(folder_path, 'bird')))
+cat_counter = len(os.listdir(os.path.join(folder_path, 'cat')))
+dog_counter = len(os.listdir(os.path.join(folder_path, 'dog')))
+
 for folder in tqdm(os.listdir(folder_path), desc="Processing classes"):
     for filename in tqdm(os.listdir(os.path.join(folder_path, folder)), desc="Processing images"):
-        bird_counter = len(os.listdir(os.path.join(folder_path, 'bird')))
-        cat_counter = len(os.listdir(os.path.join(folder_path, 'cat')))
-        dog_counter = len(os.listdir(os.path.join(folder_path, 'dog')))
-        
         if filename.endswith(('.png', '.jpg', '.jpeg')):
             img_path = os.path.join(folder_path, folder, filename)
-            img = pad_image(img_path)
+            img = Image.open(img_path)
             img = img.resize((256, 256))
 
             img_array = img_to_array(img)
@@ -111,18 +100,18 @@ for folder in tqdm(os.listdir(folder_path), desc="Processing classes"):
 
             last_conv_layer_name = "conv2d_5"  # Update with the correct name of your model's last convolutional layer
             heatmap = make_gradcam_heatmap(img_array, model, last_conv_layer_name)
-            save_and_display_gradcam(img_path, heatmap, cam_path=os.path.join(output_path, folder, f"grad_cam_{filename}"))
+            output_folder = os.path.join(output_path, folder)
+            os.makedirs(output_folder, exist_ok=True)
+            cam_path = os.path.join(output_folder, f"grad_cam_{filename}")
+            save_and_display_gradcam(img_path, heatmap, cam_path=cam_path)
             if class_name != folder:
                 with open("image_details.txt", "a") as f:
                     f.write(f"Image: {filename} - ")
                     f.write(f"Class: {class_name} - ")
                     f.write(f"Probability: {probability}\n")
 
-total_images = len(os.listdir(folder_path))
-dog_accuracy = dog_accuracy / dog_counter * 100
-cat_accuracy = cat_accuracy / cat_counter * 100
-bird_accuracy = bird_accuracy / bird_counter * 100
-val_accuracy = (bird_accuracy + cat_accuracy + dog_accuracy) / total_images
+total_images = bird_counter + cat_counter + dog_counter
+val_accuracy = (accuracy_counter / total_images) * 100
 
 with open('test_report.txt', 'w') as f:
     f.write(f"Bird accuracy: {bird_accuracy:.2f}%\n")
