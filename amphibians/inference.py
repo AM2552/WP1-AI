@@ -71,7 +71,6 @@ def visualize_predictions(image_path, predictions, save_path, threshold=THRESHOL
             text_width, text_height = draw.textsize(text, font=font)
             text_position = (box[0].item(), box[1].item())
             
-            # Draw a rectangle behind the text for better visibility
             draw.rectangle(
                 [text_position, (text_position[0] + text_width, text_position[1] + text_height)],
                 fill="red"
@@ -117,6 +116,6 @@ def process_directory(test_dir, model_path, output_dir):
 
 if __name__ == "__main__":
     test_dir = 'datasets/amphibia/test'
-    model_path = 'amphibians/models/best_mobilenet_320_pt.pth'
+    model_path = 'amphibians/models/best_mobilenet_320_pt_aug.pth'
     output_dir = 'amphibians/evaluation'
     process_directory(test_dir, model_path, output_dir)
