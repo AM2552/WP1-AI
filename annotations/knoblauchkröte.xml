@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>9</id>
+      <size>495</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-06 12:55:29.136973+00:00</created>
+      <updated>2025-02-08 20:14:44.585342+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>494</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>9</id>
+          <start>0</start>
+          <stop>494</stop>
+          <url>http://localhost:8080/api/jobs/9</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-08 20:14:54.452370+00:00</dumped>
+  </meta>
+  <image id="0" name="00508922-1665-405f-89c4-f1b1435ef99b.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="204.76" ytl="140.08" xbr="720.80" ybr="584.72" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="020d03bc-88b7-4a4c-a611-c32ba3e8a1ac.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="358.36" ytl="204.05" xbr="726.19" ybr="454.76" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0238937b-3c44-4456-a429-a0d73e5e86c9.jpeg" width="580" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="203.72" ytl="384.45" xbr="537.87" ybr="734.77" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0364f581-8da1-4c35-b006-54c94892dd8e.jpeg" width="472" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="88.12" ytl="383.72" xbr="269.03" ybr="515.75" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="0399c915-f4aa-4425-b6b5-b791a3843b1b.jpeg" width="1024" height="688">
+  </image>
+  <image id="5" name="03e14726-a0cb-45ab-8f04-2e917b2c5fc3.jpeg" width="1024" height="573">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="277.48" ytl="236.47" xbr="622.49" ybr="542.99" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="03fd7304-5bab-4b36-9eb7-443e5321896d.jpg" width="999" height="737">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="107.11" ytl="147.61" xbr="747.92" ybr="633.25" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="042f807c-7023-4fed-acbc-e45db0d3d82b.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="239.18" ytl="179.87" xbr="767.81" ybr="630.82" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="0438eec9-5f0e-49e7-ac41-fcf7ea636738.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="390.52" ytl="178.45" xbr="731.99" ybr="562.61" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="04e4fc73-9a9f-4ac0-84ed-6b602894f97f.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="148.39" ytl="248.55" xbr="446.46" ybr="880.46" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="05310349-4999-4a4d-a5ec-09a1629ae4b2.jpeg" width="1024" height="729">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="118.99" ytl="47.78" xbr="772.80" ybr="588.01" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="05fd68e8-f56b-4889-9a69-208928d5e3f6.jpg" width="1024" height="680">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="235.54" ytl="198.46" xbr="723.85" ybr="510.54" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="067b8c1d-de9c-4f26-b616-37b542047f75.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="145.55" ytl="435.38" xbr="635.24" ybr="796.18" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="06ecd488-3f1f-41b3-80d4-a6b0ef10e0b4.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="242.26" ytl="260.22" xbr="995.66" ybr="521.84" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="088ba7d7-b8ae-4a59-97ac-1a8c29d82c4f.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="399.86" ytl="274.84" xbr="539.76" ybr="398.66" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="08b02165-cf4f-45f5-98a2-14f95816db7f.jpeg" width="1024" height="682">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="88.66" ytl="104.00" xbr="867.61" ybr="555.58" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="08bcc497-5f5a-4088-9b73-5ba615f434c2.jpg" width="1024" height="774">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="121.51" ytl="131.87" xbr="864.70" ybr="638.31" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="09319f0e-c736-46dd-ada1-4cdaeaf13933.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="311.45" ytl="17.08" xbr="887.76" ybr="669.31" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="09a74d79-3bb0-4ad8-b435-84a4cccf98eb.jpg" width="768" height="1024">
+  </image>
+  <image id="19" name="09bb22bc-f5c1-4524-ac1b-7e058b8f7c99.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="190.61" ytl="207.94" xbr="754.56" ybr="859.85" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="0a936522-a7c3-426e-b32a-55316a884471.jpg" width="1024" height="768">
+  </image>
+  <image id="21" name="0b5b1a8e-4298-4e21-bdf6-ef8b8d2f3bdb.jpeg" width="768" height="1024">
+  </image>
+  <image id="22" name="0c4476a2-3c29-4e18-adbf-16a66afcc790.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="113.41" ytl="458.99" xbr="606.20" ybr="701.01" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="0cceac5a-82f6-4351-a772-bcdc18546c10.jpg" width="1024" height="765">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="383.75" ytl="339.01" xbr="865.79" ybr="756.18" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="0cd1147d-c99e-4224-aecb-77b15dd5af2a.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="145.40" ytl="422.06" xbr="485.23" ybr="758.90" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="0cdc0740-181b-42a3-869c-55f244953c2e.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="267.97" ytl="167.14" xbr="769.87" ybr="603.92" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="0d1d4001-7320-4f6a-a511-866d2a5583f0.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="166.21" ytl="457.99" xbr="515.03" ybr="648.12" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="0d7f94aa-4bd9-4847-a15f-d660aa7746e0.jpeg" width="1024" height="571">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="391.38" ytl="154.23" xbr="873.19" ybr="568.24" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="0d9dfc17-ac14-4035-8291-ccbafd8748a4.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="198.44" ytl="198.82" xbr="764.98" ybr="575.20" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="0e14bec7-8c5e-46d4-ae95-764e14b81b52.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="224.76" ytl="599.86" xbr="459.71" ybr="828.58" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="0f568161-3ad9-4ec5-997f-da3b176f3054.jpeg" width="1024" height="657">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="288.46" ytl="175.32" xbr="754.59" ybr="617.93" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="108dc525-2122-4ff5-9119-ff7cd846c1f5.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="118.18" ytl="40.89" xbr="850.61" ybr="728.05" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="10956430-8da8-4c8b-bab6-8ed930e809c9.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="359.09" ytl="267.25" xbr="855.46" ybr="551.81" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="10d87409-0065-48d6-b2de-6c240f173bbc.jpeg" width="1024" height="705">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="174.06" ytl="188.16" xbr="735.24" ybr="608.19" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="117c05b2-030b-4f49-a185-121a16db4a46.jpeg" width="1024" height="768">
+  </image>
+  <image id="35" name="11b7dff6-0307-45d7-8265-bdaca12184ca.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="127.19" ytl="241.22" xbr="629.02" ybr="558.99" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="11d69e2d-afe7-43f0-a3ec-01ee68f67d16.jpg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="224.03" ytl="276.63" xbr="650.87" ybr="893.18" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="125ed253-4954-4bb4-aadc-2c8dd32fa9ee.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="203.87" ytl="87.62" xbr="910.43" ybr="702.18" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="125f1912-6c62-40f1-9d9a-aa89509dee4b.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="365.39" ytl="289.88" xbr="836.05" ybr="530.79" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="12628ad9-c9e6-474f-944a-09ac919d88ce.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="106.62" ytl="335.23" xbr="363.75" ybr="521.61" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="12c171d5-b6f1-42ee-884c-5aa9bef34a49.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="202.78" ytl="195.77" xbr="838.75" ybr="660.68" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="14466146-7d5b-4d82-be57-eecdba883a7a.jpg" width="1000" height="750">
+  </image>
+  <image id="42" name="147b76a3-b197-4a4a-860e-9601a93eed42.jpeg" width="765" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="158.57" ytl="381.64" xbr="579.25" ybr="761.89" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="14ba58db-1e6a-4d8b-afbe-76f381e79f4c.jpeg" width="576" height="1024">
+  </image>
+  <image id="44" name="15af17d6-d48e-4f06-8927-3e0ba9029bc4.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="132.52" ytl="471.61" xbr="342.11" ybr="774.02" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="16115813-d4cf-4963-b64c-992f50027c36.jpeg" width="1024" height="768">
+  </image>
+  <image id="46" name="170bca80-82bf-4f00-888c-67e1de2e8b7f.jpg" width="1024" height="729">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="321.35" ytl="237.15" xbr="837.19" ybr="663.47" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="1727a9cd-3614-409c-8b0b-d9b456cd49af.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="408.91" ytl="293.04" xbr="629.88" ybr="470.89" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="1731b58f-c437-4e7c-88f6-19b90bf3be09.jpeg" width="1024" height="461">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="282.29" ytl="164.05" xbr="558.43" ybr="345.57" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="17e56bca-015e-4376-a8a2-dd6428c94fd9.jpg" width="1000" height="750">
+  </image>
+  <image id="50" name="18687946-8299-40b6-a4b0-3c80950a171f.jpeg" width="868" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="232.77" ytl="493.26" xbr="696.26" ybr="915.61" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="19b2d6b4-bb74-41af-81b1-d304a899ae97.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="271.05" ytl="182.37" xbr="736.84" ybr="638.95" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="19b745ae-a56a-419c-a140-754d725f4d9d.jpeg" width="462" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="161.22" ytl="410.00" xbr="284.02" ybr="535.14" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="1a1d84f4-b9ba-4d87-9080-2dd861d181f9.jpg" width="768" height="1024">
+  </image>
+  <image id="54" name="1a3554c0-5153-487a-b0f3-278abde9ad7e.jpeg" width="1024" height="666">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="225.21" ytl="168.74" xbr="531.92" ybr="402.42" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="1aac79d8-dff8-40e8-8790-81f5d968c1d2.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="178.17" ytl="3.55" xbr="863.26" ybr="727.25" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="1bfa9afb-d804-42fa-8605-859d42583a91.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="151.32" ytl="107.49" xbr="682.76" ybr="644.11" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="1c1f7220-b983-4e27-9afc-0b7f604c50f3.jpeg" width="1024" height="920">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="156.34" ytl="225.14" xbr="867.55" ybr="750.41" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="1c87e02d-5a7a-458d-b207-79aacd061a57.jpeg" width="1024" height="771">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="213.93" ytl="135.05" xbr="845.01" ybr="721.33" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="1c9d3982-bd82-4b25-add1-6696c9efb7d3.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="340.63" ytl="333.03" xbr="767.48" ybr="698.44" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="1d6c3de5-5c22-4d8b-b4e3-b9e872eac6c7.jpeg" width="1024" height="768">
+  </image>
+  <image id="61" name="1ecc5a34-4492-4a09-85a1-de5659bd4f1f.jpeg" width="982" height="736">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="193.11" ytl="326.24" xbr="457.14" ybr="541.93" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="1f6cefb1-e151-4672-969b-e7681ab88e0d.jpg" width="468" height="404">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="28.66" ytl="36.21" xbr="434.87" ybr="399.56" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="1f8bbb63-4276-469c-a530-c8e29a3367c7.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="80.83" ytl="267.61" xbr="533.55" ybr="694.72" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="20188227-d498-4d9b-b5f1-81cfab117610.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="259.03" ytl="201.62" xbr="821.77" ybr="620.55" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="208959ef-2979-4788-b99d-448817a34ae7.jpeg" width="866" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="147.84" ytl="484.92" xbr="655.14" ybr="1018.09" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="212c16e8-8d46-41f3-8a84-011d8624658a.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="276.81" ytl="559.46" xbr="490.89" ybr="745.10" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="220a0cd9-f041-4c86-a308-d7f86a626e08.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="180.30" ytl="157.41" xbr="781.77" ybr="502.77" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="221994a2-e359-46c1-b86c-5bfee8f61fbd.jpeg" width="1024" height="575">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="222.90" ytl="106.98" xbr="653.02" ybr="484.66" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="228d503e-d200-4569-807d-37611e2155fd.jpg" width="1024" height="898">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="246.62" ytl="163.59" xbr="852.35" ybr="708.06" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="22f8df14-d23b-4a72-80b3-bec5ab2c0feb.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="51.32" ytl="332.83" xbr="633.39" ybr="746.03" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="24632526-4cb9-47dc-81b2-4553e4ae6f3c.jpeg" width="1024" height="576">
+  </image>
+  <image id="72" name="24afc30d-7436-41a0-a1ff-f5dbbe1644f4.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="141.51" ytl="310.20" xbr="517.15" ybr="712.61" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="2618371a-44f3-4978-9191-717456954542.jpg" width="955" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="261.15" ytl="270.67" xbr="672.55" ybr="638.95" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="266e79a7-296d-4115-b564-5a3bfb36d2bd.jpeg" width="768" height="1024">
+  </image>
+  <image id="75" name="26c2501c-b7f4-44dd-af32-264fb0321b46.jpeg" width="887" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="170.08" ytl="408.34" xbr="811.91" ybr="967.12" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="26c9eccd-4a41-43a9-be78-9e703f6e57b2.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="147.69" ytl="114.56" xbr="663.61" ybr="587.34" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="2767ca14-c8d8-4726-a3ef-ddf2c69b0de4.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="147.11" ytl="347.97" xbr="394.13" ybr="679.82" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="27d619ac-e658-4108-a7ca-eeda37620418.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="305.31" ytl="373.55" xbr="481.21" ybr="568.17" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="288416cb-5285-46ef-9028-4c7a671ee456.jpg" width="750" height="521">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="177.73" ytl="117.40" xbr="578.07" ybr="438.78" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="2b8ef6a9-90e4-4838-aa88-4a0ed607e2ec.jpg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="305.38" ytl="190.69" xbr="691.27" ybr="882.70" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="2baad8b6-7fac-4018-b269-0c383c7d4212.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="183.69" ytl="437.15" xbr="438.20" ybr="720.10" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="2bd0a38a-2385-4c70-9333-654934f8cfc0.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="194.47" ytl="190.75" xbr="778.90" ybr="580.00" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="2bdf2811-122a-4953-b55b-8dd63e0e38de.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="339.98" ytl="298.07" xbr="774.59" ybr="649.25" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="2d2b78c9-ee8b-4c1b-8054-7f7286ba588d.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="241.64" ytl="153.62" xbr="875.24" ybr="570.97" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="2d59bd41-7bc4-4884-a94d-abc9393ffba6.jpg" width="1024" height="575">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="398.47" ytl="234.55" xbr="749.53" ybr="414.11" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="2ea8e9fd-c969-44b9-a9eb-4f3afce9f909.jpeg" width="1024" height="764">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="95.56" ytl="61.20" xbr="829.00" ybr="715.51" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="310a35de-3086-4bab-b32e-c9d48e43d740.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="208.77" ytl="152.18" xbr="778.18" ybr="554.21" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="3156fe68-0de0-4065-92e8-7a930c3ec648.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="422.56" ytl="236.73" xbr="703.99" ybr="473.12" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="3159ebeb-59fd-4f0f-a8b2-4507aafd5fcb.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="272.02" ytl="420.08" xbr="556.47" ybr="659.61" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="328501fc-6668-4e3a-a2a1-f42c9ef94b97.jpg" width="1024" height="676">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="286.88" ytl="225.90" xbr="708.89" ybr="495.71" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="3484a4cf-5418-4b15-a8d4-404c4454c258.jpeg" width="1024" height="683">
+  </image>
+  <image id="92" name="34a7dabe-99c2-462d-aa1a-291bbc273287.jpg" width="1024" height="768">
+  </image>
+  <image id="93" name="352a33bc-1c38-4695-9875-cfe708039663.jpeg" width="576" height="1024">
+  </image>
+  <image id="94" name="3546e438-175a-4c97-a24f-00af7131059a.jpg" width="1024" height="505">
+  </image>
+  <image id="95" name="3643d0df-c791-4612-8191-6f80787408b3.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="231.33" ytl="259.14" xbr="769.74" ybr="577.66" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="36aff133-82ba-46df-9796-d421f70dbe0c.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="239.09" ytl="297.17" xbr="502.57" ybr="577.27" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="371dbb4a-9ac7-4fd9-a822-a15ff8cd80ec.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="0.00" ytl="142.40" xbr="443.86" ybr="609.49" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="37342cfe-a516-4387-a33c-c1c0e3c66217.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="371.46" ytl="300.85" xbr="665.18" ybr="478.71" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="37505ed7-b45d-49e6-9c21-4dcfddcd6a9a.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="313.79" ytl="32.46" xbr="843.47" ybr="610.64" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="392edca3-5794-4773-a0bf-2adfe7ebe59c.jpeg" width="1024" height="472">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="266.50" ytl="102.60" xbr="615.70" ybr="366.42" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="3938be41-e407-42b1-99bd-e88d7e96c80a.jpeg" width="1024" height="923">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="333.19" ytl="320.24" xbr="731.40" ybr="627.90" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="39a67137-7f0f-4c86-9ff1-eb1048df9ef9.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="382.39" ytl="188.48" xbr="719.23" ybr="487.15" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="3a841dca-bad6-4e0f-adb8-d9d53a3a726b.jpg" width="1000" height="750">
+  </image>
+  <image id="104" name="3ccb2b93-5cf8-440b-a3fa-01f5551efb6b.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="26.35" ytl="331.60" xbr="485.95" ybr="732.82" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="3d178859-e973-47fa-8232-3e9de3452303.jpg" width="650" height="522">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="110.67" ytl="120.21" xbr="538.03" ybr="403.34" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="3d251a61-3b7b-4968-bd88-1440ed82e6b5.jpg" width="1024" height="703">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="315.58" ytl="107.05" xbr="913.50" ybr="666.49" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="3d8299b1-f9ba-4207-97be-39ed7a1a5120.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="213.22" ytl="106.35" xbr="890.68" ybr="635.06" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="3db395fa-aa00-4f90-9577-a692748b96ad.jpeg" width="1024" height="1005">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="203.52" ytl="373.00" xbr="730.35" ybr="969.65" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="3f602504-d2d4-44b0-8f20-db2a72da8eb3.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="569.86" ytl="299.43" xbr="664.63" ybr="390.73" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="3fed02e8-ebfb-43a5-b093-5980c2ab3dd4.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="315.90" ytl="205.36" xbr="744.27" ybr="518.90" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="41086307-55e7-44fb-9e2f-2a20c6721211.jpg" width="1000" height="750">
+  </image>
+  <image id="112" name="42d0590a-1ea4-49d7-9c2b-8c6bf9840f7c.jpg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="319.54" ytl="303.19" xbr="741.71" ybr="757.70" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="4419f91b-5f4c-4655-90e3-7c4af948115a.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="334.45" ytl="211.15" xbr="684.34" ybr="486.75" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="4501b3c3-2c42-403e-a2bb-51012f511e88.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="156.85" ytl="399.75" xbr="517.39" ybr="820.18" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="458ddc2d-328a-4c31-ad76-dafc41bfc556.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="155.72" ytl="393.51" xbr="376.54" ybr="661.73" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="46260424-a1b1-46cc-b7eb-4e34a6c82e76.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="292.08" ytl="307.24" xbr="540.03" ybr="470.05" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="465e087c-5daf-4cbd-9935-2e54d36304bb.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="126.90" ytl="419.71" xbr="619.69" ybr="762.79" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="4667b2d6-e1f2-4ba9-878e-746bf20da9a1.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="373.51" ytl="255.49" xbr="703.15" ybr="488.07" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="46c9ff7d-7442-4e5f-9d87-034506ef1c40.jpg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="4.97" ytl="182.83" xbr="549.31" ybr="482.84" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="475fb514-a6d6-46b2-aa41-4b6a823dd427.jpg" width="600" height="450">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="280.63" ytl="126.05" xbr="369.05" ybr="207.37" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="478e21b7-cb39-420a-b581-fd3f6b989157.jpeg" width="931" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="219.29" ytl="443.14" xbr="682.79" ybr="904.84" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="481255e0-0872-4f2a-83c5-c1beccac6e03.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="187.81" ytl="120.95" xbr="903.88" ybr="545.12" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="486e8312-e429-4dcf-b530-a2e06ce73410.jpeg" width="1024" height="985">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="293.34" ytl="245.02" xbr="774.43" ybr="674.28" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="48aa0960-1f96-4e06-836c-278ac7f36da7.jpg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="337.44" ytl="428.17" xbr="641.35" ybr="790.46" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="49afb615-7e73-4105-98c9-3dbb7be73d4c.jpg" width="1024" height="768">
+  </image>
+  <image id="126" name="49dcbd28-f860-4f94-acc9-ff1980ddd00e.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="192.21" ytl="64.70" xbr="761.62" ybr="646.18" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="4b0576d0-eae5-4d3b-a2db-5f2d4717896c.jpg" width="800" height="596">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="104.30" ytl="64.72" xbr="611.74" ybr="520.94" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="4b9a5222-7810-4beb-9039-6237e8723169.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="274.60" ytl="81.55" xbr="843.08" ybr="477.35" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="4c0483c8-6c2e-46f6-9f79-d33a6d286d44.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="212.51" ytl="201.84" xbr="740.25" ybr="630.63" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="4c4c182b-df96-4001-8c2f-6e1d52d3dbf8.jpeg" width="1024" height="769">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="389.19" ytl="193.45" xbr="825.52" ybr="542.09" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="4d98f6f7-3f37-418a-8451-f0567b1d9688.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="401.56" ytl="219.10" xbr="801.09" ybr="522.26" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="4db12267-1408-4020-9c77-6e86e8b7478a.jpeg" width="932" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="133.35" ytl="298.48" xbr="793.02" ybr="915.04" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="4e3a4773-ea0e-4c3e-9508-325077a91250.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="152.73" ytl="447.03" xbr="367.31" ybr="752.68" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="4ea3a860-121e-4614-86ec-683f95050bf4.jpeg" width="1024" height="940">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="145.04" ytl="334.85" xbr="915.18" ybr="793.31" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="4eb1d08c-dc48-4087-a2ca-185595095635.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="274.49" ytl="321.49" xbr="434.04" ybr="437.72" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="504bca7d-149c-4a22-8b50-2effe4e028df.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="219.75" ytl="282.62" xbr="768.19" ybr="862.09" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="50895492-f8ed-466b-9f5f-5a13fe228253.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="239.12" ytl="290.43" xbr="641.09" ybr="651.98" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="50919203-12cc-4182-be67-94fe1bf4c046.jpg" width="768" height="1024">
+  </image>
+  <image id="139" name="50a636ef-d767-4d57-a84d-fdd21a1a3cb7.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="178.41" ytl="428.79" xbr="378.54" ybr="660.97" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="513d02b3-705b-4fa9-baee-6288a6e2ca6b.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="140.50" ytl="287.72" xbr="496.06" ybr="618.32" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="52b374f2-baba-4dcb-a75a-214b70b80189.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="128.88" ytl="47.10" xbr="853.58" ybr="663.09" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="52e1ad7f-7524-40c1-8147-93cf317fada3.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="361.89" ytl="251.81" xbr="694.69" ybr="577.87" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="53271f95-1a02-483b-ac84-dc9cf735c5d7.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="291.69" ytl="265.28" xbr="605.80" ybr="564.40" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="533791ba-b375-450e-9124-73c2895d0db8.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="270.58" ytl="163.46" xbr="975.15" ybr="554.09" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="53d8e842-5af4-4e20-af85-038bca8b17b5.jpeg" width="1024" height="498">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="374.42" ytl="220.60" xbr="522.23" ybr="362.21" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="54c37826-680c-4365-b285-4713177bb94b.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="178.75" ytl="469.94" xbr="358.96" ybr="695.19" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="5528223a-2bcb-4081-9cb4-061301959ab3.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="198.94" ytl="198.94" xbr="735.56" ybr="678.62" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="553ca9c4-aad8-410f-bd2b-a9b9f79cb483.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="387.61" ytl="149.55" xbr="664.24" ybr="401.29" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="55e00297-63c5-4a68-af2e-f2b79046cb02.jpeg" width="1024" height="768">
+  </image>
+  <image id="150" name="55e57d18-b6eb-4579-851d-e0e31b4c3f52.jpg" width="1000" height="750">
+  </image>
+  <image id="151" name="56623034-7aa5-4f17-8e1b-c93809ef844f.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="137.13" ytl="324.57" xbr="575.78" ybr="704.83" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="567b04c1-36b3-4377-aa96-3343493e8a30.jpeg" width="538" height="594">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="7.50" ytl="224.96" xbr="412.79" ybr="570.11" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="56f9add5-580e-4f40-92d9-802850c9ca23.jpeg" width="768" height="1024">
+  </image>
+  <image id="154" name="573fa652-4820-4ad6-86ad-91d6b167ff45.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="224.71" ytl="355.71" xbr="532.86" ybr="613.95" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="580308f1-97e2-46b0-9912-dcdec02fe866.jpeg" width="1024" height="695">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="202.57" ytl="163.50" xbr="660.54" ybr="633.17" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="591fe03f-b6cb-4f6b-9032-8f7c0fd05c1a.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="215.13" ytl="433.56" xbr="519.04" ybr="735.96" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="59494e47-e1a8-4b10-98c0-78bfd8e432fc.jpeg" width="1024" height="967">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="111.36" ytl="77.97" xbr="990.82" ybr="904.50" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="59951014-24a9-423a-aaa9-0f94c13ecfd9.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="106.51" ytl="143.54" xbr="887.45" ybr="665.78" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="5a1074fd-8e0c-4c6f-9a8c-2da56127bf1a.jpeg" width="463" height="1024">
+  </image>
+  <image id="160" name="5a154f83-c160-433c-98c6-db695cf692e7.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="317.55" ytl="232.12" xbr="921.47" ybr="530.48" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="5a54da5b-0645-4e73-a0bc-083c7848d921.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="101.98" ytl="283.20" xbr="665.32" ybr="723.79" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="5a6c2a5b-fd3a-49d4-9407-657dff8f2fb9.jpeg" width="1024" height="928">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="68.75" ytl="202.25" xbr="809.52" ybr="799.75" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="5ad68e99-b3ed-4a8a-8025-56e99e2726df.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="92.03" ytl="651.62" xbr="383.13" ybr="818.82" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="5b92ba77-f100-41b8-8b43-65b62e9bc4e9.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="154.23" ytl="149.44" xbr="789.42" ybr="542.47" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="5bf52a29-8e05-4927-af7a-28fe02d0dbe9.jpg" width="1024" height="782">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="46.31" ytl="66.51" xbr="823.23" ybr="717.97" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="5ca40e31-196b-4557-bccf-fa1faa6f0421.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="203.20" ytl="170.38" xbr="879.04" ybr="768.00" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="5ce3c8c5-7141-484d-96ca-80f9ae0f8094.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="229.26" ytl="554.76" xbr="400.02" ybr="721.10" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="5d99017b-349f-473f-ab0d-8a222316d299.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="348.30" ytl="555.66" xbr="445.65" ybr="665.96" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="5dc10216-cec7-45d7-bc2c-37440a4c4b1c.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="190.39" ytl="217.34" xbr="748.43" ybr="548.57" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="5e55cbc6-e6f3-4752-8777-226969837359.jpg" width="1024" height="768">
+  </image>
+  <image id="171" name="5e69a89f-62fe-49d1-8468-5793ac229a58.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="102.51" ytl="291.13" xbr="589.80" ybr="657.60" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="5e9f6b02-8d83-4e64-844e-79f01614354a.jpeg" width="1024" height="768">
+  </image>
+  <image id="173" name="5f5f95c2-7fdd-41b0-a967-dc375eebbb05.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="181.64" ytl="477.87" xbr="367.19" ybr="726.95" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="5f645dc3-d5ce-4299-b77d-54bfc2d62c84.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="275.31" ytl="197.17" xbr="782.82" ybr="837.92" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="5f85b5b2-14db-4e81-9c2d-156d31b69ab2.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="270.52" ytl="90.67" xbr="899.15" ybr="560.20" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="5fe271a0-c41e-459f-af78-98decb6994a4.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="406.45" ytl="152.21" xbr="748.01" ybr="406.96" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="5fe4949e-2ba3-4b12-8ec2-1a2178b01a37.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="123.41" ytl="455.26" xbr="482.71" ybr="722.24" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="613cf0ce-0a3b-4ffa-8d91-b641d856d7da.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="486.93" ytl="157.23" xbr="787.39" ybr="428.05" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="61bf0900-bad8-4550-a8da-801ed7d7891f.jpeg" width="1024" height="999">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="204.35" ytl="459.54" xbr="777.46" ybr="939.76" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="61d6298e-fbb6-4147-9944-5aac4b8e3d69.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="201.45" ytl="194.47" xbr="748.59" ybr="677.58" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="624ccd3a-1e0f-4078-88bb-6dea3d43b11c.jpeg" width="1024" height="768">
+  </image>
+  <image id="182" name="62dab022-199f-4789-abe7-52fadf6723e9.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="219.85" ytl="131.57" xbr="721.07" ybr="681.30" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="63defcb8-4d03-4822-96d0-a7e306d8112a.jpeg" width="1024" height="768">
+  </image>
+  <image id="184" name="64613c0b-c03d-430d-8772-5b277d3d0224.jpg" width="720" height="960">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="18.72" ytl="397.16" xbr="567.77" ybr="944.53" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="407.77" ytl="530.21" xbr="720.00" ybr="869.75" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="647347a6-9b35-40d3-bd62-9afe8997211a.jpeg" width="1024" height="716">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="395.62" ytl="336.20" xbr="762.41" ybr="631.39" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="655c9c12-553a-4778-9adb-c38b18f67327.jpg" width="769" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="257.52" ytl="392.78" xbr="460.25" ybr="565.36" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="65e0e510-09a2-4c91-9518-653d6f9c083e.jpeg" width="1024" height="824">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="95.06" ytl="166.19" xbr="877.43" ybr="709.16" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="6606018f-2f1d-4394-b585-7a5c40d3f803.jpeg" width="1024" height="841">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="121.85" ytl="140.44" xbr="780.48" ybr="595.46" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="6613fde8-2998-49b7-a0a0-6a6bffc82398.jpg" width="987" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="125.16" ytl="217.21" xbr="853.81" ybr="885.50" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="6638394d-dafa-4188-a001-f9a0a7f33aeb.jpeg" width="1024" height="768">
+  </image>
+  <image id="191" name="668e0430-925d-4349-8f7f-b29ec2a0bc44.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="231.09" ytl="66.59" xbr="722.85" ybr="634.56" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="675ee4d7-ed02-4fd5-bc46-5241cc324651.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="492.79" ytl="338.36" xbr="1020.49" ybr="623.06" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="67b35f2a-c920-43e6-a89e-0caf12a26da7.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="247.09" ytl="161.00" xbr="568.56" ybr="379.27" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="67cd99aa-3812-45f8-b1bf-73d678913c1d.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="166.83" ytl="356.08" xbr="551.08" ybr="665.48" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="67e5d551-2c57-43fb-86ea-d2a3e4d68f3d.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="497.84" ytl="216.48" xbr="924.50" ybr="596.36" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="181.58" ytl="322.20" xbr="672.80" ybr="622.56" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="68d0607c-6723-4147-9241-28d57c59b262.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="156.85" ytl="396.00" xbr="471.23" ybr="586.88" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="68d54c94-e3c7-4876-9136-54232af33d3c.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="323.49" ytl="224.86" xbr="837.65" ybr="747.10" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="698020ce-03fd-435f-bd72-93ba97254283.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="210.96" ytl="290.08" xbr="497.68" ybr="559.55" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="6a0b27e1-3c37-4a8a-8032-720cb495c373.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="276.51" ytl="184.89" xbr="681.84" ybr="547.56" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="6ac5481d-4482-4788-ab37-3ffffd1c4357.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="325.24" ytl="92.02" xbr="880.14" ybr="743.93" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="6ba2f0c9-6e49-402b-b5b8-fe76e9c420c4.jpeg" width="1024" height="849">
+  </image>
+  <image id="202" name="6bc52bf2-c97a-4f57-b5e6-2392ca1a03c6.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="34.08" ytl="356.55" xbr="605.36" ybr="696.08" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="6cc61dd6-a377-44f5-bce5-35633706cf80.jpg" width="1024" height="908">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="145.91" ytl="230.18" xbr="846.82" ybr="794.09" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="6e2ebde8-2db2-40b2-97c6-4cbded56baeb.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="345.71" ytl="185.75" xbr="711.18" ybr="436.18" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="6f263748-483b-409a-9621-578393ed582f.jpg" width="1024" height="682">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="279.05" ytl="51.62" xbr="930.33" ybr="632.60" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="6f706986-c6ab-4bf1-ba97-7361f917a34e.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="214.28" ytl="159.03" xbr="796.34" ybr="638.77" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="6fd86091-70d2-483b-9f31-8620b8faf2f8.jpg" width="1024" height="725">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="88.51" ytl="119.72" xbr="770.08" ybr="629.63" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="6fe772bc-5377-49a8-bcbf-732fcc2f3061.jpeg" width="1024" height="911">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="112.56" ytl="95.16" xbr="863.76" ybr="815.98" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="704153ee-e9ff-4c42-b8d1-13edd99df85c.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="192.78" ytl="385.90" xbr="432.31" ybr="559.31" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="7138241d-d884-454e-b1f5-9a001f0ad273.jpg" width="600" height="600">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="106.83" ytl="163.92" xbr="468.67" ybr="462.16" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="71739eba-4fee-4b3f-bc08-cc96d4d85cb1.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="391.80" ytl="314.46" xbr="700.35" ybr="543.52" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="723bf283-f5e2-40b2-afee-d38701edce1b.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="124.76" ytl="112.53" xbr="709.50" ybr="472.01" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="723dc782-d562-4bfc-b6be-5ebf565b587f.jpg" width="1024" height="778">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="600.51" ytl="445.46" xbr="831.18" ybr="606.52" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="7265752b-b271-4271-b918-f1d01c312656.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="264.92" ytl="356.37" xbr="604.64" ybr="704.89" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="730aff94-5fe3-4417-b1e8-1c1fe313b790.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="395.84" ytl="158.17" xbr="847.21" ybr="617.62" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="73d3ad05-e719-49f4-a5d3-40dc6d34ed61.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="490.10" ytl="288.56" xbr="715.49" ybr="551.09" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="73d8a90b-dd61-4072-a30c-63f4e9c3ef00.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="3.73" ytl="84.98" xbr="1021.04" ybr="680.50" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="746df2e3-f3a0-4564-92d5-5caa6da7783a.jpeg" width="1024" height="768">
+  </image>
+  <image id="219" name="74c2a83a-280e-4bff-9612-bcbc08acda3b.jpg" width="999" height="667">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="246.77" ytl="124.43" xbr="834.85" ybr="564.23" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="75135ff5-d4fd-42a9-bea5-6669eb056456.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="101.53" ytl="148.10" xbr="903.03" ybr="637.03" z_order="0">
+    </box>
+  </image>
+  <image id="221" name="75563ef7-1036-451f-9340-b713bc60aa37.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="351.16" ytl="400.02" xbr="517.50" ybr="575.90" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="7567eb7b-991e-464f-9431-b8d1f08b0297.jpeg" width="1024" height="683">
+  </image>
+  <image id="223" name="7574b644-75dc-4b67-8cd7-fac243780705.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="359.13" ytl="225.29" xbr="675.47" ybr="474.52" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="75853157-f12c-470a-a7dc-d102f041ddd0.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="240.51" ytl="170.20" xbr="804.88" ybr="627.90" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="76565ed4-047d-4dd6-913e-a9ffd74fc4ee.jpg" width="1024" height="684">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="26.56" ytl="171.04" xbr="638.56" ybr="605.44" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="7677d37e-ee22-4fef-921f-de9764dae438.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="389.92" ytl="178.51" xbr="796.82" ybr="491.10" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="76e8a498-546c-4f6b-ac7b-c5ae0508144a.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="447.85" ytl="311.90" xbr="689.03" ybr="524.79" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="77671745-8b52-48f7-8bd8-19e377ec56e0.jpg" width="822" height="640">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="313.79" ytl="241.93" xbr="591.12" ybr="445.16" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="7777c1cc-a00d-4b13-9e8f-9667d806a56c.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="181.75" ytl="426.61" xbr="762.01" ybr="794.89" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="77a8814b-7c82-4a1e-b652-5b8dfff71de8.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="368.96" ytl="170.29" xbr="702.44" ybr="393.62" z_order="0">
+    </box>
+  </image>
+  <image id="231" name="77d80c34-d239-407a-bde7-5bc400d982aa.jpeg" width="1024" height="799">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="277.07" ytl="330.89" xbr="783.10" ybr="762.63" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="785b0f55-f9db-4d9b-8b6b-4b807e1a50f6.jpeg" width="1024" height="768">
+  </image>
+  <image id="233" name="787c1d6c-b088-4148-b8c2-6e6d3e2fbe84.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="255.40" ytl="440.98" xbr="501.52" ybr="635.00" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="79600fad-7196-4143-a8e4-28477d5d6a36.jpeg" width="1024" height="683">
+  </image>
+  <image id="235" name="79a481a4-5e62-47da-bc1b-7fbd7297c054.jpeg" width="1024" height="682">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="135.02" ytl="37.50" xbr="886.22" ybr="642.25" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="79fb30ec-731c-408e-85a2-0aa4b5c02ae7.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="115.05" ytl="344.73" xbr="479.34" ybr="665.35" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="79ff1734-5272-4579-ab39-a66f151f6498.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="335.37" ytl="291.08" xbr="804.46" ybr="609.21" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="7a1cce36-09b7-4586-9137-ac69e3b59e62.jpg" width="1000" height="750">
+  </image>
+  <image id="239" name="7b9d119d-2e84-4b77-9262-81049fb2e951.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="154.97" ytl="420.83" xbr="419.46" ybr="753.93" z_order="0">
+    </box>
+  </image>
+  <image id="240" name="7bb5fbe7-4f2d-4626-91dc-44ae8f75c91b.jpeg" width="1024" height="478">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="207.26" ytl="68.76" xbr="657.57" ybr="387.38" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="7bc2205a-c7e0-4891-b78f-c435e3bd6644.jpg" width="1024" height="768">
+  </image>
+  <image id="242" name="7d087d39-f49a-4cfa-8123-ca9ed0b31c24.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="232.30" ytl="111.85" xbr="964.73" ybr="659.96" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="7d40b854-2689-4ab0-97e8-47dbbf77e36b.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="211.28" ytl="207.24" xbr="898.44" ybr="638.94" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="7d653476-52c2-4395-9d3c-3d9a7fd1d76b.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="125.16" ytl="307.80" xbr="435.05" ybr="602.72" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="7ed36e2e-2e46-4e97-971c-b15025e870fe.jpeg" width="1005" height="557">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="174.23" ytl="71.95" xbr="721.46" ybr="475.04" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="7ed8a1e7-8aa1-40d1-b1a6-239ef1a4c7e9.jpg" width="1024" height="682">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="0.31" ytl="251.72" xbr="686.76" ybr="682.00" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="7eeb986e-1639-43c0-852e-d5797018f433.jpg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="299.99" ytl="388.81" xbr="728.99" ybr="750.98" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="7f0db0fd-9ecc-41ef-9d53-c8b6ba4269a0.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="119.77" ytl="381.76" xbr="532.96" ybr="757.67" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="7f691869-54e1-42a2-8303-2d63019955d5.jpg" width="1024" height="768">
+  </image>
+  <image id="250" name="803dabe3-6788-48a8-b11c-db934c7e7487.jpeg" width="1024" height="768">
+  </image>
+  <image id="251" name="80b21fe4-b7fb-4d8d-a0b8-3588e059cdb4.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="214.43" ytl="156.86" xbr="649.74" ybr="551.60" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="80be8359-28dd-4c1b-9f95-51c56b497e2c.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="456.29" ytl="280.39" xbr="735.12" ybr="509.63" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="81779397-bbea-44ea-aadf-638163c984e7.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="372.00" ytl="269.16" xbr="750.34" ybr="636.19" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="8216e01d-49ca-43d9-a737-2d854c6cbbe9.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="249.12" ytl="432.14" xbr="512.12" ybr="695.15" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="82454e2f-d99a-460d-8274-eef68c3381c7.jpeg" width="835" height="630">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="105.69" ytl="166.44" xbr="683.96" ybr="508.62" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="825f3914-fd1a-4592-9cac-7a74b4480ea5.jpeg" width="932" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="231.87" ytl="190.69" xbr="738.48" ybr="718.86" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="8296718e-5c69-486b-9710-c043dfc70236.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="321.87" ytl="269.16" xbr="805.31" ybr="738.05" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="83aac9c9-8f8f-4a03-b25d-aa3dba677ed7.jpg" width="1000" height="750">
+  </image>
+  <image id="259" name="84356573-c37e-43a6-8c93-d7c405c0e9e5.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="49.92" ytl="5.30" xbr="928.84" ybr="760.04" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="846ecebe-817d-4209-90f8-38f56d65cc94.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="398.52" ytl="572.03" xbr="581.17" ybr="703.78" z_order="0">
+    </box>
+  </image>
+  <image id="261" name="84cc3796-e6cb-40ba-a7aa-756c1b28e275.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="69.92" ytl="419.33" xbr="748.09" ybr="905.88" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="860fd454-00cf-4c56-940f-94021c7d8a5b.jpeg" width="963" height="770">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="67.21" ytl="70.94" xbr="887.47" ybr="719.36" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="86eb761e-241c-43b4-9ad4-ded8696fabd5.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="180.40" ytl="179.11" xbr="684.85" ybr="617.27" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="86fc0b97-251e-4d4c-b2c4-62399a6a6a32.jpg" width="1024" height="673">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="394.24" ytl="190.21" xbr="915.60" ybr="645.02" z_order="0">
+    </box>
+  </image>
+  <image id="265" name="87506b10-6489-47d9-86d5-f21dc1ee5245.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="166.40" ytl="478.86" xbr="403.80" ybr="694.38" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="87941968-d300-4ea2-a60d-18be001f07ce.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="210.91" ytl="196.53" xbr="814.83" ybr="626.70" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="889b8d37-63a0-413a-a637-bb8907f5c76b.jpg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="204.49" ytl="38.28" xbr="868.47" ybr="965.27" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="88a77834-ed84-4de7-9293-cb7098cc5a6e.jpeg" width="1024" height="768">
+  </image>
+  <image id="269" name="89663361-46bb-4518-8011-9cc5186ba332.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="415.49" ytl="224.40" xbr="730.77" ybr="449.12" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="8a3e6796-e47d-476d-902c-cb7df5e7a1af.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="272.61" ytl="357.34" xbr="524.84" ybr="566.45" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="8a6e38b9-7d18-40a0-bd16-df2fcd9719c7.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="271.59" ytl="195.28" xbr="788.98" ybr="701.35" z_order="0">
+    </box>
+  </image>
+  <image id="272" name="8aa1a8f1-e0a1-4316-96b4-293af15ca123.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="143.86" ytl="46.53" xbr="798.68" ybr="484.69" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="8b9bc099-23f9-4ed7-957a-e426be6967da.jpeg" width="1024" height="846">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="124.21" ytl="131.34" xbr="979.12" ybr="674.56" z_order="0">
+    </box>
+  </image>
+  <image id="274" name="8bb7b066-3382-4fa7-86c7-d3f55d7c078f.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="98.86" ytl="206.43" xbr="920.21" ybr="851.01" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="8bece4db-7c9c-4b4b-bed6-e48cfd0a07ec.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="240.72" ytl="214.55" xbr="663.46" ybr="579.78" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="8c9b1dad-9675-4a41-9b21-0cf3ae74bc4b.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="276.44" ytl="132.22" xbr="879.52" ybr="638.29" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="8dc683ca-0ddb-46c6-a399-32a7b507399a.jpeg" width="1024" height="769">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="271.14" ytl="146.16" xbr="802.32" ybr="602.70" z_order="0">
+    </box>
+  </image>
+  <image id="278" name="8e4fd286-6a76-4b26-b348-10cf4cff8d5b.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="88.89" ytl="57.84" xbr="931.26" ybr="712.66" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="8f121679-29ce-43f6-9f9e-34dcc9f5d9f6.jpg" width="1024" height="768">
+  </image>
+  <image id="280" name="8f3cbdf6-fb53-4791-bccf-af4071c33f28.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="222.03" ytl="21.88" xbr="951.04" ybr="668.93" z_order="0">
+    </box>
+  </image>
+  <image id="281" name="90010779-b0da-4faa-a815-d8d7e9d530b5.jpeg" width="930" height="620">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="287.92" ytl="136.77" xbr="787.84" ybr="523.13" z_order="0">
+    </box>
+  </image>
+  <image id="282" name="901c2df0-02b7-4a13-9cb2-81f1cd8a8c9b.jpeg" width="1024" height="678">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="251.18" ytl="18.23" xbr="473.85" ybr="223.77" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="386.78" ytl="115.29" xbr="676.54" ybr="330.83" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="632.29" ytl="121.00" xbr="949.16" ybr="362.23" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="455.29" ytl="263.60" xbr="755.04" ybr="604.88" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="90970c99-38b3-4a75-b54b-2ab0f615f0e9.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="442.98" ytl="272.88" xbr="750.18" ybr="515.41" z_order="0">
+    </box>
+  </image>
+  <image id="284" name="9475fc28-d180-4529-9b05-7f583d7a6a40.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="95.84" ytl="496.20" xbr="291.71" ybr="717.00" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="94cc4c0c-96a8-4eb6-a5d7-66cea837499f.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="320.76" ytl="140.79" xbr="907.42" ybr="508.32" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="95e4ffdf-1d2d-47cf-a9d1-734a87bc111e.jpeg" width="1024" height="768">
+  </image>
+  <image id="287" name="96a49931-8f0e-4db5-8f32-5f2e38725fed.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="330.43" ytl="151.59" xbr="684.03" ybr="417.88" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="98ba7eef-b686-456d-bb1c-314542410534.jpg" width="1000" height="750">
+  </image>
+  <image id="289" name="98d4d747-8d00-444f-a7e6-3dd377316706.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="165.83" ytl="426.19" xbr="391.64" ybr="713.13" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="99db73dd-917b-48b5-a1a4-7d9616abc59a.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="185.65" ytl="195.76" xbr="732.69" ybr="637.70" z_order="0">
+    </box>
+  </image>
+  <image id="291" name="9a01525d-d4ce-4032-aa09-07ce4b57e285.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="190.55" ytl="430.02" xbr="386.37" ybr="701.29" z_order="0">
+    </box>
+  </image>
+  <image id="292" name="9a07ebe4-ca26-4c2e-8c75-b50b851ae6bd.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="282.89" ytl="483.92" xbr="469.72" ybr="685.12" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="9a39f829-0782-4e08-92a0-88efbc627f56.jpg" width="766" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="262.39" ytl="307.05" xbr="630.42" ybr="658.87" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="9a68e40b-5e45-4168-8a1d-faeca43b0bf5.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="143.21" ytl="233.27" xbr="715.57" ybr="661.73" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="9aa29590-c3dc-4558-83b9-a5c544e07951.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="243.09" ytl="185.58" xbr="943.89" ybr="695.47" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="9ab66ba9-d976-45ad-9144-3091c3f1a6e1.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="235.55" ytl="54.17" xbr="691.08" ybr="582.17" z_order="0">
+    </box>
+  </image>
+  <image id="297" name="9b78bad2-dc36-4baf-a4c2-5f2e4f0722ca.jpeg" width="1024" height="679">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="216.64" ytl="164.97" xbr="718.90" ybr="481.97" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="9c516e66-0adf-429d-90e3-e6a96ffa3f8b.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="134.09" ytl="252.95" xbr="575.13" ybr="540.75" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="399.13" ytl="194.97" xbr="879.50" ybr="619.44" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="9dd70a54-e25b-4ded-92ef-6cb3f0f2ddaf.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="7.93" ytl="1.42" xbr="960.19" ybr="714.09" z_order="0">
+    </box>
+  </image>
+  <image id="300" name="9f061b9e-d4c0-4d83-93e3-fc060e92b5b6.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="463.02" ytl="223.73" xbr="765.54" ybr="629.56" z_order="0">
+    </box>
+  </image>
+  <image id="301" name="a001a79a-eaa0-4f6b-b4d4-02b6ab3f0f93.jpg" width="800" height="587">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="68.54" ytl="90.04" xbr="649.36" ybr="520.10" z_order="0">
+    </box>
+  </image>
+  <image id="302" name="a0cee657-91ac-429a-a9e8-5cce8102e97a.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="150.60" ytl="354.32" xbr="541.01" ybr="832.90" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="a10c4d7e-3810-4cb8-b9ab-d394dc045322.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="370.80" ytl="469.83" xbr="496.86" ybr="575.09" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="a16cd621-2435-4cee-98e8-d496f2357c7a.jpg" width="803" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="254.21" ytl="362.70" xbr="688.36" ybr="719.05" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="a1dd0b85-fe7e-4ca8-b089-eaa300977ce2.jpeg" width="1024" height="768">
+  </image>
+  <image id="306" name="a1f1c8f4-b6f6-44ec-9320-14930a14d8a9.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="291.96" ytl="85.31" xbr="710.32" ybr="443.04" z_order="0">
+    </box>
+  </image>
+  <image id="307" name="a20deca2-f213-403f-9d4b-3bd1dee8711a.jpeg" width="1024" height="768">
+  </image>
+  <image id="308" name="a248677a-ddc5-4547-ad32-7c7974dd0d77.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="218.53" ytl="146.04" xbr="843.71" ybr="667.47" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="a2f26609-6872-41bd-98f1-50d833aa7b40.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="336.42" ytl="222.74" xbr="614.32" ybr="398.57" z_order="0">
+    </box>
+  </image>
+  <image id="310" name="a4e73a78-303c-42ec-9bce-b8bf4e1bfb66.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="130.03" ytl="214.39" xbr="647.67" ybr="573.86" z_order="0">
+    </box>
+  </image>
+  <image id="311" name="a55ac888-ac82-4ccd-8650-aa7592d9e598.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="168.81" ytl="487.69" xbr="452.66" ybr="694.29" z_order="0">
+    </box>
+  </image>
+  <image id="312" name="a5755953-61bb-4ed4-84cc-0fe49aa87a55.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="249.65" ytl="484.10" xbr="634.10" ybr="857.77" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="a5774b60-8468-43f5-8a91-da91516fddda.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="244.27" ytl="396.07" xbr="574.82" ybr="744.59" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="a58e5185-81a1-485e-897c-df3675b67cc6.jpg" width="690" height="906">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="76.71" ytl="151.73" xbr="593.29" ybr="830.44" z_order="0">
+    </box>
+  </image>
+  <image id="315" name="a5d6cd68-1e26-4868-8bb9-58196cfb1a1a.jpeg" width="1024" height="768">
+  </image>
+  <image id="316" name="a6669dcb-8ed1-49f5-8da4-ba29599fa387.jpeg" width="1024" height="833">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="122.86" ytl="125.67" xbr="934.82" ybr="604.43" z_order="0">
+    </box>
+  </image>
+  <image id="317" name="a74d92fa-7565-420e-b467-ffeab059dbc2.jpg" width="1024" height="768">
+  </image>
+  <image id="318" name="a7be055c-41f0-408c-8d8f-dd9966ac8b0d.jpg" width="768" height="1024">
+  </image>
+  <image id="319" name="a8708673-0d85-44ae-ae71-7ce0f84b013a.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="160.34" ytl="511.15" xbr="414.84" ybr="739.46" z_order="0">
+    </box>
+  </image>
+  <image id="320" name="a8b90bf8-0e8e-4cc8-ab4a-a8e388abeb1d.jpeg" width="1024" height="781">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="442.25" ytl="286.58" xbr="560.24" ybr="409.33" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="a932f7ee-a4d9-4e9d-a0ac-71a4100aab22.jpg" width="1024" height="768">
+  </image>
+  <image id="322" name="a95ba8d6-73c2-4a27-9c6f-5a6824434873.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="4.49" ytl="285.79" xbr="733.57" ybr="904.09" z_order="0">
+    </box>
+  </image>
+  <image id="323" name="a9a9f787-9527-45e5-8f5b-7dad1bcb4934.jpeg" width="461" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="8.98" ytl="133.09" xbr="459.60" ybr="642.10" z_order="0">
+    </box>
+  </image>
+  <image id="324" name="aac5ee32-1e2d-45ad-b878-c2b7634045d7.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="0.00" ytl="342.68" xbr="624.28" ybr="748.39" z_order="0">
+    </box>
+  </image>
+  <image id="325" name="aafe8dc3-8b11-48b2-93d2-fb7375ebe23c.jpeg" width="840" height="1024">
+  </image>
+  <image id="326" name="aba6234e-4585-4b7f-835d-a6529dbb8561.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="1.50" ytl="254.36" xbr="582.36" ybr="803.78" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="abb3a197-8d56-4dc5-900e-4c7fb00eaf8d.jpg" width="959" height="640">
+  </image>
+  <image id="328" name="ad95ddc0-5ce9-4b48-ba3c-fc4d7d29663b.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="470.29" ytl="337.26" xbr="548.80" ybr="399.53" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="ade0b26b-cbb6-4b4d-9440-aa17bc887b48.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="265.22" ytl="335.18" xbr="500.18" ybr="518.16" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="aed9fdd1-6975-42b8-8545-dbf607bcb13c.jpg" width="900" height="595">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="53.54" ytl="183.69" xbr="584.66" ybr="535.68" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="afa8ef36-f1e3-47e9-8f47-43f11364f13d.jpeg" width="1024" height="462">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="342.60" ytl="165.84" xbr="590.13" ybr="335.80" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="b00ed707-cebe-4ae7-8017-767d3bc6e5ce.jpg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="198.24" ytl="328.02" xbr="821.48" ybr="782.89" z_order="0">
+    </box>
+  </image>
+  <image id="333" name="b13053e1-90c3-4a04-8152-df43b4f9cc43.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="289.70" ytl="232.95" xbr="756.97" ybr="604.82" z_order="0">
+    </box>
+  </image>
+  <image id="334" name="b15062f4-063d-4e10-9c7c-eaafa76b1627.jpg" width="768" height="1024">
+  </image>
+  <image id="335" name="b15ccc3e-8eac-4567-ba41-e56da32c22e7.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="233.92" ytl="214.75" xbr="765.94" ybr="580.21" z_order="0">
+    </box>
+  </image>
+  <image id="336" name="b15e6782-74e0-4ac4-88ce-6c97d9ea83d9.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="71.13" ytl="174.20" xbr="754.24" ybr="684.85" z_order="0">
+    </box>
+  </image>
+  <image id="337" name="b16056a0-73fa-4913-b301-728cf42626a8.jpg" width="1000" height="750">
+  </image>
+  <image id="338" name="b2be5605-7c46-4f76-87df-e5c257fc9176.jpg" width="800" height="600">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="102.95" ytl="91.89" xbr="732.42" ybr="560.32" z_order="0">
+    </box>
+  </image>
+  <image id="339" name="b2dbc605-f71d-44f6-894a-8037d3e5f292.jpeg" width="1024" height="682">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="319.17" ytl="231.23" xbr="673.34" ybr="550.70" z_order="0">
+    </box>
+  </image>
+  <image id="340" name="b3168e1e-f7f4-4e6e-940d-43c845e5831c.jpeg" width="1024" height="954">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="258.93" ytl="275.00" xbr="660.61" ybr="736.93" z_order="0">
+    </box>
+  </image>
+  <image id="341" name="b316fd87-085c-4f02-9126-7701f2ad88eb.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="359.06" ytl="261.00" xbr="754.29" ybr="769.38" z_order="0">
+    </box>
+  </image>
+  <image id="342" name="b3e94d55-2445-46b1-ad9f-cf12e4775418.jpg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="1.38" ytl="171.15" xbr="906.99" ybr="977.80" z_order="0">
+    </box>
+  </image>
+  <image id="343" name="b403e200-bc33-4fb8-aa4c-d7e59c172a6c.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="345.80" ytl="257.69" xbr="872.89" ybr="587.52" z_order="0">
+    </box>
+  </image>
+  <image id="344" name="b404a5c4-b303-4f0c-bada-922016f8b3fa.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="434.57" ytl="239.90" xbr="628.75" ybr="387.03" z_order="0">
+    </box>
+  </image>
+  <image id="345" name="b6060e9a-f92f-44ee-a4e1-aa181dd9aae6.jpeg" width="1024" height="1011">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="18.61" ytl="227.41" xbr="1014.71" ybr="774.42" z_order="0">
+    </box>
+  </image>
+  <image id="346" name="b65f6ee2-2c32-4f7f-897a-5a1a5add2681.jpg" width="1024" height="704">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="169.90" ytl="283.58" xbr="610.09" ybr="608.20" z_order="0">
+    </box>
+  </image>
+  <image id="347" name="b66d4e82-b61e-46f5-a5d3-f43a23483994.jpeg" width="577" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="173.45" ytl="354.32" xbr="447.45" ybr="673.38" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="b70b1456-851f-47b9-b621-8419fa3c038a.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="306.58" ytl="192.41" xbr="712.21" ybr="488.62" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="b78e6ead-edff-4016-8ac7-fd3f16a1f644.jpg" width="1024" height="768">
+  </image>
+  <image id="350" name="b7eadff0-e623-4a72-bd6a-3c84a08c1bcf.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="499.24" ytl="309.42" xbr="814.69" ybr="503.45" z_order="0">
+    </box>
+  </image>
+  <image id="351" name="b9c1e487-313b-42f0-8722-37e5959378b1.jpg" width="640" height="854">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="193.35" ytl="344.30" xbr="441.81" ybr="600.25" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="b9d74fee-24f3-43ef-9f1f-90c0b5da4d36.jpeg" width="923" height="923">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="264.37" ytl="332.25" xbr="626.15" ybr="634.52" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="ba289432-aff5-4888-add2-39b6af69c9d5.jpg" width="1024" height="683">
+  </image>
+  <image id="354" name="bb4c5603-312e-4932-a644-dca7c63e556a.jpeg" width="576" height="1024">
+  </image>
+  <image id="355" name="bb679316-c263-4f94-82d0-cab4a76fc68e.jpg" width="750" height="1000">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="237.75" ytl="343.16" xbr="519.91" ybr="638.48" z_order="0">
+    </box>
+  </image>
+  <image id="356" name="bb6eddbf-ca71-4c1a-92ca-8a8ff1bd5385.jpeg" width="1024" height="766">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="1.66" ytl="4.95" xbr="1023.43" ybr="693.87" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="bb806a46-5975-46e0-a35e-b0b116482b1d.jpeg" width="1024" height="861">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="175.64" ytl="0.00" xbr="1013.07" ybr="833.19" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="bc084b61-06bb-462d-ad55-b102e7410303.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="157.60" ytl="111.81" xbr="832.80" ybr="744.32" z_order="0">
+    </box>
+  </image>
+  <image id="359" name="bc41fcd8-4acc-49d4-833e-2d65ee843e1c.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="394.07" ytl="324.46" xbr="679.26" ybr="566.98" z_order="0">
+    </box>
+  </image>
+  <image id="360" name="bd1b0bf8-5cf9-4e53-9796-719b20ebd0eb.jpeg" width="575" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="11.23" ytl="392.24" xbr="529.22" ybr="851.84" z_order="0">
+    </box>
+  </image>
+  <image id="361" name="bd60ba05-9d57-4fef-8464-ce61281dd4ef.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="321.09" ytl="279.54" xbr="909.44" ybr="601.79" z_order="0">
+    </box>
+  </image>
+  <image id="362" name="bebcb37a-bf6e-42a1-b3cf-ae534279384f.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="377.23" ytl="253.72" xbr="711.82" ybr="523.19" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="beebfa3d-5173-4ab5-b71b-ef48baffc572.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="20.97" ytl="13.52" xbr="980.21" ybr="521.31" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="bf810fea-2178-4bdc-b8dd-f2ae13b57b74.jpeg" width="1024" height="753">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="265.52" ytl="295.43" xbr="573.93" ybr="505.44" z_order="0">
+    </box>
+  </image>
+  <image id="365" name="c0119dc7-28e8-45cc-8f6d-5dd0c64cd706.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="114.63" ytl="69.08" xbr="766.86" ybr="648.84" z_order="0">
+    </box>
+  </image>
+  <image id="366" name="c1228ede-e6cc-4925-8db3-90fc03330b46.jpeg" width="560" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="68.57" ytl="441.04" xbr="487.75" ybr="863.22" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="c1664026-3765-40e1-811a-4115743a4945.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="253.33" ytl="105.79" xbr="685.41" ybr="548.91" z_order="0">
+    </box>
+  </image>
+  <image id="368" name="c19444af-7ccb-48b9-852e-7f44624333fc.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="15.21" ytl="160.94" xbr="687.82" ybr="909.00" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="c195080d-604b-4857-88a2-1bd7edc96116.jpeg" width="1024" height="721">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="167.42" ytl="105.04" xbr="864.14" ybr="643.89" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="c1c15706-377a-4844-861c-51eb013e7fd7.jpeg" width="1024" height="768">
+  </image>
+  <image id="371" name="c291324e-11f7-4560-8f3e-6589991efed5.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="346.55" ytl="218.87" xbr="701.71" ybr="526.58" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="c2dc73ca-3b17-46a7-b647-018ad739fc33.jpg" width="1024" height="1013">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="160.11" ytl="220.04" xbr="902.27" ybr="906.75" z_order="0">
+    </box>
+  </image>
+  <image id="373" name="c3eafa71-a25b-4b18-9438-9a2f59a6eac5.jpeg" width="1024" height="691">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="242.80" ytl="150.09" xbr="645.86" ybr="585.10" z_order="0">
+    </box>
+  </image>
+  <image id="374" name="c441ab12-07a6-4982-81c5-86cff9ccb241.jpg" width="768" height="1024">
+  </image>
+  <image id="375" name="c487e924-e378-4226-86db-a0fe341299ba.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="293.74" ytl="195.11" xbr="845.08" ybr="651.06" z_order="0">
+    </box>
+  </image>
+  <image id="376" name="c52e2590-38ce-4f8b-9b01-29fb22a44d57.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="369.57" ytl="229.07" xbr="702.80" ybr="512.01" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="c683317d-6479-4b59-ac0c-90f4032fc0ee.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="453.81" ytl="343.86" xbr="812.75" ybr="607.41" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="c70f2457-74f3-4687-9640-6e9edb161b6f.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="279.08" ytl="186.81" xbr="850.37" ybr="861.58" z_order="0">
+    </box>
+  </image>
+  <image id="379" name="c77f7850-a6fa-4793-b498-147d2c6853ba.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="0.00" ytl="79.02" xbr="994.80" ybr="945.65" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="c791d119-1391-4e7a-8762-07f357469de5.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="152.98" ytl="408.85" xbr="403.74" ybr="720.87" z_order="0">
+    </box>
+  </image>
+  <image id="381" name="c7cc927f-42b9-4876-8e4e-c4adbfdc7b43.jpg" width="1024" height="972">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="397.71" ytl="219.85" xbr="996.25" ybr="784.46" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="c7dc2ede-87a0-481a-83ba-4a36076990d0.jpeg" width="1024" height="682">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="313.31" ytl="205.87" xbr="681.83" ybr="522.94" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="c8500b77-2598-4b7d-a453-0ca6d874c4c9.jpeg" width="577" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="63.00" ytl="305.35" xbr="479.79" ybr="592.78" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="c8d075c1-5eaf-45e5-9c55-5d15624415e8.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="261.38" ytl="84.87" xbr="904.07" ybr="536.24" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="c935fc81-dda1-4ec5-aa88-5737ca563740.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="167.56" ytl="436.49" xbr="379.54" ybr="722.13" z_order="0">
+    </box>
+  </image>
+  <image id="386" name="caecbec7-c79a-4fff-8dd5-07964037a8bb.jpeg" width="963" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="246.96" ytl="370.02" xbr="660.15" ybr="783.21" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="cb31787f-08fc-4eb1-b538-05808d1060d8.jpg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="287.62" ytl="138.46" xbr="659.49" ybr="439.60" z_order="0">
+    </box>
+  </image>
+  <image id="388" name="cb5170bf-670c-46b1-b0cb-22a52c30aa6f.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="402.24" ytl="475.33" xbr="617.55" ybr="666.62" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="cbd65f98-322e-4244-a148-50579c69ab41.jpeg" width="1024" height="1024">
+  </image>
+  <image id="390" name="cc61e536-5d9e-43ed-b85d-687188226f10.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="255.26" ytl="188.03" xbr="697.37" ybr="597.24" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="cc886dd9-947e-4623-9b85-19ba62dae535.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="187.31" ytl="249.61" xbr="447.32" ybr="500.17" z_order="0">
+    </box>
+  </image>
+  <image id="392" name="cc95f9aa-8a6c-4764-bb43-b1fb0c97df48.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="256.71" ytl="235.40" xbr="726.32" ybr="576.18" z_order="0">
+    </box>
+  </image>
+  <image id="393" name="cca51124-99b5-4123-9f6e-29b3dd8ebec2.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="202.59" ytl="375.23" xbr="479.25" ybr="639.31" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="cccccf14-8216-407f-93b7-756998dc4203.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="259.21" ytl="218.29" xbr="790.80" ybr="601.18" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="cd0af115-3f0b-4201-8cca-3c8c6cc52d50.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="185.92" ytl="196.57" xbr="706.14" ybr="503.77" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="cd498051-4325-4294-b983-7bac68f9e15b.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="216.78" ytl="1.65" xbr="1024.00" ybr="618.87" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="ce3fb94e-72d0-46a9-92c4-a102c66f95a9.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="213.49" ytl="500.77" xbr="390.14" ybr="728.48" z_order="0">
+    </box>
+  </image>
+  <image id="398" name="ce830792-1b91-4ad7-be90-91a0a36dfe93.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="268.43" ytl="364.69" xbr="931.63" ybr="854.23" z_order="0">
+    </box>
+  </image>
+  <image id="399" name="cf01b13f-2ec0-4214-a80b-5df7c51a8a74.jpeg" width="976" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="263.71" ytl="257.76" xbr="708.34" ybr="628.29" z_order="0">
+    </box>
+  </image>
+  <image id="400" name="cf6280fa-7906-47b4-94a3-62e26b9016d2.jpg" width="901" height="1024">
+  </image>
+  <image id="401" name="cf74a22d-ab4d-432f-823a-ade86efeba8e.jpg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="462.59" ytl="172.32" xbr="785.12" ybr="406.42" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="d04af2ed-f55d-420c-b9f6-fbe4f5930a33.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="4.04" ytl="208.99" xbr="447.33" ybr="586.26" z_order="0">
+    </box>
+  </image>
+  <image id="403" name="d15f863e-005d-4b40-ad7d-8972438e6372.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="452.79" ytl="348.71" xbr="709.92" ybr="555.30" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="d17d7b20-95b3-48ce-81ea-37f9600408b7.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="345.00" ytl="317.27" xbr="551.60" ybr="478.95" z_order="0">
+    </box>
+  </image>
+  <image id="405" name="d1eedb6c-a28f-4527-9b9b-9f4856b37f06.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="249.37" ytl="0.00" xbr="859.09" ybr="424.14" z_order="0">
+    </box>
+  </image>
+  <image id="406" name="d209a407-18ad-4194-af13-b8e66eaf99d6.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="291.03" ytl="641.50" xbr="600.93" ybr="975.35" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="45.36" ytl="199.86" xbr="331.45" ybr="460.35" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="344.93" ytl="111.53" xbr="620.39" ybr="348.07" z_order="0">
+    </box>
+  </image>
+  <image id="407" name="d247c01f-dfcb-43e0-a266-396d83ab6585.jpeg" width="1024" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="279.30" ytl="399.37" xbr="863.52" ybr="785.26" z_order="0">
+    </box>
+  </image>
+  <image id="408" name="d4883b66-1390-4556-824a-78251b02e4c1.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="240.29" ytl="200.89" xbr="772.46" ybr="492.79" z_order="0">
+    </box>
+  </image>
+  <image id="409" name="d5856819-0e8f-4f76-98d5-2861bbcdd355.jpg" width="768" height="1024">
+  </image>
+  <image id="410" name="d5a590fe-248b-42d8-98e8-c087500ae7c3.jpeg" width="1024" height="848">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="169.71" ytl="75.09" xbr="712.43" ybr="744.57" z_order="0">
+    </box>
+  </image>
+  <image id="411" name="d5e29491-4473-445d-be22-015cdc31efaa.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="158.34" ytl="320.03" xbr="446.53" ybr="509.66" z_order="0">
+    </box>
+  </image>
+  <image id="412" name="d728bd50-40b4-44cd-b89d-979da81d2400.jpeg" width="1024" height="683">
+  </image>
+  <image id="413" name="d7764326-dbee-45b0-9b55-31694183a764.jpeg" width="1024" height="682">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="215.25" ytl="13.09" xbr="825.46" ybr="657.90" z_order="0">
+    </box>
+  </image>
+  <image id="414" name="d7e87df3-e4e2-41c1-a867-1de07b84f8c7.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="269.97" ytl="82.74" xbr="882.76" ybr="695.53" z_order="0">
+    </box>
+  </image>
+  <image id="415" name="d821dd3a-6d3e-4f33-857c-5cfb4734679f.jpeg" width="768" height="1024">
+  </image>
+  <image id="416" name="d86228d2-8eb5-4176-b0db-24f5a1b5d468.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="80.78" ytl="511.94" xbr="522.72" ybr="855.25" z_order="0">
+    </box>
+  </image>
+  <image id="417" name="d8cb5565-8f1a-469e-8c7d-c4fe7f2455b2.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="181.84" ytl="176.32" xbr="822.63" ybr="652.63" z_order="0">
+    </box>
+  </image>
+  <image id="418" name="d94fda89-c2d9-4012-bc9a-7b1cb4573b4e.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="322.95" ytl="134.82" xbr="904.10" ybr="515.86" z_order="0">
+    </box>
+  </image>
+  <image id="419" name="d960394d-d16c-4a12-821d-445a209d362f.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="217.32" ytl="301.93" xbr="657.46" ybr="813.93" z_order="0">
+    </box>
+  </image>
+  <image id="420" name="d990d12b-7d9f-4a31-b0da-049e248ae1ff.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="75.99" ytl="140.81" xbr="751.92" ybr="600.94" z_order="0">
+    </box>
+  </image>
+  <image id="421" name="db0d198c-442e-4007-a616-13713a9adae7.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="90.49" ytl="88.10" xbr="828.61" ybr="632.09" z_order="0">
+    </box>
+  </image>
+  <image id="422" name="dbc01391-fe54-4e00-8d62-166444634817.jpeg" width="1024" height="760">
+  </image>
+  <image id="423" name="dbe3e2b2-901c-43a1-a3cd-ae152792a69e.jpg" width="768" height="1024">
+  </image>
+  <image id="424" name="dc71cef5-5fcc-40d5-aa23-c4fd7b999c85.jpg" width="877" height="960">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="172.11" ytl="215.77" xbr="638.98" ybr="846.34" z_order="0">
+    </box>
+  </image>
+  <image id="425" name="dc9bb489-ba47-46ab-8c2e-d0ff0fdf4767.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="277.10" ytl="160.06" xbr="721.55" ybr="551.16" z_order="0">
+    </box>
+  </image>
+  <image id="426" name="dcbb57fa-f9fa-4809-8b83-5232550587d1.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="113.95" ytl="148.22" xbr="519.24" ybr="542.73" z_order="0">
+    </box>
+  </image>
+  <image id="427" name="ddbdcbc8-a185-4abe-b807-5f53a0e9ff4d.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="171.99" ytl="80.48" xbr="724.95" ybr="460.44" z_order="0">
+    </box>
+  </image>
+  <image id="428" name="ddc0f37a-0ed9-4ec9-9095-ff6b1b944407.jpg" width="768" height="1024">
+  </image>
+  <image id="429" name="ddf1c51b-777f-47d3-8f64-1eba985e9a96.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="220.50" ytl="88.40" xbr="773.46" ybr="717.52" z_order="0">
+    </box>
+  </image>
+  <image id="430" name="ddfa3ab1-0b25-40e2-a604-f740d2f4c915.jpeg" width="1024" height="731">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="280.66" ytl="240.50" xbr="696.18" ybr="609.84" z_order="0">
+    </box>
+  </image>
+  <image id="431" name="ddfc5d03-b15a-45d9-bcbb-6f72059a14e7.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="14.14" ytl="109.36" xbr="220.43" ybr="280.90" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="290.51" ytl="197.64" xbr="516.72" ybr="395.26" z_order="0">
+    </box>
+  </image>
+  <image id="432" name="def02b44-3be1-4fab-9d9e-7907e79cee9d.jpg" width="1000" height="750">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="155.20" ytl="155.20" xbr="890.36" ybr="657.31" z_order="0">
+    </box>
+  </image>
+  <image id="433" name="df2c6099-4fba-442f-81a5-1ab46fe506ce.jpg" width="600" height="600">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="65.05" ytl="187.83" xbr="556.16" ybr="462.18" z_order="0">
+    </box>
+  </image>
+  <image id="434" name="dfa85e41-912e-4e3c-8d07-e5dba3aaeabc.jpeg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="167.70" ytl="385.65" xbr="429.69" ybr="744.95" z_order="0">
+    </box>
+  </image>
+  <image id="435" name="e01e7aef-b741-41dc-a1d8-316ebc0d4cea.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="293.37" ytl="139.68" xbr="630.28" ybr="392.39" z_order="0">
+    </box>
+  </image>
+  <image id="436" name="e0222390-6b59-495e-9a8b-1ea4745f2874.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="242.07" ytl="139.85" xbr="763.30" ybr="553.25" z_order="0">
+    </box>
+  </image>
+  <image id="437" name="e03021f7-10dc-4280-b91b-dacdecc7c883.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="164.32" ytl="271.57" xbr="602.67" ybr="772.97" z_order="0">
+    </box>
+  </image>
+  <image id="438" name="e3372f0c-a60a-4bc9-a616-248f0e4b7606.jpeg" width="923" height="692">
+  </image>
+  <image id="439" name="e67bfe90-bb6c-4ac3-98f0-46ad1e9a0164.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="88.87" ytl="212.47" xbr="654.76" ybr="672.37" z_order="0">
+    </box>
+  </image>
+  <image id="440" name="e682492c-68d1-44ab-95ec-69e9a785e5f2.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="146.21" ytl="100.31" xbr="813.63" ybr="576.02" z_order="0">
+    </box>
+  </image>
+  <image id="441" name="e70ef11d-9f44-47e9-b83a-1795cd5d60b3.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="445.56" ytl="238.74" xbr="878.20" ybr="711.67" z_order="0">
+    </box>
+  </image>
+  <image id="442" name="e81ccb83-92fe-4646-b2d7-7bbc340ce714.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="282.89" ytl="431.64" xbr="498.47" ybr="668.78" z_order="0">
+    </box>
+  </image>
+  <image id="443" name="e94104f5-fc14-400a-bb38-9ed76ba84b7c.jpeg" width="768" height="1024">
+  </image>
+  <image id="444" name="e95b4e32-64ea-4841-89c3-7a8920c5ca32.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="207.08" ytl="219.88" xbr="758.29" ybr="690.11" z_order="0">
+    </box>
+  </image>
+  <image id="445" name="e97fe537-efa0-4caa-8c75-e9a8e3d4d9da.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="324.74" ytl="109.90" xbr="717.77" ybr="591.59" z_order="0">
+    </box>
+  </image>
+  <image id="446" name="ea2186d7-ad78-4a32-ae10-6629ec9b9841.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="181.15" ytl="407.66" xbr="679.67" ybr="738.51" z_order="0">
+    </box>
+  </image>
+  <image id="447" name="ea41e68c-408f-49d8-b055-feac4ec73d1a.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="287.96" ytl="157.49" xbr="866.21" ybr="638.06" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="ea635c67-a1c1-4efd-b555-86e49f0e4ba4.jpg" width="1024" height="575">
+  </image>
+  <image id="449" name="eb17ea14-d818-4405-90f4-2a13529e4090.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="295.82" ytl="194.55" xbr="767.40" ybr="646.36" z_order="0">
+    </box>
+  </image>
+  <image id="450" name="eba0e37c-8b1c-4985-8bbd-57b04d44fb3b.jpeg" width="1024" height="831">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="102.63" ytl="160.22" xbr="706.35" ybr="673.40" z_order="0">
+    </box>
+  </image>
+  <image id="451" name="ebb23c2b-8bb4-42c9-a468-17ae52588571.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="253.25" ytl="372.71" xbr="551.47" ybr="723.03" z_order="0">
+    </box>
+  </image>
+  <image id="452" name="ec2ecfff-4ef0-493e-8238-de5befc54b35.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="151.69" ytl="170.74" xbr="779.08" ybr="640.76" z_order="0">
+    </box>
+  </image>
+  <image id="453" name="ecb8afd3-d767-4d3b-bc3e-99a723ccbe66.jpeg" width="672" height="633">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="161.82" ytl="154.76" xbr="505.77" ybr="547.88" z_order="0">
+    </box>
+  </image>
+  <image id="454" name="ecc8bb75-67bb-41bd-8d2f-5254e65ba79a.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="295.84" ytl="203.04" xbr="706.52" ybr="521.55" z_order="0">
+    </box>
+  </image>
+  <image id="455" name="ed277df4-129e-4289-bf8d-feb047b19c9e.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="228.08" ytl="364.57" xbr="501.30" ybr="620.32" z_order="0">
+    </box>
+  </image>
+  <image id="456" name="ed3f88ba-4d9b-4c33-9296-05d91baeea16.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="240.25" ytl="272.69" xbr="778.18" ybr="625.26" z_order="0">
+    </box>
+  </image>
+  <image id="457" name="ed930d8d-ecef-4beb-a204-4316fd30825a.jpg" width="1000" height="667">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="137.58" ytl="56.69" xbr="687.07" ybr="595.91" z_order="0">
+    </box>
+  </image>
+  <image id="458" name="edc23943-4dbe-48b4-b29f-d47c8f09fbef.jpeg" width="579" height="539">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="85.88" ytl="115.29" xbr="516.17" ybr="439.37" z_order="0">
+    </box>
+  </image>
+  <image id="459" name="ee9d2b97-479d-4fe7-8795-d50c974cc8ec.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="294.78" ytl="203.97" xbr="779.83" ybr="580.37" z_order="0">
+    </box>
+  </image>
+  <image id="460" name="ef074680-f696-4149-8988-69ff8d364693.jpg" width="1024" height="912">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="147.91" ytl="32.48" xbr="970.44" ybr="769.76" z_order="0">
+    </box>
+  </image>
+  <image id="461" name="ef3188b1-774b-47a7-8cca-5aecf6e19fc3.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="119.96" ytl="151.59" xbr="888.48" ybr="650.22" z_order="0">
+    </box>
+  </image>
+  <image id="462" name="ef4dddf6-7deb-47c6-bcf0-64a0f85607e9.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="305.89" ytl="405.81" xbr="425.74" ybr="628.18" z_order="0">
+    </box>
+  </image>
+  <image id="463" name="efab8258-25e7-4992-85ff-c2a9b1e3db72.jpeg" width="1024" height="768">
+  </image>
+  <image id="464" name="f005eed3-2f11-45cf-83f6-fb40327cd437.jpeg" width="1024" height="461">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="402.77" ytl="134.83" xbr="630.01" ybr="306.60" z_order="0">
+    </box>
+  </image>
+  <image id="465" name="f01258f9-e3df-4c7e-b119-08a786cb5ef7.jpg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="170.69" ytl="339.99" xbr="547.46" ybr="575.78" z_order="0">
+    </box>
+  </image>
+  <image id="466" name="f0140d27-91b4-4688-9bd6-97b5878a604a.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="332.25" ytl="195.36" xbr="923.74" ybr="615.73" z_order="0">
+    </box>
+  </image>
+  <image id="467" name="f0906de7-3ab5-4595-b6f5-2bf11a3f579d.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="498.15" ytl="374.17" xbr="613.55" ybr="519.98" z_order="0">
+    </box>
+  </image>
+  <image id="468" name="f0c45738-f82d-41a3-9baf-ac6de8e96a43.jpeg" width="1024" height="740">
+  </image>
+  <image id="469" name="f154820b-d42c-42d0-b1e7-54477e9559c7.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="312.04" ytl="173.39" xbr="852.33" ybr="678.66" z_order="0">
+    </box>
+  </image>
+  <image id="470" name="f2307fbe-d7d3-4add-b6be-0b259eedad25.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="159.35" ytl="214.45" xbr="917.97" ybr="649.06" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="f23b27e0-94a2-48d0-89d1-3bc5fa04e5fd.jpeg" width="962" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="168.45" ytl="311.45" xbr="660.69" ybr="889.92" z_order="0">
+    </box>
+  </image>
+  <image id="472" name="f3b36c01-448b-4176-a530-067da6f65249.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="127.53" ytl="251.70" xbr="942.42" ybr="715.41" z_order="0">
+    </box>
+  </image>
+  <image id="473" name="f3e260a1-2b11-4108-8ee5-f62b3517157f.jpeg" width="1024" height="616">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="81.97" ytl="158.85" xbr="625.09" ybr="575.91" z_order="0">
+    </box>
+  </image>
+  <image id="474" name="f458c990-c248-45e6-b5cd-8b1a5f3e1ce3.jpeg" width="1024" height="576">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="353.00" ytl="175.35" xbr="622.81" ybr="491.64" z_order="0">
+    </box>
+  </image>
+  <image id="475" name="f46a3eb4-0eed-431c-80f0-e6340139b27b.jpeg" width="576" height="1024">
+  </image>
+  <image id="476" name="f5395050-e4ec-4cc3-91cc-beb46f42a30e.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="250.33" ytl="162.26" xbr="720.05" ybr="531.32" z_order="0">
+    </box>
+  </image>
+  <image id="477" name="f7063805-28d2-4636-a4f3-d73e8c26220c.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="406.49" ytl="282.80" xbr="619.37" ybr="499.73" z_order="0">
+    </box>
+  </image>
+  <image id="478" name="f7135ff1-1b22-4fc0-8a52-93f3ef195a7d.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="252.67" ytl="124.42" xbr="642.70" ybr="425.20" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="357.44" ytl="188.45" xbr="947.27" ybr="597.84" z_order="0">
+    </box>
+  </image>
+  <image id="479" name="f7252758-60d3-4972-9cb1-c505a8d9a12f.jpg" width="796" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="15.90" ytl="95.84" xbr="688.77" ybr="900.38" z_order="0">
+    </box>
+  </image>
+  <image id="480" name="f735a66c-1744-4260-bdfb-0210a28cb524.jpg" width="576" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="13.60" ytl="180.13" xbr="557.93" ybr="749.80" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="f73a83c9-a37d-4a53-b9c8-68f6e28bc3ce.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="403.25" ytl="257.87" xbr="633.65" ybr="509.83" z_order="0">
+    </box>
+  </image>
+  <image id="482" name="f7c5637b-ccef-44a5-9b28-69e7982eb61b.jpg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="287.40" ytl="147.32" xbr="857.82" ybr="564.46" z_order="0">
+    </box>
+  </image>
+  <image id="483" name="f884b8b9-c7d2-46dd-bc5a-4fcb68fcd2a6.jpeg" width="768" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="264.39" ytl="390.14" xbr="504.04" ybr="600.98" z_order="0">
+    </box>
+  </image>
+  <image id="484" name="f94340b8-a58b-4195-9289-0fc3db8c1d24.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="97.03" ytl="78.81" xbr="892.13" ybr="646.15" z_order="0">
+    </box>
+  </image>
+  <image id="485" name="f9461b32-af62-40fb-8c08-42861e46d1a5.jpeg" width="967" height="1024">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="320.53" ytl="310.42" xbr="586.26" ybr="543.84" z_order="0">
+    </box>
+  </image>
+  <image id="486" name="f9ad730a-2b54-490d-b140-ff42f101fc92.jpg" width="1024" height="747">
+  </image>
+  <image id="487" name="fa672eb5-3ca4-4b8e-942c-a37e7a30d082.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="320.39" ytl="367.28" xbr="616.95" ybr="570.73" z_order="0">
+    </box>
+  </image>
+  <image id="488" name="fa9daa3a-b5ce-4901-9d49-b2f7c443af00.jpg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="256.74" ytl="250.19" xbr="812.52" ybr="522.81" z_order="0">
+    </box>
+  </image>
+  <image id="489" name="fac068a5-5511-44ef-9813-68c22352de6a.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="203.68" ytl="203.52" xbr="758.26" ybr="648.20" z_order="0">
+    </box>
+  </image>
+  <image id="490" name="fe3b07fd-4a77-4e18-a1ce-abb4a88e580e.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="268.36" ytl="150.17" xbr="811.62" ybr="614.20" z_order="0">
+    </box>
+  </image>
+  <image id="491" name="fe7e9e4f-2706-480a-97a1-f804b0cef4fa.jpeg" width="1024" height="768">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="469.69" ytl="471.87" xbr="611.68" ybr="641.07" z_order="0">
+    </box>
+  </image>
+  <image id="492" name="fea7713c-7aec-4e87-999b-fc2e59cded33.jpg" width="1024" height="682">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="36.12" ytl="11.82" xbr="727.02" ybr="671.71" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="535.77" ytl="44.56" xbr="985.46" ybr="471.85" z_order="0">
+    </box>
+  </image>
+  <image id="493" name="ff26de42-5465-4351-a6fe-a9b3141ef9b4.jpeg" width="1024" height="473">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="385.53" ytl="65.00" xbr="621.44" ybr="285.49" z_order="0">
+    </box>
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="161.35" ytl="136.38" xbr="463.40" ybr="354.31" z_order="0">
+    </box>
+  </image>
+  <image id="494" name="ffc7168c-e587-4b52-a9d0-33a2ac3e0826.jpeg" width="1024" height="683">
+    <box label="knoblauchkröte" source="manual" occluded="0" xtl="287.46" ytl="185.31" xbr="694.67" ybr="459.66" z_order="0">
+    </box>
+  </image>
+</annotations>

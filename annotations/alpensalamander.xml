@@ -1,0 +1,2151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>3</id>
+      <size>500</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-01 21:14:17.259461+00:00</created>
+      <updated>2025-02-03 11:57:41.535321+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>499</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3</id>
+          <start>0</start>
+          <stop>499</stop>
+          <url>http://localhost:8080/api/jobs/3</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-03 11:58:13.664193+00:00</dumped>
+  </meta>
+  <image id="0" name="004908b9-ab3e-4223-9a84-190e52e14687.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="290.79" ytl="199.87" xbr="700.00" ybr="631.58" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="00f62207-6294-4222-a0ad-d244290a9a52.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="123.42" ytl="75.28" xbr="678.54" ybr="659.32" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="010ab26d-8f66-43f4-8af0-a3afab48ffb5.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="207.86" ytl="474.10" xbr="748.60" ybr="794.05" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="018c1569-b5f2-4d59-9718-edc6e5e68f62.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="278.86" ytl="247.87" xbr="615.71" ybr="518.69" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="02024bc8-3ac0-4180-947f-62535f7bae1f.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="123.42" ytl="301.63" xbr="326.43" ybr="849.74" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="02121de5-8647-4cc7-9855-407f7c590c06.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="67.73" ytl="289.24" xbr="500.68" ybr="772.49" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="0237db5a-8370-43a8-bd21-3adb37e09259.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="63.83" ytl="255.79" xbr="732.45" ybr="549.36" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="02d1a8c0-15ca-4d88-887e-9dc1f41650d8.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="263.03" ytl="246.05" xbr="584.21" ybr="523.68" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="03795c89-2d9e-4409-98de-6408e2c067cb.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="270.78" ytl="188.59" xbr="873.05" ybr="758.53" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="03abf6ea-5f2f-4f2b-89d6-ba9e252be7a8.jpg" width="512" height="1024">
+  </image>
+  <image id="10" name="04d05ef0-cf67-44a9-925f-5b2b5c2deda2.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="306.66" ytl="227.98" xbr="768.00" ybr="738.36" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="0596beb0-30bb-4550-9bcf-8d33e0b0c3e4.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="33.88" ytl="177.90" xbr="875.04" ybr="506.22" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="05e2d57f-e2fc-4e57-adc7-e675128dd0f3.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="88.57" ytl="5.21" xbr="458.65" ybr="598.23" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="070df1f5-22ca-4cca-8216-b9a0b5cf2327.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="256.36" ytl="420.20" xbr="565.36" ybr="706.02" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="0736046c-efb7-4c08-a2a9-e6bcb3ff1953.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="472.88" ytl="229.01" xbr="908.08" ybr="660.17" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="0736cc0c-a359-4b97-a08c-58d6d616fa51.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="194.44" ytl="326.49" xbr="467.64" ybr="574.52" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="158.49" ytl="187.49" xbr="668.95" ybr="562.54" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="079a20c8-fdd0-4229-9fe4-c5b8ef1f41fa.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="191.69" ytl="342.95" xbr="604.88" ybr="803.03" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="07be4695-0cd6-4b6e-a4e9-230a1a44d8f3.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="400.13" ytl="440.55" xbr="983.54" ybr="626.48" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="082e90c3-8107-4fa5-9154-bd51070d9c06.jpg" width="768" height="1024">
+  </image>
+  <image id="19" name="089470de-35df-41d0-8e73-ebca23ad6c23.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="207.86" ytl="215.58" xbr="543.80" ybr="587.46" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="09122a51-fb1a-4070-b284-ee0178a57c65.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="183.20" ytl="214.19" xbr="661.52" ybr="656.13" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="0961dcc6-92d3-4863-8f7a-fe7a3caa9771.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="99.35" ytl="316.01" xbr="519.73" ybr="587.46" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="09652f71-23bb-4203-9ea0-aba440e3b839.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="317.44" ytl="411.40" xbr="459.37" ybr="774.29" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="0a00b846-78e6-4e4e-8a3d-e651135a7096.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="179.16" ytl="274.82" xbr="800.29" ybr="691.16" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="0a15be1f-5a7d-406f-a4f6-4f8f8d53e9a7.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="132.00" ytl="200.72" xbr="838.02" ybr="540.25" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="0a21323f-72e3-4e2d-bfea-7546b1dc30ad.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="82.15" ytl="300.42" xbr="887.87" ybr="685.77" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="0a69c2ef-2756-4757-a505-69103ac91b2d.jpg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="297.73" ytl="126.24" xbr="706.99" ybr="419.40" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="0ba6a319-67b4-4403-9f13-d0fa87762ec0.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="124.94" ytl="248.60" xbr="909.79" ybr="491.84" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="0ba6fb43-41a9-4fc2-bf3c-79c1bfbc78de.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="60.59" ytl="309.85" xbr="956.59" ybr="734.27" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="0d7e3ca6-17a8-444b-b4fe-e2e88a5f273c.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="379.92" ytl="402.82" xbr="797.60" ybr="529.47" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="0de3c92e-a516-43ac-900b-48547263d8a3.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="250.57" ytl="326.02" xbr="808.38" ybr="762.57" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="0deea065-47ab-4409-8d81-91614576d18e.jpg" width="1024" height="680">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="290.06" ytl="326.92" xbr="596.65" ybr="555.97" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="305.56" ytl="270.85" xbr="662.27" ybr="410.43" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="0eb70a0d-ba7b-406a-ab66-c68699ee7c6c.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="164.74" ytl="402.42" xbr="448.59" ybr="688.06" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="0ecae934-4143-4f98-9f3a-7ede37f3246f.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="48.46" ytl="88.88" xbr="988.93" ybr="502.53" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="1053b1dc-b9d1-4cda-8f8b-b4ba88915f13.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="205.22" ytl="289.34" xbr="660.56" ybr="501.43" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="1068eb7a-62df-422c-bd98-44fbe3ec8084.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="286.95" ytl="169.73" xbr="1017.22" ybr="631.87" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="10bb8404-5de6-4e73-a790-460c0fbc1b3a.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="288.03" ytl="244.61" xbr="676.32" ybr="472.37" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="10de8e16-e033-4ade-a6d3-b0e611b1ab7d.jpeg" width="1024" height="498">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="158.24" ytl="208.29" xbr="725.15" ybr="360.39" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="10eb8cb8-06af-4978-8aa9-0ad0edf0c1d4.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="238.16" ytl="173.68" xbr="905.26" ybr="664.47" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="231.58" ytl="282.90" xbr="773.68" ybr="534.21" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="115db5f3-7602-46c2-a5cd-67fbd645898d.jpeg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="126.95" ytl="79.86" xbr="839.37" ybr="533.58" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="11deaa23-a5da-4a7e-9da4-d7ec2feb29a9.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="137.08" ytl="396.85" xbr="365.23" ybr="524.58" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="1250c856-2fb3-4e13-80c7-0628e0ab7d62.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="171.93" ytl="398.64" xbr="549.19" ybr="542.54" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="12b6748c-2cd7-426d-9e68-7fc3bb7f65dc.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="159.35" ytl="323.19" xbr="480.92" ybr="533.56" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="453.98" ytl="377.27" xbr="743.21" ybr="688.06" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="12fb6be6-292f-4a57-aed3-a0ed89f811bf.jpg" width="577" height="1024">
+  </image>
+  <image id="44" name="132401ec-321a-4c9d-9dc3-5a4ef35cbc3a.jpg" width="1024" height="768">
+  </image>
+  <image id="45" name="1384c313-0e70-4837-9a9a-8910c7599c11.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="231.21" ytl="208.40" xbr="543.80" ybr="887.47" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="13fd0f9b-6165-4ae7-a445-785ce5363ec7.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="94.27" ytl="241.14" xbr="871.71" ybr="614.36" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="14074f09-fb2a-41fb-949d-a753e8b3c0d3.jpeg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="486.69" ytl="200.11" xbr="593.80" ybr="491.10" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="1422ffcc-69a7-41a2-8c65-c55cbe68e41a.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="153.56" ytl="211.49" xbr="730.23" ybr="590.11" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="154be3a9-cbfb-4474-b4b6-a2f235220229.jpeg" width="473" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="122.34" ytl="256.72" xbr="390.02" ybr="734.77" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="156d47ff-f672-4cbb-8859-b60029b623c0.jpeg" width="1024" height="566">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="239.97" ytl="177.71" xbr="903.28" ybr="412.05" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="18b23c28-4d8e-410b-b872-e727a906055d.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="15.63" ytl="158.09" xbr="515.06" ybr="562.30" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="1a352fc2-e4ad-45ad-aa8d-bd66d1638cec.jpg" width="1024" height="768">
+  </image>
+  <image id="53" name="1a5907f8-f151-420f-8726-c97d9077b3e9.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="200.67" ytl="382.48" xbr="516.85" ybr="876.69" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="1aafd80c-cf44-4bce-ad8f-c56b415ec0f1.jpg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="2.34" ytl="231.75" xbr="526.91" ybr="704.23" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="1b6f07d8-710c-42ad-bb55-12ffbbced917.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="251.92" ytl="262.69" xbr="759.87" ybr="409.56" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="1b86f7d9-30ce-447b-ad21-377838ccbd89.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="297.37" ytl="114.47" xbr="798.68" ybr="709.21" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="1c39b11c-13b6-46c7-86c8-438ca5e4af59.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="256.40" ytl="285.64" xbr="468.35" ybr="930.58" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="1d97f883-e576-4898-b831-65eea2e24434.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="152.17" ytl="188.63" xbr="444.99" ybr="754.53" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="1dd24fb8-a735-40bd-aa8c-ecaac1ad6458.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="394.74" ytl="335.45" xbr="1021.26" ybr="654.78" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="1df84f87-6b30-4988-8429-90a3b943cb3b.jpg" width="960" height="540">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="310.42" ytl="120.09" xbr="582.32" ybr="464.94" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="1e23d92f-9519-4042-80a6-f2ddad79c242.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="491.75" ytl="374.26" xbr="719.45" ybr="550.76" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="1e3955ef-8032-4bd0-99f2-cf49a7100016.jpeg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="213.85" ytl="229.21" xbr="668.59" ybr="456.58" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="1e8e758e-a1a5-4666-9c61-390cbcb09de9.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="153.56" ytl="286.68" xbr="963.33" ybr="539.98" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="1f20ca17-3711-4a72-a0fc-e551d1cb55c4.jpeg" width="488" height="650">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="162.99" ytl="224.46" xbr="411.59" ybr="393.23" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="1f8641d4-8f73-4b5c-b4f2-416e60255e8b.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="99.78" ytl="308.27" xbr="925.37" ybr="576.68" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="1fef244f-ab56-47dc-a4a4-3534fa54e7b5.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="242.48" ytl="191.01" xbr="537.56" ybr="432.19" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="201e02a7-9a6e-40e2-a51c-a2b013065123.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="351.58" ytl="240.19" xbr="547.39" ybr="845.79" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="20a134d9-0fca-4369-9465-e4f268d60866.jpg" width="1024" height="767">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="257.64" ytl="32.65" xbr="801.26" ybr="735.06" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="20e807e5-90f0-46ae-b7d6-33c5fa871b9d.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="289.64" ytl="114.21" xbr="679.03" ybr="646.43" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="220a44c8-2bff-43cc-a135-9dc30a5f794c.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="175.52" ytl="44.38" xbr="455.77" ybr="890.70" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="22d54204-90d1-4889-80c7-4e27aead8abd.jpeg" width="1024" height="720">
+  </image>
+  <image id="72" name="230b359a-f332-4518-8d22-9b8f1011c55f.jpeg" width="461" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="118.21" ytl="297.68" xbr="407.45" ybr="759.56" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="2373b66d-9d7f-4e61-b779-140203453945.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="313.89" ytl="170.80" xbr="724.84" ybr="705.71" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="23a9bff7-c7f8-4281-b44b-63e23df082f6.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="321.98" ytl="325.75" xbr="1021.26" ybr="597.92" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="24e1aee4-d854-4625-9c0c-513e2b8ab364.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="311.20" ytl="184.28" xbr="661.52" ybr="449.71" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="24e9fa0a-67c1-4221-9b5c-d0f829674118.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="141.43" ytl="172.15" xbr="885.18" ybr="623.52" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="25a20f01-5e1c-41dc-a6f3-ccc0d0ec8af0.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="427.50" ytl="247.11" xbr="555.26" ybr="557.63" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="26fba951-de8e-4fa3-9b65-5634298472a3.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="74.92" ytl="402.06" xbr="540.21" ybr="682.31" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="27b77cd7-b483-46d0-a3b1-b667eb05fc71.jpg" width="1024" height="712">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="78.56" ytl="264.56" xbr="936.71" ybr="539.36" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="282082ec-2946-48fb-bbb5-c1cd19e3bb35.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="189.89" ytl="445.17" xbr="556.38" ybr="649.97" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="283f455a-0bb8-4c6d-9a54-dea83491d0d5.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="191.69" ytl="375.11" xbr="473.74" ybr="851.18" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="28bdc4a9-c535-4d40-83ef-e7d8a7640b83.jpg" width="1024" height="534">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="1.43" ytl="121.63" xbr="873.63" ybr="466.38" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="28d5d353-56dd-4ca0-b989-1142eff1fdf5.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="171.67" ytl="275.92" xbr="582.67" ybr="593.46" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="2a07b3bf-1efc-4796-855c-15b85c6c1e88.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="25.56" ytl="114.21" xbr="882.48" ybr="657.20" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="2a7e5cef-96d4-45e9-9638-559c013d85b2.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="297.49" ytl="222.00" xbr="730.06" ybr="502.39" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="2a9f2572-ed7f-4955-9074-b0d392cb2611.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="23.68" ytl="172.11" xbr="948.68" ybr="491.84" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="2b5b79a1-3ebc-4f02-abc5-9104f72ce77d.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="315.24" ytl="240.87" xbr="824.55" ybr="616.78" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="2c08ae7d-5af2-4dbf-b28a-edc3aa23f5fd.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="279.72" ytl="296.06" xbr="480.92" ybr="793.69" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="2c9d24f2-933f-430f-8047-913ee72d7bf7.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="247.87" ytl="222.00" xbr="707.33" ybr="529.20" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="2ccbd8ba-d436-4941-8657-65499300adcf.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="202.06" ytl="366.17" xbr="758.53" ybr="541.33" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="281.56" ytl="270.51" xbr="528.10" ybr="593.88" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="2cdb84cc-d38f-4885-9f19-e85be4e7bebf.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="292.34" ytl="160.03" xbr="856.88" ybr="552.11" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="2d30f7d6-a77c-4e16-8db1-b2735c68f989.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="114.44" ytl="152.35" xbr="513.26" ybr="786.51" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="2d36336a-165f-4290-9b32-a69f9fe2e59b.jpeg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="352.29" ytl="90.77" xbr="600.88" ybr="571.78" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="2e2502b5-3296-4997-9fc2-10357685cc8b.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="243.79" ytl="382.12" xbr="480.92" ybr="768.54" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="2e4cf0ec-24ca-4ef4-94ad-66138c539eaf.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="222.23" ytl="321.04" xbr="507.87" ybr="705.66" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="2e8aa844-e307-464b-92ec-6037013ba262.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="517.35" ytl="421.41" xbr="701.94" ybr="568.28" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="2eb7a343-59bc-4852-9d68-0b04601e7a05.jpg" width="1024" height="667">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="57.86" ytl="193.49" xbr="710.94" ybr="620.60" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="2eef1c96-13b2-4bdd-b136-38cdd84105ef.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="185.89" ytl="131.73" xbr="789.52" ybr="592.53" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="2f97746f-980a-401c-9b7f-6a70479aac3f.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="52.51" ytl="283.98" xbr="753.14" ybr="527.86" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="300a2073-8e52-4110-b408-2720f38b4882.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="42.26" ytl="232.78" xbr="842.69" ybr="622.21" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="303223e7-fefe-4110-9f4e-cd7889b0a3c3.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="300.00" ytl="101.05" xbr="725.00" ybr="660.26" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="30cb2909-a84f-4980-9a5b-bd14b98288cd.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="468.84" ytl="275.90" xbr="777.39" ybr="681.46" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="3112ae20-b0d9-4ceb-8924-5b2ecbf38e9b.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="401.74" ytl="85.40" xbr="1009.25" ybr="667.75" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="180.06" ytl="111.76" xbr="803.15" ybr="660.56" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="312a3fa0-e0c4-46c3-8d98-7dc651f4ab56.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="285.51" ytl="77.01" xbr="1018.83" ybr="574.28" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="31c0aa0d-989a-4a10-989b-6794fbb11aa4.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="161.71" ytl="269.47" xbr="809.21" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="324dc21c-b1c9-47fa-8311-79d53c016c5c.jpg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="315.92" ytl="162.52" xbr="834.32" ybr="433.34" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="326c2191-8c36-4898-af92-186496aef41a.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="135.28" ytl="461.34" xbr="490.98" ybr="784.71" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="32813c75-ce9d-4ae4-9be0-85b50d87ad14.jpeg" width="1024" height="768">
+  </image>
+  <image id="109" name="32992e27-1c57-41eb-8548-9e48e7eed444.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="265.39" ytl="181.58" xbr="723.49" ybr="615.44" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="219.58" ytl="269.16" xbr="626.48" ybr="651.81" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="33050ff2-8490-4599-9068-e508daceb165.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="369.70" ytl="199.74" xbr="748.68" ybr="572.11" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="3376b3f9-63d3-4123-b551-c6fedd8d8c21.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="204.26" ytl="339.18" xbr="656.98" ybr="554.76" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="338cffe9-1856-4935-8401-e6a10256e07b.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="355.17" ytl="387.69" xbr="452.18" ybr="725.43" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="34249e18-4af5-4862-a193-88c3fd712b65.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="107.25" ytl="328.40" xbr="739.62" ybr="858.37" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="34aec202-8da3-4a2b-a5e8-9d1fbc3e3760.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="175.52" ytl="249.54" xbr="565.36" ybr="867.71" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="356d4366-68e6-4ac6-8871-5e9968cee2c1.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="177.32" ytl="398.64" xbr="599.49" ybr="625.18" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="36168d09-ff3f-43fc-820a-b19e28e77e35.jpg" width="1024" height="902">
+  </image>
+  <image id="117" name="36eb4f51-18f8-48eb-bd79-15bcfbe433f5.jpg" width="1024" height="765">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="77.12" ytl="250.25" xbr="745.49" ybr="501.23" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="371f5a96-34df-478f-b50b-c25c0b72b579.jpg" width="1024" height="893">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="128.01" ytl="113.60" xbr="881.74" ybr="817.03" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="375c84f6-7fe4-4b63-94a4-3d1e77adba80.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="160.89" ytl="113.20" xbr="881.04" ybr="467.88" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="378beced-e6e8-4583-a367-665ba1e4e746.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="156.25" ytl="255.96" xbr="895.96" ybr="538.91" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="384d9661-74ff-44aa-81c9-c78e6c0feb5a.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="263.55" ytl="233.37" xbr="568.95" ybr="874.89" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="38dcbc6e-0dd8-4d7e-94ea-2651301eb92c.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="198.90" ytl="127.37" xbr="621.05" ybr="729.38" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="39b7948b-0b34-42ec-ae1b-889b87ea242d.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="308.46" ytl="432.78" xbr="538.41" ybr="646.74" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="39c86384-cce9-4fd9-acd5-d7f60722a2da.jpg" width="1024" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="122.16" ytl="165.10" xbr="871.30" ybr="878.49" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="3a542fc0-8887-41eb-b16d-751b7098e900.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="342.59" ytl="427.57" xbr="479.13" ybr="637.76" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="3af303bd-e0ce-4693-9b20-82258e9b744d.jpeg" width="1024" height="769">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="301.59" ytl="165.33" xbr="978.85" ybr="618.63" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="3c7b823d-caac-4a18-b23f-f0d59035d6ed.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="303.12" ytl="227.66" xbr="885.18" ybr="763.92" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="3d7f887a-dea7-42a4-91a4-62f7dfddb3b5.jpg" width="1024" height="684">
+  </image>
+  <image id="129" name="3dcf58a7-00c2-4acb-9c46-0a37f3083b4a.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="351.62" ytl="218.23" xbr="802.99" ybr="489.05" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="3df6dadc-8692-4082-9389-f78228572679.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="215.04" ytl="185.04" xbr="473.74" ybr="824.59" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="3e6c6cb9-3d61-4a7a-9ed7-4bbe9daf6070.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="171.93" ytl="450.92" xbr="766.57" ybr="634.16" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="3f2e75a6-e073-4f49-b5d3-4eb99f0c49f9.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="232.78" ytl="34.12" xbr="877.44" ybr="682.37" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="3fc9d193-a04c-4785-bd63-aa0b0074e78d.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="75.41" ytl="285.60" xbr="889.22" ybr="560.46" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="406146d0-e837-4e2f-94ac-852becf05984.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="229.19" ytl="19.74" xbr="751.62" ybr="537.38" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="40e54341-50ea-4a21-aa0f-d3eae3099b62.jpeg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="406.86" ytl="164.64" xbr="752.46" ybr="345.62" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="41c17047-f966-4bfd-890e-6d84d68eacf2.jpeg" width="1024" height="769">
+  </image>
+  <image id="137" name="424ebe51-96cd-46cc-886e-a058fc54c23e.jpeg" width="1024" height="683">
+  </image>
+  <image id="138" name="4284ee22-51bc-4b16-9369-3eb004022a60.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="201.18" ytl="214.47" xbr="894.74" ybr="585.53" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="4291c088-a54a-4cbf-acf3-ad83c1cef1a9.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="274.33" ytl="377.27" xbr="430.62" ybr="677.28" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="42fcffa4-798d-4bbc-b334-a9d5c7371125.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="39.03" ytl="193.98" xbr="944.46" ybr="454.02" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="4339dd61-9c3d-4dcf-9d27-ba295a94176f.jpg" width="1024" height="682">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="34.58" ytl="413.99" xbr="488.05" ybr="634.14" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="4352de65-c07e-474f-80d9-bbd69dad89c2.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="144.26" ytl="236.96" xbr="433.50" ybr="986.28" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="43a8b1e6-7a65-4c02-9228-9ec984b3efc3.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="0.00" ytl="288.29" xbr="802.99" ybr="598.19" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="43c2d248-f41c-47e4-af2b-95a84b96f2bf.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="0.00" ytl="192.63" xbr="833.98" ybr="498.48" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="44197bc3-8644-4206-b930-fe427258a15f.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="55.20" ytl="385.31" xbr="177.81" ybr="445.94" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="786.82" ytl="423.03" xbr="894.61" ybr="474.23" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="44bb4434-f3c9-4175-a9a6-dbe80cbfbe52.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="249.18" ytl="303.43" xbr="599.49" ybr="815.61" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="452f79de-bf9a-428c-92eb-3396b6d3aa29.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="146.78" ytl="203.01" xbr="628.24" ybr="894.66" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="45562e40-f3c0-4738-bd85-b10c679deef6.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="113.72" ytl="226.18" xbr="537.69" ybr="641.35" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="456d3dab-907c-423c-912f-d263e49b4512.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="155.76" ytl="436.37" xbr="484.52" ybr="671.89" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="461cf670-352a-4afb-b188-e8c4e5390ef0.jpeg" width="512" height="278">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="277.48" ytl="79.27" xbr="364.29" ybr="253.14" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="215.49" ytl="113.12" xbr="291.14" ybr="278.00" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="203.30" ytl="57.57" xbr="367.71" ybr="145.36" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="4790e8cb-1c08-4de2-b6ce-a771b490f8ec.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="274.33" ytl="301.27" xbr="486.31" ybr="588.89" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="47af8a3b-d2e5-4e1c-8af6-9bb9f8aeba56.jpeg" width="759" height="853">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="321.89" ytl="307.23" xbr="456.58" ybr="654.41" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="48659760-cf74-4880-8737-29aa5cd0ff48.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="263.55" ytl="563.56" xbr="428.83" ybr="809.86" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="48bd9cff-e910-43e8-8f18-021f64d5a7e3.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="109.09" ytl="333.84" xbr="774.69" ybr="500.91" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="491b7744-b6fb-4b1b-8fbd-faad83a07ece.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="179.16" ytl="129.04" xbr="701.94" ybr="506.30" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="4a80d7a7-a710-4d2c-933e-97168cf055f2.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="107.25" ytl="162.94" xbr="473.74" ybr="588.89" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="4a8372ad-8c37-4f84-97c4-8b25216cc864.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="333.61" ytl="396.67" xbr="464.76" ybr="689.50" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="4af0ab0e-b21f-45cd-af82-36ec4773228e.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="143.29" ytl="252.37" xbr="796.05" ybr="591.84" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="4b3d463f-7a32-49fb-9e78-3b30aacdf79a.jpeg" width="1024" height="684">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="296.04" ytl="366.96" xbr="837.24" ybr="537.36" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="4b5535f2-a112-4962-9929-28f77f0582f5.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="0.32" ytl="231.59" xbr="621.02" ybr="637.79" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="4bd385ca-fe35-4daa-8722-9e2dbf9990f4.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="225.82" ytl="339.18" xbr="534.82" ybr="905.08" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="261.75" ytl="303.25" xbr="484.52" ybr="851.18" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="4c04f862-71b2-491e-b3e1-e647776b1e7a.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="261.75" ytl="199.05" xbr="387.51" ybr="522.42" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="306.66" ytl="272.71" xbr="585.12" ybr="468.53" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="4c477a50-5497-4ffd-b2b7-e0b2eab70f0c.jpeg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="126.95" ytl="181.72" xbr="808.04" ybr="336.33" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="4d237ce9-f412-4439-b6f2-c2b414b75902.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="240.19" ytl="222.41" xbr="455.77" ybr="994.90" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="4da02763-8879-439e-84fe-a83b85bcfc2e.jpeg" width="1024" height="660">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="274.53" ytl="147.97" xbr="917.27" ybr="534.71" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="4dd1d0ff-e0c3-4393-9c74-3038f4c83246.jpeg" width="771" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="271.27" ytl="420.02" xbr="467.27" ybr="831.42" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="4e8a7368-245c-46af-8654-e380e5a425a8.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="44.42" ytl="71.10" xbr="961.98" ybr="735.35" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="4e9298db-a808-40ba-9bc8-f9907a291eab.jpg" width="1024" height="740">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="301.67" ytl="111.35" xbr="756.06" ybr="604.68" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="4f2a48a8-623e-4214-958b-df28d6789d62.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="250.00" ytl="203.68" xbr="467.11" ybr="330.00" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="419.74" ytl="265.53" xbr="703.95" ybr="536.58" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="51a5ffa1-98a4-48dd-9f9b-9c16487c22be.jpg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="333.09" ytl="265.49" xbr="616.04" ybr="367.65" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="51a72122-bb72-4892-bb06-62e663cc1db1.jpg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="149.65" ytl="507.87" xbr="428.11" ybr="766.75" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="51ae3c21-de1e-4b89-b11f-3901f1571fb1.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="90.19" ytl="83.00" xbr="816.33" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="52814336-1f2f-4939-869b-6f5817fad952.jpeg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="372.50" ytl="240.23" xbr="697.89" ybr="421.21" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="52833da6-d90d-46fd-b416-7f1357c5de2b.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="153.70" ytl="464.05" xbr="452.06" ybr="601.84" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="52997245-7b9f-40ec-9c5e-7fa0b85072d1.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="200.67" ytl="127.19" xbr="565.36" ybr="967.95" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="53093e1d-1b57-4edd-b4b5-97abc0150508.jpeg" width="1024" height="838">
+  </image>
+  <image id="177" name="531d3c9d-5691-4285-a4d6-12baf4acd8c8.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="306.66" ytl="436.19" xbr="554.58" ybr="781.12" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="53b3fecd-36ad-4b23-ad42-c35ce23c14ad.jpeg" width="1024" height="461">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="0.84" ytl="37.98" xbr="859.57" ybr="450.90" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="53f3b6de-e740-4b5e-a199-bd760f78f94d.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="256.36" ytl="473.74" xbr="513.26" ybr="651.77" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="53ffe5cd-e562-4912-b38e-181b2361132a.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="195.28" ytl="209.83" xbr="601.29" ybr="596.08" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="540d8ba0-cc91-496c-a44f-6dee2f804419.jpeg" width="1024" height="575">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="43.98" ytl="228.28" xbr="826.78" ybr="453.24" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="546ee8ae-048d-4522-81c9-8814d139d31f.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="243.79" ytl="148.75" xbr="486.31" ybr="790.10" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="54718c9e-6e85-41f0-b4a3-46507f2b2da7.jpg" width="1024" height="591">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="138.70" ytl="185.88" xbr="868.64" ybr="469.97" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="54c6085a-ca4a-4929-8b1d-a9d5043a3a16.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="4.00" ytl="196.40" xbr="840.72" ybr="495.52" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="54f1c0b3-3cff-4efe-92a2-073f9ae78250.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="381.26" ytl="96.70" xbr="639.96" ybr="767.69" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="55c4f330-16f0-4208-a31e-db5eef56bb0c.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="436.51" ytl="205.84" xbr="757.18" ybr="472.60" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="56bc7f15-d83e-4159-b9a5-528f750cc2d4.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="0.00" ytl="191.01" xbr="905.39" ybr="562.89" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="570f26ed-0943-4b5f-8659-cd65db5fa406.jpg" width="1024" height="683">
+  </image>
+  <image id="189" name="5747ea94-f976-4b12-a5fe-463b06006c42.jpeg" width="473" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="43.30" ytl="410.86" xbr="334.33" ybr="567.33" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="5803a026-de20-44bc-a68d-1558ec24e306.jpeg" width="771" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="319.78" ytl="306.66" xbr="483.44" ybr="472.12" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="5844c66e-3434-4308-a58a-83a6ba7fa07a.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="234.80" ytl="340.80" xbr="471.94" ybr="845.79" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="59a11609-52d9-468c-baa0-69e84362e9a6.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="238.44" ytl="309.58" xbr="784.13" ybr="634.30" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="5a3b40ef-2c7c-4af7-8e28-6e96a5b203b4.jpg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="67.01" ytl="383.91" xbr="120.91" ybr="486.49" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="266.42" ytl="534.82" xbr="368.82" ybr="637.40" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="5ac94756-dbaa-489e-8934-4914dbcc6e66.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="159.21" ytl="106.32" xbr="946.05" ybr="698.42" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="5b4cc471-29e4-422d-88fb-213506c875bb.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="4.85" ytl="328.22" xbr="637.22" ybr="603.26" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="5b6caed6-e47b-4792-a847-cde567c39180.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="215.50" ytl="273.20" xbr="723.49" ybr="608.70" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="5cd8bd56-9684-4484-aac3-2c65b42e76ba.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="1.31" ytl="312.28" xbr="863.62" ybr="569.63" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="5de7cd48-f71e-4e74-8f6d-6d8bcd7eb173.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="319.24" ytl="364.33" xbr="511.46" ybr="874.53" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="5e2b1525-8d86-41af-93dd-72f901b84f86.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="144.11" ytl="187.25" xbr="559.91" ybr="369.38" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="172.87" ytl="310.67" xbr="991.27" ybr="565.90" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="5e8aaa08-f061-48c6-a268-1c3d1b47f869.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="553.73" ytl="244.91" xbr="728.88" ybr="508.99" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="5e9b1c5a-87f2-49fe-8dbe-2cbdf1f7e3a2.jpeg" width="790" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="258.34" ytl="358.76" xbr="511.82" ybr="811.66" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="5eb7ce0c-4c3a-4200-9267-1f3243fcb528.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="321.45" ytl="171.67" xbr="704.89" ybr="477.23" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="298.69" ytl="216.01" xbr="750.43" ybr="364.59" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="5f18cbc6-ffde-4a9d-863e-8bd4cc7d10d1.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="435.16" ytl="108.83" xbr="592.80" ybr="651.81" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="5f24bd59-959d-4e15-9afc-5154ce47591a.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="227.62" ytl="339.18" xbr="484.52" ybr="852.98" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="6011d79e-73e9-43e9-83c0-dca0ef2c819f.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="148.55" ytl="248.42" xbr="380.26" ybr="461.58" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="281.58" ytl="41.71" xbr="500.00" ybr="348.42" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="527.50" ytl="257.63" xbr="853.95" ybr="593.16" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="61666004-ae8e-4dbd-93a7-b6010c5b3702.jpeg" width="1024" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="75.46" ytl="400.08" xbr="1024.00" ybr="641.00" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="61ca96e6-c3a9-40ee-9c15-e91f8f268743.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="459.25" ytl="218.41" xbr="910.99" ybr="485.61" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="62028385-f2de-4dd0-84b7-733e9ac27dab.jpeg" width="1024" height="681">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="390.07" ytl="247.66" xbr="653.03" ybr="488.99" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="62181d25-a76e-4f2d-93ad-661ed086e2cd.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="245.18" ytl="320.36" xbr="654.78" ybr="496.87" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="6232462d-95d4-44de-adfc-ba48f813c348.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="94.68" ytl="480.90" xbr="568.95" ybr="615.84" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="6264ed82-2f0c-4372-8b6d-2c08019c6522.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="286.90" ytl="125.22" xbr="574.34" ybr="734.41" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="629ab38b-90b8-441e-8bde-acee2cec98b3.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="90.23" ytl="302.85" xbr="831.28" ybr="538.64" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="63a4a2e8-5b26-4606-ab65-fdcca555ed40.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="193.48" ytl="545.78" xbr="491.70" ybr="764.95" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="63bc96c3-f3be-473c-96a3-64b37fd3b002.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="164.74" ytl="294.27" xbr="601.29" ybr="651.77" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="63f8a3ab-f907-4ee0-b99c-456c6e552676.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="324.67" ytl="188.32" xbr="1022.61" ybr="552.11" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="64100693-a047-42d7-84a2-41bf551cc278.jpg" width="768" height="1024">
+  </image>
+  <image id="217" name="643738a1-5425-4e9a-bfb1-1d451e22c3b8.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="36.27" ytl="206.42" xbr="877.44" ybr="494.00" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="661de8e1-70b4-4cf7-91ed-4ea7b354bd8d.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="202.47" ytl="233.19" xbr="630.03" ybr="745.19" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="6628ae82-6d1f-46cb-bf69-0ec15817cdb1.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="199.23" ytl="224.40" xbr="636.59" ybr="593.46" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="66c56aca-7b75-4e13-9686-4573a7e7ddae.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="292.29" ytl="287.08" xbr="443.20" ybr="826.03" z_order="0">
+    </box>
+  </image>
+  <image id="221" name="6719c37d-d7ca-4f0b-bb31-ead942b96c52.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="146.82" ytl="355.39" xbr="734.27" ybr="549.41" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="67bda88e-2e4a-4682-98db-9e259e810ca9.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="428.42" ytl="371.56" xbr="949.85" ybr="601.96" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="694876db-6438-40d1-ad5a-4f3b7bbc4d5b.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="225.82" ytl="321.22" xbr="554.58" ybr="788.30" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="69b6c9c8-761f-42bc-b50e-2a278a742dba.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="227.62" ytl="243.97" xbr="369.54" ybr="608.65" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="69cd9be6-eb4f-439f-abd8-486715809de3.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="141.39" ytl="313.85" xbr="565.36" ybr="813.45" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="6aa0dee8-4049-4488-b85b-06bf2c47713a.jpeg" width="841" height="1024">
+  </image>
+  <image id="227" name="6aa70ba8-8a91-4ef8-83f4-473f69896bea.jpg" width="804" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="92.88" ytl="206.06" xbr="563.74" ybr="653.57" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="6ad569fd-d82d-4b8e-99bf-eec2205036c6.jpg" width="683" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="288.34" ytl="389.48" xbr="421.46" ybr="700.28" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="6ae14b28-c7ce-48a7-8787-faf785e91dd7.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="259.96" ytl="78.69" xbr="583.32" ybr="960.77" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="6b19161c-b6d9-462d-a8d7-3fb68d946250.png" width="639" height="481">
+  </image>
+  <image id="231" name="6ba1c012-43af-45f0-9020-625d66296e95.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="140.67" ytl="294.09" xbr="376.01" ybr="648.18" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="6be04fbb-10c7-4140-837f-c4af4bb72c81.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="240.19" ytl="437.81" xbr="441.40" ybr="543.98" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="6c2a009b-dcbf-49c6-843b-a7b66595c7ef.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="162.94" ytl="371.52" xbr="432.42" ybr="623.03" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="6c372752-8ea8-4b52-b62b-de0ee8907eeb.jpeg" width="1024" height="769">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="209.85" ytl="252.75" xbr="588.95" ybr="527.97" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="6c42f649-c5fa-458d-89c0-e8049ba3dbf2.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="435.29" ytl="267.53" xbr="707.29" ybr="483.22" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="6c4cc426-caba-42e3-92fd-02aae0a2f040.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="109.05" ytl="319.24" xbr="615.66" ybr="718.24" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="6cba50e1-1a0a-4574-a2d5-5d29d591d98b.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="448.63" ytl="38.76" xbr="766.61" ybr="729.96" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="6ccf459e-0b8e-4f8f-94d7-c00e27d79501.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="238.78" ytl="152.50" xbr="1004.45" ybr="680.93" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="6cff9c77-06a7-44cc-8f04-3341e9e28bdd.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="215.54" ytl="110.17" xbr="807.03" ybr="732.66" z_order="0">
+    </box>
+  </image>
+  <image id="240" name="6d51185a-e71c-43fa-bb79-019baafc9ea4.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="250.97" ytl="380.50" xbr="506.07" ybr="527.81" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="6dc6a454-a279-4cd8-aa51-828824bc6775.jpeg" width="1024" height="761">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="210.16" ytl="212.70" xbr="660.22" ybr="597.20" z_order="0">
+    </box>
+  </image>
+  <image id="242" name="6dd0e6ac-2617-4b90-9ad4-b9dd4e16b3ec.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="155.76" ytl="62.34" xbr="491.70" ybr="826.03" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="6dfd8341-0989-428e-9298-f3883924ce1b.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="388.00" ytl="98.05" xbr="639.96" ybr="768.00" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="6e0dea07-56d9-4d08-b3fa-05edf95eea10.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="262.69" ytl="42.80" xbr="716.76" ybr="518.43" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="6e9ccb5c-5b1f-4f22-ba83-efcfe96f908e.jpg" width="571" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="180.37" ytl="166.72" xbr="433.68" ybr="948.19" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="6eba5c69-c8bc-4ec6-bd42-1b8e6ad76bfa.jpeg" width="944" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="92.88" ytl="303.25" xbr="789.92" ybr="883.52" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="6f1d677d-8526-4f26-b70f-5d84b346d2b7.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="177.32" ytl="448.77" xbr="450.38" ybr="649.97" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="7029fa47-5d5a-4248-a9d4-f8e3ec43b5e7.jpeg" width="1024" height="731">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="308.11" ytl="236.29" xbr="827.51" ybr="718.50" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="70841fe3-b82a-47a2-8547-92cf675f482c.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="211.45" ytl="405.65" xbr="594.10" ybr="985.92" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="209.65" ytl="186.48" xbr="606.68" ybr="736.20" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="70c2d803-19b1-44a2-8512-592d72b6b6ea.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="278.86" ytl="186.97" xbr="811.07" ybr="645.08" z_order="0">
+    </box>
+  </image>
+  <image id="251" name="715b2605-a940-4a88-a260-17db45ace7fb.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="100.07" ytl="278.10" xbr="550.99" ybr="669.73" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="722117b3-e4e5-4355-9766-cb4daed335ae.jpg" width="1024" height="867">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="172.72" ytl="296.99" xbr="776.73" ybr="551.00" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="723278f0-dfa5-488a-af5e-c6d90d5cf56f.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="233.05" ytl="339.23" xbr="594.15" ybr="465.88" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="725bf865-f965-493e-9c95-26ecfd1f8843.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="350.27" ytl="297.46" xbr="617.05" ybr="674.72" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="72d1e211-17e7-468e-a659-588f5db62c6b.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="200.67" ytl="375.11" xbr="466.55" ybr="845.79" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="72fdc9ca-d329-4aa8-8eef-003cc524b6e7.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="238.40" ytl="375.11" xbr="464.76" ybr="937.41" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="738e6576-9104-429e-9a68-697c0e7e8deb.jpeg" width="1024" height="697">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="148.80" ytl="83.50" xbr="493.63" ybr="561.62" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="743006d5-cb99-460e-b74c-4cd491ae1cab.jpeg" width="900" height="615">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="55.15" ytl="56.34" xbr="824.44" ybr="485.87" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="75183657-2827-4a6b-95f5-4295aa7b2495.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="207.86" ytl="252.95" xbr="434.21" ybr="766.75" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="75880b41-d14e-4d66-a4d8-3476e2917ede.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="125.26" ytl="118.26" xbr="765.26" ybr="533.25" z_order="0">
+    </box>
+  </image>
+  <image id="261" name="76475d2d-adaf-4755-a7a1-562b7c52021d.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="156.10" ytl="251.96" xbr="806.74" ybr="489.21" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="76a6bec2-673e-4ecd-a8d3-fb8669747fcb.jpeg" width="1024" height="724">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="0.06" ytl="175.09" xbr="743.11" ybr="652.68" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="7714de16-532c-4efa-846d-9292524eb781.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="272.53" ytl="339.18" xbr="452.18" ybr="685.90" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="77419e6e-30fd-4363-a3ca-73b600321763.jpeg" width="475" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="33.60" ytl="450.56" xbr="437.81" ybr="705.66" z_order="0">
+    </box>
+  </image>
+  <image id="265" name="77bf70ba-3494-45f2-b632-5b5d94048f1e.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="346.19" ytl="339.18" xbr="511.46" ybr="757.76" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="77d860a6-48bf-4752-8b6b-c8a99da68343.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="179.16" ytl="191.01" xbr="723.49" ybr="641.04" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="78a1d932-4ccf-4876-a20c-abd2984b09bd.jpg" width="1024" height="739">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="156.75" ytl="235.10" xbr="863.33" ybr="629.19" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="792247e6-cc62-48a0-ba50-4cd879c8bd02.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="262.69" ytl="52.24" xbr="867.66" ybr="569.63" z_order="0">
+    </box>
+  </image>
+  <image id="269" name="7a86a053-ee7a-45d0-96a0-4ac197befb3c.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="225.82" ytl="270.73" xbr="414.45" ybr="840.40" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="7abe12df-7832-4860-8e83-40a2d129e2cb.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="418.99" ytl="108.83" xbr="941.77" ybr="499.56" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="7b9c7c73-08db-4998-b6dd-5fad1a506d35.jpg" width="768" height="1024">
+  </image>
+  <image id="272" name="7bee4e8d-0782-4225-983d-a57a6ac289b5.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="119.83" ytl="242.17" xbr="554.58" ybr="865.55" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="7c1376bd-cf38-4dc0-afb0-a5071d10e543.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="320.63" ytl="54.93" xbr="722.15" ybr="472.61" z_order="0">
+    </box>
+  </image>
+  <image id="274" name="7cc1029d-53c7-473f-9829-51a552123545.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="0.54" ytl="105.46" xbr="401.16" ybr="640.99" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="7d1fe17b-5931-4435-97ea-ec6518cdbe27.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="245.58" ytl="445.17" xbr="542.00" ybr="617.64" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="7da80239-814e-408c-8014-cde8318aebd8.jpeg" width="1024" height="706">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="181.34" ytl="106.16" xbr="892.30" ybr="471.67" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="7e31fcdc-ac13-41b1-a081-99457b732ffe.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="138.87" ytl="241.99" xbr="433.50" ybr="991.31" z_order="0">
+    </box>
+  </image>
+  <image id="278" name="7e390512-d968-4959-9b97-c63129af120a.jpeg" width="498" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="128.63" ytl="225.82" xbr="293.91" ybr="538.59" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="7f24ee6e-6be5-4399-af58-543e0f505eed.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="268.08" ytl="262.43" xbr="1019.92" ybr="600.61" z_order="0">
+    </box>
+  </image>
+  <image id="280" name="7f2f0b86-7cf9-42c4-a43a-2f867f424c3b.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="358.76" ytl="128.99" xbr="577.93" ybr="608.65" z_order="0">
+    </box>
+  </image>
+  <image id="281" name="8194598c-ba52-41f8-9f90-c15fea4d0fc4.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="308.51" ytl="107.48" xbr="738.32" ybr="442.97" z_order="0">
+    </box>
+  </image>
+  <image id="282" name="8341a10c-a294-4ab6-aeb2-9c8214fd7b70.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="285.11" ytl="411.04" xbr="400.08" ybr="784.71" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="838c3f3a-186d-4947-801e-c72a58cf4877.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="67.73" ytl="601.47" xbr="436.01" ybr="763.15" z_order="0">
+    </box>
+  </image>
+  <image id="284" name="83d5e8ba-3d58-41fb-94ba-58ad15924f9a.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="297.68" ytl="441.40" xbr="604.88" ybr="649.97" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="84609ee2-792e-4402-bbb1-aadc94d8f2c9.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="432.46" ytl="57.63" xbr="893.26" ybr="612.74" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="84654cb8-b893-441e-b28e-fa71b705bd16.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="3.06" ytl="261.93" xbr="568.95" ybr="861.96" z_order="0">
+    </box>
+  </image>
+  <image id="287" name="848f91b1-9320-4a11-a778-86508fe73d63.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="308.46" ytl="134.38" xbr="561.77" ybr="951.78" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="84aa1e33-c28d-41d5-a044-1ddb735b4a83.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="114.44" ytl="238.58" xbr="434.21" ybr="928.43" z_order="0">
+    </box>
+  </image>
+  <image id="289" name="8520126c-e952-476b-b493-8d3584e01eb5.jpeg" width="768" height="1024">
+  </image>
+  <image id="290" name="85f5a085-426a-4bd0-8432-9863f53ad6cc.jpg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="488.72" ytl="198.90" xbr="589.77" ybr="491.95" z_order="0">
+    </box>
+  </image>
+  <image id="291" name="86597326-64d1-4576-8947-55b8f6a77dc9.jpeg" width="768" height="1024">
+  </image>
+  <image id="292" name="87468066-1220-49ae-9fba-165f78a48bac.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="250.57" ytl="234.13" xbr="692.51" ybr="570.97" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="87c729d3-1341-47be-bd06-3c4854cc635a.jpeg" width="1024" height="497">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="369.67" ytl="166.46" xbr="700.39" ybr="330.15" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="8806c653-ca12-4bbb-a311-1644f7ebe948.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="272.53" ytl="308.64" xbr="470.14" ybr="831.42" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="893bf583-b837-4b6a-ae50-8398bb9b4d23.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="159.35" ytl="92.88" xbr="588.71" ybr="811.66" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="89400e0a-b15b-4c73-ba96-0eaf9a6bb066.jpeg" width="1024" height="575">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="280.03" ytl="141.53" xbr="625.03" ybr="386.66" z_order="0">
+    </box>
+  </image>
+  <image id="297" name="89a5fb0c-c663-4880-aeac-e9dee901e100.jpeg" width="768" height="1024">
+  </image>
+  <image id="298" name="89c4f600-0e50-4ece-86ad-baceb347f904.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="10.74" ytl="134.43" xbr="863.62" ybr="701.67" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="8b2d8854-9c6d-43ad-a5d6-6cd19fde2be6.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="121.63" ytl="199.05" xbr="383.91" ybr="488.29" z_order="0">
+    </box>
+  </image>
+  <image id="300" name="8baecbc7-38eb-40d8-8848-e497769b7a22.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="237.09" ytl="235.48" xbr="930.99" ybr="746.13" z_order="0">
+    </box>
+  </image>
+  <image id="301" name="8c0056fd-9b12-4fe8-9478-b1a3e0f570ca.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="234.80" ytl="389.48" xbr="515.06" ybr="969.75" z_order="0">
+    </box>
+  </image>
+  <image id="302" name="8cf2f1bb-6906-4650-9a0f-3feaa4b1b652.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="184.50" ytl="328.22" xbr="515.06" ybr="621.23" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="8d4d2c16-f187-4048-acb9-64b0acd280de.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="166.54" ytl="190.07" xbr="581.53" ybr="867.35" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="8d5e611b-3622-4dd6-a325-d9ec9677c75d.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="347.58" ytl="57.63" xbr="654.78" ybr="727.27" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="8e84655a-a7ad-428b-9309-2e069c363068.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="277.52" ytl="374.26" xbr="936.38" ybr="554.80" z_order="0">
+    </box>
+  </image>
+  <image id="306" name="8ed5b937-3730-47f3-b7e6-a4d50911a81e.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="225.82" ytl="272.53" xbr="533.02" ybr="640.99" z_order="0">
+    </box>
+  </image>
+  <image id="307" name="8f215e47-d0c3-4a9b-a0b3-b55513845155.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="139.59" ytl="576.32" xbr="371.34" ybr="824.23" z_order="0">
+    </box>
+  </image>
+  <image id="308" name="90727144-c366-4c9c-ba3a-942cdcd0b458.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="0.00" ytl="506.25" xbr="543.80" ybr="687.70" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="908e5051-8f67-4e06-98da-4a7e11bcd6eb.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="321.04" ytl="409.24" xbr="502.48" ybr="707.46" z_order="0">
+    </box>
+  </image>
+  <image id="310" name="90d6f081-abe9-455c-98db-c1f3641b0340.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="92.16" ytl="337.38" xbr="313.13" ybr="759.56" z_order="0">
+    </box>
+  </image>
+  <image id="311" name="93677657-e2db-40ae-8393-bd5385b6751c.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="250.97" ytl="429.00" xbr="362.36" ybr="732.61" z_order="0">
+    </box>
+  </image>
+  <image id="312" name="949b6138-26ae-446b-916f-42fd625079f7.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="238.40" ytl="324.63" xbr="507.87" ybr="666.14" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="94be7bb5-e2cc-4229-a887-a201b02ffa3f.jpeg" width="738" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="74.38" ytl="287.08" xbr="737.28" ybr="705.66" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="9537fec4-a37d-4ee1-b9d2-8d5823dbc005.jpeg" width="1024" height="723">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="288.74" ytl="259.06" xbr="807.53" ybr="435.50" z_order="0">
+    </box>
+  </image>
+  <image id="315" name="95e7dc15-1762-4459-97a4-23f8d93ba8ba.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="222.27" ytl="321.71" xbr="978.15" ybr="519.77" z_order="0">
+    </box>
+  </image>
+  <image id="316" name="95f94338-538a-4058-a71d-9d517e77b64b.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="188.10" ytl="296.06" xbr="586.92" ybr="905.08" z_order="0">
+    </box>
+  </image>
+  <image id="317" name="968374cc-e6d4-467d-b59e-f1e447a89f8e.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="251.92" ytl="57.63" xbr="1024.00" ybr="759.60" z_order="0">
+    </box>
+  </image>
+  <image id="318" name="97244056-236f-4031-8df7-f460680ed7cd.jpg" width="768" height="1024">
+  </image>
+  <image id="319" name="98cd2817-9e29-4566-be62-a7db41f3eba1.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="331.81" ytl="526.02" xbr="452.18" ybr="624.82" z_order="0">
+    </box>
+  </image>
+  <image id="320" name="991c3615-9b28-4826-bd7a-e9611324b88c.jpg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="185.58" ytl="367.92" xbr="365.23" ybr="653.57" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="99361300-009d-454e-a1c0-6e93f1223a6a.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="94.68" ytl="414.45" xbr="709.08" ybr="691.29" z_order="0">
+    </box>
+  </image>
+  <image id="322" name="9948c94e-bc09-4e61-a482-a15857375f23.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="263.16" ytl="189.21" xbr="521.05" ybr="469.47" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="411.84" ytl="161.58" xbr="768.42" ybr="587.90" z_order="0">
+    </box>
+  </image>
+  <image id="323" name="99c29a00-3f16-4a59-99c5-bf7996ee3361.jpg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="359.37" ytl="175.65" xbr="1023.28" ybr="506.10" z_order="0">
+    </box>
+  </image>
+  <image id="324" name="99ddabdf-72e3-4f35-8b9f-16ae6552f353.jpeg" width="1024" height="648">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="81.04" ytl="223.72" xbr="821.24" ybr="464.73" z_order="0">
+    </box>
+  </image>
+  <image id="325" name="9a41ec03-a03f-4a0d-908e-5c1eed6ada7e.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="261.75" ytl="468.53" xbr="466.55" ybr="763.15" z_order="0">
+    </box>
+  </image>
+  <image id="326" name="9a690475-4c31-4905-8816-a4afa90c70d8.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="208.80" ytl="360.78" xbr="883.83" ybr="513.04" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="9b262840-963d-4a39-9b23-da94bf3613bb.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="464.80" ytl="146.55" xbr="813.77" ybr="465.88" z_order="0">
+    </box>
+  </image>
+  <image id="328" name="9b759db8-c4ee-44b7-ac87-b17529625ecb.jpeg" width="485" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="139.23" ytl="389.48" xbr="387.15" ybr="576.32" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="9b987c34-77d2-4ac2-9ba9-2ff41679470e.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="366.44" ytl="459.14" xbr="681.73" ybr="573.67" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="9c63df21-fe9a-4959-be16-76f4083ab102.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="317.94" ytl="58.97" xbr="715.41" ybr="475.31" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="9c782b34-37b4-423d-b697-5adfbe2938e0.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="102.18" ytl="208.82" xbr="893.02" ybr="476.03" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="9d978c02-19ff-4f96-96e9-b87fb3add681.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="233.01" ytl="224.03" xbr="358.76" ybr="590.69" z_order="0">
+    </box>
+  </image>
+  <image id="333" name="9f6c5279-a806-43b3-802a-1a10beb8f89c.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="229.41" ytl="434.39" xbr="533.02" ybr="793.69" z_order="0">
+    </box>
+  </image>
+  <image id="334" name="9fc42ef0-d7da-4bd2-8c7f-a117c69ba056.jpg" width="1024" height="671">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="90.57" ytl="125.07" xbr="1017.02" ybr="466.57" z_order="0">
+    </box>
+  </image>
+  <image id="335" name="a0ecd975-07ea-4725-8542-5cf77dd79fad.jpeg" width="682" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="1.44" ytl="263.55" xbr="608.65" ybr="788.30" z_order="0">
+    </box>
+  </image>
+  <image id="336" name="a1fab87d-e0b8-48cc-a780-e458002552e0.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="195.28" ytl="339.18" xbr="547.39" ybr="714.65" z_order="0">
+    </box>
+  </image>
+  <image id="337" name="a22984f6-bb93-4e1c-8c27-a822394700ae.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="253.15" ytl="128.54" xbr="752.82" ybr="528.75" z_order="0">
+    </box>
+  </image>
+  <image id="338" name="a2721fd6-fd1d-402d-84f2-364561a4ee76.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="396.08" ytl="327.10" xbr="626.48" ybr="432.19" z_order="0">
+    </box>
+  </image>
+  <image id="339" name="a2a51575-bb8d-4419-bb71-e0b54f426d3a.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="72.72" ytl="200.45" xbr="449.98" ybr="588.49" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="466.15" ytl="362.13" xbr="925.60" ybr="601.96" z_order="0">
+    </box>
+  </image>
+  <image id="340" name="a3f07eba-0472-411c-b71a-5cdf4c32c373.jpg" width="1024" height="642">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="227.06" ytl="178.85" xbr="865.68" ybr="486.33" z_order="0">
+    </box>
+  </image>
+  <image id="341" name="a42ce1f6-0eb3-4c57-9025-19fd3cfbf72e.jpg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="292.67" ytl="158.48" xbr="805.01" ybr="323.19" z_order="0">
+    </box>
+  </image>
+  <image id="342" name="a4820a3b-ffbc-4897-92f2-46c9cdd4548f.png" width="796" height="635">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="113.91" ytl="132.85" xbr="703.24" ybr="511.62" z_order="0">
+    </box>
+  </image>
+  <image id="343" name="a5126ba8-8aab-4fda-ac4d-c558c60cc113.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="96.47" ytl="269.12" xbr="665.96" ybr="908.67" z_order="0">
+    </box>
+  </image>
+  <image id="344" name="a51af551-af06-42d7-9bd7-24f36ad4e47c.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="262.69" ytl="94.00" xbr="824.55" ybr="471.30" z_order="0">
+    </box>
+  </image>
+  <image id="345" name="a5bbf953-8eb7-4b02-915f-82a8462ed11b.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="427.07" ytl="180.24" xbr="839.37" ybr="544.03" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="485.01" ytl="193.71" xbr="823.20" ybr="653.16" z_order="0">
+    </box>
+  </image>
+  <image id="346" name="a6c953db-df59-4dad-b5e6-3796551f3f39.jpeg" width="768" height="1024">
+  </image>
+  <image id="347" name="a72f1e4b-7506-415a-969c-56bce874dbbf.jpeg" width="673" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="64.32" ytl="215.22" xbr="511.64" ybr="741.59" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="116.42" ytl="315.83" xbr="524.22" ybr="899.69" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="a81aa9f4-21cf-412b-9444-e9bc477a6205.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="243.79" ytl="398.46" xbr="434.21" ybr="804.47" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="285.11" ytl="387.69" xbr="444.99" ybr="845.79" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="abad0580-0c51-4b99-a48c-f3c9afb3afa3.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="265.34" ytl="409.24" xbr="462.96" ybr="948.19" z_order="0">
+    </box>
+  </image>
+  <image id="350" name="ac7fe72e-b00a-46c9-9752-03a249e25f48.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="328.22" ytl="477.51" xbr="477.33" ybr="955.38" z_order="0">
+    </box>
+  </image>
+  <image id="351" name="ace68311-3cfe-4c76-b229-bce6ea16fe32.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="281.91" ytl="184.85" xbr="707.29" ybr="610.23" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="ad09ed7d-7b9c-4d62-a33c-cbf3f02f0ca6.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="2.72" ytl="238.78" xbr="662.95" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="ad6df10e-a53b-4272-a255-d594008d18bd.jpg" width="1024" height="718">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="256.29" ytl="283.12" xbr="685.83" ybr="536.31" z_order="0">
+    </box>
+  </image>
+  <image id="354" name="ae5a886e-9431-4a03-aebd-0e6f30f2711f.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="204.76" ytl="227.39" xbr="891.92" ybr="572.32" z_order="0">
+    </box>
+  </image>
+  <image id="355" name="ae880801-0f9b-417f-a134-05948e7724ac.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="204.26" ytl="375.11" xbr="601.29" ybr="739.80" z_order="0">
+    </box>
+  </image>
+  <image id="356" name="aebe57e3-9a1c-41e2-95ca-83c3ce41e5ae.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="261.84" ytl="260.26" xbr="852.63" ybr="611.58" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="af13e6ed-0a02-4092-b7de-7dc51714a7bd.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="250.97" ytl="369.72" xbr="667.76" ybr="755.97" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="b065da6c-c0a9-4c49-b657-53c963cbb810.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="235.75" ytl="184.28" xbr="887.87" ybr="642.38" z_order="0">
+    </box>
+  </image>
+  <image id="359" name="b076f4b0-38be-44a6-94ee-c4e50111c931.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="114.44" ytl="285.29" xbr="559.97" ybr="874.53" z_order="0">
+    </box>
+  </image>
+  <image id="360" name="b14797ab-dfea-465a-ad86-1024cb1fbf39.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="170.13" ytl="407.45" xbr="461.16" ybr="734.41" z_order="0">
+    </box>
+  </image>
+  <image id="361" name="b19863e0-7596-4d04-b323-bf214acf97f5.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="303.07" ytl="333.79" xbr="734.23" ybr="640.99" z_order="0">
+    </box>
+  </image>
+  <image id="362" name="b19929e4-9b3a-412a-aca9-1d2a7b92908b.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="195.28" ytl="380.50" xbr="581.53" ybr="527.81" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="b206d062-9b73-4d6f-b67b-e4f0a8d4eeb2.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="150.37" ytl="121.80" xbr="574.30" ybr="635.60" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="b28e9add-e7fd-48c8-ad1a-7e4491227f93.jpg" width="750" height="500">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="2.11" ytl="197.19" xbr="469.74" ybr="450.70" z_order="0">
+    </box>
+  </image>
+  <image id="365" name="b307f0b8-82f4-4f0b-bda9-f8e83675cf6f.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="236.60" ytl="247.56" xbr="579.73" ybr="894.30" z_order="0">
+    </box>
+  </image>
+  <image id="366" name="b54aae93-7a36-4688-8c4c-c060733f2c2e.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="182.71" ytl="360.56" xbr="540.21" ybr="729.02" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="b5693e01-b1ac-4f4a-b4c4-c0e58e0a9563.jpg" width="1024" height="682">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="135.08" ytl="298.88" xbr="586.16" ybr="490.32" z_order="0">
+    </box>
+  </image>
+  <image id="368" name="b65473ea-4dc3-4024-920b-a33458ec3630.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="185.53" ytl="280.00" xbr="814.47" ybr="574.74" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="b6bb3837-d560-4d8d-93eb-e1b0b6abbd9e.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="243.79" ytl="290.68" xbr="491.70" ybr="768.54" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="b746dab3-1765-4619-819f-b026b2fafe4c.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="243.57" ytl="92.60" xbr="696.51" ybr="635.40" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="b8d3c942-ef47-454f-87da-48452c9cc0cb.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="389.35" ytl="325.75" xbr="935.03" ybr="519.77" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="ba0b4b7a-078f-46f9-a9e7-c194e839b7bf.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="344.88" ytl="114.21" xbr="701.94" ybr="608.70" z_order="0">
+    </box>
+  </image>
+  <image id="373" name="ba60e2db-25b3-4adc-bb81-61c736eea831.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="307.16" ytl="283.98" xbr="676.34" ybr="464.53" z_order="0">
+    </box>
+  </image>
+  <image id="374" name="ba870d0c-6263-4413-927c-52da77779043.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="157.60" ytl="228.74" xbr="936.38" ybr="566.93" z_order="0">
+    </box>
+  </image>
+  <image id="375" name="ba886302-cedf-46c4-89ed-efd8d71dbda3.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="198.02" ytl="228.74" xbr="1005.09" ybr="529.20" z_order="0">
+    </box>
+  </image>
+  <image id="376" name="baa7e2a9-8d83-45af-869f-c71ceb1b89e1.jpeg" width="1024" height="896">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="219.69" ytl="213.40" xbr="546.65" ybr="595.38" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="555.93" ytl="320.29" xbr="824.88" ybr="486.92" z_order="0">
+    </box>
+    <box label="bergmolch" source="manual" occluded="0" xtl="323.44" ytl="361.16" xbr="449.19" ybr="534.08" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="bc11c29d-e68f-43b8-8918-11d260d4d9dc.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="374.53" ytl="331.14" xbr="588.76" ybr="464.53" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="bc2426f0-9f6f-481a-a0da-71ed9b0455bb.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="249.18" ytl="384.09" xbr="549.19" ybr="543.98" z_order="0">
+    </box>
+  </image>
+  <image id="379" name="bc56c2ff-7d86-4782-83df-5760b370426e.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="102.18" ytl="130.93" xbr="876.24" ybr="511.98" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="bca14fb1-54f4-43ad-b9e0-5fae387f07ee.jpeg" width="1024" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="149.11" ytl="98.27" xbr="943.16" ybr="948.19" z_order="0">
+    </box>
+  </image>
+  <image id="381" name="bcfff877-7963-4184-b92b-7f4b2ce0bc24.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="234.09" ytl="265.52" xbr="358.04" ybr="635.60" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="be2e7674-bcf4-4911-a31b-1140f7b45963.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="367.74" ytl="209.83" xbr="567.16" ybr="869.15" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="bee0fcaa-fef3-48ad-9d5f-8edecf6a7911.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="250.57" ytl="139.81" xbr="666.91" ybr="387.73" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="bee85af8-9133-4748-8398-0580ed436785.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="295.88" ytl="218.82" xbr="524.04" ybr="951.78" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="befcbe34-d0f1-46a2-8227-b7a166dfddc7.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="169.73" ytl="185.63" xbr="654.78" ybr="560.19" z_order="0">
+    </box>
+  </image>
+  <image id="386" name="bf546675-3031-416b-97e2-5498cc9c9dae.jpeg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="392.72" ytl="260.54" xbr="647.37" ybr="454.56" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="bf6c57b1-c563-430d-8f7d-4ec100f49b85.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="100.07" ytl="308.64" xbr="527.63" ybr="716.44" z_order="0">
+    </box>
+  </image>
+  <image id="388" name="bf8a7e4f-1f67-468c-b7e9-11a887b9afe8.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="215.04" ytl="317.62" xbr="421.64" ybr="590.69" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="c0288717-b34a-40b1-9d69-0af06a224894.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="277.52" ytl="177.54" xbr="707.33" ybr="518.43" z_order="0">
+    </box>
+  </image>
+  <image id="390" name="c1f1df83-901c-49c2-b6ad-b5f15518bb3e.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="224.03" ytl="452.18" xbr="488.11" ybr="657.16" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="c2a2b8db-21d1-4463-af7b-e70048d84d44.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="59.04" ytl="212.41" xbr="956.52" ybr="574.28" z_order="0">
+    </box>
+  </image>
+  <image id="392" name="c2a466b5-0f77-4386-bb89-80e4f25f7e53.jpg" width="1024" height="485">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="359.06" ytl="47.35" xbr="743.72" ybr="417.87" z_order="0">
+    </box>
+  </image>
+  <image id="393" name="c31f4dcd-60d5-4c39-8f82-7aad75bec57f.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="146.51" ytl="175.27" xbr="1024.00" ybr="668.95" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="c3a788dd-6b5b-4e7b-81a0-1902e11c5d62.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="359.71" ytl="350.00" xbr="708.67" ybr="556.15" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="c3c0e6f7-98ab-4de1-adde-42c7e6c63c67.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="244.77" ytl="301.08" xbr="580.28" ybr="412.52" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="c414560f-7740-49e7-beb0-4674c4afd79d.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="6.65" ytl="294.09" xbr="746.80" ybr="579.91" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="c525679c-9c37-4b56-90c2-223674417973.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="319.24" ytl="452.36" xbr="502.48" ybr="817.05" z_order="0">
+    </box>
+  </image>
+  <image id="398" name="c6871b8e-28a4-480c-ab6d-f2a7a8a027ab.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="245.58" ytl="251.15" xbr="480.92" ybr="876.30" z_order="0">
+    </box>
+  </image>
+  <image id="399" name="c7e4063f-6d98-4ded-bc94-b60daf115b9d.jpeg" width="1024" height="768">
+  </image>
+  <image id="400" name="cb7bec26-36df-4baa-9209-82a5e2f8828f.jpg" width="1024" height="686">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="106.31" ytl="264.57" xbr="816.50" ybr="434.27" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="cbb5279a-6ff7-4147-bf1d-26c59d81157d.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="238.16" ytl="241.84" xbr="681.58" ybr="572.11" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="cbfc2d53-9ea7-4424-82be-524a77ca2b81.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="303.07" ytl="323.01" xbr="428.83" ybr="678.72" z_order="0">
+    </box>
+  </image>
+  <image id="403" name="ccfe9366-ba83-440a-8046-06b4d94714da.jpeg" width="739" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="273.25" ytl="127.19" xbr="541.11" ybr="998.49" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="cd70050f-a040-4d51-aa64-dcd61866e0bf.jpeg" width="1024" height="670">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="286.29" ytl="245.38" xbr="633.04" ybr="391.14" z_order="0">
+    </box>
+  </image>
+  <image id="405" name="cdd72b05-f146-4d34-8d7a-aff6cb2a2f1f.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="243.79" ytl="409.24" xbr="594.10" ybr="1021.85" z_order="0">
+    </box>
+  </image>
+  <image id="406" name="cef04490-03bc-4dc3-94aa-e1e3c8cfd2af.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="110.85" ytl="407.45" xbr="495.30" ybr="509.85" z_order="0">
+    </box>
+  </image>
+  <image id="407" name="cefa14a8-4091-4c2d-9724-ad2516ff2db3.jpeg" width="1024" height="680">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="177.92" ytl="120.29" xbr="829.28" ybr="633.28" z_order="0">
+    </box>
+  </image>
+  <image id="408" name="cfb29628-2e1d-4dd5-bac4-a5c705fd072d.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="278.32" ytl="278.32" xbr="940.95" ybr="465.24" z_order="0">
+    </box>
+  </image>
+  <image id="409" name="cfb47e33-82d5-4b38-8127-a8a611b341f0.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="350.27" ytl="205.84" xbr="817.81" ybr="588.49" z_order="0">
+    </box>
+  </image>
+  <image id="410" name="d084cebd-f8d4-47c9-a3ee-becb84056d90.jpeg" width="769" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="304.51" ytl="285.29" xbr="448.23" ybr="768.54" z_order="0">
+    </box>
+  </image>
+  <image id="411" name="d09bb754-dce2-451f-a13f-e973684c536f.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="150.00" ytl="276.05" xbr="763.16" ybr="507.63" z_order="0">
+    </box>
+  </image>
+  <image id="412" name="d0e0794f-d49e-43c1-841f-a5dafd8f22e0.jpeg" width="1024" height="766">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="168.02" ytl="341.11" xbr="952.84" ybr="667.67" z_order="0">
+    </box>
+  </image>
+  <image id="413" name="d4138f77-0f6f-4ac3-af6f-af58ab860165.jpeg" width="1024" height="419">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="272.31" ytl="126.67" xbr="688.01" ybr="271.69" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="180.44" ytl="187.69" xbr="649.99" ybr="330.06" z_order="0">
+    </box>
+  </image>
+  <image id="414" name="d54c3fd3-fc0a-4eb2-ada1-682cffb609cd.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="125.22" ytl="412.66" xbr="516.85" ybr="673.33" z_order="0">
+    </box>
+  </image>
+  <image id="415" name="d5c5eb9b-971c-4377-8c37-2163367d8900.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="288.70" ytl="373.13" xbr="482.72" ybr="779.32" z_order="0">
+    </box>
+  </image>
+  <image id="416" name="d5ce6840-d4cc-475a-b02b-74e2f7c06cec.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="310.26" ytl="340.80" xbr="586.92" ybr="790.10" z_order="0">
+    </box>
+  </image>
+  <image id="417" name="d664d474-33f7-4e7f-bdca-2a7d1ec54387.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="18.30" ytl="170.48" xbr="1014.04" ybr="545.53" z_order="0">
+    </box>
+  </image>
+  <image id="418" name="d667b883-81de-4d29-9765-f2bf4da87fc6.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="161.15" ytl="234.98" xbr="694.71" ybr="623.03" z_order="0">
+    </box>
+  </image>
+  <image id="419" name="d6b8b988-329d-4be3-a018-f2ecab1034ff.jpeg" width="1024" height="710">
+  </image>
+  <image id="420" name="d736d55d-eaad-4dd4-9f61-52349a060e79.jpeg" width="1024" height="763">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="153.20" ytl="166.45" xbr="857.30" ybr="596.14" z_order="0">
+    </box>
+  </image>
+  <image id="421" name="d80dd28b-7eb7-4dfa-8ce9-a168ac8fad11.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="90.23" ytl="298.80" xbr="893.26" ybr="484.74" z_order="0">
+    </box>
+  </image>
+  <image id="422" name="d8170048-2531-44b0-adf2-216a035a4ef1.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="60.54" ytl="398.46" xbr="718.06" ybr="786.51" z_order="0">
+    </box>
+  </image>
+  <image id="423" name="d9a18aea-03c6-4f6c-9aaf-5a893d908d09.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="292.34" ytl="279.94" xbr="641.31" ybr="527.86" z_order="0">
+    </box>
+  </image>
+  <image id="424" name="d9fed288-4c6e-4caa-b226-c5788d4f58c9.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="235.18" ytl="172.87" xbr="813.93" ybr="656.96" z_order="0">
+    </box>
+  </image>
+  <image id="425" name="da0a3cee-c49c-4d02-a9e0-c49e0416f761.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="297.68" ytl="437.99" xbr="592.31" ybr="646.38" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="344.39" ytl="400.26" xbr="556.38" ybr="649.97" z_order="0">
+    </box>
+  </image>
+  <image id="426" name="da39c20a-98aa-4c99-9a0f-f8e8a57281d1.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="168.33" ytl="110.85" xbr="646.20" ybr="881.72" z_order="0">
+    </box>
+  </image>
+  <image id="427" name="da51aca7-8f60-4c23-9910-518723d9550e.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="103.66" ytl="152.35" xbr="506.07" ybr="806.27" z_order="0">
+    </box>
+  </image>
+  <image id="428" name="db11a0e5-b269-4cef-bee3-86936b86a69d.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="420.34" ytl="150.59" xbr="735.62" ybr="483.39" z_order="0">
+    </box>
+  </image>
+  <image id="429" name="dba9eb18-5847-45ec-a270-46758622d0a5.jpeg" width="998" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="100.07" ytl="146.96" xbr="808.06" ybr="858.37" z_order="0">
+    </box>
+  </image>
+  <image id="430" name="dc2a5f47-cbee-4ace-ae26-3962835e0e35.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="263.55" ytl="265.52" xbr="590.51" ybr="800.88" z_order="0">
+    </box>
+  </image>
+  <image id="431" name="dd0818e8-ea3d-4caa-90a4-1e0ec894cbfc.jpeg" width="768" height="1024">
+  </image>
+  <image id="432" name="dd8d60d0-69c2-4121-a1d8-cd0909b815e1.jpeg" width="576" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="140.67" ytl="328.40" xbr="413.73" ybr="669.73" z_order="0">
+    </box>
+  </image>
+  <image id="433" name="ddd72342-b054-45c3-9cdf-85540a7c93ef.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="113.14" ytl="160.03" xbr="1009.14" ybr="500.91" z_order="0">
+    </box>
+  </image>
+  <image id="434" name="de394008-3697-4183-bfe8-1240b1800ea9.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="210.40" ytl="198.42" xbr="823.68" ybr="633.95" z_order="0">
+    </box>
+  </image>
+  <image id="435" name="df514f9a-415f-4c03-8d39-94f8ee70eeaa.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="458.06" ytl="248.95" xbr="652.08" ybr="471.27" z_order="0">
+    </box>
+  </image>
+  <image id="436" name="dfc4746f-4e00-4a73-b6df-c8b84f689625.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="511.96" ytl="402.55" xbr="742.36" ybr="508.99" z_order="0">
+    </box>
+  </image>
+  <image id="437" name="e0013327-5ac5-45d1-a31a-2060d6e01669.jpg" width="1000" height="750">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="194.74" ytl="224.74" xbr="917.11" ybr="580.00" z_order="0">
+    </box>
+  </image>
+  <image id="438" name="e033bdb1-a181-4ef2-b644-cbf437a1680b.jpeg" width="1024" height="768">
+  </image>
+  <image id="439" name="e04745b7-fb6e-4d97-b747-7e859421dd4d.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="235.18" ytl="134.53" xbr="1020.03" ybr="528.75" z_order="0">
+    </box>
+  </image>
+  <image id="440" name="e0ee6f87-a0aa-44a3-90b5-378f14bd70df.jpeg" width="1024" height="771">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="115.66" ytl="180.32" xbr="750.05" ybr="373.75" z_order="0">
+    </box>
+  </image>
+  <image id="441" name="e1c54acd-f9fd-4e86-aa9f-23e6bce4b2c7.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="118.95" ytl="144.11" xbr="828.31" ybr="659.36" z_order="0">
+    </box>
+  </image>
+  <image id="442" name="e3b476fa-5c4e-4a48-9f30-d916b9d17df2.jpeg" width="763" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="292.65" ytl="319.42" xbr="626.80" ybr="887.11" z_order="0">
+    </box>
+  </image>
+  <image id="443" name="e3b50670-9bd7-4b8c-9560-ed97670d5f55.jpeg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="231.03" ytl="93.80" xbr="690.82" ybr="377.76" z_order="0">
+    </box>
+  </image>
+  <image id="444" name="e4479c84-dbbb-469e-83ff-580149db2487.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="220.93" ytl="139.81" xbr="836.67" ybr="677.41" z_order="0">
+    </box>
+  </image>
+  <image id="445" name="e47189ce-18f5-4473-867e-9078f0c4b217.jpeg" width="1024" height="771">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="364.55" ytl="246.46" xbr="888.02" ybr="495.48" z_order="0">
+    </box>
+  </image>
+  <image id="446" name="e4c15177-2253-4111-95b6-41f4dd4802e5.jpeg" width="461" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="168.51" ytl="333.79" xbr="418.23" ybr="752.37" z_order="0">
+    </box>
+  </image>
+  <image id="447" name="e5708b9f-8dd9-4035-82b2-2199a01f3eb6.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="400.13" ytl="102.09" xbr="679.03" ybr="494.17" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="e5baff6b-20e9-4cdd-87cc-cc8f530e4925.jpeg" width="1024" height="744">
+  </image>
+  <image id="449" name="e7509b27-093d-43a6-92b0-f01ca9e73998.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="332.76" ytl="316.32" xbr="648.04" ybr="483.39" z_order="0">
+    </box>
+  </image>
+  <image id="450" name="e80297a5-c2c2-4f2e-a712-8fd182259530.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="456.86" ytl="219.60" xbr="761.21" ybr="579.08" z_order="0">
+    </box>
+  </image>
+  <image id="451" name="e8645a3e-7972-4ec0-bd60-1060f05ac86a.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="168.33" ytl="508.05" xbr="524.04" ybr="689.50" z_order="0">
+    </box>
+  </image>
+  <image id="452" name="e93eae62-80d8-476f-9068-3fc4f8d0c9e1.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="205.22" ytl="355.01" xbr="777.99" ybr="491.61" z_order="0">
+    </box>
+  </image>
+  <image id="453" name="e960ac04-e84d-4671-b6e1-9d36058a6ba0.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="192.04" ytl="238.78" xbr="927.77" ybr="455.66" z_order="0">
+    </box>
+  </image>
+  <image id="454" name="ea2e505d-5800-4620-81e4-26bdb5c01606.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="315.24" ytl="216.61" xbr="894.61" ybr="475.31" z_order="0">
+    </box>
+  </image>
+  <image id="455" name="ea895b1b-6717-4bb7-b301-11abe104efd6.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="313.89" ytl="301.50" xbr="941.77" ybr="760.95" z_order="0">
+    </box>
+  </image>
+  <image id="456" name="eba7e988-d1d6-408a-a99f-a98fef34c61b.jpeg" width="1024" height="682">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="62.10" ytl="218.72" xbr="1019.29" ybr="568.09" z_order="0">
+    </box>
+  </image>
+  <image id="457" name="ebb41cd0-164b-43fe-8b6a-dbb71edbca87.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="218.41" ytl="242.40" xbr="718.07" ybr="618.62" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="206.42" ytl="86.60" xbr="498.79" ybr="470.04" z_order="0">
+    </box>
+  </image>
+  <image id="458" name="ec1e4e01-8edd-43f1-99e2-811679b6a262.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="250.97" ytl="434.39" xbr="427.03" ybr="649.97" z_order="0">
+    </box>
+  </image>
+  <image id="459" name="ecf31931-c075-493d-8005-ff8f9b00d98d.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="200.67" ytl="398.46" xbr="488.11" ybr="826.03" z_order="0">
+    </box>
+  </image>
+  <image id="460" name="ecf561e6-aa42-41e2-8455-5b37db7f9d6a.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="342.19" ytl="262.43" xbr="727.54" ybr="534.59" z_order="0">
+    </box>
+  </image>
+  <image id="461" name="ed943980-e2ce-4cb4-a5ed-429e04b6d8f5.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="250.97" ytl="434.39" xbr="360.56" ybr="729.02" z_order="0">
+    </box>
+  </image>
+  <image id="462" name="eda866cb-9fb2-4996-bf15-f495388c1df6.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="295.09" ytl="83.00" xbr="1000.86" ybr="677.33" z_order="0">
+    </box>
+  </image>
+  <image id="463" name="edd4e44e-aaaf-45d8-b46e-7a1603a74181.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="279.52" ytl="177.66" xbr="913.39" ybr="595.85" z_order="0">
+    </box>
+  </image>
+  <image id="464" name="eedafc84-81f7-4993-9998-11e28e9e490e.jpg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="375.87" ytl="304.19" xbr="734.27" ybr="564.24" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="374.53" ytl="191.01" xbr="882.48" ybr="345.96" z_order="0">
+    </box>
+  </image>
+  <image id="465" name="ef2427d8-f7ab-46e5-8617-24cc4ca2b3ce.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="159.35" ytl="243.80" xbr="705.48" ybr="448.77" z_order="0">
+    </box>
+  </image>
+  <image id="466" name="ef849d0b-a472-4196-8001-39a0d64b8cf8.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="157.60" ytl="211.23" xbr="893.26" ybr="552.11" z_order="0">
+    </box>
+  </image>
+  <image id="467" name="efa4f0af-04f3-44e7-9d34-e0ae4df09f29.jpeg" width="332" height="520">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="46.47" ytl="62.71" xbr="274.54" ybr="474.24" z_order="0">
+    </box>
+  </image>
+  <image id="468" name="f0a23162-c0e4-40e5-b74e-59c880f14efc.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="290.50" ytl="500.86" xbr="547.39" ybr="583.50" z_order="0">
+    </box>
+  </image>
+  <image id="469" name="f0c62689-5372-45a6-9890-011c7cd1f03e.jpeg" width="1024" height="556">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="66.25" ytl="185.16" xbr="959.75" ybr="356.83" z_order="0">
+    </box>
+  </image>
+  <image id="470" name="f1632840-d0c6-4763-a061-facc381d52d7.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="247.38" ytl="297.86" xbr="676.74" ybr="894.30" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="f1e81f7d-29c5-40fc-ab59-15ffe30ee061.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="198.02" ytl="261.08" xbr="886.53" ybr="486.09" z_order="0">
+    </box>
+  </image>
+  <image id="472" name="f225fb2d-2727-4151-83fa-becdaae0a4ae.jpg" width="1024" height="768">
+  </image>
+  <image id="473" name="f242bd6b-3596-4fb6-9273-fd480cd96178.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="292.29" ytl="405.65" xbr="606.68" ybr="939.21" z_order="0">
+    </box>
+  </image>
+  <image id="474" name="f25356f7-0ffe-4180-95ce-da488a3a7082.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="90.23" ytl="216.62" xbr="421.70" ybr="619.48" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="518.69" ytl="89.96" xbr="997.01" ybr="577.71" z_order="0">
+    </box>
+  </image>
+  <image id="475" name="f261b90a-714d-48f1-b5ab-8eab354494b0.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="396.08" ytl="382.34" xbr="592.80" ybr="511.69" z_order="0">
+    </box>
+  </image>
+  <image id="476" name="f262e002-6142-43e9-867d-2529f626483e.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="238.40" ytl="446.97" xbr="453.98" ybr="579.91" z_order="0">
+    </box>
+  </image>
+  <image id="477" name="f2aae943-3ecb-4a7f-b59e-247ea08b0fbe.jpg" width="669" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="222.23" ytl="120.01" xbr="484.52" ybr="1009.27" z_order="0">
+    </box>
+  </image>
+  <image id="478" name="f2b0cd7a-8233-43fb-b0e5-253553e17b1b.jpg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="2.65" ytl="233.25" xbr="618.10" ybr="428.29" z_order="0">
+    </box>
+  </image>
+  <image id="479" name="f3066ca1-7309-4fb1-9172-86e0379fdc01.jpeg" width="1024" height="680">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="194.62" ytl="117.91" xbr="829.28" ybr="616.58" z_order="0">
+    </box>
+  </image>
+  <image id="480" name="f3320845-ab68-41ca-b2c3-4f40b34f8d33.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="0.00" ytl="199.23" xbr="704.89" ybr="674.94" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="f655649d-d69b-43b6-b000-607d32bf51c3.jpg" width="1024" height="685">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="159.82" ytl="226.27" xbr="658.67" ybr="608.43" z_order="0">
+    </box>
+  </image>
+  <image id="482" name="f6746819-af4c-408d-8fe7-4e7f3887870a.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="89.29" ytl="583.50" xbr="477.33" ybr="870.94" z_order="0">
+    </box>
+  </image>
+  <image id="483" name="f77b1c77-f007-4049-9b68-34a1cf287b06.jpeg" width="1024" height="579">
+  </image>
+  <image id="484" name="f7f11a59-6b19-47ac-903d-cfe595773ae7.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="82.10" ytl="340.80" xbr="603.08" ybr="795.49" z_order="0">
+    </box>
+  </image>
+  <image id="485" name="f7f3738e-41dc-4692-bb2a-ddd4337cfd6a.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="304.87" ytl="157.73" xbr="452.18" ybr="597.88" z_order="0">
+    </box>
+  </image>
+  <image id="486" name="f8182bf8-a18f-41a4-a338-cb9da48d5897.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="107.75" ytl="250.30" xbr="797.60" ybr="513.04" z_order="0">
+    </box>
+  </image>
+  <image id="487" name="f85e1a3e-3c4e-4213-b97c-5835ad3c0d11.jpeg" width="1024" height="699">
+  </image>
+  <image id="488" name="f8ee2267-9d96-47db-a5fb-60f71c6725f4.jpg" width="768" height="1024">
+  </image>
+  <image id="489" name="f910476a-be8c-46ec-9626-e386f8b0f358.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="245.58" ytl="421.82" xbr="660.57" ybr="606.86" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="175.52" ytl="322.83" xbr="473.74" ybr="687.70" z_order="0">
+    </box>
+  </image>
+  <image id="490" name="f9780cf3-aef5-41c7-9630-b77f8e54325e.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="47.97" ytl="427.21" xbr="768.00" ybr="671.53" z_order="0">
+    </box>
+  </image>
+  <image id="491" name="faa6fb3d-3d4e-46fe-bc43-8f68d8052ea6.jpg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="49.45" ytl="192.04" xbr="1002.06" ybr="611.43" z_order="0">
+    </box>
+  </image>
+  <image id="492" name="faed851d-5212-4d1d-abde-e1dacda4371e.jpeg" width="1024" height="768">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="133.35" ytl="227.39" xbr="1011.83" ybr="564.24" z_order="0">
+    </box>
+  </image>
+  <image id="493" name="fafaa5f7-2ffd-4a56-b8d8-73af99599ab6.jpg" width="1024" height="576">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="476.60" ytl="186.77" xbr="701.94" ybr="346.40" z_order="0">
+    </box>
+    <box label="alpensalamander" source="manual" occluded="0" xtl="410.90" ytl="223.15" xbr="726.19" ybr="410.10" z_order="0">
+    </box>
+  </image>
+  <image id="494" name="fb647a79-ee11-4e83-b740-e43100a8ba88.jpeg" width="1024" height="683">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="249.56" ytl="87.80" xbr="701.30" ybr="543.13" z_order="0">
+    </box>
+  </image>
+  <image id="495" name="fcb2efd8-9068-4567-8dd6-6278be2fd074.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="114.44" ytl="373.31" xbr="507.87" ybr="617.64" z_order="0">
+    </box>
+  </image>
+  <image id="496" name="fe06f980-1e25-46ad-bc2f-102efe445698.jpg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="241.99" ytl="353.37" xbr="527.63" ybr="829.62" z_order="0">
+    </box>
+  </image>
+  <image id="497" name="fe2d792f-af37-4e03-885a-2f2f2b22f999.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="252.77" ytl="182.71" xbr="574.34" ybr="632.01" z_order="0">
+    </box>
+  </image>
+  <image id="498" name="fe46f68c-a06c-4515-b6d5-382eaeec5cb9.jpg" width="960" height="720">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="99.66" ytl="98.27" xbr="631.58" ybr="449.43" z_order="0">
+    </box>
+  </image>
+  <image id="499" name="ffa3fbd3-fd22-44f3-af18-c572a4073ac5.jpeg" width="768" height="1024">
+    <box label="alpensalamander" source="manual" occluded="0" xtl="231.21" ytl="358.94" xbr="592.31" ybr="687.70" z_order="0">
+    </box>
+  </image>
+</annotations>

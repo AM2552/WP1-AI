@@ -1,0 +1,1835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>5</id>
+      <size>482</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-04 22:24:24.982160+00:00</created>
+      <updated>2025-02-08 17:40:36.644333+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>481</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>5</id>
+          <start>0</start>
+          <stop>481</stop>
+          <url>http://localhost:8080/api/jobs/5</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-08 17:40:46.019686+00:00</dumped>
+  </meta>
+  <image id="0" name="001a63ce-ecb7-490e-9a67-dcc1b26b49db.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="433.21" ytl="229.09" xbr="704.02" ybr="627.55" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="01571491-de4f-457e-b8f8-ccf26641a3e6.jpeg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="427.32" ytl="135.36" xbr="643.85" ybr="575.40" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="015984ac-e55b-4bef-8ec6-51de4de65d39.jpeg" width="1024" height="766">
+    <box label="kammmolch" source="manual" occluded="0" xtl="181.89" ytl="178.83" xbr="435.23" ybr="669.07" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0218a360-bcac-4487-beb1-59720393ec06.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="39.48" ytl="184.57" xbr="974.11" ybr="567.05" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="021bd921-bd3e-406e-8fc5-0d8b9a469d11.jpg" width="462" height="1024">
+  </image>
+  <image id="5" name="0248c603-7f70-4096-afd8-2dfc1e8277cd.jpeg" width="768" height="1024">
+  </image>
+  <image id="6" name="030242ee-ba98-4510-ad7f-bbc2ecb5719e.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="595.80" ytl="181.55" xbr="795.82" ybr="615.93" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="0312c9fa-d28b-4418-9918-743cded7c644.jpg" width="1024" height="784">
+    <box label="kammmolch" source="manual" occluded="0" xtl="246.68" ytl="240.74" xbr="804.72" ybr="692.98" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="037f9157-6ca0-4187-a255-f5285d3b73a6.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="389.35" ytl="129.10" xbr="631.90" ybr="415.51" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="03cf6af4-9a16-40d6-b03d-104b6af494e4.jpeg" width="768" height="1024">
+  </image>
+  <image id="10" name="05faa84e-d921-4500-82f8-1a68ee1de14a.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="426.06" ytl="130.43" xbr="570.41" ybr="524.12" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="0652e4fe-f11e-4206-9f93-cef30e11f0f6.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="380.72" ytl="31.42" xbr="687.32" ybr="571.84" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="06e380bd-2eaa-4940-bb89-00ba06bf596e.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="141.39" ytl="374.21" xbr="678.54" ybr="681.41" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="385.71" ytl="250.25" xbr="671.35" ybr="875.43" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="339.00" ytl="550.27" xbr="516.85" ybr="965.26" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="07404c64-0898-439a-b1bf-3e166f3c4070.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="424.65" ytl="48.29" xbr="585.13" ybr="507.82" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="07727fdf-5dcb-4a5d-9dcc-71862c815629.jpeg" width="1024" height="762">
+    <box label="kammmolch" source="manual" occluded="0" xtl="322.76" ytl="278.65" xbr="694.94" ybr="477.57" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="0797c262-0de9-4316-9d3c-74d3c340d31b.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="170.56" ytl="335.70" xbr="560.98" ybr="917.76" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="07d72436-a596-4ef0-bdfa-5963a0eb71b0.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="356.17" ytl="277.98" xbr="565.72" ybr="743.64" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="07fa2542-11ce-446b-baec-c9078271a69c.jpeg" width="1024" height="768">
+  </image>
+  <image id="18" name="082574d3-b42d-44a1-b94b-216676760a4c.jpg" width="1024" height="528">
+    <box label="kammmolch" source="manual" occluded="0" xtl="91.45" ytl="297.70" xbr="969.15" ybr="477.88" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="898.49" ytl="270.54" xbr="1024.00" ybr="340.11" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="086ff462-404f-4f8d-8b9c-28bb1fd7cf13.jpeg" width="1024" height="745">
+    <box label="kammmolch" source="manual" occluded="0" xtl="2.40" ytl="179.02" xbr="768.27" ybr="644.27" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="08dbd013-6d86-4342-8fe2-0d7dba4dd749.jpeg" width="1024" height="576">
+  </image>
+  <image id="21" name="096f8903-d718-41f2-81ef-37c5c64aaa49.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="290.12" ytl="0.00" xbr="613.65" ybr="400.16" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="0a25b11e-c116-40a9-8ea8-83636daf7c52.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="263.24" ytl="196.11" xbr="965.60" ybr="555.05" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="0a47a2f3-519f-49ac-bd99-6ef1b6f0bd7b.jpg" width="768" height="1024">
+  </image>
+  <image id="24" name="0a975384-4cd0-4dce-9f0d-f14c32f890a8.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="327.59" ytl="2.73" xbr="604.17" ybr="653.82" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="0aae873f-90a4-41cd-8235-a42fb79d0336.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="312.22" ytl="443.91" xbr="397.13" ybr="735.01" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="0ad7b5fe-d7f4-4ed6-8f90-ddadc812964e.jpeg" width="1024" height="576">
+  </image>
+  <image id="27" name="0af03910-faa1-4635-ae27-e246f2dedb53.jpeg" width="1024" height="498">
+  </image>
+  <image id="28" name="0b083321-5802-415c-b1d5-ef4759c2d83f.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="376.38" ytl="55.82" xbr="622.03" ybr="633.03" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="0b428962-84c8-4ad9-a657-6a2e146bc4f4.jpg" width="1024" height="768">
+  </image>
+  <image id="30" name="0bd0fe22-7d59-4aff-9b87-9cafce7a55ac.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="436.08" ytl="166.82" xbr="563.73" ybr="614.19" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="0c504e35-4708-4695-9c58-53571153476a.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="402.67" ytl="162.05" xbr="566.11" ybr="607.03" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="0c9ebb4f-483b-4a1f-9805-6502dd94f155.jpg" width="1024" height="796">
+  </image>
+  <image id="33" name="0d4ac31d-78df-46d3-b892-9ef067ed1309.jpeg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="192.23" ytl="450.56" xbr="450.92" ybr="797.29" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="0d851322-a1f8-47a8-924b-307604367cd0.jpeg" width="1024" height="576">
+  </image>
+  <image id="35" name="0db744a0-5e7e-493d-89d6-0f8b78e1ae11.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="462.68" ytl="15.31" xbr="642.82" ybr="487.73" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="0e0ce527-1ec7-465d-812f-49e744f279e3.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="277.38" ytl="326.60" xbr="494.76" ybr="734.41" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="0e0f68ee-bb86-4024-a457-9fe8ff0eb4f7.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="419.73" ytl="113.14" xbr="611.80" ybr="548.58" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="0e161df3-21d7-45bf-b4c6-b3bd6a330d92.jpeg" width="1024" height="768">
+  </image>
+  <image id="39" name="0fd9240f-8fcc-47a8-8502-bc7f0f16dffb.jpg" width="768" height="1024">
+  </image>
+  <image id="40" name="106e3b96-2e62-4060-9792-e2c15392cb8b.jpg" width="498" height="405">
+    <box label="kammmolch" source="manual" occluded="0" xtl="117.80" ytl="3.83" xbr="495.92" ybr="335.30" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="10ee7c29-4686-4c00-9990-8af9b37ee4b7.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="57.71" ytl="338.07" xbr="898.46" ybr="524.00" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="11272d1d-2e99-403d-983a-8c6c0f1f5241.jpeg" width="768" height="1024">
+  </image>
+  <image id="43" name="1159c1d7-9094-4ac1-993b-07e477ea5968.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="250.74" ytl="333.73" xbr="974.01" ybr="497.47" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="1175324c-1cee-4b65-a155-4f5db61cdb48.gif" width="461" height="208">
+  </image>
+  <image id="45" name="11bd2d63-28f4-4a1e-8479-87487fdfd691.jpg" width="640" height="360">
+  </image>
+  <image id="46" name="11dc6a82-a395-444c-b526-cedaa131f39b.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="137.93" ytl="336.93" xbr="810.27" ybr="564.64" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="125b8e09-d089-487c-8447-04c91b4c357c.jpg" width="1024" height="768">
+  </image>
+  <image id="48" name="12a32877-aff4-4c24-aa1b-142a4e1ec996.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="206.78" ytl="179.65" xbr="531.94" ybr="937.77" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="12d63fb0-9fd9-4356-94be-8012558bc98a.jpg" width="1024" height="648">
+    <box label="kammmolch" source="manual" occluded="0" xtl="170.29" ytl="182.91" xbr="952.43" ybr="500.20" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="13215c71-c4c6-4804-85f7-11f7b98149fc.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="151.67" ytl="222.54" xbr="960.09" ybr="698.16" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="133f0589-e4f6-40a0-9d89-295bfedb6b25.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="322.54" ytl="321.75" xbr="736.86" ybr="487.93" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="13934095-4772-4fd6-a4b6-31b2410a9bb2.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="354.41" ytl="62.27" xbr="541.45" ybr="618.26" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="13b1ba89-a522-4acb-b993-a9f999f2d370.jpeg" width="1024" height="768">
+  </image>
+  <image id="54" name="14899a9b-e077-444c-b8d4-8b8e2b773aa1.jpeg" width="1024" height="768">
+  </image>
+  <image id="55" name="151b4ebe-4ee8-4a6a-a296-d7e45fc1bb88.jpg" width="1024" height="598">
+    <box label="kammmolch" source="manual" occluded="0" xtl="134.82" ytl="193.47" xbr="849.38" ybr="471.48" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="15345eb3-13ec-47fd-adcd-173db853a40e.png" width="473" height="1024">
+  </image>
+  <image id="57" name="15b5a5f4-87a3-4870-ade7-c6e86dbe6f46.jpeg" width="1024" height="575">
+  </image>
+  <image id="58" name="162d5d52-46cd-4b98-abc1-180ee7567d16.jpeg" width="461" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="45.42" ytl="388.60" xbr="412.41" ybr="621.48" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="162d969c-ecf4-4352-8721-937839a2f05b.jpeg" width="768" height="1024">
+  </image>
+  <image id="60" name="16453698-0c6e-4458-a68e-b7ce1249fb4e.jpeg" width="498" height="1024">
+  </image>
+  <image id="61" name="1651c450-d5f1-472a-9e37-dc9c192fe50a.jpg" width="1024" height="681">
+    <box label="kammmolch" source="manual" occluded="0" xtl="279.38" ytl="196.63" xbr="898.73" ybr="582.00" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="167b0a5e-bba0-468d-9280-fc5ee89fabe3.jpeg" width="1024" height="650">
+  </image>
+  <image id="63" name="174693a5-dfa3-4948-bedc-d4b120633814.jpg" width="1024" height="770">
+    <box label="kammmolch" source="manual" occluded="0" xtl="0.15" ytl="367.42" xbr="212.19" ybr="612.52" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="211.99" ytl="172.89" xbr="714.06" ybr="534.71" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="494.05" ytl="421.88" xbr="671.27" ybr="570.89" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="1889da89-97d8-4f41-a016-b38e8cbc8308.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="382.73" ytl="54.27" xbr="626.84" ybr="614.30" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="18dc3f35-15ee-47aa-a1f1-0d915e8b25db.jpeg" width="1024" height="769">
+  </image>
+  <image id="66" name="197991a2-8c60-4e15-b9dd-7f297236951e.jpg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="130.50" ytl="183.74" xbr="502.78" ybr="355.93" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="19df3498-f41b-4afe-90a8-c9aac22b2ac1.jpg" width="768" height="1024">
+  </image>
+  <image id="68" name="1ac9e1a9-a56c-4b79-9c93-60681fac74a9.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="410.91" ytl="250.70" xbr="766.61" ybr="537.69" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="1ae8e8e9-89ec-417f-a085-7831ba44693e.jpg" width="1024" height="1024">
+  </image>
+  <image id="70" name="1ae98b6b-a4c6-4f2a-b4eb-d4452157e2fe.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="417.63" ytl="17.94" xbr="648.12" ybr="587.71" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="1aefac77-4c08-4284-ac66-af66f75413ee.jpeg" width="1024" height="768">
+  </image>
+  <image id="72" name="1b948d4a-95b4-4e6f-9d04-84f7d609d4ca.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="387.05" ytl="48.95" xbr="679.33" ybr="528.53" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="1bd2aad0-2fb6-409e-9538-d9d009b2f30a.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="255.32" ytl="391.72" xbr="432.06" ybr="652.77" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="1cde50e0-70a6-46f7-9396-9b531dae47ef.jpeg" width="1023" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="133.05" ytl="215.19" xbr="969.71" ybr="952.47" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="1e13dee2-28f0-4d13-acf5-12ed8e220968.jpeg" width="1024" height="768">
+  </image>
+  <image id="76" name="1e1a6372-2bf2-4f38-b4ee-5bfcbb53a9ff.jpeg" width="709" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="150.01" ytl="116.42" xbr="626.08" ybr="894.30" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="1e1fa14f-4991-40dd-a028-ce63e329b5c3.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="173.36" ytl="377.09" xbr="894.21" ybr="589.97" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="1e5aea61-bc5e-4e7f-92ac-69fb9d72ecaa.jpg" width="1024" height="768">
+  </image>
+  <image id="79" name="1e929815-59a9-4e3e-890d-ecf869baa0de.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="173.36" ytl="284.12" xbr="882.08" ybr="517.21" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="1ff620f9-d8e9-49db-8376-cf8c06987bcf.jpg" width="981" height="857">
+    <box label="kammmolch" source="manual" occluded="0" xtl="212.47" ytl="284.64" xbr="762.90" ybr="591.35" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="2130f1c3-64b2-4907-926f-b356f2350885.jpeg" width="768" height="1024">
+  </image>
+  <image id="82" name="21417e4a-02c5-4da4-a225-f18608fa3301.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="85.84" ytl="113.22" xbr="545.02" ybr="755.64" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="223832ec-e2f9-4ad4-9ebd-96cb62d9a473.jpeg" width="729" height="598">
+  </image>
+  <image id="84" name="2282d633-bb32-4c79-9bde-c8a76dbc38b1.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="417.06" ytl="96.67" xbr="730.58" ybr="520.42" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="22901bd9-7383-4b42-89d3-8d4344d1d4fb.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="411.33" ytl="145.35" xbr="669.02" ybr="551.92" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="22f1323a-74b7-4139-b5e7-1ac8d788c5fe.jpeg" width="1024" height="768">
+  </image>
+  <image id="87" name="23012f53-c886-4d2a-a36d-c23ffad2d049.jpeg" width="576" height="1024">
+  </image>
+  <image id="88" name="2415b7c0-99c4-4cea-8b21-e86d623f36dc.jpeg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="201.20" ytl="186.16" xbr="630.47" ybr="309.85" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="245403ee-53b4-4832-bc14-c49f6f93109e.jpeg" width="461" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="39.10" ytl="65.79" xbr="412.01" ybr="979.85" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="2485753a-a1f1-4014-9b34-7e34b4039a69.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="316.85" ytl="222.65" xbr="840.81" ybr="632.08" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="24922cac-f697-4b76-9a21-ff6ce91b36e9.jpg" width="598" height="470">
+    <box label="kammmolch" source="manual" occluded="0" xtl="210.67" ytl="152.88" xbr="497.61" ybr="277.55" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="24dd5f87-41ac-488f-a6c2-2a5813372ef8.jpg" width="960" height="720">
+    <box label="kammmolch" source="manual" occluded="0" xtl="250.58" ytl="241.79" xbr="646.36" ybr="516.15" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="253fec62-c531-4726-98d4-b8f3588ee92d.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="200.10" ytl="233.94" xbr="592.45" ybr="772.89" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="2743fcf5-32c3-4b6b-9acf-1beedb32e7b1.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="27.63" ytl="287.84" xbr="626.94" ybr="878.52" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="28a13983-d2b3-49d2-a65a-4687dd80f341.jpeg" width="576" height="1024">
+  </image>
+  <image id="96" name="291ae028-331f-485c-b38a-3026b7f2820a.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="425.93" ytl="348.26" xbr="687.21" ybr="433.26" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="295ee003-1bf2-40a0-9719-fdacb8767647.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="304.47" ytl="208.16" xbr="927.87" ybr="409.25" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="298a136e-00ab-4075-b58a-97385fbc5ab2.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="115.43" ytl="147.76" xbr="876.96" ybr="563.29" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="29f01070-095f-4582-81a5-c85cb7486ff7.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="181.72" ytl="141.30" xbr="935.17" ybr="550.36" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="2baf54cd-ce45-4d22-9728-030f6e3f48c5.jpeg" width="1024" height="768">
+  </image>
+  <image id="101" name="2c5f4e0c-130f-4eee-ae88-d4d41abba951.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="419.12" ytl="175.45" xbr="651.75" ybr="464.75" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="2de24bdc-5961-4cd7-8089-2544ffb2327a.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="91.35" ytl="392.87" xbr="539.13" ybr="767.13" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="2decdd8b-6dc9-41fb-9c34-d9e263b223fc.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="183.65" ytl="228.30" xbr="736.07" ybr="597.85" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="2e8e0420-68df-4b79-8270-be0973a9a15e.jpeg" width="577" height="577">
+  </image>
+  <image id="105" name="2e992d5a-d8e0-4833-8953-055b7874a57a.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="196.30" ytl="621.92" xbr="366.97" ybr="889.89" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="2edebf7d-a764-4195-85b5-c2414ce94177.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="433.41" ytl="71.45" xbr="651.58" ybr="538.72" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="2f3b85bf-4286-4324-862b-43f17d79b56b.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="71.93" ytl="305.73" xbr="757.02" ybr="530.79" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="2f82e606-df64-4258-81b2-67f742ef55e8.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="69.99" ytl="266.93" xbr="890.90" ybr="757.80" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="2feb6dfb-741a-4436-b01e-4c8db4dc3ff0.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="262.27" ytl="270.61" xbr="852.09" ybr="559.90" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="30231527-bf91-4a79-9a89-157f7e9c97c9.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="355.20" ytl="340.65" xbr="840.45" ybr="585.12" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="30f8c767-5747-41b7-8eb4-d3cd59877163.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="157.30" ytl="222.30" xbr="795.83" ybr="571.54" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="31c6c7e4-0eb3-4787-a6f7-cd3366606f02.jpeg" width="1024" height="686">
+    <box label="kammmolch" source="manual" occluded="0" xtl="160.56" ytl="217.58" xbr="767.13" ybr="453.28" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="3214e88d-cdfa-4c44-9ca1-53d59d8ffd14.jpeg" width="926" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="285.29" ytl="221.39" xbr="642.29" ybr="1018.17" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="325f8642-2aa1-4481-9574-2063f31f2426.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="232.00" ytl="242.09" xbr="656.26" ybr="645.65" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="32ee86ec-2ee1-4d90-98f9-9b272f3c82a1.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="371.92" ytl="272.46" xbr="586.77" ybr="514.17" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="220.49" ytl="472.40" xbr="413.87" ybr="856.02" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="347.66" ytl="541.90" xbr="469.82" ybr="707.37" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="330.33" ytl="376.42" xbr="660.42" ybr="583.48" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="332ecbb2-945d-4612-bcdb-7ca099c5e27d.jpg" width="1024" height="467">
+    <box label="kammmolch" source="manual" occluded="0" xtl="48.78" ytl="57.31" xbr="970.69" ybr="421.49" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="332fa6b1-4ce7-4426-a046-da006893f0f1.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="424.65" ytl="115.26" xbr="620.49" ybr="529.27" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="337a4c83-5326-48dd-83c6-2f234cd8a394.png" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="18.35" ytl="494.29" xbr="517.37" ybr="787.47" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="33e3af43-97c9-412b-b8d9-71590e1fa9cb.jpg" width="1024" height="768">
+  </image>
+  <image id="120" name="34dbf344-7d5f-45d6-9b0f-e3f8027e3228.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="160.97" ytl="473.56" xbr="698.42" ybr="713.09" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="36675073-ef59-4235-8169-8bffb4389dc8.jpeg" width="485" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="162.81" ytl="154.58" xbr="404.84" ybr="697.27" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="367e1e48-0dbf-4ae4-a99d-4fb2b072c42b.jpg" width="1024" height="819">
+    <box label="kammmolch" source="manual" occluded="0" xtl="143.63" ytl="148.51" xbr="912.34" ybr="711.75" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="36bb66a3-877d-466f-8891-3c7bc01985cb.jpeg" width="576" height="1024">
+  </image>
+  <image id="124" name="36c299e5-c532-4f03-b081-4448a5412e1b.jpg" width="768" height="1024">
+  </image>
+  <image id="125" name="37455382-f90e-45ea-b8c1-fc1617d20e25.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="339.10" ytl="351.13" xbr="932.81" ybr="576.19" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="37e53774-060c-4058-826c-d091e80328af.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="193.59" ytl="192.03" xbr="705.80" ybr="768.00" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="37fb6323-900a-4b20-815f-dc0040ffebff.jpeg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="2.48" ytl="5.68" xbr="664.72" ybr="465.65" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="38a71f42-0066-459d-9873-b27c6aa3d14b.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="471.99" ytl="329.12" xbr="547.59" ybr="446.61" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="39be376c-9617-4fc3-9628-67f3ba0c3917.jpeg" width="1024" height="543">
+  </image>
+  <image id="130" name="3b66f8f5-5536-4e72-abc3-052e72b2e618.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="294.81" ytl="205.13" xbr="553.80" ybr="804.11" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="3c1800c0-f9be-4303-acb7-c61663549633.png" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="168.90" ytl="341.37" xbr="428.05" ybr="603.50" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="3e3738b1-a65a-43bc-ab71-df3e7b43b018.jpg" width="680" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="100.38" ytl="164.64" xbr="426.33" ybr="897.26" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="3e742220-849c-4855-b9e1-7bc0b3d13650.jpeg" width="1024" height="577">
+    <box label="kammmolch" source="manual" occluded="0" xtl="451.36" ytl="100.90" xbr="661.00" ybr="454.30" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="3ec11afe-16f2-4c7a-ba23-742a0a8cae44.jpeg" width="1024" height="771">
+    <box label="kammmolch" source="manual" occluded="0" xtl="140.01" ytl="295.83" xbr="818.65" ybr="492.24" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="3ecd405f-6e09-4e4b-a5b9-c200e1fd41eb.jpeg" width="1024" height="768">
+  </image>
+  <image id="136" name="3fc37e8e-44a5-45a3-988b-6a804ca3e50a.jpg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="370.48" ytl="77.15" xbr="756.10" ybr="398.49" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="3ff84231-1305-418d-8ca1-d70a2b178268.jpg" width="1024" height="911">
+    <box label="kammmolch" source="manual" occluded="0" xtl="188.20" ytl="253.22" xbr="721.57" ybr="677.07" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="40cd2173-8ba4-44b4-ba42-2248eff88165.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="450.85" ytl="100.97" xbr="592.57" ybr="498.95" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="40faf43a-5988-4609-8380-bf84a5825ad1.jpeg" width="683" height="1024">
+  </image>
+  <image id="140" name="410a967c-8789-461c-95f0-17a818a023ef.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="349.06" ytl="293.60" xbr="504.28" ybr="586.25" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="41517b39-7ea0-49ef-ad52-aeadde995b77.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="5.00" ytl="50.92" xbr="736.03" ybr="1003.77" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="41561f44-dfed-4d03-8e0d-a4d3400b150a.jpg" width="1024" height="769">
+    <box label="kammmolch" source="manual" occluded="0" xtl="63.95" ytl="145.71" xbr="805.43" ybr="573.28" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="41a34156-f469-4f32-b398-02b4e70a6ea0.jpeg" width="768" height="1024">
+  </image>
+  <image id="144" name="41b4bf5c-72f7-4ab4-b1fa-c8713e7df240.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="236.80" ytl="466.60" xbr="461.36" ybr="848.35" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="42b7d67f-5f73-4c08-9d51-c3f5439a91ce.jpg" width="1024" height="709">
+  </image>
+  <image id="146" name="42c6efa5-3384-414d-9d67-b8d4ca97ec55.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="21.45" ytl="52.18" xbr="785.12" ybr="768.00" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="43199917-56bf-4aae-8920-b8415537ac33.jpeg" width="577" height="1024">
+  </image>
+  <image id="148" name="4335204e-6be8-4efc-a278-76abe318a1d1.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="83.59" ytl="468.34" xbr="356.81" ybr="725.34" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="433e2cf4-3173-4c3f-a226-eece337443da.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="280.74" ytl="67.47" xbr="566.65" ybr="973.94" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="4400c0d8-8138-457b-a316-df29e6822d06.jpeg" width="1024" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="120.25" ytl="436.89" xbr="744.22" ybr="710.07" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="449cd0c5-e494-42fe-8a65-2e0d3d49a8cb.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="368.75" ytl="334.36" xbr="612.91" ybr="486.91" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="460993f2-11cb-4965-80e9-17d3e7a5d6d8.jpeg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="78.14" ytl="181.46" xbr="916.31" ybr="437.57" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="461dbf08-18a4-4834-9621-fba82d69578a.jpeg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="271.68" ytl="180.00" xbr="779.53" ybr="484.13" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="46242a98-b64a-4b77-beb2-19b88cb123a4.jpg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="388.30" ytl="384.06" xbr="462.99" ybr="478.90" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="46455ea0-9ed7-4442-ad73-c3697ada3eb8.jpg" width="800" height="600">
+    <box label="kammmolch" source="manual" occluded="0" xtl="41.71" ytl="80.97" xbr="728.36" ybr="561.62" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="46c92311-cfc2-420c-bf74-24aa96092cd3.jpg" width="473" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="126.23" ytl="394.15" xbr="308.96" ybr="597.75" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="470640d1-a45f-494e-b039-2479ed175523.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="448.96" ytl="85.34" xbr="589.73" ybr="514.81" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="4765a6a7-1abb-4428-933f-cb7f8b5cda11.jpg" width="1024" height="768">
+  </image>
+  <image id="159" name="478495e6-eba0-432b-9467-66a64f3f41e9.jpg" width="1024" height="768">
+  </image>
+  <image id="160" name="47bee870-0a8e-40ab-a101-9d0a7280a353.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="434.08" ytl="120.68" xbr="721.07" ybr="690.62" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="4869766c-ba1c-4eed-9e2c-ff3a230b4892.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="216.13" ytl="135.37" xbr="604.48" ybr="638.63" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="48bcb7cf-6479-4815-b32c-77b50a1a1936.jpeg" width="1024" height="683">
+  </image>
+  <image id="163" name="48d7471a-4abe-468c-968b-38d8a0c9ec48.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="89.72" ytl="60.74" xbr="855.83" ybr="594.94" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="49008208-5d00-48a7-9b1c-d663c65d2ae3.jpeg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="215.34" ytl="167.32" xbr="985.40" ybr="361.14" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="499fa61d-72fc-461b-bf20-1394ed421758.jpeg" width="576" height="1024">
+  </image>
+  <image id="166" name="49d77725-5205-409a-9254-5a5ed0a383c6.jpg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="2.59" ytl="118.38" xbr="822.54" ybr="565.87" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="4a3620c2-22f0-4542-b1cf-595b956d8d19.jpeg" width="1024" height="449">
+  </image>
+  <image id="168" name="4ac6a027-3286-4a46-9f62-6075f8fce82b.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="158.47" ytl="215.12" xbr="707.74" ybr="498.59" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="4af87b21-f43e-4974-8bd4-b1b276c2cf07.png" width="1024" height="666">
+    <box label="kammmolch" source="manual" occluded="0" xtl="89.50" ytl="70.65" xbr="870.19" ybr="595.60" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="4bba4f66-2933-4185-93b7-9e7646ab2b32.jpeg" width="1024" height="768">
+  </image>
+  <image id="171" name="4c509cca-62c1-43be-a72a-319f0a1d3ee7.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="69.35" ytl="287.62" xbr="787.49" ybr="489.73" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="4c5fe00c-93ea-4c3f-b85c-f462d7c5b5c1.jpeg" width="900" height="691">
+    <box label="kammmolch" source="manual" occluded="0" xtl="125.34" ytl="5.06" xbr="895.18" ybr="672.08" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="4dc8417b-4ccb-49e5-b019-89d2b0f34cd1.jpeg" width="1024" height="498">
+    <box label="kammmolch" source="manual" occluded="0" xtl="305.74" ytl="113.46" xbr="840.56" ybr="360.50" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="4e29a03d-bbb5-44cf-942f-d55c9dfc7761.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="195.40" ytl="228.71" xbr="874.80" ybr="464.76" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="502a936d-80fa-4eb8-8bee-f927ea38930d.jpeg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="115.16" ytl="460.62" xbr="346.91" ybr="658.24" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="514c90bd-f437-4aaf-aed5-e8eb2d13387b.jpeg" width="354" height="295">
+    <box label="kammmolch" source="manual" occluded="0" xtl="42.33" ytl="77.57" xbr="309.90" ybr="269.06" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="519d90ed-21e3-463d-8c56-9fdf5f0e7197.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="319.86" ytl="16.61" xbr="604.55" ybr="649.49" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="529305ec-96b0-47b5-8acd-e5862bae3445.jpeg" width="1024" height="759">
+    <box label="kammmolch" source="manual" occluded="0" xtl="109.15" ytl="139.29" xbr="1022.63" ybr="670.82" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="533e691c-04ce-464c-9265-de79097df06c.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="1.66" ytl="49.16" xbr="968.12" ybr="393.74" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="54dec4d9-4076-4b50-8b00-f5e99ec7e516.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="326.25" ytl="92.89" xbr="627.22" ybr="583.52" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="5597542f-1a0d-43ae-a465-5c8705206ce4.jpg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="92.10" ytl="506.81" xbr="382.16" ybr="713.70" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="56e008fe-4a83-45a4-93d8-ff3c081ee09b.jpeg" width="1024" height="1019">
+  </image>
+  <image id="183" name="573f310e-2949-479a-a258-e85b1713af8a.jpeg" width="1024" height="768">
+  </image>
+  <image id="184" name="5912adc7-46a1-4ba3-a839-91dd8fcbfee9.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="95.26" ytl="290.60" xbr="968.35" ybr="695.71" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="5b5519d2-da35-464c-932e-097f253ef404.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="72.69" ytl="275.74" xbr="786.16" ybr="465.40" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="5dd25269-7066-45dd-aa9c-98c9f1de44af.jpeg" width="1024" height="576">
+  </image>
+  <image id="187" name="5e14e1a9-234f-4439-9856-b38eb923d550.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="256.54" ytl="177.86" xbr="560.15" ybr="747.34" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="5e7c8bca-fa3f-46de-b598-f0294d6f4df2.jpg" width="1023" height="1024">
+  </image>
+  <image id="189" name="5eb6d443-8dde-4b02-a40a-7e4268fdad58.jpg" width="461" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="191.26" ytl="374.50" xbr="288.27" ybr="738.83" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="5f214ad0-d860-4aee-9db4-7b4e437128bd.jpeg" width="1024" height="768">
+  </image>
+  <image id="191" name="607c5397-6855-40f2-947e-0672599204e4.jpg" width="640" height="854">
+  </image>
+  <image id="192" name="60a5cb18-03dd-4af7-b580-33dadc5c4cf0.jpg" width="1024" height="684">
+    <box label="kammmolch" source="manual" occluded="0" xtl="278.92" ytl="292.42" xbr="643.08" ybr="451.58" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="6101251c-c60b-4508-8dd0-cdd028c9916d.png" width="776" height="608">
+  </image>
+  <image id="194" name="62454acb-07ec-4ad0-9955-327307cd7b77.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="394.66" ytl="351.16" xbr="682.45" ybr="766.69" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="6298a8c8-9010-4e31-ac90-2ff51a6fa445.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="184.57" ytl="0.00" xbr="628.80" ybr="763.18" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="6343a722-fb2d-4191-bc75-0eb494cea359.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="424.95" ytl="205.77" xbr="578.32" ybr="579.31" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="63793a37-9170-4771-bfd7-433f7933fff2.jpeg" width="576" height="1024">
+  </image>
+  <image id="198" name="64366dee-897d-457c-b40a-aba930357eda.jpeg" width="468" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="144.10" ytl="504.02" xbr="417.32" ybr="1016.77" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="6498c3ef-1203-4ff5-9437-b432b74a98cc.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="3.06" ytl="190.13" xbr="916.73" ybr="554.08" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="6536b0bf-a1e2-491b-b180-5240a5f19e57.jpeg" width="1024" height="768">
+  </image>
+  <image id="201" name="654d5bac-6650-425b-bc33-e75c843c8912.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="445.81" ytl="0.12" xbr="753.18" ybr="641.45" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="65569fd5-81ac-4cdc-8d0a-1883727743c5.jpeg" width="1024" height="768">
+  </image>
+  <image id="203" name="655bbc64-111b-46c4-ae6c-fcffc7d80dc8.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="486.03" ytl="409.45" xbr="786.59" ybr="479.34" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="65fd8fcd-62dc-465e-ab09-0b2b2491fb99.jpeg" width="700" height="467">
+    <box label="kammmolch" source="manual" occluded="0" xtl="156.66" ytl="116.90" xbr="542.45" ybr="437.81" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="667f7af1-cf19-4294-8967-b856007eb4ef.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="311.68" ytl="454.22" xbr="562.87" ybr="604.26" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="66bafb75-c09d-4c31-a40b-6ff62f77bf67.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="223.20" ytl="317.76" xbr="552.55" ybr="890.64" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="676859b4-1396-48ed-bf6f-619ec0461df1.jpeg" width="1024" height="948">
+    <box label="kammmolch" source="manual" occluded="0" xtl="203.34" ytl="154.24" xbr="772.14" ybr="808.86" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="677d4b25-ec1c-417d-b883-e7e344bccb0c.jpeg" width="634" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="58.89" ytl="144.91" xbr="554.94" ybr="923.15" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="69453169-98ee-43f4-9a26-32e5429ca499.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="216.96" ytl="260.67" xbr="610.69" ybr="613.98" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="697542df-bd27-4bb3-aff4-440b097a9edf.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="12.54" ytl="524.54" xbr="730.42" ybr="1020.37" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="69e9008b-db94-4fef-a3fe-09a2056a4524.jpg" width="461" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="175.79" ytl="369.04" xbr="356.81" ybr="734.57" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="6ad5fb79-265a-484a-9d12-88b8db00137b.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="270.11" ytl="115.16" xbr="996.34" ybr="582.69" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="6ad991e0-de20-4960-995a-52ceea349eeb.jpg" width="888" height="727">
+    <box label="kammmolch" source="manual" occluded="0" xtl="176.65" ytl="91.24" xbr="709.27" ybr="590.81" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="6ae6fd13-cb66-4438-a82b-bdb9783fb522.jpg" width="768" height="1024">
+  </image>
+  <image id="215" name="6bcc77d7-b510-4697-897a-c9a451fc2e28.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="88.66" ytl="287.52" xbr="714.14" ybr="599.69" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="6bd47ba1-d723-4da7-8133-82de0dfcc346.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="294.90" ytl="210.37" xbr="849.59" ybr="476.50" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="6c22bb5d-c67a-4ea5-bc52-49c2d87dd5a5.jpeg" width="768" height="1024">
+  </image>
+  <image id="218" name="6cb0e062-6c38-475f-8ff0-257b200f7d3d.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="266.66" ytl="401.85" xbr="551.26" ybr="548.56" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="6d71621d-5104-4262-820f-a817d7ee4f2d.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="428.16" ytl="175.35" xbr="621.03" ybr="558.10" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="6d902998-cee0-4b57-9998-ca718c5b52bf.jpeg" width="768" height="1024">
+  </image>
+  <image id="221" name="6e988c0c-0983-4029-aea3-57c24f7edbbe.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="375.12" ytl="2.91" xbr="735.87" ybr="645.68" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="6ee2faf6-5555-4932-a555-ca52912ce389.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="119.47" ytl="286.11" xbr="468.71" ybr="734.73" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="6f08ba1d-c68c-412b-b257-4e526514babe.jpeg" width="900" height="632">
+    <box label="kammmolch" source="manual" occluded="0" xtl="80.47" ytl="171.34" xbr="673.88" ybr="518.61" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="70288f9e-ff9e-426c-87c5-db9e514dbbc0.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="54.58" ytl="407.05" xbr="697.22" ybr="639.88" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="70ce5db7-892c-4a70-a4d4-1507ec79c0db.jpeg" width="1024" height="771">
+    <box label="kammmolch" source="manual" occluded="0" xtl="241.50" ytl="299.08" xbr="957.27" ybr="497.11" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="710314e0-c034-4642-8c5e-43fe94fd59c9.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="431.74" ytl="147.04" xbr="601.56" ybr="677.62" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="727f5c4b-0903-42b6-bc47-0671e1139b22.jpeg" width="768" height="1024">
+  </image>
+  <image id="228" name="72ab3741-dde3-4dec-914d-5c8702f4d80c.jpeg" width="1024" height="683">
+  </image>
+  <image id="229" name="73927754-09c9-46f9-a653-317384dc015f.jpg" width="768" height="1024">
+  </image>
+  <image id="230" name="73add3a4-3a3e-45db-ac00-8be879d9877b.jpeg" width="768" height="1024">
+  </image>
+  <image id="231" name="74e65dac-e282-42e8-b4ae-69827e8b162a.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="258.43" ytl="402.90" xbr="740.49" ybr="616.98" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="753e98c4-b3a8-44c4-b81c-3ee856c4476c.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="210.03" ytl="235.97" xbr="871.37" ybr="550.36" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="75b2bf37-ee7c-4a78-b1e6-b995826337cc.jpg" width="1000" height="750">
+    <box label="kammmolch" source="manual" occluded="0" xtl="338.84" ytl="160.58" xbr="627.79" ybr="553.89" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="76912d7a-1a56-486c-85ef-3091d6ebd228.jpg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="275.49" ytl="284.33" xbr="440.97" ybr="474.06" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="76945942-b8e7-4485-bbb9-3a9ccb6fe62d.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="427.62" ytl="74.50" xbr="595.40" ybr="529.83" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="77d13334-8714-4631-98d7-5d3b206ea539.jpeg" width="830" height="800">
+  </image>
+  <image id="237" name="77f81a1f-1264-4daf-b96e-9b31abe9713b.jpeg" width="638" height="906">
+    <box label="kammmolch" source="manual" occluded="0" xtl="208.86" ytl="312.71" xbr="459.20" ybr="639.87" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="780ae6b1-2ac5-41ed-8b06-bc25b61b47ff.jpg" width="1000" height="719">
+    <box label="kammmolch" source="manual" occluded="0" xtl="120.91" ytl="0.06" xbr="580.06" ybr="313.02" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="79e4227b-cb74-41a8-a088-6b51acc3d6d6.jpg" width="1024" height="844">
+  </image>
+  <image id="240" name="7aa4607b-656f-4e3d-8f68-0194743b6ed0.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="407.19" ytl="115.90" xbr="573.21" ybr="550.44" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="7c7f7a3e-1333-487d-82ea-cf21b23b74fe.jpeg" width="576" height="1024">
+  </image>
+  <image id="242" name="7e64ef14-1687-46c9-9c11-970639499d13.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="492.57" ytl="465.02" xbr="730.76" ybr="909.66" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="7eae5910-d711-4024-8688-ae1e13645ecc.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="330.89" ytl="372.21" xbr="498.71" ybr="828.81" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="7fb57f7f-2acb-44ae-83d4-2c7bfb663658.jpeg" width="771" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="168.60" ytl="225.49" xbr="685.09" ybr="595.27" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="81f2e9c7-7f1d-4897-be3a-d9e9d8027640.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="248.98" ytl="166.90" xbr="719.29" ybr="571.31" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="8201f9b5-fb51-40e5-97cd-bb9cc187b604.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="110.67" ytl="172.42" xbr="720.35" ybr="614.92" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="82e5fa8b-f972-4c64-a1b6-5696dfae88a2.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="401.59" ytl="254.39" xbr="603.58" ybr="442.01" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="309.68" ytl="1.57" xbr="410.74" ybr="273.01" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="833395e2-6b3a-4e7a-9aea-c40f30c51c7c.jpg" width="1024" height="679">
+    <box label="kammmolch" source="manual" occluded="0" xtl="240.75" ytl="100.66" xbr="558.09" ybr="649.58" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="848a9682-f107-4d52-9323-ca37170871f2.jpeg" width="1024" height="768">
+  </image>
+  <image id="250" name="8509112b-ddd0-4778-8e2d-55d0cda6dc4c.jpg" width="1024" height="685">
+    <box label="kammmolch" source="manual" occluded="0" xtl="192.25" ytl="185.68" xbr="1021.17" ybr="521.40" z_order="0">
+    </box>
+  </image>
+  <image id="251" name="8572b3a9-a676-4413-9e41-ed1632d9bd49.jpg" width="1024" height="769">
+    <box label="kammmolch" source="manual" occluded="0" xtl="296.73" ytl="208.53" xbr="763.18" ybr="521.31" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="8575ec01-da50-4169-ad9e-46943cb78852.jpeg" width="1024" height="576">
+  </image>
+  <image id="253" name="85be13bc-ef4b-455b-bfeb-1f3eaf9ce708.jpg" width="720" height="480">
+    <box label="kammmolch" source="manual" occluded="0" xtl="200.23" ytl="136.81" xbr="593.12" ybr="277.47" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="86d61ede-0177-4d4d-85bf-0395648def03.jpeg" width="768" height="1024">
+  </image>
+  <image id="255" name="86dda8c9-58ce-47c2-a98d-b57bff25a8a1.jpeg" width="732" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="149.48" ytl="46.78" xbr="423.69" ybr="727.40" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="877ab131-6817-4399-a920-a0549a065929.jpeg" width="1024" height="766">
+    <box label="kammmolch" source="manual" occluded="0" xtl="34.43" ytl="364.18" xbr="727.22" ybr="503.51" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="87a7b251-3319-44ec-90f9-f70ebeefe535.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="345.80" ytl="127.28" xbr="632.69" ybr="572.39" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="88620216-1a36-47b8-af9e-83a6b65d1590.jpeg" width="1024" height="461">
+    <box label="kammmolch" source="manual" occluded="0" xtl="299.63" ytl="0.00" xbr="680.37" ybr="249.20" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="88c52723-de98-4399-a1cd-d2f8688ed79c.jpg" width="1024" height="684">
+    <box label="kammmolch" source="manual" occluded="0" xtl="106.29" ytl="107.33" xbr="1011.76" ybr="575.62" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="88cccedd-1991-4773-854b-9ddf004b3b85.jpg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="317.31" ytl="189.28" xbr="683.29" ybr="551.63" z_order="0">
+    </box>
+  </image>
+  <image id="261" name="88dff7a9-44ff-40c9-ba4e-2b53466e6061.jpeg" width="770" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="304.77" ytl="583.57" xbr="479.00" ybr="801.89" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="88f817b7-bb7c-4f64-bc98-1040d64c355b.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="199.64" ytl="360.65" xbr="999.97" ybr="636.99" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="895b5edf-40b1-4a16-9668-af7dad2fa86d.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="398.86" ytl="234.70" xbr="607.75" ybr="532.95" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="89ae6408-4928-4e97-b034-93e3b638557d.jpg" width="853" height="480">
+    <box label="kammmolch" source="manual" occluded="0" xtl="365.38" ytl="217.03" xbr="510.76" ybr="316.52" z_order="0">
+    </box>
+  </image>
+  <image id="265" name="8a0b597c-7eda-4eed-b3fb-1a99cedc61e1.jpeg" width="990" height="742">
+  </image>
+  <image id="266" name="8a4f57fc-a72d-4be1-afae-dffdb3f55eae.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="509.04" ytl="350.27" xbr="858.23" ybr="535.65" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="8a59736c-eb16-4593-9896-2dadc8b86708.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="410.18" ytl="111.22" xbr="654.32" ybr="672.27" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="8ab354ec-e87b-4a78-b517-61bfd022fc02.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="0.04" ytl="588.14" xbr="554.29" ybr="870.55" z_order="0">
+    </box>
+  </image>
+  <image id="269" name="8ade79b6-7013-454a-b513-4c280a642c05.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="431.66" ytl="147.07" xbr="599.30" ybr="529.44" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="8babde28-4a92-4742-9c31-e98a78f09e5c.jpeg" width="1024" height="769">
+    <box label="kammmolch" source="manual" occluded="0" xtl="116.89" ytl="277.33" xbr="902.08" ybr="546.08" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="8be2ac2a-365f-4a1d-a70b-6b15273ad752.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="438.82" ytl="125.73" xbr="603.60" ybr="553.78" z_order="0">
+    </box>
+  </image>
+  <image id="272" name="8ce58d6f-1775-4ccc-928f-4580bc80c6c3.jpeg" width="694" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="200.31" ytl="72.90" xbr="506.43" ybr="943.84" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="8d8bbe02-9e6f-420a-a68d-3328bfbd7fb4.jpg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="89.50" ytl="193.41" xbr="443.27" ybr="607.54" z_order="0">
+    </box>
+  </image>
+  <image id="274" name="8df4115c-88a4-4600-9639-97c2cf4de051.jpeg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="104.81" ytl="286.11" xbr="449.74" ybr="726.11" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="8ec3233a-3288-4151-8e72-ceb7b249a1c7.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="135.37" ytl="329.84" xbr="706.88" ybr="551.03" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="8ec66241-19b7-43dc-a13f-13b92b6f3251.jpg" width="1000" height="750">
+    <box label="kammmolch" source="manual" occluded="0" xtl="345.00" ytl="164.08" xbr="842.81" ybr="594.01" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="8fa1161f-cfba-4e25-80ef-daada1773df6.jpeg" width="1024" height="768">
+  </image>
+  <image id="278" name="900fb535-4ba4-444d-9dec-2427666e8ead.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="363.25" ytl="204.98" xbr="604.82" ybr="623.61" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="92df023d-daeb-42f7-9d31-bd676531f1a7.jpg" width="1024" height="788">
+    <box label="kammmolch" source="manual" occluded="0" xtl="150.60" ytl="232.97" xbr="886.87" ybr="522.25" z_order="0">
+    </box>
+  </image>
+  <image id="280" name="93526cb0-e684-44bf-bab9-8bbef0929679.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="301.32" ytl="181.07" xbr="784.13" ybr="569.56" z_order="0">
+    </box>
+  </image>
+  <image id="281" name="9377cf6e-ff5a-4265-84cd-d6a0546d84d1.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="266.21" ytl="272.80" xbr="396.61" ybr="406.19" z_order="0">
+    </box>
+  </image>
+  <image id="282" name="9525e49b-c15c-461f-8f8b-e368401a2ab8.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="157.04" ytl="317.38" xbr="859.70" ybr="526.15" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="95b7a80f-65d4-40ed-a8d9-1c506aa096ec.jpg" width="564" height="794">
+    <box label="kammmolch" source="manual" occluded="0" xtl="173.99" ytl="252.13" xbr="288.21" ybr="558.73" z_order="0">
+    </box>
+  </image>
+  <image id="284" name="96590e67-3acb-4edb-b4af-ef7c9f383caf.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="469.60" ytl="155.13" xbr="652.13" ybr="633.52" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="96598ffb-6ec9-489e-8125-de4812cb666a.jpg" width="1024" height="768">
+  </image>
+  <image id="286" name="967651d1-7ae2-4e30-9686-59a823fd513d.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="44.06" ytl="192.28" xbr="963.11" ybr="406.89" z_order="0">
+    </box>
+  </image>
+  <image id="287" name="97065e55-f04f-4c50-b724-e7ecb48b2029.jpeg" width="1024" height="768">
+  </image>
+  <image id="288" name="979aa463-7384-4212-89f2-59f5dc068b5c.jpg" width="1024" height="496">
+  </image>
+  <image id="289" name="98146dea-e207-42ee-839b-6ecab1f740f0.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="448.70" ytl="147.31" xbr="630.11" ybr="569.91" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="98692f1d-a426-44bb-87c7-5ad311f27373.jpeg" width="1024" height="768">
+  </image>
+  <image id="291" name="98722d59-2667-4df0-b9b8-a9d4156fe2b5.jpeg" width="461" height="616">
+  </image>
+  <image id="292" name="98d39b60-a748-4dfb-8f35-ca657142b672.jpeg" width="461" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="32.23" ytl="330.64" xbr="428.73" ybr="646.11" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="99041299-15e8-479e-a37a-b161d0cc62d6.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="300.47" ytl="451.31" xbr="640.08" ybr="775.41" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="993b135c-b92a-4479-a405-c5393989afe9.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="400.29" ytl="105.05" xbr="641.95" ybr="465.66" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="9964947d-d2ab-4763-a840-08df947031ba.jpeg" width="768" height="1024">
+  </image>
+  <image id="296" name="9a18a4d7-649e-40d5-aa2e-2045210ff1de.jpeg" width="1024" height="683">
+  </image>
+  <image id="297" name="9abbf90e-d307-4881-bd08-16d22dd52e63.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="314.77" ytl="83.18" xbr="667.37" ybr="665.88" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="9b087170-0886-4d2e-a792-b113af90fc92.jpeg" width="1024" height="461">
+    <box label="kammmolch" source="manual" occluded="0" xtl="55.96" ytl="50.35" xbr="769.79" ybr="455.63" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="9b46ed3a-b4ad-4be4-90f9-4d7c2519bf28.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="355.80" ytl="109.35" xbr="609.67" ybr="519.99" z_order="0">
+    </box>
+  </image>
+  <image id="300" name="9b5073c3-4c8f-4044-b39b-1b200f2ba700.jpg" width="1024" height="826">
+  </image>
+  <image id="301" name="9b683468-95e5-44e0-b6e3-091ba25ad6cb.jpeg" width="1024" height="768">
+  </image>
+  <image id="302" name="9bea9623-18fe-4667-95d6-2ac3505ca184.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="311.50" ytl="219.03" xbr="462.52" ybr="924.45" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="9c2fb5de-d38a-4a51-b6ab-c6417a1962ce.jpeg" width="960" height="540">
+    <box label="kammmolch" source="manual" occluded="0" xtl="268.33" ytl="162.40" xbr="699.24" ybr="464.58" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="9dc91e43-8ea2-4f07-bd82-0e5996bf9477.jpg" width="1024" height="684">
+    <box label="kammmolch" source="manual" occluded="0" xtl="10.33" ytl="334.23" xbr="568.72" ybr="551.17" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="9e73beb6-4184-4934-ba61-f04c468d88be.jpeg" width="768" height="1024">
+  </image>
+  <image id="306" name="9eb93ab2-357f-4d55-926a-b02beb6d01ff.jpeg" width="768" height="1024">
+  </image>
+  <image id="307" name="9ed17d6f-f616-4291-b62c-8527f458bfc0.jpeg" width="768" height="1024">
+  </image>
+  <image id="308" name="9f79fe82-3eda-4d3a-9392-c147c88e7412.jpeg" width="831" height="575">
+    <box label="kammmolch" source="manual" occluded="0" xtl="241.85" ytl="190.15" xbr="584.01" ybr="422.81" z_order="0">
+    </box>
+    <box label="feuersalamander" source="manual" occluded="0" xtl="487.10" ytl="514.17" xbr="678.76" ybr="573.85" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="a065afc3-2d9b-4154-980b-7d29a9315657.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="393.25" ytl="174.58" xbr="649.86" ybr="592.12" z_order="0">
+    </box>
+  </image>
+  <image id="310" name="a112ceca-2a4d-4856-bcbc-ac37cb73d09a.jpeg" width="461" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="145.10" ytl="408.13" xbr="309.71" ybr="591.80" z_order="0">
+    </box>
+  </image>
+  <image id="311" name="a25c687c-7ac4-499f-8a19-677cc0599488.jpg" width="640" height="480">
+  </image>
+  <image id="312" name="a25c8694-1ae8-491d-a235-66f8833d404c.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="172.29" ytl="243.64" xbr="594.82" ybr="664.02" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="a3a88505-ae0f-48fa-b460-12fe7200e4e4.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="274.30" ytl="396.14" xbr="767.11" ybr="613.45" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="a4250232-56b3-40c2-b858-edb87c225421.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="337.04" ytl="1.62" xbr="643.39" ybr="554.21" z_order="0">
+    </box>
+  </image>
+  <image id="315" name="a50c4cb0-ba55-490f-bf9b-a45b07069388.jpeg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="392.80" ytl="116.56" xbr="760.22" ybr="422.14" z_order="0">
+    </box>
+  </image>
+  <image id="316" name="a567ab72-b3c6-47a0-83fb-0683319cc108.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="200.10" ytl="265.42" xbr="547.18" ybr="860.40" z_order="0">
+    </box>
+  </image>
+  <image id="317" name="a6a9cacc-1b81-4fb7-80d7-ecb957a2e80b.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="219.05" ytl="341.96" xbr="741.53" ybr="801.57" z_order="0">
+    </box>
+  </image>
+  <image id="318" name="a7135369-fd9c-4606-bcee-e91eedabc510.jpg" width="1024" height="867">
+    <box label="kammmolch" source="manual" occluded="0" xtl="331.74" ytl="167.22" xbr="698.06" ybr="751.55" z_order="0">
+    </box>
+  </image>
+  <image id="319" name="a7578a0d-ddc7-45e4-88ca-6bc409122aa1.jpg" width="1024" height="657">
+    <box label="kammmolch" source="manual" occluded="0" xtl="168.97" ytl="119.98" xbr="943.15" ybr="572.39" z_order="0">
+    </box>
+  </image>
+  <image id="320" name="a78cbda1-89e0-4412-936d-7b3f7ae7a1dc.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="46.89" ytl="238.55" xbr="827.35" ybr="615.82" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="a7a340b3-7306-4682-ba11-57aef77a2f54.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="9.76" ytl="375.19" xbr="595.18" ybr="696.44" z_order="0">
+    </box>
+  </image>
+  <image id="322" name="a86ca6dc-95e2-4402-9b97-90aebce0c51f.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="268.40" ytl="341.52" xbr="505.54" ybr="840.94" z_order="0">
+    </box>
+  </image>
+  <image id="323" name="a9485c57-f0b5-4a41-9ea1-921d1f00bb61.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="439.30" ytl="191.51" xbr="575.99" ybr="485.61" z_order="0">
+    </box>
+  </image>
+  <image id="324" name="a949dda1-bb55-499c-ade8-be9b37f291dc.jpeg" width="559" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="150.37" ytl="65.04" xbr="466.55" ybr="961.48" z_order="0">
+    </box>
+  </image>
+  <image id="325" name="a95ed4e6-fba6-4824-b585-d04b80e24eca.jpeg" width="577" height="1024">
+  </image>
+  <image id="326" name="aa5c3864-87d8-4dfc-beef-f4aad465abe2.jpeg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="185.67" ytl="470.11" xbr="570.33" ybr="733.14" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="ac0f08df-d222-4c41-956e-439670d40bd7.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="448.20" ytl="188.62" xbr="580.76" ybr="508.96" z_order="0">
+    </box>
+  </image>
+  <image id="328" name="ac2ab9cb-e8f0-4d55-b7d8-bd964d849c9e.jpeg" width="1024" height="686">
+    <box label="kammmolch" source="manual" occluded="0" xtl="352.19" ytl="124.60" xbr="766.19" ybr="466.52" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="ac54fe3b-54fa-42b1-82ef-fb33e72f2820.jpg" width="1024" height="633">
+    <box label="kammmolch" source="manual" occluded="0" xtl="137.94" ytl="80.08" xbr="872.00" ybr="573.16" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="ac5615c9-29ec-4817-b6cb-049e9b5de18f.png" width="544" height="434">
+    <box label="kammmolch" source="manual" occluded="0" xtl="112.26" ytl="135.18" xbr="387.13" ybr="281.37" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="acd0d510-8308-450f-905d-694932b21109.jpeg" width="461" height="1024">
+  </image>
+  <image id="332" name="acdae01a-fb2e-4d66-a548-6b59f9e3feaf.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="190.76" ytl="311.46" xbr="1018.83" ybr="482.69" z_order="0">
+    </box>
+  </image>
+  <image id="333" name="ad521249-4af1-4dba-a7aa-d1901b83b4eb.jpeg" width="461" height="1024">
+  </image>
+  <image id="334" name="ad85431c-e675-4235-b484-a73f811ccfdd.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="234.10" ytl="211.34" xbr="967.43" ybr="455.78" z_order="0">
+    </box>
+  </image>
+  <image id="335" name="ae57813c-436a-4ae9-9611-66f6bea12410.jpeg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="241.10" ytl="262.49" xbr="358.14" ybr="546.66" z_order="0">
+    </box>
+  </image>
+  <image id="336" name="b0804652-cb89-4a64-a8f8-3af766f3b086.png" width="1024" height="692">
+    <box label="kammmolch" source="manual" occluded="0" xtl="209.30" ytl="158.74" xbr="893.41" ybr="651.95" z_order="0">
+    </box>
+  </image>
+  <image id="337" name="b0aacde8-ebf6-48cd-8059-9a3c4579f507.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="90.71" ytl="468.47" xbr="402.60" ybr="888.90" z_order="0">
+    </box>
+  </image>
+  <image id="338" name="b1a8dcae-e2e9-4d75-b7d5-4a0848ac995b.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="294.06" ytl="305.04" xbr="561.04" ybr="906.36" z_order="0">
+    </box>
+  </image>
+  <image id="339" name="b1bbb00d-bf1d-4a4f-96b7-84b3b6c67372.jpg" width="1024" height="1024">
+  </image>
+  <image id="340" name="b301eade-a978-4cfa-8b25-7cb47275b798.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="431.45" ytl="6.44" xbr="819.68" ybr="505.03" z_order="0">
+    </box>
+  </image>
+  <image id="341" name="b387f536-3a47-41df-9463-2f395a784f66.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="394.11" ytl="302.17" xbr="599.96" ybr="711.37" z_order="0">
+    </box>
+  </image>
+  <image id="342" name="b4804a84-9d3e-4b13-bc4c-cd22f8179d4a.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="433.24" ytl="34.69" xbr="639.39" ybr="550.05" z_order="0">
+    </box>
+  </image>
+  <image id="343" name="b48c8786-46ae-4541-ba41-e5a6efa48717.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="421.79" ytl="57.59" xbr="623.64" ybr="663.15" z_order="0">
+    </box>
+  </image>
+  <image id="344" name="b4f3020b-44cf-43f4-80cd-8964475b596a.jpg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="444.09" ytl="165.18" xbr="847.90" ybr="366.48" z_order="0">
+    </box>
+  </image>
+  <image id="345" name="b6b309e8-a13e-455d-89d8-49680d7224ca.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="440.40" ytl="193.59" xbr="636.52" ybr="557.21" z_order="0">
+    </box>
+  </image>
+  <image id="346" name="b6bb3ef1-253d-4659-91ea-d0ebdb1ee161.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="340.49" ytl="260.62" xbr="882.13" ybr="490.37" z_order="0">
+    </box>
+  </image>
+  <image id="347" name="b8cefd1b-ad04-4a80-a9af-2e9f95fc650b.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="110.90" ytl="386.73" xbr="731.77" ybr="572.83" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="b90f463c-d0b3-41c9-8573-4e4cdbb09c1d.jpg" width="720" height="960">
+    <box label="kammmolch" source="manual" occluded="0" xtl="187.74" ytl="387.06" xbr="475.26" ybr="579.06" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="b963ae9a-25ca-4371-acfb-514161260bb4.jpg" width="1024" height="524">
+  </image>
+  <image id="350" name="b9893014-15af-4b06-a812-2d974cba693c.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="272.75" ytl="274.85" xbr="985.77" ybr="688.92" z_order="0">
+    </box>
+  </image>
+  <image id="351" name="b9932691-3272-4b66-a221-07e27d14b738.jpg" width="945" height="709">
+    <box label="kammmolch" source="manual" occluded="0" xtl="71.86" ytl="230.32" xbr="773.39" ybr="469.27" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="ba4fb0aa-14c3-4182-b21c-b197732a4191.jpeg" width="1024" height="699">
+    <box label="kammmolch" source="manual" occluded="0" xtl="74.46" ytl="254.88" xbr="826.44" ybr="502.10" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="bb51856f-9767-486c-b00d-70684bd13c95.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="395.40" ytl="187.58" xbr="614.07" ybr="526.58" z_order="0">
+    </box>
+  </image>
+  <image id="354" name="bc665fc1-3a0c-4746-ad42-b8fbe222f0f6.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="358.38" ytl="0.00" xbr="712.10" ybr="449.83" z_order="0">
+    </box>
+  </image>
+  <image id="355" name="bcb55f88-2f9d-480f-8c7b-60bb565bc82b.jpg" width="1024" height="892">
+  </image>
+  <image id="356" name="bcd5d671-7f69-4102-adad-c641a635549c.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="261.39" ytl="386.61" xbr="460.98" ybr="674.05" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="bd67090a-2a01-426a-9a7c-27e83c5657ee.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="261.80" ytl="312.43" xbr="431.34" ybr="613.35" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="be685dee-dc5a-4896-9312-eba04fb06ab2.jpg" width="821" height="706">
+  </image>
+  <image id="359" name="beecfe9f-50bf-4349-935e-56d7bae8aaea.jpg" width="1024" height="678">
+  </image>
+  <image id="360" name="bef6c1a3-0276-4496-ab10-ef799ce75f93.jpeg" width="683" height="1024">
+  </image>
+  <image id="361" name="c154bfc1-47c6-4960-b91a-b4691be3778e.jpeg" width="577" height="1024">
+  </image>
+  <image id="362" name="c26000fd-63ca-4186-aaa1-4dd80a5ac45f.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="338.22" ytl="452.25" xbr="600.21" ybr="564.53" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="c2fe7da7-175d-4669-a7da-07d746fd661e.jpg" width="1024" height="577">
+  </image>
+  <image id="364" name="c392f441-f4c7-43de-9c6c-cece8310ab98.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="113.51" ytl="446.16" xbr="715.49" ybr="774.02" z_order="0">
+    </box>
+  </image>
+  <image id="365" name="c39af7d7-b517-4efe-84d1-3e179f51d2b4.jpg" width="1024" height="712">
+    <box label="kammmolch" source="manual" occluded="0" xtl="290.66" ytl="142.39" xbr="637.92" ybr="569.59" z_order="0">
+    </box>
+  </image>
+  <image id="366" name="c4300fe7-2501-4e79-a98f-99f1f0096494.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="0.00" ytl="309.03" xbr="971.42" ybr="623.34" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="c4be44b0-007c-408f-adc6-094d49c46240.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="223.27" ytl="169.75" xbr="755.21" ybr="533.54" z_order="0">
+    </box>
+  </image>
+  <image id="368" name="c5c436a1-8ae2-4495-b292-cd88f462f01c.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="334.83" ytl="132.57" xbr="997.74" ybr="339.52" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="c5e96e01-7131-4097-99fb-fe7a8f098f87.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="302.29" ytl="356.44" xbr="752.66" ybr="668.33" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="c619570d-3dbb-48aa-9086-f58df353ac1f.jpeg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="315.31" ytl="64.29" xbr="1024.00" ybr="314.22" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="c816dd53-97e9-4b80-9e79-43157043c2be.jpeg" width="1024" height="768">
+  </image>
+  <image id="372" name="c9f7f42f-d464-4a98-9d54-7523736ea6c1.jpg" width="1024" height="768">
+  </image>
+  <image id="373" name="c9f90186-c071-499f-b87a-6a7856aa777a.jpeg" width="1024" height="768">
+  </image>
+  <image id="374" name="ca0f3c1a-73e0-4a46-99bb-726e4012370c.jpeg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="337.74" ytl="59.24" xbr="737.91" ybr="491.75" z_order="0">
+    </box>
+  </image>
+  <image id="375" name="ca67d850-0718-4d7d-9b73-32b9ba014d6b.jpeg" width="768" height="1024">
+  </image>
+  <image id="376" name="ca81a618-dee0-47d1-afd9-474672b2147e.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="404.32" ytl="55.59" xbr="611.90" ybr="668.30" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="cad7d1c8-f5f9-4ddc-9e14-a82e1d6f799a.jpeg" width="1024" height="771">
+    <box label="kammmolch" source="manual" occluded="0" xtl="235.78" ytl="284.63" xbr="865.56" ybr="476.17" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="cb7db760-18b9-48e3-b3ed-05c85fe33325.jpeg" width="576" height="1024">
+  </image>
+  <image id="379" name="cbafc874-3828-4653-9a7a-38cafebf0539.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="16.80" ytl="195.46" xbr="788.20" ybr="525.30" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="cbcad314-691a-4d44-abfd-44da8bb6c191.jpeg" width="900" height="675">
+    <box label="kammmolch" source="manual" occluded="0" xtl="263.48" ytl="246.43" xbr="458.31" ybr="468.11" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="421.37" ytl="331.25" xbr="734.56" ybr="466.94" z_order="0">
+    </box>
+  </image>
+  <image id="381" name="cc23e141-3de8-41e9-883d-fe662fc05c20.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="395.16" ytl="125.66" xbr="600.35" ybr="489.52" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="cc2e39af-8216-4cee-aa5b-2f827b73534e.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="219.60" ytl="172.39" xbr="853.48" ybr="505.50" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="ccec9476-cce4-46a4-8fed-d3fb5cad67c6.jpg" width="768" height="1024">
+  </image>
+  <image id="384" name="ccf18058-7834-47f9-9704-8170a410d3dd.jpg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="367.87" ytl="149.77" xbr="659.65" ybr="594.94" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="ce2b72ff-8ff4-4614-9afd-a044b25502c8.jpeg" width="1024" height="791">
+    <box label="kammmolch" source="manual" occluded="0" xtl="187.48" ytl="185.28" xbr="908.87" ybr="597.14" z_order="0">
+    </box>
+  </image>
+  <image id="386" name="cf982897-5f60-4116-9c0b-b1cc8bb0bf47.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="452.82" ytl="144.63" xbr="701.92" ybr="567.41" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="d0cf63c0-0d88-41f2-a38e-ab1dc0fac0b7.jpg" width="1024" height="710">
+    <box label="kammmolch" source="manual" occluded="0" xtl="105.85" ytl="255.09" xbr="932.74" ybr="490.24" z_order="0">
+    </box>
+  </image>
+  <image id="388" name="d1b2a869-1f78-41d1-a6b1-5c586d304426.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="223.85" ytl="0.53" xbr="685.82" ybr="491.41" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="d2588f82-e62a-4704-8b23-7906168c4cd2.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="355.98" ytl="126.65" xbr="769.25" ybr="514.69" z_order="0">
+    </box>
+  </image>
+  <image id="390" name="d270ca42-5520-41e5-b93e-0d42e25fcfca.jpg" width="1000" height="750">
+    <box label="kammmolch" source="manual" occluded="0" xtl="209.29" ytl="167.44" xbr="625.96" ybr="447.96" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="d292310d-1215-4e04-8b7f-824c3f13e336.jpeg" width="1024" height="768">
+  </image>
+  <image id="392" name="d2b33e26-b913-4d93-8a6f-8e14ab7c5b05.jpeg" width="1024" height="576">
+  </image>
+  <image id="393" name="d3f8a165-fca5-401a-8e44-b44960ca8357.jpeg" width="1024" height="613">
+    <box label="kammmolch" source="manual" occluded="0" xtl="68.03" ytl="204.70" xbr="913.46" ybr="514.43" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="d529b679-0c91-4d93-aede-daee1b3aa486.jpeg" width="1024" height="771">
+    <box label="kammmolch" source="manual" occluded="0" xtl="276.84" ytl="226.53" xbr="945.58" ybr="608.13" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="d5da6032-a95e-40ea-88fd-dfecd47bc761.jpg" width="461" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="110.22" ytl="175.79" xbr="372.36" ybr="605.45" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="d6fc24a8-989b-4f9f-b587-f7424fb9e8d8.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="209.11" ytl="558.11" xbr="467.60" ybr="627.42" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="d7a03f60-1358-4eac-b53c-dea7004a5f5e.jpeg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="149.25" ytl="330.08" xbr="936.07" ybr="545.77" z_order="0">
+    </box>
+  </image>
+  <image id="398" name="d7d889f7-6493-4673-b5e0-4f564d0b9f05.jpeg" width="768" height="1024">
+  </image>
+  <image id="399" name="d90e61bc-b3de-4c61-b454-b27efc71555d.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="307.93" ytl="342.03" xbr="510.76" ybr="529.16" z_order="0">
+    </box>
+  </image>
+  <image id="400" name="d92b62ea-384c-4637-b066-6c88751758a5.jpg" width="1024" height="683">
+    <box label="kammmolch" source="manual" occluded="0" xtl="168.44" ytl="276.40" xbr="723.23" ybr="408.21" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="da8054e7-fa20-4f48-a504-1b25d1cef0bd.jpeg" width="576" height="1024">
+  </image>
+  <image id="402" name="db2d7788-dc6f-47c3-aeea-fbefcbb6fef6.jpg" width="1024" height="824">
+  </image>
+  <image id="403" name="db74c70d-1ac9-4fb1-9c3d-4fb49e2e7b02.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="411.74" ytl="46.45" xbr="742.20" ybr="569.09" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="dc2b6e46-ec02-44f7-9f18-da5466045413.jpeg" width="1024" height="819">
+    <box label="kammmolch" source="manual" occluded="0" xtl="4.68" ytl="211.88" xbr="943.08" ybr="796.67" z_order="0">
+    </box>
+  </image>
+  <image id="405" name="dc7146f2-0f73-457c-b46d-c755a7abd49f.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="493.09" ytl="237.09" xbr="726.19" ybr="594.15" z_order="0">
+    </box>
+  </image>
+  <image id="406" name="dd07548c-006b-415d-949c-72fe3fa4a819.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="408.20" ytl="144.39" xbr="619.32" ybr="470.08" z_order="0">
+    </box>
+  </image>
+  <image id="407" name="dd34282f-c671-4a59-a25a-7b815dc5d1d6.jpeg" width="1024" height="758">
+    <box label="kammmolch" source="manual" occluded="0" xtl="50.51" ytl="257.96" xbr="856.39" ybr="505.30" z_order="0">
+    </box>
+  </image>
+  <image id="408" name="dd35fe8e-823d-44e2-a128-09f075e5067d.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="383.11" ytl="114.57" xbr="607.39" ybr="535.69" z_order="0">
+    </box>
+  </image>
+  <image id="409" name="de5c27c8-4182-4d93-a72e-93e4710534fc.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="397.40" ytl="230.36" xbr="742.36" ybr="466.15" z_order="0">
+    </box>
+  </image>
+  <image id="410" name="deed092f-79c3-4a09-8cf6-03234ebc793b.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="315.24" ytl="177.81" xbr="869.01" ybr="559.12" z_order="0">
+    </box>
+  </image>
+  <image id="411" name="df2e4ebf-726e-40ce-8ebb-e15daf1bc612.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="193.98" ytl="304.46" xbr="722.15" ybr="429.77" z_order="0">
+    </box>
+  </image>
+  <image id="412" name="df3bcdc6-0954-4e21-9e84-860d090e9efc.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="321.07" ytl="66.73" xbr="590.69" ybr="529.73" z_order="0">
+    </box>
+  </image>
+  <image id="413" name="df4eb41a-8f16-4bfd-a467-827bb2490165.jpg" width="768" height="1024">
+  </image>
+  <image id="414" name="e05415f8-ce37-44df-bec7-fbba30872e14.jpg" width="768" height="1024">
+  </image>
+  <image id="415" name="e0b81876-c500-45be-b018-db51ede314d2.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="198.16" ytl="131.58" xbr="1024.00" ybr="634.48" z_order="0">
+    </box>
+  </image>
+  <image id="416" name="e1346728-07b2-4d65-a6af-289d9b2dca45.jpeg" width="1024" height="1006">
+    <box label="kammmolch" source="manual" occluded="0" xtl="88.72" ytl="172.28" xbr="835.91" ybr="754.79" z_order="0">
+    </box>
+  </image>
+  <image id="417" name="e18b7c5c-a0be-4a4e-91ed-f91f7f17ad2c.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="77.86" ytl="437.47" xbr="407.42" ybr="691.14" z_order="0">
+    </box>
+  </image>
+  <image id="418" name="e1a7d7ab-b9e4-4f94-8a5f-6be224584776.jpeg" width="576" height="1024">
+  </image>
+  <image id="419" name="e23bca94-a93b-48f8-b1c5-ede92b3479ae.jpg" width="856" height="852">
+    <box label="kammmolch" source="manual" occluded="0" xtl="183.84" ytl="88.92" xbr="763.06" ybr="825.05" z_order="0">
+    </box>
+  </image>
+  <image id="420" name="e24f87d1-e970-44ef-a5b0-66526aef85f2.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="291.08" ytl="533.23" xbr="523.27" ybr="587.90" z_order="0">
+    </box>
+  </image>
+  <image id="421" name="e35ae9f9-4e9e-4455-b2e5-88ad309dccce.jpeg" width="1024" height="472">
+    <box label="kammmolch" source="manual" occluded="0" xtl="283.33" ytl="235.30" xbr="544.50" ybr="431.55" z_order="0">
+    </box>
+  </image>
+  <image id="422" name="e385d0e2-8616-4752-9dec-4f71a74b50a6.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="411.42" ytl="88.46" xbr="603.82" ybr="598.67" z_order="0">
+    </box>
+  </image>
+  <image id="423" name="e43a5543-5320-4d54-9342-c4b65cc79419.jpg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="198.34" ytl="73.49" xbr="690.33" ybr="574.06" z_order="0">
+    </box>
+  </image>
+  <image id="424" name="e470acd7-dd05-41b4-bbc4-289d8104c718.jpeg" width="1024" height="608">
+  </image>
+  <image id="425" name="e493e3b2-c3df-4540-911c-98e249b82019.jpg" width="1024" height="768">
+  </image>
+  <image id="426" name="e4af67f4-9a78-4629-afaf-4813f532265b.jpg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="12.58" ytl="321.04" xbr="501.22" ybr="858.19" z_order="0">
+    </box>
+  </image>
+  <image id="427" name="e4e2129e-c86b-455e-a718-e78f639f5dea.jpeg" width="1024" height="955">
+    <box label="kammmolch" source="manual" occluded="0" xtl="270.21" ytl="283.28" xbr="732.63" ybr="670.47" z_order="0">
+    </box>
+  </image>
+  <image id="428" name="e5200583-68dc-44b0-aae2-a78d5b687775.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="154.50" ytl="240.73" xbr="845.70" ybr="597.79" z_order="0">
+    </box>
+  </image>
+  <image id="429" name="e5fe804b-d199-4944-b73d-f17ad517a7f6.jpeg" width="576" height="1024">
+  </image>
+  <image id="430" name="e60fb937-0a21-48e7-aff1-7549e1703874.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="326.49" ytl="77.56" xbr="749.65" ybr="626.64" z_order="0">
+    </box>
+  </image>
+  <image id="431" name="e6421b27-8b93-4189-be3b-bc77d2503031.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="201.47" ytl="230.19" xbr="519.67" ybr="623.41" z_order="0">
+    </box>
+  </image>
+  <image id="432" name="e669518b-5130-4bb4-a35c-f50899b1f853.jpg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="27.23" ytl="439.96" xbr="425.41" ybr="573.14" z_order="0">
+    </box>
+  </image>
+  <image id="433" name="e68ac9d3-1678-4b37-860c-2ef74066214c.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="467.72" ytl="183.04" xbr="605.73" ybr="289.86" z_order="0">
+    </box>
+  </image>
+  <image id="434" name="e6f4bdd0-1cf6-41f6-abb0-9633dd112924.jpeg" width="1024" height="576">
+  </image>
+  <image id="435" name="e701f74c-b24b-452e-87c2-b341fe6950eb.jpeg" width="768" height="1024">
+  </image>
+  <image id="436" name="e722c1f6-0697-43ee-9e08-d71d123bc4ec.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="321.93" ytl="177.86" xbr="564.46" ybr="526.37" z_order="0">
+    </box>
+  </image>
+  <image id="437" name="e82429d3-9823-45c3-830d-c135e5eeec01.jpg" width="768" height="1024">
+  </image>
+  <image id="438" name="e8317ec4-9fa3-490f-aaa2-6686e4eff93d.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="417.59" ytl="32.25" xbr="669.30" ybr="547.62" z_order="0">
+    </box>
+  </image>
+  <image id="439" name="e8937be0-26d4-4518-a4e0-e019b48bace4.jpg" width="496" height="696">
+    <box label="kammmolch" source="manual" occluded="0" xtl="79.34" ytl="207.55" xbr="483.51" ybr="540.90" z_order="0">
+    </box>
+  </image>
+  <image id="440" name="e8c0b220-5615-4064-a680-594ef8afa544.jpg" width="768" height="1024">
+  </image>
+  <image id="441" name="e8e1f22f-a3b5-456f-b52f-207ed0d4ac80.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="608.29" ytl="246.53" xbr="871.17" ybr="513.31" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="407.67" ytl="212.84" xbr="819.97" ybr="509.26" z_order="0">
+    </box>
+  </image>
+  <image id="442" name="e9dbf7fe-ab42-47dc-bc9b-362f3414d7d9.jpeg" width="768" height="1024">
+  </image>
+  <image id="443" name="eb4fdfdd-6a1c-478c-aa54-664da121dcb5.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="104.20" ytl="278.10" xbr="600.03" ybr="811.66" z_order="0">
+    </box>
+  </image>
+  <image id="444" name="eb57e605-512c-4f01-a7e6-7521f089ba6f.jpeg" width="1024" height="768">
+  </image>
+  <image id="445" name="eb692348-667c-4cd0-9db1-c10c260f0e2c.jpeg" width="577" height="1024">
+  </image>
+  <image id="446" name="ebbeb2ba-cdbd-409f-af3f-1b0dedaa6a47.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="403.61" ytl="114.01" xbr="598.46" ybr="515.75" z_order="0">
+    </box>
+  </image>
+  <image id="447" name="ebc77d4d-8d6f-4f26-bc39-b1dd07099127.jpeg" width="577" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="0.18" ytl="189.71" xbr="411.88" ybr="668.78" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="eceada5d-58a3-4656-8554-0b74e282233f.jpeg" width="576" height="1024">
+  </image>
+  <image id="449" name="ed6d0e49-d311-4eb5-ac10-7cbe62a2a0cd.jpeg" width="576" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="97.79" ytl="442.72" xbr="395.71" ybr="1022.09" z_order="0">
+    </box>
+  </image>
+  <image id="450" name="edce1c2a-1201-46a5-a05b-9e9a4926c2dd.jpg" width="768" height="1024">
+  </image>
+  <image id="451" name="edd3beaf-fc03-4aeb-8360-b75194902e40.jpeg" width="1024" height="768">
+  </image>
+  <image id="452" name="ee49cfa4-7bd7-4aac-a6c2-219954e3d7e6.jpg" width="1024" height="576">
+  </image>
+  <image id="453" name="ef48fd17-ad5e-4368-8aab-3fb0f4c159fc.jpg" width="1024" height="879">
+    <box label="kammmolch" source="manual" occluded="0" xtl="375.79" ytl="245.94" xbr="688.83" ybr="696.24" z_order="0">
+    </box>
+  </image>
+  <image id="454" name="f07975c2-0341-4b63-ad88-c16e43f02432.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="210.91" ytl="163.48" xbr="539.67" ybr="797.64" z_order="0">
+    </box>
+  </image>
+  <image id="455" name="f193a01c-ebf8-436d-ba79-939ac4fc89c7.jpg" width="1024" height="678">
+  </image>
+  <image id="456" name="f19d90d5-1b0a-476b-b468-ae8839252f5d.jpg" width="1024" height="576">
+    <box label="kammmolch" source="manual" occluded="0" xtl="257.59" ytl="119.83" xbr="610.46" ybr="385.40" z_order="0">
+    </box>
+  </image>
+  <image id="457" name="f1ed6cf9-1d0c-439a-9a1f-7b4c193649f5.jpeg" width="700" height="467">
+    <box label="kammmolch" source="manual" occluded="0" xtl="52.33" ytl="128.03" xbr="681.55" ybr="360.16" z_order="0">
+    </box>
+  </image>
+  <image id="458" name="f2433603-112a-4b44-97f1-4aeaa2143ec3.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="311.87" ytl="289.08" xbr="913.34" ybr="685.20" z_order="0">
+    </box>
+  </image>
+  <image id="459" name="f285636c-f3b6-4b5e-86df-fb7eda0c4bf3.jpeg" width="1024" height="576">
+  </image>
+  <image id="460" name="f3085ad0-c407-4939-ba22-ad8969ef445c.jpeg" width="1024" height="645">
+  </image>
+  <image id="461" name="f3113573-9d95-4eb2-bf05-83d9ba9b2a3a.jpeg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="226.07" ytl="583.62" xbr="620.30" ybr="895.51" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="377.02" ytl="443.77" xbr="575.38" ybr="678.43" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="130.00" ytl="311.65" xbr="511.76" ybr="433.91" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="1.50" ytl="451.38" xbr="382.01" ybr="608.57" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="11.36" ytl="304.16" xbr="307.16" ybr="498.78" z_order="0">
+    </box>
+  </image>
+  <image id="462" name="f3c52cbc-3a3f-40c9-979a-89c84580d9ad.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="402.03" ytl="95.81" xbr="669.88" ybr="516.70" z_order="0">
+    </box>
+  </image>
+  <image id="463" name="f3cf41e5-55f8-421f-988f-5f7e1022bc4b.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="285.25" ytl="318.88" xbr="466.55" ybr="769.44" z_order="0">
+    </box>
+  </image>
+  <image id="464" name="f44cab2b-0f8b-40ed-9d0d-84031cc953a1.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="354.79" ytl="120.15" xbr="592.57" ybr="596.87" z_order="0">
+    </box>
+  </image>
+  <image id="465" name="f4d3dc77-1045-4e88-93f9-1b1f71793b36.jpeg" width="476" height="582">
+  </image>
+  <image id="466" name="f541b31f-d304-4072-b45b-6f812691a563.jpeg" width="768" height="1024">
+  </image>
+  <image id="467" name="f557eb85-906e-4367-9023-e799f843322c.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="435.32" ytl="146.72" xbr="566.65" ybr="498.65" z_order="0">
+    </box>
+  </image>
+  <image id="468" name="f5878c44-fbe0-4de4-9a91-a9c5043178cd.jpeg" width="970" height="972">
+    <box label="kammmolch" source="manual" occluded="0" xtl="165.14" ytl="215.45" xbr="901.25" ybr="775.34" z_order="0">
+    </box>
+  </image>
+  <image id="469" name="f5c883d1-35fe-4a89-a9fa-13901947bd2e.jpeg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="129.08" ytl="207.23" xbr="864.52" ybr="532.84" z_order="0">
+    </box>
+  </image>
+  <image id="470" name="f5f3ada9-6da4-41ab-bdc8-2b5bfe5418bd.jpg" width="1024" height="816">
+    <box label="kammmolch" source="manual" occluded="0" xtl="144.51" ytl="238.16" xbr="911.60" ybr="685.53" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="f633ff47-5dfb-400b-bfed-d860068a2a8b.jpg" width="768" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="88.96" ytl="316.81" xbr="605.45" ybr="524.91" z_order="0">
+    </box>
+  </image>
+  <image id="472" name="f7985280-55e6-4e73-ac25-34ba9bac4a7e.jpg" width="1024" height="768">
+  </image>
+  <image id="473" name="f7fe6380-dec7-434e-9539-858e1c8a8080.jpeg" width="702" height="451">
+    <box label="kammmolch" source="manual" occluded="0" xtl="118.40" ytl="33.08" xbr="702.00" ybr="383.10" z_order="0">
+    </box>
+  </image>
+  <image id="474" name="f8099db7-c0d8-48e0-8adb-67c8a236012e.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="339.98" ytl="226.55" xbr="608.50" ybr="573.61" z_order="0">
+    </box>
+  </image>
+  <image id="475" name="f8aab9c4-26e5-4d91-b55b-30262ad7c3c3.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="93.26" ytl="388.45" xbr="820.84" ybr="641.08" z_order="0">
+    </box>
+  </image>
+  <image id="476" name="fd569433-a4f1-4565-84ba-4822b28067c7.jpeg" width="461" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="24.73" ytl="345.71" xbr="422.96" ybr="666.23" z_order="0">
+    </box>
+  </image>
+  <image id="477" name="fdbb22c2-3f00-4346-9134-6be3db1851ad.jpg" width="1024" height="684">
+    <box label="kammmolch" source="manual" occluded="0" xtl="42.74" ytl="181.04" xbr="884.62" ybr="614.43" z_order="0">
+    </box>
+  </image>
+  <image id="478" name="fdfba54b-99d3-44f7-b6a7-45c847e18fb9.jpg" width="1024" height="680">
+    <box label="kammmolch" source="manual" occluded="0" xtl="280.63" ytl="464.02" xbr="860.42" ybr="615.76" z_order="0">
+    </box>
+  </image>
+  <image id="479" name="fe1fa20d-9938-43d0-96f8-a66865ee7887.jpeg" width="576" height="1024">
+  </image>
+  <image id="480" name="feb24ef4-dd79-46c0-b8a3-019ef380fb37.jpeg" width="473" height="1024">
+    <box label="kammmolch" source="manual" occluded="0" xtl="253.14" ytl="506.81" xbr="324.87" ybr="756.32" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="ff31920a-4e83-4df6-8170-c36592e1c5bd.jpg" width="1024" height="768">
+    <box label="kammmolch" source="manual" occluded="0" xtl="326.51" ytl="418.60" xbr="643.94" ybr="538.75" z_order="0">
+    </box>
+  </image>
+</annotations>

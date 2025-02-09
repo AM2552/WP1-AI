@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>8</id>
+      <size>499</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-05 15:14:05.323321+00:00</created>
+      <updated>2025-02-06 12:51:47.914704+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>498</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>8</id>
+          <start>0</start>
+          <stop>498</stop>
+          <url>http://localhost:8080/api/jobs/8</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-06 12:51:57.455193+00:00</dumped>
+  </meta>
+  <image id="0" name="000ce7f5-5b0f-412e-b0f5-6228d0dee6b5.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="307.46" ytl="306.51" xbr="610.69" ybr="652.18" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="008decfb-c359-47f8-9ed6-a697644ab872.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="285.73" ytl="156.52" xbr="770.92" ybr="621.36" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="00b2f120-953d-4859-a49b-dd5f62c628df.jpg" width="768" height="1024">
+  </image>
+  <image id="3" name="00b70859-f858-4e81-821c-ed06835a2b76.jpeg" width="769" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="271.68" ytl="409.08" xbr="575.77" ybr="600.55" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="00f53fb3-0f0a-4274-90b6-a19a8d7fde75.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="158.45" ytl="444.51" xbr="516.62" ybr="786.35" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="00fcb428-ad99-43a0-b754-db5cdf9eaee1.jpeg" width="1024" height="768">
+  </image>
+  <image id="6" name="011948d3-6ede-4560-857a-6c33ba775624.png" width="1024" height="779">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="6.87" ytl="393.50" xbr="684.88" ybr="603.97" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="011d12a6-6395-4f69-b48d-a31ef01b44f5.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="283.58" ytl="216.21" xbr="639.28" ybr="528.80" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="016c85d3-fe18-4761-94ee-c725a202b66f.jpeg" width="936" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="131.00" ytl="192.95" xbr="770.70" ybr="642.10" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="224.38" ytl="440.86" xbr="803.03" ybr="895.37" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="01d1aec0-92b8-422c-80ad-678745a88e79.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="129.71" ytl="280.97" xbr="650.69" ybr="794.77" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="01dfb141-efac-4d91-b97c-1c8a517e4186.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="245.25" ytl="84.20" xbr="864.98" ybr="666.55" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="0273c3b1-7050-4c02-8314-8d423ab78d4b.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="359.90" ytl="550.93" xbr="644.50" ybr="748.05" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="02a98c29-8403-4fc5-aed7-1f9165ba6726.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="356.82" ytl="239.10" xbr="871.07" ybr="484.74" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="02aad59e-d354-44ff-a1c0-983397d184d6.jpg" width="768" height="1024">
+  </image>
+  <image id="14" name="033b2748-0746-4f03-a915-74537d1af3c3.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="266.74" ytl="204.31" xbr="711.37" ybr="547.89" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="0493d759-90a5-473a-93f9-f306f97b08b8.jpeg" width="1024" height="682">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="211.42" ytl="207.33" xbr="674.06" ybr="532.38" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="086ddd47-e527-4201-854f-f7d23b5c916f.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="328.49" ytl="123.35" xbr="711.37" ybr="529.92" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="0884da1c-f398-457b-9df9-d2696b002c71.jpg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="378.19" ytl="255.88" xbr="677.61" ybr="917.59" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="08f27059-df1d-438d-9b10-4119253f3e62.jpg" width="1024" height="684">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="106.50" ytl="186.90" xbr="783.60" ybr="528.00" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="09aba9c3-3190-44fa-b392-807aebf5fddc.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="214.26" ytl="371.16" xbr="597.52" ybr="791.84" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="09ad1a1b-34a6-40d2-8861-5df32b78a93a.jpeg" width="1024" height="752">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="271.81" ytl="259.38" xbr="547.76" ybr="507.85" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="09c8dbc0-e4f9-4187-a37b-4780d3701364.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="187.32" ytl="350.20" xbr="543.62" ybr="791.84" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="0a80718a-4eba-465a-825a-a49c2ad14ceb.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="521.61" ytl="138.06" xbr="926.95" ybr="346.90" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="0c0cb6ac-e553-470f-8deb-1ad8c8567808.jpeg" width="1024" height="671">
+  </image>
+  <image id="24" name="0c66f19e-be91-4930-8a98-1cdf53a5a145.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="316.54" ytl="559.12" xbr="473.93" ybr="666.70" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="0c6b4bdf-559a-415e-ad38-6f791962bfae.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="26.71" ytl="255.01" xbr="634.27" ybr="813.92" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="0d399d4d-285b-4009-9ba7-ba93fc92b1a8.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="458.36" ytl="196.94" xbr="634.27" ybr="387.81" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="0d3dee2d-bea2-40c9-b525-6b77c6ec41b3.jpg" width="474" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="25.71" ytl="332.36" xbr="429.92" ybr="782.73" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="0df3a7c2-372a-443b-9da0-22fce3998300.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="395.55" ytl="318.99" xbr="600.25" ybr="542.00" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="0e3157b6-5455-4558-827a-34dbc17317b9.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="158.20" ytl="336.72" xbr="571.14" ybr="823.27" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="0e5a9f5d-f30f-4ace-9a27-5794f5395c6c.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="4.49" ytl="65.91" xbr="641.36" ybr="675.00" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="415.15" ytl="190.15" xbr="898.45" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="0e6a3e5b-2ab6-4430-8ac5-f617f5fd3b47.jpeg" width="768" height="1024">
+  </image>
+  <image id="32" name="0eccc421-ff6d-429a-98f8-fcb09123ccf8.jpg" width="1024" height="768">
+  </image>
+  <image id="33" name="0f009e29-83e6-4b3e-9dd6-f4a66b8f59b2.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="278.59" ytl="283.44" xbr="907.81" ybr="763.11" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="0f5fedb2-a52b-4a28-9c45-36ebd1409737.jpeg" width="768" height="1024">
+  </image>
+  <image id="35" name="0fc83553-7690-42a7-a0db-baeef55472c2.jpeg" width="863" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="234.42" ytl="446.61" xbr="577.50" ybr="725.24" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="10b35a47-d0c7-4a28-ad3a-48fcf72e1dff.jpg" width="1000" height="1000">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="73.68" ytl="329.30" xbr="794.74" ybr="683.68" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="118ca7e4-f6ec-4e69-a05d-f3aaaca10462.jpg" width="710" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="24.26" ytl="141.39" xbr="626.26" ybr="680.30" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="11cf2242-64a2-4bac-bfff-484abe6a5b0d.jpeg" width="1024" height="817">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="314.09" ytl="249.59" xbr="759.85" ybr="549.15" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="12bbaf94-3065-474b-93c9-6e16fb7d726c.jpg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="319.78" ytl="142.46" xbr="707.82" ybr="1011.97" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="12bc1e40-61f7-442d-b8d3-aa72eb5e6672.jpg" width="682" height="682">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="215.37" ytl="178.64" xbr="537.23" ybr="525.62" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="1306e149-5aed-4603-968f-d245c0aa56df.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="195.28" ytl="332.89" xbr="543.80" ybr="561.05" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="13651310-7d76-4593-9977-6a74a9efecff.jpg" width="1024" height="757">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="237.04" ytl="163.19" xbr="842.64" ybr="620.05" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="139dfa9f-d099-4564-9899-36fa60941ae9.jpeg" width="680" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="126.12" ytl="189.17" xbr="593.20" ybr="776.63" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="13a0e8ba-bb16-49fd-87cb-d7bbe787509a.jpg" width="1024" height="768">
+  </image>
+  <image id="45" name="14c66c4a-c087-4ecc-87db-5971e8708893.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="267.14" ytl="392.18" xbr="601.29" ybr="792.79" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="155e8843-b8d3-4fb3-8d3c-690937a56fe7.jpeg" width="768" height="1024">
+  </image>
+  <image id="47" name="15e80dc9-aa2c-43a7-b169-df9f783e5f67.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="355.66" ytl="257.84" xbr="788.17" ybr="629.72" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="15f97847-c62a-44f9-9bc4-f411e5840958.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="157.18" ytl="533.63" xbr="595.91" ybr="748.84" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="164a96cc-2078-4013-9aa0-03f31978cda7.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="169.30" ytl="219.42" xbr="644.70" ybr="610.85" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="17385e3f-9891-4cfa-a980-b1f0b8b2786f.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="397.36" ytl="446.46" xbr="548.56" ybr="552.75" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="17a3016b-cee3-40fd-9bab-ebc48fae31b7.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="362.51" ytl="301.21" xbr="694.86" ybr="581.91" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="1877008e-300c-4304-8769-6fd38ef96496.jpeg" width="1024" height="692">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="185.63" ytl="72.52" xbr="921.63" ybr="588.24" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="18d9ecdf-c5e8-4ba9-9e45-7261358d5219.jpg" width="1024" height="428">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="378.58" ytl="54.25" xbr="686.86" ybr="328.03" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="19209d70-2a10-4329-8ac2-80d74392db5f.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="190.48" ytl="352.10" xbr="628.97" ybr="691.64" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="1a8853c5-6a9b-48b9-a99f-bc58c346d444.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="176.90" ytl="258.97" xbr="681.35" ybr="639.25" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="1affdba8-5ac0-452b-af80-ca33a92b3fb5.jpeg" width="578" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="232.78" ytl="469.48" xbr="483.71" ybr="720.42" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="1b030fd0-ac1f-494d-bcdb-a50d79de65d1.jpeg" width="1024" height="768">
+  </image>
+  <image id="58" name="1bdef5e3-ec4f-436d-8872-12b67ebaf471.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="482.61" ytl="402.22" xbr="570.02" ybr="460.70" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="414.07" ytl="296.96" xbr="499.84" ybr="371.81" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="1cc98309-892b-46a8-bba8-c39b9e8b679a.jpeg" width="1024" height="739">
+  </image>
+  <image id="60" name="1cce7af4-c3ab-4b80-9a2d-a91c4897b1cf.jpeg" width="1024" height="956">
+  </image>
+  <image id="61" name="1e19d4d6-3a40-4a2d-9436-df0e910a6de9.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="250.63" ytl="106.08" xbr="735.68" ybr="486.36" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="1e5e5122-fd48-427f-a5cf-1e9da7ddd568.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="298.51" ytl="228.11" xbr="769.56" ybr="533.52" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="1fb6833d-e212-4955-b8c1-b5db02ec7add.jpg" width="473" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="165.36" ytl="405.05" xbr="371.12" ybr="576.16" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="20037b80-1a73-402c-8352-d263c1b4c88e.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="498.88" ytl="394.18" xbr="768.35" ybr="596.28" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="2085df7e-e858-425f-858d-7bf6adfe52a1.jpg" width="1024" height="576">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="279.87" ytl="172.00" xbr="448.29" ybr="275.58" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="20a9fbb2-a2df-4bf0-9994-dca115a5aff9.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="345.10" ytl="281.00" xbr="793.11" ybr="615.59" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="20aa08ee-a9e7-4708-94d2-97603662f6b7.jpeg" width="682" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="146.90" ytl="277.29" xbr="675.36" ybr="916.54" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="20f5ace0-daf3-4e7d-832f-9dfe7ceb9ea2.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="3.31" ytl="27.11" xbr="670.75" ybr="805.79" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="211f820a-08c3-4ef3-898f-478d9384ab60.jpeg" width="771" height="1024">
+  </image>
+  <image id="70" name="21229f82-2821-4d38-a763-a93c66fb4df0.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="231.80" ytl="311.77" xbr="566.15" ybr="740.90" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="21ba4d7a-ff03-4a8f-b2c4-6f662fc6fd0d.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="234.87" ytl="200.00" xbr="675.89" ybr="543.67" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="224647b5-7ebb-4e33-8c40-a0fc010425ea.jpeg" width="768" height="1024">
+  </image>
+  <image id="73" name="22e5191a-144a-4b0f-984a-24a5b2de7b6d.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="242.01" ytl="195.16" xbr="782.42" ybr="601.48" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="242c25dd-e0dd-4cd1-9a0b-6095d6c6a965.jpeg" width="1024" height="768">
+  </image>
+  <image id="75" name="248a6a1d-8b54-4e08-961b-7ab057a7d1ee.jpeg" width="1024" height="689">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="36.54" ytl="140.13" xbr="821.03" ybr="651.44" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="250e7dde-fd78-4ecf-831d-9f120c730220.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="221.53" ytl="405.55" xbr="520.95" ybr="721.60" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="25ac7968-2ded-4208-9e08-08e9d496e292.jpeg" width="1024" height="576">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="29.89" ytl="10.16" xbr="878.71" ybr="576.00" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="25b5015b-31b4-4233-8fb6-671516e63fed.jpeg" width="768" height="1024">
+  </image>
+  <image id="79" name="25ecec72-a4e3-4db4-b156-18d5a43e1b83.jpeg" width="1024" height="764">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="190.42" ytl="276.21" xbr="851.22" ybr="726.56" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="2675fcb7-9983-443a-9d1d-47dbd2c283ff.jpeg" width="1024" height="768">
+  </image>
+  <image id="81" name="26da934b-44d9-4a1c-ab4d-48a07a35b807.jpg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="113.18" ytl="263.91" xbr="749.32" ybr="935.80" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="27266b2f-d3e1-42f4-bc36-5af20a1dcc3c.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="290.69" ytl="387.75" xbr="560.16" ybr="612.31" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="2802ad5b-e638-4032-9bbd-7dd7cf566ec9.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="8.10" ytl="157.69" xbr="829.00" ybr="755.28" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="2804d6f2-d7d3-4d22-a98d-0a28a5125c48.jpeg" width="768" height="1024">
+  </image>
+  <image id="85" name="28ce9713-5386-4687-8544-a71002eafcf7.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="238.06" ytl="354.61" xbr="552.03" ybr="664.42" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="29459f75-1666-4857-a5f6-ee7a8438ca6a.jpeg" width="1024" height="771">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="427.93" ytl="233.15" xbr="792.16" ybr="771.00" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="260.42" ytl="83.17" xbr="790.22" ybr="618.81" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="2a4ebda6-ec10-4b91-9886-b62f28dec989.jpg" width="770" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="195.78" ytl="357.47" xbr="555.40" ybr="846.40" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="2a6e908c-fde5-4f92-aa4f-0250bf78f35c.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="324.27" ytl="391.00" xbr="457.83" ybr="498.55" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="2b84a865-7489-4e07-a1b8-5870f2af7a6f.jpeg" width="864" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="62.52" ytl="130.25" xbr="770.34" ybr="942.26" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="2bf11e4e-697b-4c97-91cf-d64d5711d4f3.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="397.57" ytl="299.12" xbr="785.61" ybr="620.69" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="2dac9c24-c557-4467-bb65-3e321b08e365.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="63.96" ytl="430.26" xbr="461.16" ybr="947.65" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="2e03ffcd-45bb-463f-9205-cf27736381c8.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="357.36" ytl="502.48" xbr="499.44" ybr="667.09" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="2eb5e4f1-76ce-481f-a286-32cc54a5fa15.jpg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="329.38" ytl="436.63" xbr="663.79" ybr="689.61" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="2eb616c7-ee34-4b8a-8d7a-eccc53e4a8b6.jpeg" width="747" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="125.76" ytl="190.25" xbr="614.40" ybr="813.63" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="2f7ed84b-ba8a-4b40-9305-593013be3e9f.jpeg" width="768" height="1024">
+  </image>
+  <image id="96" name="31111ad9-c3b8-4e7d-b312-077f546615a7.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="192.76" ytl="68.74" xbr="924.89" ybr="598.37" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="3120ead8-76d4-477d-8097-04928b8659a6.jpeg" width="1024" height="682">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="129.49" ytl="196.17" xbr="765.30" ybr="578.67" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="3176a55f-bd02-442a-9aa6-8f9711b13970.jpg" width="1024" height="473">
+  </image>
+  <image id="99" name="31878c1d-f9ff-4886-85f3-d7e5cfb9e950.jpeg" width="963" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="208.43" ytl="430.89" xbr="485.38" ybr="671.92" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="3281cd64-800a-4154-b0fd-1f530c34e1eb.jpeg" width="1024" height="1017">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="144.05" ytl="240.39" xbr="800.64" ybr="820.26" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="3285b81a-f9eb-4601-b31d-28d777ed4f81.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="192.36" ytl="164.07" xbr="775.00" ybr="681.70" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="32b9a887-1d75-49d1-819d-0c6ce20a7347.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="298.78" ytl="191.58" xbr="864.67" ybr="527.88" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="3373d917-fee2-4ef2-bb2f-3ad75a7fcc55.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="327.06" ytl="410.02" xbr="651.42" ybr="728.15" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="33c75847-218a-476b-9fd0-61c90fdfa674.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="469.17" ytl="357.08" xbr="595.33" ybr="439.38" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="340b864d-adb5-4fa8-9193-163fc982e1e8.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="202.40" ytl="161.70" xbr="784.74" ybr="603.14" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="34414b7d-c2ce-454a-a265-5754531ee5e8.jpeg" width="1024" height="632">
+  </image>
+  <image id="107" name="34bf4d27-be50-4900-a183-1d4e03f587a3.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="327.26" ytl="316.24" xbr="597.57" ybr="513.88" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="350a1f4f-9e3c-4eb3-a4a1-ab53cc25cd7d.jpeg" width="1024" height="768">
+  </image>
+  <image id="109" name="3527af07-e79b-49e7-968c-3ee12c8a2fef.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="23.54" ytl="319.51" xbr="511.73" ybr="720.72" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="352df2b1-558f-4cf0-9d14-d4811d4148bf.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="113.90" ytl="401.94" xbr="239.74" ybr="507.22" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="3562349f-7a90-4a62-beba-c6de91dc146d.jpeg" width="853" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="200.74" ytl="394.36" xbr="563.91" ybr="811.05" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="37a5b790-d305-44e2-949a-2903bf74b62f.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="232.62" ytl="102.94" xbr="796.06" ybr="664.05" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="37b043b4-59e6-49a6-996f-a6ed7f805f58.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="201.50" ytl="426.06" xbr="394.70" ybr="618.40" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="3859fa1a-72d9-466e-a0ba-23e7f9c53ea3.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="404.92" ytl="328.97" xbr="577.76" ybr="419.93" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="38e01774-aeac-492a-8615-16512fb27880.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="191.15" ytl="201.21" xbr="971.01" ybr="840.76" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="39059c34-d68a-4d60-970f-aca49bbec43a.jpeg" width="484" height="1024">
+  </image>
+  <image id="117" name="3aa2ba1f-b5a0-44de-b859-e5b6eba5657c.jpeg" width="1024" height="473">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="375.54" ytl="143.79" xbr="492.27" ybr="275.37" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="3ac68a9a-ebb9-450e-8b83-0659d56d7113.jpg" width="768" height="1024">
+  </image>
+  <image id="119" name="3b64d5ac-822e-4bab-ad3a-e00283d3458c.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="179.98" ytl="500.56" xbr="361.98" ybr="705.11" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="3b911ace-caf6-4c9c-9111-8286c989d52d.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="216.71" ytl="173.79" xbr="687.04" ybr="579.25" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="3bacdfc3-ce62-43cd-9fac-3c267a5b0199.jpeg" width="858" height="611">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="11.85" ytl="72.05" xbr="656.44" ybr="594.39" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="3c7e6fd3-b20f-4e9a-b905-d9f0e6e0f1f0.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="268.47" ytl="282.59" xbr="501.52" ybr="509.58" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="3c937f1e-f720-4e4f-b6a4-b63436d6cba6.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="73.54" ytl="341.07" xbr="596.17" ybr="995.29" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="3cbfd89a-00b8-4231-9cd1-f52d71916680.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="72.04" ytl="329.09" xbr="432.84" ybr="650.96" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="3cf11444-c1fd-4244-a98b-0361f0d3136b.jpeg" width="1024" height="678">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="270.83" ytl="265.47" xbr="582.07" ybr="492.46" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="3d2f1b8e-a451-4fb8-80c9-07fa5251fb38.jpg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="105.73" ytl="299.15" xbr="867.89" ybr="665.93" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="3d616ad7-7966-40c4-bbb8-08ed2547fe6c.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="97.49" ytl="296.15" xbr="593.17" ybr="770.73" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="3d88bfbd-de0c-4026-8cb5-5e9698201ee4.jpg" width="780" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="263.69" ytl="445.05" xbr="459.35" ybr="598.11" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="3dcd9a9c-c827-4dfa-8b0f-f09b1980279c.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="485.66" ytl="441.51" xbr="589.10" ybr="549.31" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="3e0e43ec-b68f-4232-b093-35d1881b8004.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="457.05" ytl="279.90" xbr="885.54" ybr="619.24" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="3e1803df-d1f9-4eed-99c8-d3275543cdca.jpeg" width="682" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="262.59" ytl="464.44" xbr="422.08" ybr="592.00" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="3e3c31d6-67b9-4115-ad08-64accd74bc59.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="239.42" ytl="471.05" xbr="465.64" ybr="665.38" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="3f82ca14-58f8-4bcd-96a3-3f515b71e988.jpg" width="1024" height="957">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="127.88" ytl="124.01" xbr="930.55" ybr="897.67" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="3f90a5a9-dd02-4814-8c27-2c7c7390fec7.png" width="1024" height="919">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="204.43" ytl="259.74" xbr="787.76" ybr="712.07" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="41367db0-8e80-47cd-b477-ff6d99dacfc8.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="277.09" ytl="321.13" xbr="627.66" ybr="783.98" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="4189d80a-03d0-4526-b92b-e15a22bc933f.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="174.29" ytl="229.56" xbr="496.16" ybr="600.09" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="4207bfde-0452-4153-93ea-3a3c353562cb.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="240.41" ytl="450.38" xbr="590.98" ybr="741.06" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="427541c9-59e1-4d17-bd72-f10a7c99789c.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="430.48" ytl="378.92" xbr="588.70" ybr="492.14" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="42b73b67-5c30-4d44-82a3-1e1f7ac7ff7b.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="188.14" ytl="485.93" xbr="448.88" ybr="850.22" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="4331f1e3-3c5a-4049-a2a9-da9e0bb4c693.jpeg" width="1024" height="732">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="471.87" ytl="247.49" xbr="757.25" ybr="549.82" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="4381b51e-ec7f-4b0a-ba29-852aaf26ada8.jpeg" width="1024" height="716">
+  </image>
+  <image id="142" name="43c2ecd4-3687-455e-ae26-967d3310cc66.jpeg" width="1024" height="578">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="523.56" ytl="191.12" xbr="860.63" ybr="391.90" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="447fbc8f-aefa-4eaa-a383-fb5e2939ab6e.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="268.10" ytl="323.04" xbr="516.45" ybr="560.57" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="449c4cae-186f-4a94-9828-8afe5b28d6d7.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="317.25" ytl="546.25" xbr="455.96" ybr="678.27" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="44e1d233-04aa-4889-8625-b623490fbdc5.jpeg" width="1024" height="678">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="445.12" ytl="271.89" xbr="589.68" ybr="439.39" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="45756f25-16bd-43d7-9eaf-35ddfe0a8709.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="525.16" ytl="222.68" xbr="775.77" ybr="502.93" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="45a7d435-d05b-47c3-9a64-f9e8db42db33.jpg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="199.71" ytl="460.23" xbr="413.30" ybr="658.17" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="47758a53-c0d0-4234-9505-5197bb8360fa.jpeg" width="768" height="1024">
+  </image>
+  <image id="149" name="4784eac9-7b0a-48eb-ba06-992924d9ebac.jpg" width="1024" height="670">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="273.08" ytl="30.04" xbr="890.89" ybr="553.35" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="48a8837a-cf7a-44f7-8051-3e503e5863c4.jpeg" width="1024" height="638">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="179.75" ytl="158.93" xbr="886.25" ybr="614.26" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="48c25c50-4c08-4f56-aa85-c3f41cc5208f.jpeg" width="768" height="1024">
+  </image>
+  <image id="152" name="4901315d-a2fb-4064-9cf8-31948a71fc7f.jpeg" width="1024" height="844">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="300.16" ytl="248.59" xbr="643.19" ybr="663.18" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="4aa32d35-7401-461b-905e-963857df315d.jpeg" width="576" height="1024">
+  </image>
+  <image id="154" name="4b03b2a0-fe3e-4a07-ba9d-e4cf4f5580b2.jpeg" width="925" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="177.59" ytl="181.63" xbr="752.61" ybr="752.01" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="4b94d7be-7a62-480c-86f6-796067e358b3.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="78.93" ytl="368.76" xbr="516.22" ybr="784.95" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="4be7aade-e4de-45fc-855c-a0a06c8985d6.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="74.59" ytl="147.20" xbr="691.38" ybr="777.46" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="4ce4d439-6f72-4dd3-a1c2-205767fe2d8d.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="143.45" ytl="349.30" xbr="543.17" ybr="807.41" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="4d7a407b-52b0-4bba-bd28-7e280dad3227.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="221.49" ytl="264.15" xbr="529.14" ybr="420.22" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="543.73" ytl="333.77" xbr="877.21" ybr="513.42" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="4d8c50cd-53f9-4948-ba38-fa4e738059aa.jpg" width="768" height="1024">
+  </image>
+  <image id="160" name="4dd17fbc-7872-4e80-996c-cdda47fc766f.jpg" width="768" height="1024">
+  </image>
+  <image id="161" name="4de4ddad-ae32-4797-88e2-c3cc37cbfa7b.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="152.65" ytl="31.38" xbr="891.87" ybr="722.10" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="4efecd3a-10b7-472e-a197-26676f001c06.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="140.65" ytl="368.33" xbr="417.19" ybr="586.65" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="0.30" ytl="360.01" xbr="84.51" ybr="472.29" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="4f5510ac-ab9e-4000-ac2a-86d38dd18adb.jpeg" width="768" height="1024">
+  </image>
+  <image id="164" name="5052a9c1-de04-4df6-84f1-4b6924872e8d.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="99.29" ytl="347.20" xbr="567.87" ybr="622.67" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="5105a1a6-56c0-47d9-9fc7-5dd14105d5ef.jpg" width="768" height="1024">
+  </image>
+  <image id="166" name="516ab19d-53c2-413a-8e76-4fb0b635a934.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="244.65" ytl="416.22" xbr="538.08" ybr="670.72" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="52af441d-a66a-4ab0-9eb2-8bd28b8b90ba.jpeg" width="667" height="627">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="146.67" ytl="117.21" xbr="504.65" ybr="503.70" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="5343e634-afd0-4934-8ccd-7941630d7cc4.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="247.14" ytl="214.54" xbr="767.31" ybr="592.88" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="53b6fa80-37f8-4bb3-869c-35590a0eeeb8.jpeg" width="490" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="80.58" ytl="495.60" xbr="427.90" ybr="727.61" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="544fb71a-5139-4f78-be5c-dad9cfa22d2c.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="299.40" ytl="441.00" xbr="529.27" ybr="678.04" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="54e0ced3-6f3c-422e-b749-1ca75f0d07f8.jpeg" width="861" height="606">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="246.95" ytl="59.66" xbr="693.48" ybr="475.57" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="56638e81-7e6c-487b-b7ae-39edf1a9aad0.jpg" width="1000" height="750">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="235.74" ytl="122.84" xbr="711.00" ybr="623.37" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="57a3cc59-0e07-48f3-8f00-67aaaaee6abf.jpeg" width="576" height="1024">
+  </image>
+  <image id="174" name="58687c04-7350-43be-8eec-62c7b4532953.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="179.66" ytl="522.74" xbr="451.63" ybr="864.69" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="5968ccc7-8286-427a-8e44-f5620e914e40.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="106.46" ytl="78.85" xbr="903.63" ybr="549.91" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="5a124be9-3d33-4e4f-8c82-8724025aa6ef.jpg" width="473" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="33.57" ytl="277.15" xbr="387.15" ybr="470.53" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="5a8a7f6e-4384-407f-b6e9-9694d59110fa.jpeg" width="1024" height="791">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="297.05" ytl="242.52" xbr="675.30" ybr="526.89" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="5c2fb921-5390-46e9-bc83-0eb8bbf2a72f.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="481.78" ytl="278.12" xbr="680.80" ybr="403.63" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="429.01" ytl="305.86" xbr="740.36" ybr="415.42" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="5df959ac-6f25-48dd-9037-048da3838590.jpeg" width="1024" height="884">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="133.77" ytl="292.43" xbr="636.41" ybr="745.29" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="5e2a6737-758d-435f-bf6c-c457cb713905.jpg" width="769" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="239.41" ytl="309.28" xbr="560.04" ybr="822.03" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="5e5ac7d9-dbbc-4157-8390-b4aa19bfdb46.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="272.97" ytl="337.97" xbr="431.54" ybr="525.23" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="5e86a3f3-514e-4a42-8108-82c94aecaa4c.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="402.60" ytl="179.63" xbr="592.54" ybr="332.14" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="5e8d613e-956a-467d-b078-0164b332fa93.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="329.07" ytl="134.67" xbr="743.19" ybr="609.18" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="5f109ea6-bff8-4867-a0b7-5a9e57f7d48e.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="352.42" ytl="528.08" xbr="474.44" ybr="655.87" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="5ff3b182-b81c-41c2-a99d-e5d64d037950.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="180.59" ytl="548.94" xbr="410.90" ybr="725.10" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="6082f81f-a754-4f38-a498-6e9a2f1f7044.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="128.33" ytl="190.01" xbr="605.90" ybr="696.02" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="608511ea-d04e-42df-bba3-d03ce264e5aa.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="399.30" ytl="431.04" xbr="610.39" ybr="757.40" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="6097a172-7427-4ceb-af3d-e99ad08f7b45.jpeg" width="768" height="1024">
+  </image>
+  <image id="189" name="610fdd3d-2af0-4992-9968-f9a1428fc772.jpg" width="1024" height="744">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="254.30" ytl="170.66" xbr="739.86" ybr="540.31" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="622063f3-ce04-486c-85c0-440259f06e4b.jpeg" width="800" height="533">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="237.68" ytl="226.12" xbr="519.44" ybr="334.96" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="282.56" ytl="266.51" xbr="555.34" ybr="402.29" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="626761e6-9d3c-4276-ac60-6ddbeb607d7f.jpeg" width="1024" height="803">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="440.05" ytl="400.84" xbr="608.00" ybr="560.63" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="628912cc-fff9-4126-9f29-db7e785f5161.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="114.08" ytl="213.68" xbr="830.02" ybr="800.05" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="62db3760-7a68-4a83-be4f-acbdae23af14.jpeg" width="768" height="1024">
+  </image>
+  <image id="194" name="62df9ff9-30f2-483c-bab1-661537d94aee.jpeg" width="1024" height="833">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="199.03" ytl="238.25" xbr="610.66" ybr="588.99" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="62e30ed1-d2b8-479b-ade5-249b61ce391d.jpeg" width="1024" height="859">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="244.44" ytl="273.32" xbr="696.67" ybr="635.00" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="6303fc70-cf37-4f9d-9cf8-d178ff9388ae.jpeg" width="1024" height="768">
+  </image>
+  <image id="197" name="63b8148b-57c9-423c-a951-84a9d9e3bc52.jpeg" width="768" height="1024">
+  </image>
+  <image id="198" name="6426dbb8-13ce-4a0a-a6a7-6539bdbf47fa.jpeg" width="1024" height="769">
+  </image>
+  <image id="199" name="655daab9-a6c1-42b6-bb0d-4429832eea15.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="344.66" ytl="265.16" xbr="569.33" ybr="429.09" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="65f8245c-ac1c-4dcb-890b-0bfd37e28c8e.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="391.93" ytl="238.22" xbr="702.95" ybr="520.04" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="6670d616-505a-424e-b235-3b9c5b0659a8.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="148.99" ytl="295.11" xbr="521.76" ybr="705.30" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="66a7c456-0353-4465-86a9-596413f470bf.jpeg" width="1024" height="768">
+  </image>
+  <image id="203" name="66b1b432-d10d-453b-8549-32ed259edc1e.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="257.14" ytl="563.48" xbr="348.89" ybr="661.74" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="679e00a8-28d3-456f-8750-8f9b72dc6447.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="425.99" ytl="262.06" xbr="688.91" ybr="513.75" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="67c255a7-f748-4cc7-9130-a83d1a65755c.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="213.22" ytl="330.74" xbr="578.75" ybr="633.89" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="68a1408a-2249-436a-bee9-b8c05a8a5be1.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="89.65" ytl="322.11" xbr="651.95" ybr="605.96" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="68d31c78-03ff-4f21-a2a5-3accc49f3974.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="245.94" ytl="390.38" xbr="553.14" ybr="622.13" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="68dbc619-b9f0-4630-9af5-4c0dc5581638.jpg" width="1024" height="768">
+  </image>
+  <image id="209" name="6992f338-cef3-4058-afad-4bd9b1e38800.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="2.52" ytl="386.79" xbr="453.44" ybr="674.23" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="699e99e0-8b39-4561-aca1-c49c23a0e7fd.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="147.09" ytl="98.72" xbr="904.31" ybr="695.60" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="69f3d7a8-8054-44f6-9503-26a711bef09a.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="489.19" ytl="233.46" xbr="812.69" ybr="482.72" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="6adc7efd-a621-46b6-93ff-d5cfbbbf2232.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="0.00" ytl="490.98" xbr="544.16" ybr="958.07" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="6bbd9b41-ef39-4b48-b266-717a9809eb51.jpg" width="1024" height="845">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="298.77" ytl="138.96" xbr="873.97" ybr="761.60" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="6d143c5e-601e-4b83-9030-492e30e9a494.jpg" width="1024" height="769">
+  </image>
+  <image id="215" name="6d44ea9a-cbd1-4bbf-b5ca-2abb3dc8a798.jpeg" width="766" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="294.52" ytl="388.73" xbr="518.72" ybr="645.27" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="6de5440f-2949-47c5-a831-ae5f5f5ff3f8.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="116.50" ytl="341.30" xbr="455.13" ybr="660.40" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="6de68d07-631d-4da6-8f4e-27c651717f9e.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="240.25" ytl="285.03" xbr="508.64" ybr="500.07" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="6eabc480-28f8-40f9-b694-3913fa841ccf.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="146.47" ytl="71.61" xbr="920.94" ybr="666.61" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="6ee216c2-62a6-4d22-ad6e-8365ca8d1527.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="228.77" ytl="421.06" xbr="534.89" ybr="638.80" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="6f755417-fe45-483f-8bef-c89a01b3c65d.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="228.93" ytl="162.15" xbr="647.69" ybr="626.19" z_order="0">
+    </box>
+  </image>
+  <image id="221" name="6fb817e2-5532-4fbf-b4eb-90f9746069a1.jpg" width="988" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="224.24" ytl="250.76" xbr="776.34" ybr="617.24" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="71aae9a3-5477-4243-b1e5-d24bd94ef090.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="304.92" ytl="251.08" xbr="696.20" ybr="703.80" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="7214f908-d3a6-47be-b9d6-0e2e5c3591aa.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="112.14" ytl="431.84" xbr="424.94" ybr="794.02" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="722a7e80-2e85-45b0-96f5-5772ee1fa9ec.jpeg" width="768" height="1024">
+  </image>
+  <image id="225" name="72407e64-4d20-4792-84e3-ac0c9d1643a7.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="136.87" ytl="276.99" xbr="668.33" ybr="762.19" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="72eef3fd-8534-45d2-a32f-a68b3afdb590.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="231.18" ytl="422.36" xbr="479.70" ybr="648.42" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="74230995-69af-4a2c-91fb-b69bc9caffd3.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="424.30" ytl="504.70" xbr="734.20" ybr="720.28" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="751c7851-0a28-44a1-b3e4-b86829552a5d.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="142.55" ytl="377.30" xbr="451.10" ybr="690.33" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="754f6a99-06ef-4e0a-ac32-d065e454ff80.jpeg" width="768" height="1024">
+  </image>
+  <image id="230" name="757da54e-69ec-4c55-aeaf-43d76b6e3ada.jpeg" width="909" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="338.37" ytl="419.36" xbr="573.41" ybr="678.36" z_order="0">
+    </box>
+  </image>
+  <image id="231" name="757f0e3f-56d2-470a-8421-dfac3535f8bd.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="108.42" ytl="341.52" xbr="665.33" ybr="768.18" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="758a44e2-475b-4da7-b819-17fdc8288876.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="365.11" ytl="176.00" xbr="787.85" ybr="605.64" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="75c098aa-8b80-4cce-8fc5-1f4088ad3903.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="127.75" ytl="298.74" xbr="764.14" ybr="919.61" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="75d2cd4b-6f57-4b4c-a642-f2fdd4658ed5.jpg" width="800" height="551">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="289.86" ytl="197.57" xbr="451.33" ybr="361.83" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="295.43" ytl="169.73" xbr="504.23" ybr="386.88" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="7610038d-bace-44b7-87a3-638a1af6eaed.jpeg" width="820" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="159.53" ytl="431.16" xbr="574.52" ybr="912.62" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="770e9805-697c-444d-ae30-bb8dc1a72990.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="264.63" ytl="458.11" xbr="658.06" ybr="894.66" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="77fb4af3-db79-4648-b446-3b47df08ab73.jpg" width="1024" height="682">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="345.10" ytl="214.17" xbr="798.66" ybr="507.31" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="78b9a493-9dfe-49ae-ba45-479a8b9565a9.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="360.51" ytl="154.91" xbr="825.36" ybr="629.18" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="78eae304-8cec-4900-9c21-0b7dfcd63f7e.jpg" width="1024" height="768">
+  </image>
+  <image id="240" name="78fc33a8-7fc9-4100-8233-d7a741a5c8e3.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="282.37" ytl="204.76" xbr="759.33" ybr="576.63" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="7aa4a851-a44a-4f1c-9a60-9aadfbc71ff7.jpeg" width="1022" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="465.02" ytl="468.97" xbr="651.11" ybr="626.99" z_order="0">
+    </box>
+  </image>
+  <image id="242" name="7b0d76df-90c8-44be-bcae-6c0ad0d29e6f.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="387.97" ytl="344.56" xbr="590.76" ybr="529.70" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="7b79afc0-5c43-4e89-8c56-ab363a6f967c.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="188.33" ytl="435.16" xbr="567.80" ybr="708.07" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="7b96faf7-1c82-4981-a68c-8898de2aa86c.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="228.42" ytl="172.78" xbr="664.25" ybr="519.31" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="7bb47f14-06db-463e-a0a2-0c390fca8337.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="250.44" ytl="361.78" xbr="497.87" ybr="597.78" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="7c691b8e-cfa0-432e-be07-8e320c99648e.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="281.62" ytl="208.15" xbr="874.04" ybr="597.82" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="7ca6689d-2bf0-4d42-80a0-372ca14236dc.jpg" width="578" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="165.18" ytl="321.88" xbr="399.73" ybr="785.97" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="7ca8aa03-a4f2-46e3-81c0-63746c5e62d4.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="129.26" ytl="266.99" xbr="613.31" ybr="611.31" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="7d8afd08-f021-4656-a8f5-471a906b32d2.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="133.00" ytl="432.79" xbr="297.68" ybr="563.91" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="7df20c4b-8b90-4583-a83e-00b28f66ebb5.jpeg" width="1024" height="766">
+  </image>
+  <image id="251" name="7e2783e2-fa71-4394-be3d-dd947c94338f.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="341.21" ytl="263.24" xbr="641.61" ybr="515.37" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="7e733a7e-25e4-4aaa-9925-b2e1e7c44d01.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="582.69" ytl="72.31" xbr="871.03" ybr="295.97" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="128.63" ytl="165.15" xbr="800.97" ybr="500.77" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="78.78" ytl="421.15" xbr="643.33" ybr="685.36" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="7edcdca8-9cff-4931-88b4-c93feaccddf8.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="133.30" ytl="367.56" xbr="417.15" ybr="646.02" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="80c5be2d-a3e6-48e2-947a-ecb784df55e4.jpeg" width="1024" height="766">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="240.91" ytl="40.24" xbr="718.90" ybr="603.37" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="380.24" ytl="78.94" xbr="906.61" ybr="752.37" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="80e315aa-e9a8-4480-8218-a600513f41e1.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="367.01" ytl="228.28" xbr="563.71" ybr="421.53" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="80fedaf5-36df-4b02-8420-18fd7f788751.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="3.44" ytl="51.95" xbr="896.14" ybr="653.61" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="8101c9c9-a1b6-4dff-9f30-af54ba388587.jpg" width="1024" height="576">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="302.38" ytl="78.29" xbr="907.73" ybr="498.83" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="81348f38-094d-48a1-948c-d59b52af6af5.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="167.84" ytl="353.85" xbr="876.67" ybr="829.84" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="813d1a2a-e56a-49a5-b7ab-576692985511.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="175.31" ytl="202.40" xbr="689.67" ybr="587.18" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="814f4999-3029-413b-965d-6d42a5b522f7.jpg" width="768" height="1024">
+  </image>
+  <image id="261" name="82203fc4-9276-4a63-8e71-6809e86c6603.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="347.80" ytl="436.13" xbr="567.87" ybr="605.30" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="8232b326-f607-4ef3-98d6-853ad538bf5f.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="159.02" ytl="350.80" xbr="531.94" ybr="671.17" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="8233e5b4-cab7-452c-8ca9-7b1311014feb.jpeg" width="768" height="1024">
+  </image>
+  <image id="264" name="82b8caae-b306-4ed9-ae2e-5317fb4d221f.jpg" width="644" height="1024">
+  </image>
+  <image id="265" name="8326ca68-0d0b-470b-a43e-f3c4dff8e311.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="330.63" ytl="30.71" xbr="1012.94" ybr="763.13" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="83bc2934-7dc6-4427-9581-d1709021e5db.jpg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="287.41" ytl="387.87" xbr="692.69" ybr="696.36" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="83ef0080-2dd6-4a17-b46b-8a3ee704b212.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="41.50" ytl="181.98" xbr="747.50" ybr="656.48" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="846be990-f0b0-43ff-aa2f-aaaf9fbb3d5e.jpeg" width="1024" height="1011">
+  </image>
+  <image id="269" name="84cf44ca-ed71-4807-b553-f0b27477620a.jpeg" width="768" height="1024">
+  </image>
+  <image id="270" name="84f2268e-ac44-4cb0-a450-08d4f9427cd4.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="64.50" ytl="88.43" xbr="706.92" ybr="590.73" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="84ffc853-0092-412f-b502-c47a399ee873.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="294.90" ytl="169.75" xbr="715.44" ybr="654.81" z_order="0">
+    </box>
+  </image>
+  <image id="272" name="855ef3ff-ad8c-4ebf-957f-528b57d25741.jpeg" width="1024" height="635">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="295.17" ytl="166.43" xbr="767.07" ybr="455.19" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="8587a591-3369-477f-a162-6e6d0b44152c.jpg" width="1000" height="750">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="316.58" ytl="60.00" xbr="899.21" ybr="636.32" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="168.16" ytl="318.95" xbr="665.53" ybr="647.37" z_order="0">
+    </box>
+  </image>
+  <image id="274" name="85d03fee-aafe-4c45-8d1e-9569f0e8eae5.jpeg" width="461" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="69.46" ytl="273.82" xbr="276.41" ybr="532.52" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="85e105be-f42a-4257-9b6f-57a522694b9e.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="15.73" ytl="273.35" xbr="397.48" ybr="637.64" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="85f8d723-5deb-4ade-9854-62fd6db6bde8.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="341.58" ytl="300.60" xbr="621.97" ybr="497.12" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="863e4f60-b9f9-4392-b463-a02c88bfde39.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="305.72" ytl="467.38" xbr="432.67" ybr="569.66" z_order="0">
+    </box>
+  </image>
+  <image id="278" name="8651924b-967e-4277-a843-16577389a736.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="142.85" ytl="331.19" xbr="646.02" ybr="738.39" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="87074c6e-7822-403e-a217-e01193682d7b.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="183.73" ytl="140.24" xbr="676.52" ybr="566.78" z_order="0">
+    </box>
+  </image>
+  <image id="280" name="879e065f-dc3c-4f60-a465-25b8ce53ea8c.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="84.98" ytl="322.29" xbr="753.27" ybr="661.83" z_order="0">
+    </box>
+  </image>
+  <image id="281" name="883222d3-184e-47b5-a266-8e9581525c43.jpeg" width="768" height="1024">
+  </image>
+  <image id="282" name="88735fd4-1671-4f8a-8095-b3d200c6a8e2.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="181.53" ytl="431.05" xbr="341.09" ybr="648.36" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="8907992e-4c62-4a9b-b4d2-1ce6a0ef38e9.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="197.62" ytl="392.00" xbr="564.10" ybr="568.05" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="237.14" ytl="550.09" xbr="571.29" ybr="762.07" z_order="0">
+    </box>
+  </image>
+  <image id="284" name="8956046f-b308-4f86-918e-1f61fb837d1e.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="192.23" ytl="406.37" xbr="659.32" ybr="776.45" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="89e9529c-251c-4ac0-8457-bc7f2437fa14.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="348.52" ytl="514.16" xbr="583.86" ybr="736.92" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="8b9fb82f-63f2-4dc2-b699-f27a5d38f35b.jpeg" width="768" height="1024">
+  </image>
+  <image id="287" name="8ba4dbc2-604b-4fca-bbb7-859cb692e3b1.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="1.80" ytl="259.10" xbr="671.89" ybr="719.00" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="8bab662f-1b7b-4d6c-9139-2dc722925696.jpeg" width="1024" height="768">
+  </image>
+  <image id="289" name="8e1d5292-ce74-4c0b-807e-7a0ec94779ce.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="79.05" ytl="440.50" xbr="623.39" ybr="846.51" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="8e1e1c5c-08ed-45e3-897b-d8b8962ecc50.jpg" width="1024" height="1007">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="340.94" ytl="303.31" xbr="630.85" ybr="686.67" z_order="0">
+    </box>
+  </image>
+  <image id="291" name="8f9d1b2a-0498-41e7-ab1f-d0b306e36f25.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="314.39" ytl="499.03" xbr="546.57" ybr="814.67" z_order="0">
+    </box>
+  </image>
+  <image id="292" name="8fbfdc32-9d7e-47eb-9106-5d789e5bfbff.jpg" width="1024" height="733">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="460.47" ytl="269.18" xbr="754.28" ybr="504.14" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="906293f9-8925-4854-8629-a3f0db6e9813.jpeg" width="1024" height="485">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="122.25" ytl="73.35" xbr="597.22" ybr="417.16" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="9265d36c-03e4-4277-a235-738118b2db04.jpeg" width="1024" height="841">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="152.85" ytl="289.04" xbr="754.12" ybr="631.11" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="93af962a-9d89-4526-a695-678b57620c62.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="430.67" ytl="296.83" xbr="672.07" ybr="476.48" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="93deca4d-df4c-457b-a433-86d022b41b1c.jpg" width="591" height="819">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="123.08" ytl="319.57" xbr="416.43" ybr="705.12" z_order="0">
+    </box>
+  </image>
+  <image id="297" name="96fcffb5-a108-4530-8aab-20a541c28dfc.jpg" width="891" height="944">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="273.00" ytl="199.30" xbr="652.53" ybr="712.70" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="977abaaa-7e8b-49ec-b64e-e39ddb8b2a22.jpg" width="245" height="504">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="0.14" ytl="221.14" xbr="118.85" ybr="334.22" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="97e09d27-7157-4622-a65f-249faa6b1006.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="321.21" ytl="247.29" xbr="706.47" ybr="508.50" z_order="0">
+    </box>
+  </image>
+  <image id="300" name="98b8110c-6453-4e1e-b05f-f6340b5f6cf8.jpeg" width="558" height="558">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="223.68" ytl="251.67" xbr="310.36" ybr="325.31" z_order="0">
+    </box>
+  </image>
+  <image id="301" name="9973267c-4807-44c1-a2b9-84a9e207dd0a.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="166.12" ytl="334.96" xbr="622.52" ybr="780.96" z_order="0">
+    </box>
+  </image>
+  <image id="302" name="99944061-6968-469c-8bff-83a8af4755e6.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="420.07" ytl="263.28" xbr="613.50" ybr="527.48" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="9b309a04-a43d-4fe7-9e67-d5cfda39d584.jpeg" width="768" height="1024">
+  </image>
+  <image id="304" name="9b4acddc-943c-46a7-bfb8-2975dd5a264b.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="18.51" ytl="383.73" xbr="756.86" ybr="845.43" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="9bc87b11-e492-41a1-a9f2-d5adf9f9973a.jpeg" width="1024" height="678">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="462.33" ytl="295.75" xbr="567.30" ybr="377.78" z_order="0">
+    </box>
+  </image>
+  <image id="306" name="9c5217a1-8bdc-4c77-9d30-c82d485efb12.jpg" width="1024" height="768">
+  </image>
+  <image id="307" name="9d0d59cb-ec29-4ace-9d02-7a7c06563fa9.jpeg" width="458" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="110.71" ytl="330.30" xbr="380.15" ybr="531.33" z_order="0">
+    </box>
+  </image>
+  <image id="308" name="9d4252a8-d60e-4c3a-bc1f-f66d2b107a6f.jpg" width="1024" height="704">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="201.25" ytl="94.99" xbr="800.02" ybr="563.33" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="9e47dcf7-bda1-460a-9bbd-33466039da82.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="59.32" ytl="261.10" xbr="650.01" ybr="720.29" z_order="0">
+    </box>
+  </image>
+  <image id="310" name="9e5d674b-e69e-4e5c-aec1-89905502571c.jpg" width="768" height="1024">
+  </image>
+  <image id="311" name="9ea9c6c7-dd36-43f7-9eb2-013b8c7dcd3a.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="163.06" ytl="275.47" xbr="469.96" ybr="554.92" z_order="0">
+    </box>
+  </image>
+  <image id="312" name="9ee414af-b382-4a10-b03c-a667e5162908.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="212.84" ytl="289.19" xbr="554.67" ybr="642.25" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="9ef112dd-847c-45f5-ab53-cb763adcd94f.jpg" width="1024" height="682">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="205.34" ytl="83.89" xbr="829.61" ybr="446.83" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="a019ddc0-7a22-41a0-b7d2-6a4f43da03cc.jpg" width="520" height="877">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="63.20" ytl="261.17" xbr="429.90" ybr="653.51" z_order="0">
+    </box>
+  </image>
+  <image id="315" name="a09574fc-1a92-41a3-ba26-1498693fc3b6.jpg" width="768" height="1024">
+  </image>
+  <image id="316" name="a09e47e1-8c21-442b-ad00-40bfb5798f06.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="121.02" ytl="355.94" xbr="431.79" ybr="696.52" z_order="0">
+    </box>
+  </image>
+  <image id="317" name="a0a43a53-019a-4e9e-96b9-a089e60e5fd4.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="164.69" ytl="287.32" xbr="442.89" ybr="528.10" z_order="0">
+    </box>
+  </image>
+  <image id="318" name="a0c810de-9b51-4755-b716-fba8da48f5cb.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="109.90" ytl="207.68" xbr="924.79" ybr="869.94" z_order="0">
+    </box>
+  </image>
+  <image id="319" name="a1d255a9-92ec-4a0f-a594-0c3b957e6d5b.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="268.75" ytl="549.02" xbr="440.58" ybr="736.01" z_order="0">
+    </box>
+  </image>
+  <image id="320" name="a2109774-033f-4ec9-adca-47fe64ac2427.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="107.37" ytl="522.81" xbr="384.33" ybr="790.79" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="a23dc5f5-33b3-4647-9cac-37213e5ece5f.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="358.63" ytl="479.56" xbr="506.71" ybr="659.33" z_order="0">
+    </box>
+  </image>
+  <image id="322" name="a26d4366-42cb-4ac5-8835-06fd9919be09.jpeg" width="768" height="1024">
+  </image>
+  <image id="323" name="a26f3093-7297-448f-ab07-28bbe8153523.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="225.57" ytl="409.33" xbr="574.88" ybr="680.05" z_order="0">
+    </box>
+  </image>
+  <image id="324" name="a2cd5a91-b02d-427a-85eb-691b3910aca1.jpeg" width="745" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="28.67" ytl="24.63" xbr="606.38" ybr="962.14" z_order="0">
+    </box>
+  </image>
+  <image id="325" name="a339bddf-a2ee-4d25-896c-a6c082bcb880.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="84.97" ytl="360.30" xbr="415.70" ybr="642.38" z_order="0">
+    </box>
+  </image>
+  <image id="326" name="a375c970-269d-4f33-9c2c-e9493dac78ca.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="116.16" ytl="375.27" xbr="566.53" ybr="596.22" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="a3bca0b9-eb8d-41be-8150-7bbef3f1a951.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="71.24" ytl="278.09" xbr="686.29" ybr="788.34" z_order="0">
+    </box>
+  </image>
+  <image id="328" name="a3d2d8f4-48a4-4fe2-8021-87fbfb51e0c2.jpg" width="1024" height="760">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="114.56" ytl="221.44" xbr="660.32" ybr="741.44" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="a4a847c3-3cbe-446a-8e23-04f50061dca5.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="278.41" ytl="247.42" xbr="687.12" ybr="596.62" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="a5181169-c744-454a-a36e-054f6aaab84e.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="174.29" ytl="403.34" xbr="623.56" ybr="717.73" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="a54fb7a7-cf20-4b67-a886-2f8ee3cf4563.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="274.75" ytl="253.64" xbr="634.04" ybr="710.25" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="a5546c6e-40e0-48ed-b2a0-3c33d2ad471d.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="59.77" ytl="192.11" xbr="823.42" ybr="850.97" z_order="0">
+    </box>
+  </image>
+  <image id="333" name="a59b5b3e-6dd6-4cd4-ac95-665f939da845.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="294.13" ytl="227.21" xbr="618.62" ybr="566.30" z_order="0">
+    </box>
+  </image>
+  <image id="334" name="a61af106-1de8-4e7d-8a80-b5e1513281f7.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="273.10" ytl="329.84" xbr="526.25" ybr="623.41" z_order="0">
+    </box>
+  </image>
+  <image id="335" name="a651399f-f08e-47f0-9d8d-bcb91cee70a7.jpg" width="748" height="998">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="197.42" ytl="350.77" xbr="554.89" ybr="671.76" z_order="0">
+    </box>
+  </image>
+  <image id="336" name="a6a3d0b6-968e-4c27-b364-35e541826ea2.jpeg" width="1024" height="461">
+  </image>
+  <image id="337" name="a7fff86a-da83-4a61-a90c-e680f6b1cbe2.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="100.94" ytl="232.68" xbr="464.87" ybr="615.93" z_order="0">
+    </box>
+  </image>
+  <image id="338" name="a8228e70-ee65-4aa4-ae1c-3629df991d87.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="81.47" ytl="493.02" xbr="472.36" ybr="756.65" z_order="0">
+    </box>
+  </image>
+  <image id="339" name="a8385e3d-609d-4b55-96a6-5b4729915dc0.jpeg" width="1016" height="977">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="238.79" ytl="214.28" xbr="773.57" ybr="783.51" z_order="0">
+    </box>
+  </image>
+  <image id="340" name="a8e2d675-0369-4d23-845b-7bb52ab88fa4.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="8.45" ytl="231.03" xbr="674.94" ybr="872.38" z_order="0">
+    </box>
+  </image>
+  <image id="341" name="a9725642-2534-4179-8f9e-426f1ff3cb48.jpg" width="1024" height="963">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="150.35" ytl="213.03" xbr="827.83" ybr="794.21" z_order="0">
+    </box>
+  </image>
+  <image id="342" name="a9e70d9f-96f6-43ca-9bd9-6df5e790a475.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="135.53" ytl="196.30" xbr="773.71" ybr="689.89" z_order="0">
+    </box>
+  </image>
+  <image id="343" name="ab1213c9-2807-4127-a7d0-8442023e2cd0.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="272.86" ytl="562.95" xbr="496.67" ybr="762.94" z_order="0">
+    </box>
+  </image>
+  <image id="344" name="ad11a5dc-4289-4798-9006-f2dc2a1de2b3.jpeg" width="1024" height="768">
+  </image>
+  <image id="345" name="ad3c5554-6635-42af-b217-3cf290c4dcfb.jpg" width="1024" height="768">
+  </image>
+  <image id="346" name="ad5f136c-1b05-4f77-a716-33e03eeb03f5.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="116.78" ytl="363.55" xbr="680.68" ybr="566.90" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="179.53" ytl="527.60" xbr="671.07" ybr="779.61" z_order="0">
+    </box>
+  </image>
+  <image id="347" name="ad9517f9-97cb-4b8d-98fc-0482d5f30b9b.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="137.99" ytl="322.38" xbr="644.50" ybr="795.20" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="ad9c3ec1-8a9b-4130-a295-48f702b60ec2.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="366.29" ytl="420.94" xbr="651.98" ybr="836.37" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="addf4740-550e-44a9-a72b-8d218e9b7ea7.jpeg" width="577" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="210.22" ytl="453.37" xbr="412.45" ybr="638.01" z_order="0">
+    </box>
+  </image>
+  <image id="350" name="ae2d02a6-c242-4951-96d8-e97dd79aa1b0.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="20.72" ytl="237.54" xbr="617.05" ybr="800.19" z_order="0">
+    </box>
+  </image>
+  <image id="351" name="ae8d976b-6c1c-4014-b2f5-df537edbc93c.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="199.82" ytl="261.50" xbr="703.96" ybr="616.27" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="aec1e2bd-543f-4a5e-8c6a-e706a8337f8e.jpeg" width="772" height="743">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="196.98" ytl="349.06" xbr="473.98" ybr="591.30" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="af286417-0599-45a8-b814-a2a0bcd18f90.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="368.24" ytl="233.39" xbr="671.40" ybr="459.07" z_order="0">
+    </box>
+  </image>
+  <image id="354" name="afac27e1-f20f-4b5c-98bc-16fadc6b447a.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="107.07" ytl="234.77" xbr="746.32" ybr="881.66" z_order="0">
+    </box>
+  </image>
+  <image id="355" name="b05e1a6f-1ec0-4eb8-8f8d-5db44ec40323.jpeg" width="1024" height="681">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="376.63" ytl="280.05" xbr="619.56" ybr="505.16" z_order="0">
+    </box>
+  </image>
+  <image id="356" name="b062d5b3-e440-4d6d-8429-b3747a390940.jpeg" width="1024" height="576">
+  </image>
+  <image id="357" name="b07da94c-d37e-481b-94d4-6e35e3ff52ec.jpeg" width="1024" height="598">
+  </image>
+  <image id="358" name="b106f4ea-ee58-4fff-887b-33a989d00708.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="187.20" ytl="319.60" xbr="638.12" ybr="696.86" z_order="0">
+    </box>
+  </image>
+  <image id="359" name="b138c9b4-85fa-4cfe-acd0-26e52a1a22c4.jpeg" width="1024" height="768">
+  </image>
+  <image id="360" name="b145a6e4-3e75-4696-ba6e-e981196ccbbe.jpeg" width="752" height="1024">
+  </image>
+  <image id="361" name="b29537aa-a1ad-43d2-aed8-dd5eb7724c0f.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="439.42" ytl="184.55" xbr="702.27" ybr="501.18" z_order="0">
+    </box>
+  </image>
+  <image id="362" name="b2e01dd9-d2de-4385-bbda-b0ed7fdadf77.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="11.86" ytl="287.92" xbr="718.48" ybr="830.01" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="b465bc16-cbf7-4b3e-9a4a-54d6dddb484d.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="215.46" ytl="358.28" xbr="550.81" ybr="776.12" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="b4f257b7-677c-4803-b0fa-d586b47d5771.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="304.80" ytl="317.04" xbr="621.43" ybr="548.34" z_order="0">
+    </box>
+  </image>
+  <image id="365" name="b4f5ed88-6c33-49d0-b4d5-2416a1e9a33c.jpeg" width="1024" height="871">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="143.23" ytl="150.10" xbr="709.89" ybr="684.93" z_order="0">
+    </box>
+  </image>
+  <image id="366" name="b5cb4087-232a-4454-9cb4-a10a3d43be17.jpeg" width="771" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="208.72" ytl="157.67" xbr="641.38" ybr="708.75" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="b5e4ffb0-4ba0-4edb-93a7-23c2100d99a7.jpeg" width="1024" height="768">
+  </image>
+  <image id="368" name="b6216856-7333-4eb2-a094-8f3f8d4e21dc.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="113.41" ytl="382.76" xbr="452.75" ybr="596.09" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="b7026910-998b-441d-a244-1534007106c8.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="133.37" ytl="304.16" xbr="704.76" ybr="810.67" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="b7612b7d-53bd-4b79-9dc8-34b19f4363e5.jpg" width="1024" height="576">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="252.62" ytl="102.61" xbr="759.50" ybr="560.99" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="b7ddb177-15b7-484e-af83-7fb80e537fbf.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="151.06" ytl="211.45" xbr="563.88" ybr="435.77" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="174.07" ytl="277.60" xbr="852.90" ybr="654.33" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="b955fa56-9de7-419f-8683-c12ac0063d5f.jpeg" width="1024" height="461">
+  </image>
+  <image id="373" name="b9920781-da8e-434f-acb4-860496a0f627.jpg" width="1024" height="706">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="141.98" ytl="283.33" xbr="688.94" ybr="552.35" z_order="0">
+    </box>
+  </image>
+  <image id="374" name="b9f39c39-890c-40b6-9ad4-01771bc49a91.jpeg" width="766" height="1024">
+  </image>
+  <image id="375" name="bab2ae4e-40d4-49bb-b9ac-d84ed9ebd5fa.jpeg" width="1024" height="768">
+  </image>
+  <image id="376" name="bad8757a-d3dc-408e-8e32-853ac13c16bb.jpeg" width="683" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="226.40" ytl="426.02" xbr="463.53" ybr="656.69" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="bae0f5fb-c7b7-46f3-a04f-28f7efb07400.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="129.38" ytl="352.29" xbr="600.96" ybr="668.33" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="bb321df5-9974-4c9c-84ca-92fc36584132.jpeg" width="577" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="1.68" ytl="276.09" xbr="542.12" ybr="602.46" z_order="0">
+    </box>
+  </image>
+  <image id="379" name="bb367645-8654-4e31-a560-7a4a98315123.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="14.11" ytl="302.89" xbr="650.36" ybr="901.87" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="bbea7b7f-47d7-4852-9906-a44e57f11fa7.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="137.61" ytl="148.84" xbr="862.20" ybr="897.38" z_order="0">
+    </box>
+  </image>
+  <image id="381" name="bbfdb89c-4f49-4981-a7af-af88352daf50.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="169.46" ytl="233.59" xbr="635.65" ybr="643.19" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="bc47ab2f-2948-47d9-b327-85cb468162c9.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="202.11" ytl="331.10" xbr="768.00" ybr="715.55" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="bcadab03-6313-47e2-96f9-1005984dcf17.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="305.54" ytl="244.24" xbr="642.38" ybr="622.98" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="be0a1e8d-ef75-43e5-a6df-2fbc456d3b89.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="115.88" ytl="198.16" xbr="588.35" ybr="643.69" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="be757d4d-ba21-48dc-8800-01dcbddd0fcd.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="308.24" ytl="238.85" xbr="728.61" ybr="536.75" z_order="0">
+    </box>
+  </image>
+  <image id="386" name="be98282c-f171-4d4f-807f-296eb3ac8458.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="535.39" ytl="277.78" xbr="674.76" ybr="453.21" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="beb973c1-9f53-43cf-8345-2b0eacda99e9.jpeg" width="1024" height="498">
+  </image>
+  <image id="388" name="bee34b0d-f5a8-482f-9e9e-7b8ce04eab92.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="188.37" ytl="342.65" xbr="521.05" ybr="676.37" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="c1bf0423-3311-497d-b982-f18d220eb75a.jpeg" width="1024" height="768">
+  </image>
+  <image id="390" name="c1f07ff6-5f59-4a58-a408-230a500df962.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="122.64" ytl="341.37" xbr="609.19" ybr="938.70" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="c24af046-9d53-4175-8e6f-8428757218e6.jpeg" width="1024" height="578">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="294.45" ytl="117.20" xbr="611.85" ybr="378.82" z_order="0">
+    </box>
+  </image>
+  <image id="392" name="c28925a2-2051-4585-acdc-61e5cecf6a17.jpeg" width="687" height="777">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="75.00" ytl="156.79" xbr="610.72" ybr="616.17" z_order="0">
+    </box>
+  </image>
+  <image id="393" name="c29d11e6-cc85-4549-8450-54652f83a0fa.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="299.32" ytl="379.80" xbr="547.96" ybr="713.35" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="c2bcd242-70a9-402a-85ca-1d86293fdc6d.jpeg" width="631" height="631">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="136.56" ytl="189.92" xbr="487.60" ybr="488.80" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="c49dcde8-ac3c-4c11-bdc8-0a44fd1d2ef5.jpg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="163.30" ytl="343.31" xbr="633.98" ybr="756.51" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="c4d2fafd-4fb4-48c3-b8cb-4b6ddb1e3aa6.jpeg" width="498" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="166.74" ytl="255.43" xbr="352.94" ybr="459.19" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="c4e3f41d-e208-49ed-953b-41003c5c9028.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="265.91" ytl="345.11" xbr="451.55" ybr="527.75" z_order="0">
+    </box>
+  </image>
+  <image id="398" name="c5aeda89-71fe-43a4-8755-2a7e2489a7a9.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="126.69" ytl="362.92" xbr="676.11" ybr="738.84" z_order="0">
+    </box>
+  </image>
+  <image id="399" name="c737a8ae-8b2b-4d29-bdf1-504b989cd967.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="440.74" ytl="200.64" xbr="869.20" ybr="675.99" z_order="0">
+    </box>
+  </image>
+  <image id="400" name="c748b667-2a07-4188-bb18-3bee813ce0b0.jpeg" width="1024" height="992">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="103.15" ytl="117.42" xbr="943.74" ybr="905.97" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="c7553a04-e683-4ba0-9459-d08353ad8419.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="204.40" ytl="374.57" xbr="488.47" ybr="617.10" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="c7f0b672-5d25-485d-9006-16c5f5d8e038.jpg" width="1024" height="768">
+  </image>
+  <image id="403" name="c83a1efb-c36f-484d-9aeb-eb3e05f5c018.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="286.51" ytl="441.88" xbr="452.56" ybr="572.55" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="c8d20b5f-a981-4a3a-b971-93d7a77888fc.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="259.07" ytl="384.05" xbr="406.43" ybr="558.83" z_order="0">
+    </box>
+  </image>
+  <image id="405" name="c8f01589-427c-4ea2-b438-91f692b29ec5.jpeg" width="1024" height="938">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="316.89" ytl="210.52" xbr="629.26" ybr="499.07" z_order="0">
+    </box>
+  </image>
+  <image id="406" name="c97c153e-3f68-42d1-92e2-4bce569488cf.jpeg" width="1024" height="744">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="3.06" ytl="254.46" xbr="612.36" ybr="690.05" z_order="0">
+    </box>
+  </image>
+  <image id="407" name="ca46d278-d4b7-452a-8375-b165824ef4a8.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="78.63" ytl="321.60" xbr="828.66" ybr="751.27" z_order="0">
+    </box>
+  </image>
+  <image id="408" name="ca880951-0e38-4ae3-8b6b-6898498240c1.jpeg" width="1024" height="576">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="291.83" ytl="167.37" xbr="549.52" ybr="324.00" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="365.85" ytl="189.26" xbr="607.62" ybr="371.16" z_order="0">
+    </box>
+  </image>
+  <image id="409" name="cb12acd0-84ac-4ef0-9aa4-05d5fcb813a8.jpeg" width="473" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="19.49" ytl="328.94" xbr="459.63" ybr="677.91" z_order="0">
+    </box>
+  </image>
+  <image id="410" name="cb25a609-1f0c-481a-b8c4-5250d87768a3.jpeg" width="1024" height="909">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="272.22" ytl="158.46" xbr="839.68" ybr="650.17" z_order="0">
+    </box>
+  </image>
+  <image id="411" name="cb59e480-50ec-48c3-a57d-5dd67a165f66.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="249.89" ytl="289.42" xbr="699.02" ybr="600.43" z_order="0">
+    </box>
+  </image>
+  <image id="412" name="cc55bc73-5269-4bcc-ac9a-e4a8a2f40960.jpeg" width="991" height="1024">
+  </image>
+  <image id="413" name="cc94ffaa-1b48-4fcd-a0c9-230a0d636232.jpeg" width="1024" height="683">
+  </image>
+  <image id="414" name="ce009fd4-c18a-498e-a07b-7ba4f882b792.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="326.37" ytl="613.06" xbr="466.10" ybr="747.92" z_order="0">
+    </box>
+  </image>
+  <image id="415" name="ced47e69-b6de-4df0-b8ec-289101680643.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="261.03" ytl="203.49" xbr="731.67" ybr="628.28" z_order="0">
+    </box>
+  </image>
+  <image id="416" name="cfd378a9-d74c-4978-8027-ac98ffd7cfb4.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="215.34" ytl="324.87" xbr="555.92" ybr="645.62" z_order="0">
+    </box>
+  </image>
+  <image id="417" name="d0512ec8-2440-42c7-b1ef-d9e8e689c7f5.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="151.71" ytl="454.74" xbr="419.94" ybr="685.54" z_order="0">
+    </box>
+  </image>
+  <image id="418" name="d0d25d03-0b9b-4dff-a97d-ba44fdcf6fee.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="412.03" ytl="277.89" xbr="593.43" ybr="475.10" z_order="0">
+    </box>
+  </image>
+  <image id="419" name="d1945a59-c135-4b8b-af61-6230521c038c.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="260.25" ytl="377.27" xbr="640.76" ybr="797.82" z_order="0">
+    </box>
+  </image>
+  <image id="420" name="d196c176-3e55-48fb-8e13-05672f0fa108.jpeg" width="1024" height="768">
+  </image>
+  <image id="421" name="d204f6e0-4bc5-4d8b-980a-7a86503d48b1.jpeg" width="771" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="266.21" ytl="443.62" xbr="604.55" ybr="717.58" z_order="0">
+    </box>
+  </image>
+  <image id="422" name="d250677e-c3a2-48bb-b5bc-2cded567efaf.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="401.81" ytl="154.12" xbr="740.90" ybr="601.00" z_order="0">
+    </box>
+  </image>
+  <image id="423" name="d25281be-ffaf-4381-9a76-aaa0f8685c27.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="186.12" ytl="362.62" xbr="500.50" ybr="702.61" z_order="0">
+    </box>
+  </image>
+  <image id="424" name="d38f8ec8-c109-4414-ae2e-1f2dc2a87e3a.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="6.32" ytl="80.10" xbr="802.58" ybr="597.23" z_order="0">
+    </box>
+  </image>
+  <image id="425" name="d46e00c2-5e7d-4833-b170-304a18cf912b.jpeg" width="1024" height="655">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="324.45" ytl="201.50" xbr="657.70" ybr="585.42" z_order="0">
+    </box>
+  </image>
+  <image id="426" name="d523cd25-3e63-4224-96c5-1a1b193e7376.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="246.92" ytl="210.14" xbr="691.47" ybr="604.36" z_order="0">
+    </box>
+  </image>
+  <image id="427" name="d569682c-e100-44d9-a906-cf222a9f518a.jpg" width="768" height="1024">
+  </image>
+  <image id="428" name="d5927738-2b31-4708-b74c-48af084fa646.jpg" width="1024" height="768">
+  </image>
+  <image id="429" name="d624bc69-e221-40e0-b541-a557c49f63e1.jpeg" width="1024" height="768">
+  </image>
+  <image id="430" name="d64f2da3-d0f9-42f1-9479-37e5f0c155ca.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="149.87" ytl="182.58" xbr="600.41" ybr="607.95" z_order="0">
+    </box>
+  </image>
+  <image id="431" name="d6dc4023-b28b-4055-8bb6-7200c1c14f39.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="348.77" ytl="153.82" xbr="943.10" ybr="579.20" z_order="0">
+    </box>
+  </image>
+  <image id="432" name="d6f573c5-22db-442d-99c3-b68e766dd9be.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="226.05" ytl="160.16" xbr="696.41" ybr="486.22" z_order="0">
+    </box>
+  </image>
+  <image id="433" name="d7eee741-159b-46cb-93e0-17da1b90c2f1.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="375.60" ytl="262.66" xbr="752.04" ybr="495.32" z_order="0">
+    </box>
+  </image>
+  <image id="434" name="d80a6e34-2643-4e6f-954a-8e75f437abd6.jpg" width="1024" height="807">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="115.62" ytl="78.72" xbr="809.00" ybr="649.77" z_order="0">
+    </box>
+  </image>
+  <image id="435" name="d87033a0-36e1-498e-a182-827ead2c43d2.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="199.86" ytl="270.55" xbr="451.97" ybr="483.68" z_order="0">
+    </box>
+  </image>
+  <image id="436" name="d8d288c4-5fd1-4ac3-8a7e-750af448aefa.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="452.56" ytl="52.39" xbr="761.30" ybr="261.23" z_order="0">
+    </box>
+  </image>
+  <image id="437" name="d96c51fb-b664-432a-b411-32e8b59f6547.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="257.11" ytl="110.32" xbr="705.25" ybr="609.99" z_order="0">
+    </box>
+  </image>
+  <image id="438" name="d9f48da0-8e91-44c2-8d6e-4bf384e5a265.jpeg" width="1024" height="768">
+  </image>
+  <image id="439" name="da3d1714-af14-4572-8001-13f7cd2b854c.jpeg" width="1024" height="683">
+  </image>
+  <image id="440" name="da4be820-2883-4e58-bd3e-e6d83be00e7b.jpg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="58.57" ytl="283.13" xbr="574.16" ybr="721.47" z_order="0">
+    </box>
+  </image>
+  <image id="441" name="dae87490-d7cb-4b10-98df-8d664e251de8.jpeg" width="1024" height="768">
+  </image>
+  <image id="442" name="db41ab2d-810e-4501-a759-8d850bccd7f2.jpeg" width="819" height="1024">
+  </image>
+  <image id="443" name="dc73e365-48c7-4f1a-813d-5626fbdc77b5.jpeg" width="1024" height="768">
+  </image>
+  <image id="444" name="dc9df897-9edb-447c-ac67-e846fca4d9be.jpg" width="1024" height="768">
+  </image>
+  <image id="445" name="dcc64499-90c4-49b8-94b7-2047b0f5aada.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="421.72" ytl="379.14" xbr="597.15" ybr="491.42" z_order="0">
+    </box>
+  </image>
+  <image id="446" name="dd0c7411-653f-4a56-8ccd-eca8b0729975.jpeg" width="1024" height="996">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="232.35" ytl="260.87" xbr="742.09" ybr="749.43" z_order="0">
+    </box>
+  </image>
+  <image id="447" name="dd2d921d-11e0-420f-ba5f-ea50c543132f.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="388.51" ytl="220.52" xbr="702.34" ybr="480.83" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="dded98b3-f464-45b7-8301-ef6779dfdd61.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="281.64" ytl="454.13" xbr="497.37" ybr="682.85" z_order="0">
+    </box>
+  </image>
+  <image id="449" name="def91806-c9e8-42f0-9745-3a4fe757f11f.jpg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="349.24" ytl="242.71" xbr="866.63" ybr="797.82" z_order="0">
+    </box>
+  </image>
+  <image id="450" name="df6d5a84-fc17-457a-9cf0-0d42a7d188bd.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="88.21" ytl="314.57" xbr="623.74" ybr="788.84" z_order="0">
+    </box>
+  </image>
+  <image id="451" name="dfcfaa99-3335-4372-96c8-e90a826064cc.jpeg" width="1024" height="678">
+  </image>
+  <image id="452" name="dffc4d70-6918-42b5-aec4-28f48f23d9d3.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="306.36" ytl="253.51" xbr="570.09" ybr="406.89" z_order="0">
+    </box>
+    <box label="grasfrosch" source="manual" occluded="0" xtl="269.21" ytl="267.89" xbr="646.78" ybr="493.16" z_order="0">
+    </box>
+  </image>
+  <image id="453" name="e203a8c6-6f68-4bc2-8a24-3e7515d11e50.jpeg" width="1024" height="768">
+  </image>
+  <image id="454" name="e26ea84f-38e0-48b3-8d3e-f07f0bd48f04.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="299.41" ytl="500.71" xbr="394.72" ybr="583.93" z_order="0">
+    </box>
+  </image>
+  <image id="455" name="e3f3bf02-cdb0-47e7-aacf-576b35380623.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="209.22" ytl="386.75" xbr="632.15" ybr="734.82" z_order="0">
+    </box>
+  </image>
+  <image id="456" name="e635ea7c-046e-4275-b5cf-0956d22e51b1.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="0.52" ytl="82.33" xbr="887.70" ybr="669.14" z_order="0">
+    </box>
+  </image>
+  <image id="457" name="e6843bea-f5ff-4475-9c07-cc183689f0f4.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="227.56" ytl="403.97" xbr="408.34" ybr="592.72" z_order="0">
+    </box>
+  </image>
+  <image id="458" name="e6db47de-151b-473f-8065-688eac4908d5.jpeg" width="1024" height="576">
+  </image>
+  <image id="459" name="e7192416-9a2f-4922-8cb0-289fd99755eb.jpg" width="1024" height="683">
+  </image>
+  <image id="460" name="e73b41b1-fd8e-4ce1-aeb4-2b36831a52ab.jpeg" width="1024" height="736">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="283.70" ytl="252.67" xbr="706.03" ybr="541.40" z_order="0">
+    </box>
+  </image>
+  <image id="461" name="e80e3777-19a7-4858-9666-86266654829e.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="109.77" ytl="58.03" xbr="932.74" ybr="644.94" z_order="0">
+    </box>
+  </image>
+  <image id="462" name="e97b690c-dbe7-4316-a1d0-a5e1c7016200.jpeg" width="1024" height="678">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="345.24" ytl="210.63" xbr="684.95" ybr="524.66" z_order="0">
+    </box>
+  </image>
+  <image id="463" name="ea3c81e3-3bf7-4f1f-9849-0cc0f29204f3.jpg" width="1024" height="768">
+  </image>
+  <image id="464" name="ea67c9c4-d45f-454f-8e93-92bacff084c5.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="1.28" ytl="118.82" xbr="945.68" ybr="741.31" z_order="0">
+    </box>
+  </image>
+  <image id="465" name="ea701992-b1a4-4dc4-ab9d-eaca0f8a0db1.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="468.71" ytl="362.97" xbr="782.37" ybr="576.39" z_order="0">
+    </box>
+  </image>
+  <image id="466" name="ea77910c-3d7f-4690-a204-7cbf09087a38.jpeg" width="768" height="1024">
+  </image>
+  <image id="467" name="eaf2a616-39f1-4b16-b143-65d1755e914f.jpeg" width="1024" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="118.95" ytl="181.04" xbr="993.34" ybr="869.17" z_order="0">
+    </box>
+  </image>
+  <image id="468" name="ebb8c5d7-80c5-4569-a954-707e5b244ce3.jpeg" width="1024" height="682">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="312.13" ytl="265.26" xbr="660.33" ybr="527.15" z_order="0">
+    </box>
+  </image>
+  <image id="469" name="ebe2880b-5a97-4c27-9311-de33a7fca0df.jpeg" width="576" height="1024">
+  </image>
+  <image id="470" name="edc73ef7-9ac3-4d6f-a9df-dbbc3bfa9801.jpeg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="173.06" ytl="108.79" xbr="811.49" ybr="640.81" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="eee599a5-e965-4dc5-8a6f-c5ab5f871eb2.jpg" width="903" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="17.28" ytl="67.47" xbr="837.35" ybr="1001.62" z_order="0">
+    </box>
+  </image>
+  <image id="472" name="eeea49ef-fddc-40a9-ac34-64c7868d26df.jpeg" width="498" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="177.20" ytl="434.41" xbr="422.93" ybr="682.67" z_order="0">
+    </box>
+  </image>
+  <image id="473" name="ef6cb672-2a94-4e89-a483-e6dda191507a.jpeg" width="576" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="117.65" ytl="219.70" xbr="568.02" ybr="794.95" z_order="0">
+    </box>
+  </image>
+  <image id="474" name="efc36a25-2283-4f9c-8f82-db80fccbf59e.jpg" width="1024" height="680">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="189.27" ytl="192.33" xbr="937.37" ybr="520.40" z_order="0">
+    </box>
+  </image>
+  <image id="475" name="f001bc34-e8a7-439c-a461-a668a47b15ac.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="86.46" ytl="236.05" xbr="493.17" ybr="859.83" z_order="0">
+    </box>
+  </image>
+  <image id="476" name="f128f96c-52d8-4400-85e3-ac7c8276fd8d.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="3.06" ytl="59.47" xbr="577.93" ybr="637.94" z_order="0">
+    </box>
+  </image>
+  <image id="477" name="f160933e-2ea8-48f3-9817-8511ce06edea.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="8.27" ytl="192.41" xbr="692.91" ybr="715.19" z_order="0">
+    </box>
+  </image>
+  <image id="478" name="f222eab0-874e-4641-90c2-0e50d74255d0.jpeg" width="768" height="1024">
+  </image>
+  <image id="479" name="f50087a5-f030-4587-baf4-9792973681a2.jpeg" width="1024" height="744">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="343.80" ytl="218.16" xbr="663.59" ybr="523.81" z_order="0">
+    </box>
+  </image>
+  <image id="480" name="f58d6ea7-08c9-426a-910f-e256d623aa25.jpeg" width="1024" height="577">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="322.87" ytl="129.14" xbr="803.90" ybr="543.12" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="f5a73f21-b23d-4f5e-8fa4-f2d078ef7780.jpg" width="1024" height="684">
+  </image>
+  <image id="482" name="f65285fb-14ed-4cfc-a879-0b8a0d7e913b.jpg" width="768" height="1024">
+  </image>
+  <image id="483" name="f65a00c6-0225-4a61-a5d3-ca0342bbca88.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="252.10" ytl="634.48" xbr="557.75" ybr="897.50" z_order="0">
+    </box>
+  </image>
+  <image id="484" name="f66c2a7b-ae71-4cb7-98a5-3da56a6131f8.jpg" width="768" height="1024">
+  </image>
+  <image id="485" name="f699b9e7-761f-4ab7-8d01-c69fe92e1e0f.jpeg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="334.23" ytl="475.41" xbr="439.23" ybr="599.13" z_order="0">
+    </box>
+  </image>
+  <image id="486" name="f70d7c9d-8f5a-4417-b235-e429ac0dec95.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="381.94" ytl="220.93" xbr="656.80" ybr="516.13" z_order="0">
+    </box>
+  </image>
+  <image id="487" name="f7d96bda-1255-4dcc-920e-76f4302044a2.jpeg" width="1024" height="683">
+  </image>
+  <image id="488" name="f88e48f0-5b40-4230-9382-7dc62157426a.jpeg" width="1024" height="579">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="183.35" ytl="84.92" xbr="855.80" ybr="470.92" z_order="0">
+    </box>
+  </image>
+  <image id="489" name="f8aaf4d6-63b4-4022-9894-7c4bcbfcfe4a.jpeg" width="1024" height="702">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="369.76" ytl="173.70" xbr="713.37" ybr="576.42" z_order="0">
+    </box>
+  </image>
+  <image id="490" name="f9b0b496-6dc2-48bc-a64b-8b131ce16a02.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="138.06" ytl="235.88" xbr="713.39" ybr="570.03" z_order="0">
+    </box>
+  </image>
+  <image id="491" name="f9e47dd2-ba5f-4b86-8ce2-3d40088fbf93.jpeg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="332.08" ytl="273.61" xbr="744.38" ybr="619.88" z_order="0">
+    </box>
+  </image>
+  <image id="492" name="fa0e21df-cc98-4f4d-9849-932502a9eb73.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="2.16" ytl="260.67" xbr="616.56" ybr="734.95" z_order="0">
+    </box>
+  </image>
+  <image id="493" name="fab7f6be-f3ec-4ccc-8a46-7b806e67d1b6.jpeg" width="472" height="1024">
+  </image>
+  <image id="494" name="fd146cf5-fe09-4fae-bdab-cfeb47985059.jpg" width="768" height="1024">
+  </image>
+  <image id="495" name="fd8a9651-4f31-4d68-8fea-d8d6c99b96dc.jpg" width="768" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="124.51" ytl="81.60" xbr="614.81" ybr="548.19" z_order="0">
+    </box>
+  </image>
+  <image id="496" name="fd9edd6c-9393-42c6-b5b4-df05965d5fdc.jpg" width="1024" height="768">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="272.93" ytl="212.71" xbr="830.75" ybr="577.84" z_order="0">
+    </box>
+  </image>
+  <image id="497" name="fe848b47-c969-4019-828e-fd7f4d3f7d1a.jpeg" width="771" height="1024">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="247.15" ytl="418.19" xbr="693.78" ybr="619.05" z_order="0">
+    </box>
+  </image>
+  <image id="498" name="ff5f0310-d452-4525-a815-8affae513eb0.jpg" width="1024" height="683">
+    <box label="grasfrosch" source="manual" occluded="0" xtl="355.27" ytl="125.79" xbr="769.39" ybr="483.13" z_order="0">
+    </box>
+  </image>
+</annotations>
