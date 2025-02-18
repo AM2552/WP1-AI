@@ -14,7 +14,7 @@ def collate_fn(batch):
     return tuple(zip(*batch))
 
 def get_model(num_classes):
-    model = fasterrcnn_resnet50_fpn_v2()
+    model = fasterrcnn_mobilenet_v3_large_320_fpn(weights=FasterRCNN_MobileNet_V3_Large_320_FPN_Weights.COCO_V1)
     in_features = model.roi_heads.box_predictor.cls_score.in_features
     model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
     return model
@@ -94,20 +94,20 @@ def main(pretrained_model_path):
     ])
 
     train_dataset = AmphibianDataset(
-        annotations_file='amphibians/annotations.xml',
+        annotations_file='amphibians/amphibia_annotations.json',
         img_dir='datasets/amphibia/training',
         transforms=transforms,
         augmentations=augmentations
     )
 
     val_dataset = AmphibianDataset(
-        annotations_file='amphibians/annotations.xml',
+        annotations_file='amphibians/amphibia_annotations.json',
         img_dir='datasets/amphibia/validation',
         transforms=transforms
     )
 
-    train_loader = DataLoader(train_dataset, batch_size=1, shuffle=True, num_workers=4, collate_fn=collate_fn)
-    val_loader = DataLoader(val_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=collate_fn)
+    train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True, num_workers=4, collate_fn=collate_fn)
+    val_loader = DataLoader(val_dataset, batch_size=8, shuffle=False, num_workers=4, collate_fn=collate_fn)
 
    
     model = get_model(num_classes=17)
@@ -121,7 +121,7 @@ def main(pretrained_model_path):
         model.load_state_dict(torch.load(pretrained_model_path))
 
     
-    num_epochs = 50
+    num_epochs = 10
     save_dir = 'amphibians/models/'
 
     if not os.path.exists(save_dir):
