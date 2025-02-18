@@ -43,7 +43,7 @@ dataset/
 """
 
 ############################################
-source_folder = '/Users/Xandi/Desktop/Datasets/amphibien/'
+source_folder = '/Users/Xandi/Desktop/Datasets/amphibien_v2/'
 new_dataset_path = './datasets/amphibia'
 ############################################
           

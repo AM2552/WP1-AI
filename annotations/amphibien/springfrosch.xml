@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4</id>
+      <size>490</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-09 19:53:57.238161+00:00</created>
+      <updated>2025-02-13 18:15:56.627064+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>489</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4</id>
+          <start>0</start>
+          <stop>489</stop>
+          <url>http://localhost:8080/api/jobs/4</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-13 23:27:03.678111+00:00</dumped>
+  </meta>
+  <image id="0" name="0042bf08-89db-46ab-a241-8088caf6f7d2.jpeg" width="640" height="480">
+    <box label="springfrosch" source="manual" occluded="0" xtl="203.97" ytl="213.74" xbr="387.18" ybr="341.37" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="00516038-a7c9-45df-bdbf-81b9886b9d9c.jpeg" width="1024" height="768">
+  </image>
+  <image id="2" name="00617204-9e51-4f49-96e9-6b55ead56afa.jpeg" width="1024" height="768">
+  </image>
+  <image id="3" name="006ff74c-e265-4b98-9b9f-85dac51c5c82.jpeg" width="576" height="1024">
+  </image>
+  <image id="4" name="01194945-4cbf-45dd-b7c8-04b90c3bb29c.jpg" width="1024" height="741">
+  </image>
+  <image id="5" name="01304230-ba0c-46e9-a416-849124715af5.jpeg" width="576" height="1024">
+  </image>
+  <image id="6" name="0180ee11-68a4-4d7a-9374-a9c7a52c7b97.jpg" width="768" height="1024">
+  </image>
+  <image id="7" name="022ddec5-2ffc-47a9-b36e-e81c4ef075f8.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="353.57" ytl="407.08" xbr="460.90" ybr="545.30" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="0271043e-a7ca-4507-806a-473b8bcafd53.jpeg" width="769" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="95.52" ytl="372.15" xbr="662.34" ybr="856.35" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="02b4a972-8624-42e5-907f-dd4769d732e1.jpeg" width="1024" height="577">
+  </image>
+  <image id="10" name="040a808e-0295-48d3-9e04-69983bcef1a3.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="157.59" ytl="360.59" xbr="407.02" ybr="561.01" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="04130123-36ce-48a8-9227-092c5216514e.jpg" width="768" height="1024">
+  </image>
+  <image id="12" name="04ba802f-d46c-4884-83dd-3748203516ff.jpeg" width="1024" height="852">
+    <box label="springfrosch" source="manual" occluded="0" xtl="204.28" ytl="214.57" xbr="867.67" ybr="677.43" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="0551f491-6bf8-478a-97c3-75823c97e444.jpeg" width="748" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="35.42" ytl="261.84" xbr="659.46" ybr="799.90" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="0592f538-564c-4403-90aa-b400120763bd.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="379.99" ytl="225.69" xbr="726.05" ybr="494.39" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="06e3d8cd-4100-4c07-b69f-bc3c6ed9d37f.jpg" width="732" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="142.20" ytl="522.40" xbr="543.90" ybr="712.39" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="0743f18c-0f49-4dcb-bd0f-fc8e9b50bec0.jpeg" width="768" height="1024">
+  </image>
+  <image id="17" name="07d531ed-cb20-4e59-ae60-52ff1455e941.jpeg" width="1024" height="918">
+    <box label="springfrosch" source="manual" occluded="0" xtl="452.99" ytl="434.83" xbr="781.96" ybr="765.81" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="07d7a294-b14a-4bb7-858c-bf6acaaf69bd.jpg" width="1024" height="718">
+  </image>
+  <image id="19" name="093f31e7-46ba-4a1a-ad13-dda92af77ab6.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="46.14" ytl="44.31" xbr="797.49" ybr="670.43" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="0a0cb534-ad01-430f-97bf-aa5723ac5b13.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="265.53" ytl="198.18" xbr="683.50" ybr="549.24" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="0a465024-6451-4eb2-a0f4-e78ed53d1e4f.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="323.82" ytl="215.56" xbr="779.15" ybr="492.08" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="211.46" ytl="268.32" xbr="707.82" ybr="527.25" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="0a5d8a2a-1136-48c0-8c9c-517ac9c7235f.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="447.07" ytl="352.69" xbr="624.62" ybr="522.90" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="0af46087-c847-408a-afd2-f60efc4a671f.jpg" width="1024" height="681">
+  </image>
+  <image id="24" name="0c5de2b5-3f74-4f63-8b35-2613a52c9a61.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="39.78" ytl="156.05" xbr="908.42" ybr="696.39" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="0cb7f03c-f443-4759-91b0-a75ad6aa809d.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="280.92" ytl="397.03" xbr="529.72" ybr="563.65" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="0db41b0b-459b-438e-88ca-859432885e3c.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="341.52" ytl="521.89" xbr="441.43" ybr="627.04" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="0e074f0b-25ee-40ff-9b46-a670310a6492.jpeg" width="1024" height="768">
+  </image>
+  <image id="28" name="0ebc3218-5cf4-4e28-9014-b391d8c0a02f.jpeg" width="1024" height="683">
+  </image>
+  <image id="29" name="0f2ba346-9fb3-454e-bb02-dd5bdb94e2e8.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="173.80" ytl="294.02" xbr="577.15" ybr="741.14" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="113be587-495a-4b01-bcdb-1c80953486ff.jpg" width="768" height="1024">
+  </image>
+  <image id="31" name="12879e29-2518-4e36-a60a-c3ca316f9363.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="222.12" ytl="190.46" xbr="607.52" ybr="570.85" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="136fdce5-5e47-42d1-9c4b-02c38885d646.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="189.23" ytl="222.03" xbr="1010.89" ybr="676.10" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="454.11" ytl="142.75" xbr="1023.50" ybr="560.78" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="13bb206c-db5e-4a2b-acbf-92308155b019.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="329.29" ytl="149.31" xbr="771.42" ybr="559.11" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="13c5a4e5-8a38-4031-b57f-b2dd35b0cd2e.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="194.62" ytl="616.72" xbr="461.69" ybr="924.19" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="13e15e9e-cc90-4c89-803e-cb0ff95da179.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="268.29" ytl="119.28" xbr="819.90" ybr="576.01" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="14f62849-26b8-44a0-beea-cfe0ea4f73e8.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="128.56" ytl="84.87" xbr="708.33" ybr="512.40" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="156e2fc0-731c-49f5-90c5-d070a8bdcbe5.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="316.61" ytl="317.67" xbr="579.26" ybr="531.07" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="15ceb4bf-4a56-42a0-84f6-dc969a01971a.jpeg" width="1024" height="683">
+  </image>
+  <image id="39" name="16b7f34e-e630-4b96-9a7c-2616e999a9f1.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="80.36" ytl="377.92" xbr="484.23" ybr="669.75" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="17017962-80b2-47eb-8c74-9b1efdcd038a.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="167.68" ytl="224.84" xbr="1020.69" ybr="605.91" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="17776a13-83a4-4f39-a131-c24c4ac5dc8c.jpeg" width="1024" height="995">
+    <box label="springfrosch" source="manual" occluded="0" xtl="244.42" ytl="404.56" xbr="650.78" ybr="736.23" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="17b8439b-1ee2-4de6-83c4-1d29581c88ed.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="190.16" ytl="209.21" xbr="737.33" ybr="596.14" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="181f336c-ed16-4950-8896-04e2551e3509.jpeg" width="461" height="1024">
+  </image>
+  <image id="44" name="1885ab42-dc23-45f0-8ac5-a61989e75718.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="263.67" ytl="418.31" xbr="565.92" ybr="677.57" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="18b5e5e1-cb24-4d91-aced-49c46c46d4cd.jpg" width="1024" height="1024">
+  </image>
+  <image id="46" name="1919b08f-74e1-42be-a2ef-03ea17632826.jpeg" width="1024" height="777">
+    <box label="springfrosch" source="manual" occluded="0" xtl="208.16" ytl="203.22" xbr="819.08" ybr="675.74" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="194764ca-b634-4297-a545-c19c6a81b6e7.jpeg" width="1024" height="461">
+  </image>
+  <image id="48" name="1a007bc5-877c-49c2-9951-3cb77a23d1f6.jpeg" width="768" height="1024">
+  </image>
+  <image id="49" name="1a678ecd-bca5-4547-999f-55b6b6726c1a.jpeg" width="1024" height="768">
+  </image>
+  <image id="50" name="1a6ca372-a536-4feb-87ad-f50888343c2b.jpg" width="1024" height="768">
+  </image>
+  <image id="51" name="1af24f5c-c0e0-476f-9d1f-903e69fcb6f6.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="210.25" ytl="357.08" xbr="534.65" ybr="630.66" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="1b3586ec-1d04-474f-bb91-ef207cbb2cf5.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="190.10" ytl="134.32" xbr="852.25" ybr="522.74" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="1bba9249-06bf-4149-8034-d017fd89f732.jpeg" width="1024" height="768">
+  </image>
+  <image id="54" name="1c0aa1b7-517c-4535-b87e-61e5d94d9c1f.jpeg" width="1024" height="577">
+    <box label="springfrosch" source="manual" occluded="0" xtl="317.92" ytl="121.55" xbr="515.40" ybr="345.45" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="1c0d0c18-7304-4fca-933a-af3f51d8c898.jpeg" width="1024" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="154.49" ytl="139.51" xbr="792.86" ybr="854.75" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="1c6ca40f-87e2-434d-9773-e7df1f7f4b90.jpeg" width="462" height="1024">
+  </image>
+  <image id="57" name="1d68c427-a4b7-4519-a13d-bdeb5f5c3c99.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="276.14" ytl="119.32" xbr="717.79" ybr="642.06" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="1dad4303-56bd-4d44-95a9-41b46d6fed96.jpeg" width="1024" height="730">
+    <box label="springfrosch" source="manual" occluded="0" xtl="151.25" ytl="99.52" xbr="703.86" ybr="725.50" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="1df12f60-002a-4fb9-90a8-309ffb1f4eb0.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="249.34" ytl="432.64" xbr="555.49" ybr="777.88" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="1e545a4a-33d1-4787-a716-5788fa63d8ef.jpg" width="800" height="600">
+    <box label="springfrosch" source="manual" occluded="0" xtl="147.79" ytl="80.23" xbr="682.90" ybr="403.13" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="1e8df07c-3249-45e0-807b-cde666a1e338.jpg" width="768" height="1024">
+  </image>
+  <image id="62" name="1ebea53c-a2c2-4037-b71e-bd4fbda71555.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="355.29" ytl="164.26" xbr="951.32" ybr="538.49" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="1ed69421-b0e2-45e0-8725-e83bb067c9d6.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="260.51" ytl="84.14" xbr="761.76" ybr="589.30" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="1eff270c-5f07-404d-bf71-a6c3582188f8.jpeg" width="1024" height="768">
+  </image>
+  <image id="65" name="1f8cbaf7-bba0-435c-928c-74e36eb5bffa.jpg" width="1024" height="768">
+  </image>
+  <image id="66" name="20ccd430-5a5f-4bad-8847-b0d046e097b1.jpeg" width="640" height="853">
+    <box label="springfrosch" source="manual" occluded="0" xtl="148.11" ytl="299.07" xbr="547.48" ybr="638.75" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="20e70ab5-6da3-4efa-bb70-a81962abf2ee.jpeg" width="640" height="480">
+  </image>
+  <image id="68" name="21733163-fb4d-4a54-8e57-cc4cd36346c0.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="184.20" ytl="312.78" xbr="607.61" ybr="706.23" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="21adc23a-933c-48e5-9d4b-d702e327684a.jpeg" width="1024" height="576">
+  </image>
+  <image id="70" name="22b863c5-739f-44cd-b7d3-4efd09be113f.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="90.49" ytl="227.77" xbr="712.90" ybr="711.44" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="22dde541-7bc8-4ac5-ae7e-d33dcc2e9ca4.jpeg" width="1024" height="771">
+    <box label="springfrosch" source="manual" occluded="0" xtl="360.56" ytl="106.50" xbr="880.40" ybr="449.83" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="240f42c5-e5bc-4ba3-9310-d3a60f5df7bd.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="64.34" ytl="411.79" xbr="427.82" ybr="880.80" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="244bf55a-4849-4fc8-be34-925ce295a22d.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="97.33" ytl="147.65" xbr="807.68" ybr="666.49" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="24fe41e7-22b5-47e5-90e0-ed115e60b8be.jpeg" width="768" height="1024">
+  </image>
+  <image id="75" name="2580b00b-112b-47ee-8dda-88cad10a4cb7.jpeg" width="461" height="1024">
+  </image>
+  <image id="76" name="25a2d91f-e7db-45e6-a23e-5b7cbd422008.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="185.64" ytl="83.16" xbr="804.73" ybr="721.01" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="25b3707a-d993-4680-9d6d-296bb9b35d54.jpg" width="1024" height="717">
+    <box label="springfrosch" source="manual" occluded="0" xtl="301.46" ytl="118.66" xbr="811.57" ybr="593.74" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="264fc0ac-436f-416b-81c1-16fd9bbcf1f4.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="145.78" ytl="194.55" xbr="922.00" ybr="678.80" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="26d60390-e2e5-4e8b-8aa9-89d4b91f36d9.jpeg" width="1024" height="768">
+  </image>
+  <image id="80" name="270782f0-8ad9-4233-817f-f1c24ba84a9f.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="368.55" ytl="161.72" xbr="773.07" ybr="643.63" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="2916a494-46e1-4813-b2e5-7035cb4fd0a7.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="102.04" ytl="278.23" xbr="600.75" ybr="920.77" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="29617c56-16ea-4df0-942f-6318a6b83b9c.jpeg" width="473" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="78.90" ytl="284.48" xbr="300.90" ybr="720.66" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="2a70e99e-cfbf-4a0f-b8e0-76be4d8ca625.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="263.07" ytl="386.10" xbr="575.74" ybr="633.11" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="2cb6de7b-57c7-4281-9603-4880db27b68a.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="388.30" ytl="217.22" xbr="689.57" ybr="407.76" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="2cd5b0cb-ae24-4c7d-b5bf-760a52207784.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="149.15" ytl="240.78" xbr="357.60" ybr="488.31" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="2d978c1b-86df-4fa6-9049-7d363c8b880b.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="102.49" ytl="193.61" xbr="771.81" ybr="529.08" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="2de1757a-9642-4d36-b0eb-18b1b50ec2dc.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="155.66" ytl="392.77" xbr="440.11" ybr="615.33" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="2e075e1f-4d7e-4707-bcc3-a98277d3fa47.jpg" width="768" height="1024">
+  </image>
+  <image id="89" name="2e883186-c861-4bb4-8fd4-cc6e7360c40f.jpeg" width="768" height="1024">
+  </image>
+  <image id="90" name="2f754091-ceb2-4187-94d4-db0e58e49fff.jpg" width="1024" height="683">
+  </image>
+  <image id="91" name="2fb2af00-7885-4f31-8193-dec3821dee85.jpeg" width="461" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="167.23" ytl="556.45" xbr="304.93" ybr="681.58" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="30024dc4-dde8-46be-b61c-ec44e202723c.jpeg" width="1024" height="747">
+    <box label="springfrosch" source="manual" occluded="0" xtl="195.05" ytl="225.84" xbr="775.73" ybr="651.60" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="3086400f-271d-4ea1-ba75-47c05a86740c.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="40.62" ytl="138.55" xbr="731.75" ybr="757.64" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="309a0696-43e0-4c42-bbad-330caf4d2153.jpeg" width="1024" height="683">
+  </image>
+  <image id="95" name="31b6e816-5a42-479e-8e93-3e74a3d8722f.jpeg" width="768" height="1024">
+  </image>
+  <image id="96" name="31f44eb9-42ae-4c05-97a3-d0f9942fbf53.jpg" width="1000" height="750">
+    <box label="springfrosch" source="manual" occluded="0" xtl="196.87" ytl="163.09" xbr="810.73" ybr="622.25" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="320eae0f-56cb-4f84-b384-521be2853c63.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="104.68" ytl="79.14" xbr="961.82" ybr="639.09" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="32574396-2f61-4275-a9dd-32b3980e7228.jpeg" width="1024" height="683">
+  </image>
+  <image id="99" name="328bad99-ff1d-486a-808c-0833525cfa91.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="161.84" ytl="242.04" xbr="836.00" ybr="647.73" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="3341589c-688f-473c-b062-65261364f9d7.jpeg" width="1024" height="529">
+    <box label="springfrosch" source="manual" occluded="0" xtl="40.25" ytl="34.84" xbr="430.34" ybr="391.01" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="475.56" ytl="186.67" xbr="789.73" ybr="481.46" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="708.16" ytl="206.06" xbr="993.26" ybr="500.84" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="3518485a-5a05-4edf-8c1b-5636bd8a085c.jpeg" width="1024" height="768">
+  </image>
+  <image id="102" name="35576ba2-ea0f-4fee-964a-f8a7a831129a.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="548.75" ytl="323.33" xbr="731.57" ybr="454.27" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="36d3e655-afc9-4de1-9e25-93d07a5d89af.jpeg" width="1024" height="578">
+  </image>
+  <image id="104" name="36deb8fc-96a9-43e3-9d74-ee89dee3aee7.jpeg" width="498" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="38.80" ytl="321.51" xbr="391.86" ybr="639.39" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="3707b15a-ef63-43e9-ac69-77041fda3d72.jpeg" width="768" height="1024">
+  </image>
+  <image id="106" name="3725adc4-7014-4e65-baee-6af1b3f97e9d.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="68.38" ytl="283.73" xbr="674.18" ybr="815.27" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="37bf79a9-d9c2-41ee-87ac-71c309235afb.jpeg" width="451" height="508">
+    <box label="springfrosch" source="manual" occluded="0" xtl="141.60" ytl="151.74" xbr="308.34" ybr="343.70" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="3815d623-2f4c-46bf-843e-8bb6563267fb.jpeg" width="1024" height="1024">
+  </image>
+  <image id="109" name="383a95f3-bb53-436c-9c0e-9b33e205baa8.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="219.73" ytl="139.27" xbr="857.55" ybr="593.73" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="3ae6d6df-238c-4799-9ae7-d0a1afc623c1.jpeg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="204.74" ytl="74.59" xbr="655.43" ybr="444.67" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="3af01e95-7f84-40da-9a58-e460adf55a27.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="213.61" ytl="267.44" xbr="698.35" ybr="602.59" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="3c795233-5acd-48fa-8579-0653faf035f2.jpeg" width="1024" height="577">
+  </image>
+  <image id="113" name="3ce238c6-a5bf-44d1-821f-389f48259cb7.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="176.48" ytl="231.29" xbr="807.78" ybr="597.70" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="3d5f42c9-26cc-40e5-8719-c2ab3f85884c.jpeg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="277.87" ytl="157.15" xbr="647.22" ybr="564.48" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="3d6c6e03-4bc3-443e-aba1-653d4078b4e6.jpeg" width="640" height="480">
+    <box label="springfrosch" source="manual" occluded="0" xtl="94.01" ytl="67.72" xbr="481.03" ybr="368.47" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="3d828288-a653-4ab8-9ac7-61caaacd7aeb.jpeg" width="768" height="1024">
+  </image>
+  <image id="117" name="3df250d7-33ea-43b2-acef-5d04c4ec21bb.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="404.67" ytl="269.50" xbr="602.60" ybr="425.18" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="3f3c16ec-c7c9-4d31-9ad7-be7adfc033c4.jpg" width="1023" height="1024">
+  </image>
+  <image id="119" name="3fca210e-2140-4f37-8c94-fdaafe2e55b2.jpg" width="720" height="960">
+  </image>
+  <image id="120" name="40595b27-166e-4c5d-a240-5e2b4a4f674e.jpeg" width="1024" height="584">
+  </image>
+  <image id="121" name="40d74499-a88b-493f-b317-610632373a9d.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="263.46" ytl="305.10" xbr="477.68" ybr="487.94" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="4104af25-a810-4103-b1df-31c4224c0e61.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="209.84" ytl="400.83" xbr="392.59" ybr="570.91" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="424eea7d-e3e6-4a2d-b04c-8595f9975096.jpeg" width="720" height="900">
+    <box label="springfrosch" source="manual" occluded="0" xtl="248.21" ytl="512.92" xbr="435.15" ybr="642.53" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="42e597d4-0c44-4959-92a2-6b5bfff0f1ad.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="190.70" ytl="297.91" xbr="532.69" ybr="538.12" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="43cade6c-e3df-4d09-a186-0f971a27266b.jpeg" width="768" height="1024">
+  </image>
+  <image id="126" name="44d5590c-2fb4-437f-b050-dc1c7d7099f8.jpeg" width="768" height="1024">
+  </image>
+  <image id="127" name="4529aa94-1afc-44ff-bee2-d9f00e3d5f57.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="146.36" ytl="110.01" xbr="665.80" ybr="733.80" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="473abc3c-d7ab-44c3-b332-665e570add15.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="301.13" ytl="125.30" xbr="712.69" ybr="574.33" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="475c714b-bd28-4027-a962-5053a60909bc.jpeg" width="1024" height="578">
+  </image>
+  <image id="130" name="48464b9a-2412-4f7c-badd-4af85fe4e64a.jpg" width="1024" height="771">
+    <box label="springfrosch" source="manual" occluded="0" xtl="454.55" ytl="260.57" xbr="611.11" ybr="458.32" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="492f3e92-895a-481d-82d6-81bb0668181f.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="414.50" ytl="204.81" xbr="630.44" ybr="414.89" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="4bdaa416-cfde-40ff-878b-a0a5c6cc2d89.jpeg" width="1024" height="768">
+  </image>
+  <image id="133" name="4c9398a8-53de-401e-ad56-17a60c21b410.jpeg" width="1024" height="800">
+    <box label="springfrosch" source="manual" occluded="0" xtl="301.48" ytl="219.44" xbr="768.65" ybr="547.18" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="4ccffbb8-39ab-4f57-8351-87a645a1ddf4.jpg" width="768" height="1024">
+  </image>
+  <image id="135" name="4d0b7392-8c75-4eb9-9993-df208a621121.jpeg" width="768" height="1024">
+  </image>
+  <image id="136" name="4d9338f1-28df-4c48-81ce-9daaa5e8ea01.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="81.93" ytl="269.14" xbr="428.60" ybr="758.99" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="4df834aa-6191-40d5-a58e-1c6b6d3c4c85.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="162.83" ytl="306.92" xbr="650.08" ybr="692.55" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="4e4cee3e-2224-4384-8d5b-cd8823b49be4.jpeg" width="576" height="1024">
+  </image>
+  <image id="139" name="4e8e5432-a2bf-4e28-b0b7-dcf62a5a62db.jpeg" width="768" height="1024">
+  </image>
+  <image id="140" name="4f3e9c9a-3dba-41a4-98c1-63d8e160a8bf.jpeg" width="692" height="659">
+    <box label="springfrosch" source="manual" occluded="0" xtl="32.21" ytl="6.86" xbr="691.41" ybr="645.80" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="4f9bbd5a-c518-4179-ab15-c281afe09cdd.jpg" width="1024" height="680">
+  </image>
+  <image id="142" name="5006d8f0-3380-4b47-8d3a-35748f5ffe23.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="0.00" ytl="91.82" xbr="1024.00" ybr="679.95" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="5012dbae-0647-435f-8bb8-299e454417cf.jpg" width="1008" height="756">
+    <box label="springfrosch" source="manual" occluded="0" xtl="362.90" ytl="332.80" xbr="753.05" ybr="744.43" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="5029e43b-1866-42f6-9e6a-e35ce8429f4a.jpeg" width="1024" height="768">
+  </image>
+  <image id="145" name="50ebecbb-aabf-45c1-9e9c-3064487ebd0e.jpg" width="1024" height="576">
+  </image>
+  <image id="146" name="51c67ea9-acd1-4660-b368-72df836d7a8b.jpeg" width="1024" height="768">
+  </image>
+  <image id="147" name="51fb1362-0eb2-44f7-ad60-417bbefe70cf.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="99.34" ytl="235.94" xbr="593.09" ybr="687.36" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="52676380-d736-419d-b17e-600e1d8ff68d.jpeg" width="838" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="272.29" ytl="283.39" xbr="731.92" ybr="592.94" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="532eda74-d06d-4eca-a529-6c2970cbde9d.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="227.89" ytl="502.26" xbr="696.90" ybr="825.88" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="53d7f1b1-2031-4849-ac5c-59fc065ebbf7.jpeg" width="576" height="1024">
+  </image>
+  <image id="151" name="54ac6ca6-4937-48a5-a7fd-bcda527c9ffd.jpeg" width="482" height="479">
+    <box label="springfrosch" source="manual" occluded="0" xtl="148.28" ytl="124.87" xbr="355.96" ybr="315.74" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="54ba54cc-e7b7-4aa2-a07e-e94642f41874.jpeg" width="768" height="1024">
+  </image>
+  <image id="153" name="552399bb-7ceb-423d-8689-ad8e22f02c1e.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="125.31" ytl="347.70" xbr="556.50" ybr="712.48" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="557918b8-a393-4fb9-a7c4-4976b8b45c75.jpeg" width="1024" height="576">
+  </image>
+  <image id="155" name="55b3cb19-68db-46d3-9c66-93fce5d7b454.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="224.36" ytl="365.81" xbr="530.15" ybr="662.22" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="57ca802f-5e84-485c-87d3-a06b53312688.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="441.97" ytl="284.95" xbr="689.64" ybr="464.09" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="58071d6b-5615-40dc-aad5-3458914f051b.jpeg" width="1024" height="768">
+  </image>
+  <image id="158" name="5940b92d-558d-411f-9bb2-086ba7aee6f8.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="232.89" ytl="391.73" xbr="609.66" ybr="840.42" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="59d98fad-5b51-4684-b51c-fa92052d14d7.jpeg" width="1024" height="704">
+    <box label="springfrosch" source="manual" occluded="0" xtl="384.47" ytl="204.87" xbr="755.28" ybr="507.97" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="59e7b264-5e64-47a1-89d3-513c375b46cc.jpg" width="1024" height="659">
+    <box label="springfrosch" source="manual" occluded="0" xtl="105.89" ytl="83.55" xbr="820.22" ybr="541.33" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="5a5dd054-8764-4c53-9c3d-12d79167f080.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="226.23" ytl="413.29" xbr="630.10" ybr="685.79" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="5adc3ea1-3aa8-4ffe-9521-ca975617c6dd.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="137.86" ytl="343.81" xbr="498.30" ybr="521.86" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="5b75efb8-dfaf-400b-bfe2-7ff0f6f77d01.jpeg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="403.72" ytl="228.21" xbr="647.39" ybr="440.73" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="5ce9fa49-ae84-4aa7-b565-9d358dc196c5.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="106.32" ytl="332.91" xbr="824.59" ybr="630.93" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="5d38a9c0-5137-4449-afc0-33ea6845923e.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="71.24" ytl="80.82" xbr="979.95" ybr="657.31" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="5da6de2a-5fba-4051-a22e-a25920c4ccca.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="238.00" ytl="277.22" xbr="746.09" ybr="579.46" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="5e121f12-a7b8-4ea7-b8ea-193db2d8c432.jpg" width="1024" height="768">
+  </image>
+  <image id="168" name="5e79fec0-d3be-437c-99f7-920c1d405bfb.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="141.35" ytl="440.18" xbr="302.39" ybr="612.08" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="409.15" ytl="365.09" xbr="695.95" ybr="662.74" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="5ef0e034-c6c3-4dc3-98e8-920a299a10c7.jpg" width="900" height="675">
+    <box label="springfrosch" source="manual" occluded="0" xtl="113.69" ytl="84.45" xbr="736.95" ybr="602.36" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="607ab4fc-65f0-4665-aa89-faac9a40801d.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="11.13" ytl="120.09" xbr="729.27" ybr="718.92" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="61d49c39-b193-403c-acd1-524356838c92.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="202.30" ytl="206.00" xbr="486.31" ybr="624.15" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="6291c6c4-7dc4-472d-b483-878e0cb6347c.jpeg" width="461" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="130.26" ytl="423.52" xbr="299.62" ybr="637.18" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="62b83125-f7de-4950-b85c-9001c9c0d546.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="214.03" ytl="288.03" xbr="662.19" ybr="684.08" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="6305590b-39d8-45cc-8ee3-e1c13ddf7c96.jpg" width="800" height="533">
+    <box label="springfrosch" source="manual" occluded="0" xtl="247.11" ytl="144.17" xbr="485.81" ybr="317.77" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="64d16c3a-636c-4f33-a3ef-824a922293b7.jpg" width="1024" height="768">
+  </image>
+  <image id="176" name="64ff5088-efd6-4c28-acf3-f11755cc1234.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="140.03" ytl="204.74" xbr="624.24" ybr="653.12" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="65176f95-3287-4a39-be98-e50ca5821616.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="277.72" ytl="183.67" xbr="673.45" ybr="504.49" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="65652c31-b87a-489c-9bdb-a943077f905d.jpeg" width="1024" height="576">
+  </image>
+  <image id="179" name="659cc84d-559d-40dc-8bdf-0755856f4bbc.jpeg" width="768" height="1024">
+  </image>
+  <image id="180" name="6663f1a1-b321-4e3a-ba7f-20e0c5fdd9c8.jpeg" width="1024" height="768">
+  </image>
+  <image id="181" name="66fc07d3-3781-47ce-834a-9fa524a86be6.jpg" width="975" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="74.68" ytl="135.34" xbr="895.45" ybr="821.65" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="676a0db5-67c1-4187-94e8-4f7f48c67ecb.jpeg" width="1024" height="768">
+  </image>
+  <image id="183" name="679d9790-d84f-4193-9213-c22b79e5846b.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="178.02" ytl="473.34" xbr="507.89" ybr="811.02" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="69159981-8159-4dc2-b96e-6caef748371c.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="107.67" ytl="170.87" xbr="840.61" ybr="628.15" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="696f34d5-f18e-4a9a-a225-905ac466d3d0.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="213.77" ytl="397.20" xbr="586.37" ybr="662.97" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="6aa2a366-9c29-4443-8825-424fdedee701.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="188.89" ytl="312.52" xbr="497.78" ybr="549.63" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="6b91b0ab-f65e-497d-a14f-ae67234d1fe3.jpeg" width="988" height="697">
+    <box label="springfrosch" source="manual" occluded="0" xtl="178.54" ytl="92.62" xbr="778.89" ybr="570.58" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="6ba03c8c-e275-4819-9556-2819c6b1baed.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="217.68" ytl="437.59" xbr="508.20" ybr="661.67" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="6d6517ab-faa1-4444-9fdb-36085fa86019.jpeg" width="576" height="1024">
+  </image>
+  <image id="190" name="6daa3fcd-ba63-42b8-a250-e78b67317e69.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="114.76" ytl="152.28" xbr="635.88" ybr="798.47" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="6e0afc4b-48b7-4bfe-9c4b-5e56c64d5a6f.jpeg" width="768" height="1024">
+  </image>
+  <image id="192" name="6e6f1117-1586-4c65-98d4-5be1c36073f7.jpg" width="999" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="229.53" ytl="173.12" xbr="877.02" ybr="867.51" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="6e80be81-a4e3-4544-985e-b7519ce0790e.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="340.86" ytl="396.12" xbr="497.68" ybr="535.60" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="6ed2a3f3-72e2-44f7-9fe2-943d48e358b4.jpg" width="1024" height="768">
+  </image>
+  <image id="195" name="6f2bf654-e4b8-40e5-b037-492e1c6603a4.jpeg" width="1024" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="132.60" ytl="232.66" xbr="954.67" ybr="921.84" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="6f76cda1-8d53-4f9a-88bf-d5264ff594b0.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="170.12" ytl="409.84" xbr="511.50" ybr="695.20" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="6f842085-69f0-44a4-b265-af77fe4dfff3.jpeg" width="1024" height="768">
+  </image>
+  <image id="198" name="70abe7b0-3cee-4ddb-9457-6f0f6fec8217.jpeg" width="1024" height="681">
+    <box label="springfrosch" source="manual" occluded="0" xtl="442.45" ytl="256.05" xbr="561.65" ybr="358.94" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="70c669ef-218b-4f19-ae0f-d8c7f2cc38db.jpeg" width="576" height="1024">
+  </image>
+  <image id="200" name="7118861c-94dd-4339-8859-fbe1e81c43fe.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="171.92" ytl="255.08" xbr="878.25" ybr="739.09" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="71fd01b4-eb70-45fc-ad2c-c8c8a20de2e5.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="92.99" ytl="86.24" xbr="826.19" ybr="755.98" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="72826808-5889-4c2e-8ae7-44adf5c5f45e.jpg" width="1024" height="768">
+  </image>
+  <image id="203" name="7288d38e-da5a-42b9-992c-feeeca350ab1.jpeg" width="1024" height="678">
+  </image>
+  <image id="204" name="736326f5-a3d4-4771-b35d-99ba5b488da8.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="187.47" ytl="438.37" xbr="437.18" ybr="657.68" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="741d7cc1-16dc-4208-9b3a-1b20c9265330.jpeg" width="768" height="1024">
+  </image>
+  <image id="206" name="74652eee-b852-4aab-b6c0-092b405e605f.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="108.27" ytl="76.70" xbr="928.84" ybr="738.56" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="7598f563-b11d-4aa1-9ad2-754d02ea2e2b.jpeg" width="1024" height="578">
+  </image>
+  <image id="208" name="75a115fb-169d-4558-a4e5-e851c8de94ef.jpeg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="438.88" ytl="160.48" xbr="754.72" ybr="340.02" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="76a2daed-f3a0-416b-8693-e6170fd631af.jpeg" width="473" height="1024">
+  </image>
+  <image id="210" name="76b83b4d-7dba-4962-b0d7-c79b494497eb.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="430.10" ytl="260.64" xbr="1011.40" ybr="630.40" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="774cb56c-8c5d-4de8-a860-779bc9e6158c.jpeg" width="1024" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="298.84" ytl="254.16" xbr="765.24" ybr="764.85" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="784b3173-1af0-44b9-9124-fe051a7219f5.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="329.69" ytl="255.13" xbr="665.81" ybr="581.48" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="78b7e4b9-cf95-4c82-ad53-fe8320565059.jpeg" width="768" height="1024">
+  </image>
+  <image id="214" name="7986bb95-20b0-46d3-82f4-56b6232d13b3.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="196.96" ytl="211.16" xbr="613.86" ybr="566.83" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="7a033f03-1b7f-4e14-8395-2af3e390c6a3.jpg" width="1024" height="683">
+  </image>
+  <image id="216" name="7a8f8a34-8d94-4f0e-8562-f69f5847fe6d.jpeg" width="768" height="1024">
+  </image>
+  <image id="217" name="7b2579bb-143f-4b15-8dc5-5753cdf362e2.jpg" width="444" height="444">
+    <box label="springfrosch" source="manual" occluded="0" xtl="105.80" ytl="122.80" xbr="318.20" ybr="343.11" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="7b261877-6aed-42dc-87ed-ee74022cd77b.jpeg" width="473" height="1024">
+  </image>
+  <image id="219" name="7b49181d-2c59-40c0-890d-5fb85db4871c.jpeg" width="576" height="1024">
+  </image>
+  <image id="220" name="7bba5af5-d3c8-4f6a-9209-4e752c1ec755.jpeg" width="462" height="1024">
+  </image>
+  <image id="221" name="7c09d7c4-7fe7-4594-a12a-a84fe1ebd635.jpeg" width="1024" height="732">
+    <box label="springfrosch" source="manual" occluded="0" xtl="235.11" ytl="203.26" xbr="827.41" ybr="653.60" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="7db5576e-ae8c-47f8-923c-0962acc75898.jpg" width="1024" height="768">
+  </image>
+  <image id="223" name="7e30194a-a3c2-4b26-9465-bed0c83361d5.jpeg" width="1024" height="636">
+    <box label="springfrosch" source="manual" occluded="0" xtl="123.76" ytl="154.35" xbr="822.97" ybr="524.29" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="7e70b1bf-f59a-4965-a7f9-a26af24869f4.jpeg" width="1024" height="874">
+  </image>
+  <image id="225" name="7ef67b33-a514-43f0-afdd-f033c6923528.jpeg" width="1024" height="768">
+  </image>
+  <image id="226" name="7f23a662-3a9c-4a4f-9b93-9517d01b2b74.jpg" width="1024" height="461">
+    <box label="springfrosch" source="manual" occluded="0" xtl="382.65" ytl="59.11" xbr="708.81" ybr="405.79" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="7ff180d0-d3a9-4b2e-be75-9cf24c7aad2e.jpeg" width="720" height="960">
+    <box label="springfrosch" source="manual" occluded="0" xtl="125.81" ytl="233.00" xbr="651.98" ybr="828.01" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="800e0472-5385-42f4-a626-f7d8eb74bbb5.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="401.66" ytl="56.72" xbr="657.13" ybr="406.04" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="806bbd97-9619-45d4-bd73-456d69f660c1.jpeg" width="1024" height="768">
+  </image>
+  <image id="230" name="813966ec-0d03-4175-92ee-c076312c76b3.jpg" width="1024" height="683">
+  </image>
+  <image id="231" name="82188112-5dab-4787-8e66-ef1dd6451926.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="282.77" ytl="382.98" xbr="498.51" ybr="653.44" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="833e5ba0-ac1a-4679-81be-824ddfc76145.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="123.80" ytl="426.28" xbr="343.19" ybr="621.55" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="834d75a0-c375-4aba-85f4-1eca145b5ec2.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="317.65" ytl="161.60" xbr="833.96" ybr="548.29" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="83b4d3e3-a488-4f15-91d8-7153f236a235.jpeg" width="1024" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="41.45" ytl="336.21" xbr="659.20" ybr="724.88" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="84289fae-d0a2-496c-9b9b-2a0ff7403be2.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="421.09" ytl="144.43" xbr="569.47" ybr="323.56" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="36.68" ytl="577.79" xbr="185.95" ybr="685.45" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="8536dcde-7cc3-4763-aad3-a6abc769d356.jpeg" width="461" height="1024">
+  </image>
+  <image id="237" name="859bb0c8-eef7-43d1-bbe8-60543b9091b3.jpg" width="768" height="1024">
+  </image>
+  <image id="238" name="85d7508c-4a12-42c3-9df4-23d4e6b46391.jpeg" width="1024" height="768">
+  </image>
+  <image id="239" name="862914a6-bf4b-42d7-b886-537efb422e60.jpg" width="768" height="1024">
+  </image>
+  <image id="240" name="868b412b-46ba-4c6a-93bb-cbcba5331cc3.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="162.07" ytl="408.46" xbr="459.11" ybr="711.75" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="86bf98d7-0edc-4373-b96a-4cb4c4cbcfb9.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="530.83" ytl="292.34" xbr="846.24" ybr="533.88" z_order="0">
+    </box>
+  </image>
+  <image id="242" name="86f30364-955d-4711-b6b5-5e133da92624.jpeg" width="1005" height="454">
+  </image>
+  <image id="243" name="87b98289-026c-46b5-ae36-fc159482bcbb.jpeg" width="576" height="1024">
+  </image>
+  <image id="244" name="87cf47d1-9636-4038-9118-2c7e713d6b45.jpeg" width="576" height="1024">
+  </image>
+  <image id="245" name="8a6bf8c1-98e6-4d93-bbc7-b0c78007c21c.jpg" width="1024" height="680">
+  </image>
+  <image id="246" name="8b99cac4-fc89-492b-897d-513d1bd8c102.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="149.15" ytl="349.80" xbr="545.20" ybr="827.91" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="8bfb41a9-3e19-4553-8f2e-b04aae55ea30.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="252.59" ytl="169.93" xbr="780.23" ybr="654.57" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="8c27b65d-d7c6-4b9f-b8a4-2300b2929edb.jpeg" width="1024" height="770">
+  </image>
+  <image id="249" name="8c288081-2e56-4cae-9ec6-e764030fd002.png" width="923" height="775">
+    <box label="springfrosch" source="manual" occluded="0" xtl="306.70" ytl="165.11" xbr="665.60" ybr="475.70" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="8c3fe5bf-a057-452d-91d0-c39b7556dffa.jpeg" width="461" height="1024">
+  </image>
+  <image id="251" name="8c68789b-c122-4e85-9b58-1c63539d549d.jpeg" width="1024" height="692">
+  </image>
+  <image id="252" name="8c9cfa36-cfd0-4f47-8458-caba42dcea86.jpeg" width="1024" height="735">
+    <box label="springfrosch" source="manual" occluded="0" xtl="152.45" ytl="120.09" xbr="828.54" ybr="663.39" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="8d9c0f3b-8f4d-41bd-8bc1-206769c1c20a.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="293.50" ytl="427.30" xbr="585.33" ybr="825.95" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="8dd62acf-6027-4ea3-b473-412c6cc2601e.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="566.24" ytl="466.97" xbr="781.20" ybr="603.76" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="8e5a182d-9602-4723-96b9-e61cec022013.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="203.92" ytl="100.34" xbr="695.75" ybr="626.06" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="8edf95fe-b902-47cb-93db-678721195233.jpg" width="473" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="131.22" ytl="474.20" xbr="325.73" ybr="647.91" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="8fabdae3-6236-4ad5-93bc-e2333b9a567a.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="353.98" ytl="241.74" xbr="667.77" ybr="508.46" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="8fad97a7-1625-4caf-98df-e9d31d0717e1.jpg" width="1024" height="534">
+    <box label="springfrosch" source="manual" occluded="0" xtl="69.02" ytl="34.04" xbr="955.38" ybr="484.85" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="904398fe-5f10-447d-b413-b4d346872bb6.jpeg" width="1024" height="768">
+  </image>
+  <image id="260" name="9130b2f8-310f-43c4-8930-a366812ee304.jpeg" width="768" height="1024">
+  </image>
+  <image id="261" name="91423340-e8e8-44ed-ac58-6a79ebdc8f07.jpg" width="1024" height="680">
+  </image>
+  <image id="262" name="9269301b-3d0e-4823-9f3d-b440f6a89b06.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="397.99" ytl="263.61" xbr="679.39" ybr="557.92" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="947078cf-c01c-4f43-9924-c182e0795659.jpg" width="1024" height="680">
+  </image>
+  <image id="264" name="952cec24-fe43-4b48-8f49-6134830f71fd.jpeg" width="1024" height="461">
+  </image>
+  <image id="265" name="9543b4db-0899-4dbb-a5fc-e4c81e90558e.jpeg" width="1024" height="768">
+  </image>
+  <image id="266" name="95875bd4-f171-4933-bc99-9b8bbd48c9cb.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="25.59" ytl="401.89" xbr="636.87" ybr="809.93" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="95e72311-369a-48fd-b483-80d4b10d7ff8.jpeg" width="1024" height="683">
+  </image>
+  <image id="268" name="961c9756-08c6-4119-a9dc-44fcfad98951.jpeg" width="1011" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="90.16" ytl="127.21" xbr="826.50" ybr="838.54" z_order="0">
+    </box>
+  </image>
+  <image id="269" name="96efb567-fe56-407d-bc66-ef0d02c17f5c.jpeg" width="768" height="1024">
+  </image>
+  <image id="270" name="971bc894-d757-4ce2-be7d-2cd85acf2228.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="303.24" ytl="198.68" xbr="454.66" ybr="380.43" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="980904c5-e54e-4439-8fae-292944560c6d.jpeg" width="1024" height="792">
+    <box label="springfrosch" source="manual" occluded="0" xtl="298.48" ytl="209.10" xbr="767.29" ybr="680.67" z_order="0">
+    </box>
+  </image>
+  <image id="272" name="984a7ea3-fdd5-4868-8afe-13ed27ac15b3.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="258.13" ytl="394.14" xbr="578.93" ybr="677.42" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="988043bc-24dd-4e5b-8bc5-3eef4bfd1652.jpeg" width="768" height="1024">
+  </image>
+  <image id="274" name="99ff27b6-45cd-4ba3-831b-784eb159c8d0.jpeg" width="1024" height="768">
+  </image>
+  <image id="275" name="9a09a77b-a7d5-4d30-94e4-3cd85b24039c.jpg" width="900" height="558">
+    <box label="springfrosch" source="manual" occluded="0" xtl="333.65" ytl="186.64" xbr="820.26" ybr="449.37" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="9a83c0cd-1d63-4726-a611-9c493abe10ec.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="188.76" ytl="623.89" xbr="610.86" ybr="837.55" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="9a9537ee-f0fd-4c68-8a41-96f443ee08e2.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="231.75" ytl="347.70" xbr="497.52" ybr="571.78" z_order="0">
+    </box>
+  </image>
+  <image id="278" name="9b67d80c-d640-4638-87e8-133a1b5e99ce.jpg" width="1024" height="683">
+  </image>
+  <image id="279" name="9bcf1c51-5d25-4400-b766-b1158a02ae3d.jpeg" width="1024" height="769">
+  </image>
+  <image id="280" name="9c332967-009b-471a-8bed-62ce9873c09e.jpeg" width="1024" height="461">
+  </image>
+  <image id="281" name="9d03d743-b865-4d30-9dfd-d196e45383dd.jpeg" width="768" height="1024">
+  </image>
+  <image id="282" name="9d09ff4f-68d1-4417-9942-94499143ea66.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="250.67" ytl="194.05" xbr="496.76" ybr="653.90" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="9d324902-c99d-45e9-8bc5-87e9eb3cc178.jpeg" width="576" height="1024">
+  </image>
+  <image id="284" name="9d54e124-873c-42e6-8503-339886e85094.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="458.17" ytl="287.89" xbr="736.59" ybr="531.90" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="9ef57d30-ad39-4eed-9cd6-b08a1f502f98.jpeg" width="768" height="1024">
+  </image>
+  <image id="286" name="9f2a5d82-3e1b-4d3d-8388-bd1a2105b9a2.jpg" width="640" height="579">
+    <box label="springfrosch" source="manual" occluded="0" xtl="66.64" ytl="98.19" xbr="548.40" ybr="507.47" z_order="0">
+    </box>
+  </image>
+  <image id="287" name="9f492ce3-5888-4dd0-8017-c758672b5b2f.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="257.25" ytl="514.64" xbr="404.26" ybr="681.26" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="9fbddf3c-84ab-4224-aec6-1c44ff36a9ab.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="257.03" ytl="263.18" xbr="903.53" ybr="586.43" z_order="0">
+    </box>
+  </image>
+  <image id="289" name="9fccac1f-dac2-4254-94a8-601f5c97b81c.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="227.62" ytl="304.65" xbr="528.96" ybr="621.23" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="a16230f4-6c96-4515-8193-33daa772469a.jpeg" width="461" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="139.72" ytl="395.33" xbr="321.07" ybr="645.46" z_order="0">
+    </box>
+  </image>
+  <image id="291" name="a16f533e-2b30-45d3-ba02-f0a99698adce.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="342.52" ytl="315.21" xbr="697.80" ybr="518.05" z_order="0">
+    </box>
+  </image>
+  <image id="292" name="a18b6b3c-fe89-42d3-a1d1-3f0e82a65c42.jpg" width="1024" height="794">
+    <box label="springfrosch" source="manual" occluded="0" xtl="322.30" ytl="255.63" xbr="654.45" ybr="585.35" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="a1fa17ae-058b-4d4c-9220-a296edfba049.jpeg" width="634" height="1024">
+  </image>
+  <image id="294" name="a2bd49a9-f98a-40b6-846f-831087faf354.jpg" width="962" height="1024">
+  </image>
+  <image id="295" name="a313ab25-80ca-45da-bcfb-144ce167e592.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="209.30" ytl="503.33" xbr="383.91" ybr="677.04" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="a3dc6c8b-ee0c-47ba-95f1-58b78885e9cc.jpeg" width="800" height="533">
+  </image>
+  <image id="297" name="a424b57f-5013-499b-a381-1d80d0929345.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="50.14" ytl="31.38" xbr="695.80" ybr="930.31" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="a57f51c1-7252-45ea-98a6-0e0f6f8545ab.jpeg" width="1024" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="387.02" ytl="409.49" xbr="630.21" ybr="752.56" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="a634ff1d-d88b-4226-af8a-9a2ab09f8ef1.jpeg" width="1024" height="768">
+  </image>
+  <image id="300" name="a6617141-72b7-47f7-9275-d78c5cf8b09d.jpeg" width="1024" height="768">
+  </image>
+  <image id="301" name="a7076ee4-357d-4548-9ef6-86107000e0fb.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="414.64" ytl="510.45" xbr="455.04" ybr="554.08" z_order="0">
+    </box>
+  </image>
+  <image id="302" name="a73fd8ad-76c4-4c79-a631-46682091f247.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="262.44" ytl="185.29" xbr="805.44" ybr="606.22" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="a745d36e-8a1d-495e-9584-a8f62d525f29.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="168.69" ytl="484.88" xbr="662.45" ybr="762.38" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="a79972b8-7501-4b98-844e-25a147f2c06d.jpeg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="372.56" ytl="164.29" xbr="672.28" ybr="374.61" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="a7f1506a-6f34-4cba-97fb-293afa72841f.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="233.83" ytl="311.61" xbr="551.72" ybr="738.93" z_order="0">
+    </box>
+  </image>
+  <image id="306" name="a83431ac-6109-4118-96fd-bf7660b94397.jpeg" width="768" height="1024">
+  </image>
+  <image id="307" name="a83e67d2-506b-4b34-91d9-f4211746fbdb.jpg" width="1024" height="768">
+  </image>
+  <image id="308" name="a8c47621-eb77-4cba-9d5f-06776f253d37.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="100.03" ytl="406.71" xbr="501.30" ybr="744.14" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="a9eb26d8-fd2b-4184-9e96-dbbb83b3fde1.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="184.59" ytl="173.33" xbr="1024.00" ybr="630.61" z_order="0">
+    </box>
+  </image>
+  <image id="310" name="aa84fda8-548b-4e42-b340-288ff1bd5cdc.jpeg" width="1024" height="576">
+  </image>
+  <image id="311" name="ab74aef5-163b-4ac4-96fa-9e999e0e8405.jpeg" width="1024" height="805">
+    <box label="springfrosch" source="manual" occluded="0" xtl="262.12" ytl="258.93" xbr="761.10" ybr="631.31" z_order="0">
+    </box>
+  </image>
+  <image id="312" name="ac18ff47-c4b8-48f7-b2d1-f50fd02e5f97.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="178.61" ytl="54.09" xbr="932.54" ybr="755.25" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="ad343d02-9966-4d58-b371-6c6a91b23bdc.jpg" width="1024" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="17.46" ytl="327.01" xbr="999.25" ybr="867.93" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="ae0ccf99-96e8-401d-8ec5-9a05cc14b424.jpeg" width="1024" height="461">
+  </image>
+  <image id="315" name="aea83759-4e6c-4c32-b0ff-6254a105c8fd.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="315.42" ytl="302.39" xbr="607.74" ybr="492.11" z_order="0">
+    </box>
+  </image>
+  <image id="316" name="aef9348d-f878-4a6a-9a7a-9f828dfd5bc1.jpg" width="768" height="1024">
+  </image>
+  <image id="317" name="af4aa782-f0dd-4a2b-8909-229981d9716b.jpeg" width="768" height="1024">
+  </image>
+  <image id="318" name="afb0c43a-cb99-4c2a-b42e-2e9065818bf5.jpeg" width="1024" height="768">
+  </image>
+  <image id="319" name="aff08e34-df77-4361-a185-e92ec81b0c93.jpeg" width="1024" height="768">
+  </image>
+  <image id="320" name="b1213446-90f0-4a22-9c37-e8a6101612a2.jpeg" width="310" height="263">
+    <box label="springfrosch" source="manual" occluded="0" xtl="42.12" ytl="77.74" xbr="153.35" ybr="219.88" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="114.40" ytl="46.42" xbr="209.56" ybr="205.02" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="b1be3b02-710f-4993-ae00-71ff4d21c2fc.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="300.77" ytl="556.17" xbr="427.69" ybr="671.77" z_order="0">
+    </box>
+  </image>
+  <image id="322" name="b2ccf5ce-a6f9-4cfc-ab26-120139f8ff01.jpeg" width="1024" height="768">
+  </image>
+  <image id="323" name="b2e4deb3-c302-4db7-b2ea-3ba5c4a685ef.jpeg" width="768" height="1024">
+  </image>
+  <image id="324" name="b3a7d706-7a62-47c4-be62-35f12c2d0303.jpeg" width="1024" height="682">
+    <box label="springfrosch" source="manual" occluded="0" xtl="70.47" ytl="100.92" xbr="543.36" ybr="389.00" z_order="0">
+    </box>
+  </image>
+  <image id="325" name="b413311f-25bd-4caf-812e-af17800c839f.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="436.87" ytl="386.26" xbr="628.38" ybr="511.33" z_order="0">
+    </box>
+  </image>
+  <image id="326" name="b42af593-5fcc-4580-8867-a142ae85eed9.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="376.03" ytl="5.29" xbr="665.83" ybr="544.35" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="b57d3160-a5c7-4dcc-aed1-4133aeacf3fd.jpeg" width="1024" height="768">
+  </image>
+  <image id="328" name="b59236ad-6401-42f6-9a9b-dd45708f8a7b.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="0.76" ytl="234.60" xbr="559.66" ybr="733.59" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="b5a6e2ac-1bbc-4370-8102-fa54b09c996a.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="180.58" ytl="198.50" xbr="916.34" ybr="678.22" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="b6c0c6a2-a451-424c-a734-666b0a858422.jpeg" width="793" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="34.76" ytl="407.89" xbr="540.25" ybr="738.80" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="b733c45b-776b-4b59-b0e9-ef3c217cb4e7.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="69.81" ytl="341.44" xbr="639.13" ybr="703.62" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="b78b2026-7c5c-4fda-89ab-cc89daf9cdad.jpeg" width="768" height="1024">
+  </image>
+  <image id="333" name="b819b862-d276-4ef6-9004-a95d52c753ac.jpeg" width="768" height="1024">
+  </image>
+  <image id="334" name="b83b029c-64d3-44d6-ae49-7d6434463fef.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="365.02" ytl="137.79" xbr="749.10" ybr="589.65" z_order="0">
+    </box>
+  </image>
+  <image id="335" name="b959481a-e557-4c51-b55c-d8133c5a5f78.jpeg" width="1024" height="768">
+  </image>
+  <image id="336" name="b9c004c1-3ad3-487c-842a-21702bc1e2f2.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="57.95" ytl="112.67" xbr="767.72" ybr="731.76" z_order="0">
+    </box>
+  </image>
+  <image id="337" name="ba2e82c6-f745-44ce-872f-91fd2bc40928.jpeg" width="1024" height="768">
+  </image>
+  <image id="338" name="bab03fef-908f-4eee-b2a4-35a802ea9d9b.jpg" width="1024" height="768">
+  </image>
+  <image id="339" name="bab2af49-6a23-46b2-a37e-4c95e18c4d67.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="312.43" ytl="356.95" xbr="512.20" ybr="586.02" z_order="0">
+    </box>
+  </image>
+  <image id="340" name="bada3636-19e5-40b5-876c-8e0f4cb638b3.jpeg" width="1024" height="768">
+  </image>
+  <image id="341" name="bb43bfd6-cf63-4497-9db4-c014d7449f57.jpeg" width="577" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="156.28" ytl="463.70" xbr="406.07" ybr="647.36" z_order="0">
+    </box>
+  </image>
+  <image id="342" name="bb6f4668-7195-4471-89fd-180bf2cb2208.jpeg" width="1024" height="750">
+  </image>
+  <image id="343" name="bc655a01-2258-480f-8077-61b928feaa0b.jpeg" width="461" height="1024">
+  </image>
+  <image id="344" name="bcc4a9b8-381b-46ea-a0b1-54e7edc29e11.jpeg" width="1024" height="768">
+  </image>
+  <image id="345" name="bd5c8d15-1ea4-4e0a-99ab-6f4d4e64b75a.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="165.04" ytl="396.05" xbr="356.54" ybr="611.67" z_order="0">
+    </box>
+  </image>
+  <image id="346" name="be4de987-da5c-43c0-a644-f41e8f6b1d73.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="237.41" ytl="423.50" xbr="494.72" ybr="702.51" z_order="0">
+    </box>
+  </image>
+  <image id="347" name="be71bb9b-ecf6-48fb-8f89-5f101639f3bb.jpeg" width="576" height="1024">
+  </image>
+  <image id="348" name="be7e899d-7137-4f20-b852-0c6d747debd1.jpeg" width="769" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="307.82" ytl="500.16" xbr="504.15" ybr="743.53" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="bf1abff3-4f1b-4455-8b9b-790ce02c4b18.jpeg" width="1024" height="461">
+  </image>
+  <image id="350" name="bfa536b0-c7de-4fbd-acb0-22c9683836ac.png" width="1024" height="766">
+  </image>
+  <image id="351" name="bfb301e1-dbb7-4bf1-aa49-fcf50a4db292.jpg" width="1024" height="684">
+    <box label="springfrosch" source="manual" occluded="0" xtl="237.46" ytl="144.72" xbr="773.79" ybr="584.57" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="c00cb0c2-b0e1-4b57-b72c-621556266159.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="276.89" ytl="253.95" xbr="666.77" ybr="487.52" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="c05ef7ad-fefd-4031-b5b7-fd976f993f77.jpeg" width="1024" height="578">
+  </image>
+  <image id="354" name="c0a245de-9814-4154-a55e-0028ea9a7fb1.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="292.24" ytl="328.61" xbr="635.31" ybr="711.85" z_order="0">
+    </box>
+  </image>
+  <image id="355" name="c0f9de7b-1a17-46a4-b77c-3b10e5cf0c00.jpeg" width="1024" height="768">
+  </image>
+  <image id="356" name="c106823c-5a9a-4ee9-a53a-c5767ad6f318.jpg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="193.01" ytl="400.42" xbr="361.89" ybr="589.66" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="c1983f26-6ddf-4953-9566-e4b5ba4e3e9f.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="510.49" ytl="151.69" xbr="908.47" ybr="517.53" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="c20f9a26-c341-47c6-9c12-7a0315960f52.jpeg" width="461" height="1024">
+  </image>
+  <image id="359" name="c32abc5b-29f1-4ab4-982a-cd8152f5b33f.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="376.30" ytl="225.11" xbr="1013.54" ybr="482.90" z_order="0">
+    </box>
+  </image>
+  <image id="360" name="c3c6cb7d-d06f-4575-960c-64a81599a66c.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="42.16" ytl="175.99" xbr="644.21" ybr="866.99" z_order="0">
+    </box>
+  </image>
+  <image id="361" name="c46aa18a-ad61-418b-9018-c1fc7588b99d.jpeg" width="1024" height="683">
+  </image>
+  <image id="362" name="c48c63d3-21d9-43c8-8f2f-62f039b915c5.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="73.12" ytl="284.80" xbr="418.78" ybr="720.97" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="c4e49715-2cf6-41e9-be31-e19733696e01.jpeg" width="485" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="88.70" ytl="378.18" xbr="354.47" ybr="696.07" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="c583a860-bfbd-4864-9440-b8dcf748344f.jpg" width="1024" height="1024">
+  </image>
+  <image id="365" name="c5f04195-e012-49ac-a0a3-3add44ae7ed1.jpeg" width="461" height="1024">
+  </image>
+  <image id="366" name="c632a285-dde1-49c2-96f1-9013262d5d84.jpeg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="350.53" ytl="193.33" xbr="689.97" ybr="426.41" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="c6777358-ac94-4c01-abdd-791c2102585b.jpeg" width="1024" height="771">
+    <box label="springfrosch" source="manual" occluded="0" xtl="127.64" ytl="250.25" xbr="494.12" ybr="511.83" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="484.52" ytl="289.76" xbr="824.50" ybr="547.25" z_order="0">
+    </box>
+  </image>
+  <image id="368" name="c69be0bc-c6a0-4757-8792-1ab607b1152e.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="436.47" ytl="139.68" xbr="784.56" ybr="415.17" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="c754612b-fa9c-41e6-87c8-5c9c7c774fbf.jpg" width="1024" height="768">
+  </image>
+  <image id="370" name="c7b735cd-d9b8-4c50-94f7-fb2b5baddb98.jpeg" width="1024" height="782">
+    <box label="springfrosch" source="manual" occluded="0" xtl="113.00" ytl="90.08" xbr="898.10" ybr="726.18" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="c7febe1a-af24-48b8-9185-f73469849f56.jpeg" width="1024" height="622">
+  </image>
+  <image id="372" name="c8257037-e3d7-4421-92ff-305f98ea6598.jpg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="411.91" ytl="214.19" xbr="652.27" ybr="389.34" z_order="0">
+    </box>
+  </image>
+  <image id="373" name="c8491722-2ad2-4004-a57c-075413f571c0.jpeg" width="1024" height="768">
+  </image>
+  <image id="374" name="c8619cb0-9b4e-434c-9909-0b617c247902.jpeg" width="1024" height="768">
+  </image>
+  <image id="375" name="c92124a6-0030-4b50-8ead-9a18062a0042.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="182.38" ytl="440.98" xbr="496.09" ybr="661.88" z_order="0">
+    </box>
+  </image>
+  <image id="376" name="c99206bf-794b-4c2c-8386-2da5cc6f5539.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="86.72" ytl="318.73" xbr="677.33" ybr="866.99" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="caae2a7a-d4a2-4d85-887b-b79edfb30d2d.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="70.44" ytl="259.00" xbr="302.77" ybr="427.30" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="caeb0387-14ea-4a8e-a520-65ce08a1f893.jpeg" width="1024" height="683">
+  </image>
+  <image id="379" name="ccb600f2-2463-4641-9525-ee8101439a82.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="154.04" ytl="389.30" xbr="439.57" ybr="762.77" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="ccbe5e89-aa21-492d-9001-10d46d351f10.jpg" width="1024" height="683">
+  </image>
+  <image id="381" name="cd0cc732-dcda-4312-9610-ed9c1a2b399c.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="350.59" ytl="376.64" xbr="442.22" ybr="469.14" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="cda3d017-58f2-4822-bd94-6ebb73ac37cd.jpeg" width="1024" height="768">
+  </image>
+  <image id="383" name="cdc6902f-06ea-445e-9519-48ed97c11ca0.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="37.32" ytl="102.39" xbr="1003.47" ybr="729.69" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="cdcb5601-5074-4243-a844-b3a38bbf7902.jpeg" width="1024" height="1013">
+    <box label="springfrosch" source="manual" occluded="0" xtl="156.50" ytl="137.48" xbr="813.79" ybr="875.19" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="ce6c458b-0af6-4b50-aad0-85e79c05427a.jpeg" width="1024" height="683">
+  </image>
+  <image id="386" name="cebe6277-e4a4-415a-afa2-8c050a90300e.jpg" width="1024" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="109.73" ytl="58.52" xbr="944.57" ybr="987.15" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="cf4db800-e1a5-4f28-b865-b61a2d3090e9.jpeg" width="576" height="545">
+    <box label="springfrosch" source="manual" occluded="0" xtl="105.85" ytl="47.63" xbr="389.41" ybr="459.01" z_order="0">
+    </box>
+  </image>
+  <image id="388" name="d0106589-46e7-48a7-96a8-75d3fec4a3ed.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="369.33" ytl="307.00" xbr="1008.12" ybr="598.25" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="d0922f17-0c22-4433-b8ea-47e62be55748.jpeg" width="956" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="420.02" ytl="404.63" xbr="573.95" ybr="581.80" z_order="0">
+    </box>
+  </image>
+  <image id="390" name="d0adeb90-3919-4ead-9da5-0565bd88e8a4.jpeg" width="577" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="53.39" ytl="198.27" xbr="493.87" ybr="725.90" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="d1a46fff-daff-4f7e-ade0-d1a062b689aa.jpeg" width="756" height="1008">
+  </image>
+  <image id="392" name="d250de80-d2e4-400d-8b2d-3f4e4ad43c1d.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="215.98" ytl="311.61" xbr="548.33" ybr="729.81" z_order="0">
+    </box>
+  </image>
+  <image id="393" name="d27c555a-0f26-4329-83a2-fb2277f0b3a5.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="248.92" ytl="445.79" xbr="533.01" ybr="685.54" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="d28692d0-d75d-4550-b3c8-e503f147bfbd.jpeg" width="576" height="1024">
+  </image>
+  <image id="395" name="d31f62a7-f091-47bd-b8d5-3153783ec094.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="407.97" ytl="195.93" xbr="732.32" ybr="454.45" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="d3267377-90b9-4205-9390-33a23974559e.jpg" width="1024" height="702">
+    <box label="springfrosch" source="manual" occluded="0" xtl="221.50" ytl="213.99" xbr="769.16" ybr="685.57" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="d3732890-0c0b-4550-bc6f-a66cfbde975e.jpeg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="140.79" ytl="108.69" xbr="700.08" ybr="478.92" z_order="0">
+    </box>
+  </image>
+  <image id="398" name="d416d55d-69a4-434d-8d5c-d77d789b72a7.jpg" width="853" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="167.55" ytl="179.27" xbr="488.03" ybr="931.25" z_order="0">
+    </box>
+  </image>
+  <image id="399" name="d421187d-ba7f-4d90-831b-2a59ea63bea4.jpeg" width="1024" height="681">
+    <box label="springfrosch" source="manual" occluded="0" xtl="324.77" ytl="103.10" xbr="794.71" ybr="504.43" z_order="0">
+    </box>
+  </image>
+  <image id="400" name="d439b948-6cca-46d0-8ab3-1f807ca3f295.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="150.97" ytl="443.48" xbr="670.01" ybr="867.15" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="d45b817f-cc94-4b45-a05d-ff88c607ad97.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="400.53" ytl="342.68" xbr="940.86" ybr="601.61" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="d4e0482e-0b85-4c14-97d4-7fd469f59a24.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="154.62" ytl="323.99" xbr="596.27" ybr="785.18" z_order="0">
+    </box>
+  </image>
+  <image id="403" name="d525f4a3-94e8-40ea-b0b1-237487cf52f7.jpeg" width="1024" height="768">
+  </image>
+  <image id="404" name="d55af69b-09f8-4de3-abaf-cd6108c9ff8f.jpeg" width="462" height="1024">
+  </image>
+  <image id="405" name="d5b75d2d-98d3-4d20-bf79-1fcb410a46c8.jpg" width="1024" height="697">
+    <box label="springfrosch" source="manual" occluded="0" xtl="235.45" ytl="123.71" xbr="950.54" ybr="645.98" z_order="0">
+    </box>
+  </image>
+  <image id="406" name="d6183726-d147-4729-8854-164903a1c47f.jpeg" width="1024" height="771">
+    <box label="springfrosch" source="manual" occluded="0" xtl="451.90" ytl="237.05" xbr="814.91" ybr="498.36" z_order="0">
+    </box>
+  </image>
+  <image id="407" name="d61f1650-3aa6-4eac-9657-fd6068efa06e.jpeg" width="1024" height="768">
+  </image>
+  <image id="408" name="d70558c3-2f2e-4048-a6c6-1ba4294acddb.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="230.90" ytl="102.98" xbr="719.84" ybr="487.57" z_order="0">
+    </box>
+  </image>
+  <image id="409" name="d832a56c-4963-4615-a8f8-844f69217297.jpeg" width="576" height="1024">
+  </image>
+  <image id="410" name="d8ff7b07-2582-4117-aedf-b3d6f20243b2.jpg" width="1024" height="680">
+  </image>
+  <image id="411" name="d908f53d-1a1d-4759-b7ad-a19a78fc271d.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="282.66" ytl="41.07" xbr="752.60" ybr="768.00" z_order="0">
+    </box>
+  </image>
+  <image id="412" name="d9637e12-edf4-4a8c-ac3e-ad96b9752d05.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="320.65" ytl="284.49" xbr="782.15" ybr="563.08" z_order="0">
+    </box>
+  </image>
+  <image id="413" name="d994a08e-2f65-4e5e-90ed-8569979a6cbd.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="190.84" ytl="339.58" xbr="439.46" ybr="732.59" z_order="0">
+    </box>
+  </image>
+  <image id="414" name="d9baf7f4-a37a-494e-a3ac-79438099b233.jpeg" width="1024" height="768">
+  </image>
+  <image id="415" name="d9f82098-c43f-4837-b4fb-c4a27ab89b3a.jpeg" width="879" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="176.94" ytl="322.64" xbr="685.03" ybr="735.19" z_order="0">
+    </box>
+  </image>
+  <image id="416" name="da3cdec3-f3c9-4338-903d-b25fa92c57f8.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="342.37" ytl="248.49" xbr="835.81" ybr="566.05" z_order="0">
+    </box>
+  </image>
+  <image id="417" name="dbd6193b-2b75-4805-a08e-3af43bdb7ed6.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="539.42" ytl="242.79" xbr="769.04" ybr="535.10" z_order="0">
+    </box>
+  </image>
+  <image id="418" name="dbd7fcda-9664-4997-b547-c13ee0421342.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="117.87" ytl="131.47" xbr="833.22" ybr="607.51" z_order="0">
+    </box>
+  </image>
+  <image id="419" name="dcb7bab7-99a5-4412-b7fc-93ade895c3e3.jpeg" width="1024" height="768">
+  </image>
+  <image id="420" name="dcdde2ac-e772-4216-994b-3cc5260c8301.jpg" width="1024" height="768">
+  </image>
+  <image id="421" name="dd0cc44e-ad23-4c3d-bf87-bddee976c1f3.jpeg" width="1024" height="768">
+  </image>
+  <image id="422" name="dd74b70d-49ac-4b28-b103-ac3b103c66f1.jpeg" width="1024" height="771">
+  </image>
+  <image id="423" name="de2fecfd-e6e2-40b7-bd05-2d357477478e.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="358.25" ytl="414.92" xbr="512.96" ybr="568.81" z_order="0">
+    </box>
+  </image>
+  <image id="424" name="dec7a2bd-a79f-422d-8b28-52272d490114.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="193.01" ytl="303.53" xbr="654.53" ybr="744.31" z_order="0">
+    </box>
+  </image>
+  <image id="425" name="df6a26f7-0f8b-40c4-a7c5-40040de15887.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="155.16" ytl="181.89" xbr="604.23" ybr="674.35" z_order="0">
+    </box>
+  </image>
+  <image id="426" name="e04123f6-7e66-4565-a51a-709d0e76678e.jpeg" width="768" height="1024">
+  </image>
+  <image id="427" name="e1241213-3b17-4ebb-8075-11cd831e8b7e.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="184.47" ytl="267.48" xbr="769.56" ybr="657.93" z_order="0">
+    </box>
+  </image>
+  <image id="428" name="e129d086-8b6f-46ff-934c-237327d99e1b.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="223.68" ytl="495.46" xbr="520.52" ybr="763.26" z_order="0">
+    </box>
+  </image>
+  <image id="429" name="e1839bbe-49c7-44b7-9c6c-218f16974132.jpeg" width="577" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="22.65" ytl="283.08" xbr="482.67" ybr="753.39" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="189.54" ytl="223.10" xbr="357.60" ybr="451.14" z_order="0">
+    </box>
+  </image>
+  <image id="430" name="e2361337-7565-4c26-8f5b-5d18ca4aedbf.jpg" width="715" height="1000">
+    <box label="springfrosch" source="manual" occluded="0" xtl="169.26" ytl="239.49" xbr="674.35" ybr="976.13" z_order="0">
+    </box>
+  </image>
+  <image id="431" name="e267f8ee-f2bc-443b-9877-204b4cbe4d33.jpg" width="768" height="1024">
+  </image>
+  <image id="432" name="e339e268-05ff-42e8-a803-67a6e446067a.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="234.13" ytl="48.19" xbr="958.63" ybr="620.03" z_order="0">
+    </box>
+  </image>
+  <image id="433" name="e4057f56-90bb-4942-8261-970160364b2f.jpg" width="671" height="895">
+  </image>
+  <image id="434" name="e45e716c-d8c2-40af-901f-e5c0cdbc2690.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="339.48" ytl="164.18" xbr="768.74" ybr="403.38" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="211.79" ytl="308.40" xbr="788.67" ybr="568.70" z_order="0">
+    </box>
+  </image>
+  <image id="435" name="e47dc794-5581-4714-9f19-65f067baa573.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="356.69" ytl="617.68" xbr="527.58" ybr="755.90" z_order="0">
+    </box>
+  </image>
+  <image id="436" name="e48dcb3c-6271-41b5-b7cf-797460617dbe.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="123.35" ytl="332.19" xbr="562.40" ybr="683.95" z_order="0">
+    </box>
+  </image>
+  <image id="437" name="e58c050d-e649-4470-9d5b-6bd3d9ade251.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="165.04" ytl="189.57" xbr="908.71" ybr="655.65" z_order="0">
+    </box>
+  </image>
+  <image id="438" name="e60073e5-bd59-4962-9edf-4056b7bcb913.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="197.15" ytl="511.85" xbr="324.98" ybr="611.77" z_order="0">
+    </box>
+  </image>
+  <image id="439" name="e6958acd-e32e-45e0-a389-d4bf8c2350ce.jpeg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="399.16" ytl="190.67" xbr="580.97" ybr="401.72" z_order="0">
+    </box>
+  </image>
+  <image id="440" name="e69c88f8-4564-4a38-a725-2f1129710a90.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="180.58" ytl="390.37" xbr="541.22" ybr="587.65" z_order="0">
+    </box>
+  </image>
+  <image id="441" name="e72fa6fb-463c-4c40-8e2a-923983a86146.jpeg" width="1024" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="321.45" ytl="327.31" xbr="669.94" ybr="635.64" z_order="0">
+    </box>
+  </image>
+  <image id="442" name="e7328dc1-8fe9-486b-a48b-4407962fb411.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="8.99" ytl="184.87" xbr="646.51" ybr="554.91" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="13.21" ytl="303.06" xbr="854.75" ybr="712.50" z_order="0">
+    </box>
+  </image>
+  <image id="443" name="e7764727-7ff3-434b-8de4-b41612e556b3.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="310.93" ytl="483.95" xbr="546.91" ybr="652.84" z_order="0">
+    </box>
+  </image>
+  <image id="444" name="e78b10ec-1ae5-49b1-9d05-79c0d1ce3486.jpg" width="1024" height="832">
+    <box label="springfrosch" source="manual" occluded="0" xtl="271.08" ytl="205.13" xbr="846.91" ybr="644.42" z_order="0">
+    </box>
+  </image>
+  <image id="445" name="e7fb295d-f726-4562-99a3-18fb497533b4.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="207.39" ytl="394.47" xbr="527.87" ybr="642.00" z_order="0">
+    </box>
+  </image>
+  <image id="446" name="e8bc41a6-b7b5-4d1d-94f8-9a26e7837cb8.jpeg" width="1024" height="767">
+    <box label="springfrosch" source="manual" occluded="0" xtl="125.93" ytl="227.61" xbr="827.55" ybr="615.02" z_order="0">
+    </box>
+  </image>
+  <image id="447" name="e93f6761-70d3-4935-90cf-5cde2422c851.jpeg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="199.52" ytl="402.54" xbr="436.20" ybr="711.96" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="ea2af9a7-a5e4-4ee8-874b-6f0c42c5817d.jpeg" width="576" height="1024">
+  </image>
+  <image id="449" name="ea44d9b3-0d14-4c36-97f8-5fc4092de77d.jpeg" width="1024" height="576">
+    <box label="springfrosch" source="manual" occluded="0" xtl="336.43" ytl="174.47" xbr="601.47" ybr="390.05" z_order="0">
+    </box>
+  </image>
+  <image id="450" name="eab2a46c-36bb-4f58-89d6-4f7dd136d75c.jpeg" width="768" height="1024">
+  </image>
+  <image id="451" name="eb360bf2-b54c-4557-a8fb-04f6922ba47d.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="162.06" ytl="113.55" xbr="821.39" ybr="582.04" z_order="0">
+    </box>
+  </image>
+  <image id="452" name="eb5156ec-3ca6-4f5d-8c0c-cea74d00bd8e.jpeg" width="1024" height="725">
+    <box label="springfrosch" source="manual" occluded="0" xtl="276.13" ytl="174.75" xbr="792.55" ybr="536.57" z_order="0">
+    </box>
+  </image>
+  <image id="453" name="ecae346c-3678-472c-8951-c72a0fc4f1ce.jpeg" width="1024" height="767">
+  </image>
+  <image id="454" name="ecf5a39c-93a6-468f-beb5-01aa1ab1c8b5.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="381.36" ytl="259.71" xbr="615.98" ybr="498.67" z_order="0">
+    </box>
+  </image>
+  <image id="455" name="ed10ba94-01ee-4790-9875-de791b55dcfd.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="208.69" ytl="521.05" xbr="474.83" ybr="720.09" z_order="0">
+    </box>
+  </image>
+  <image id="456" name="edd12f5a-87f3-417f-ad56-e9d2b9aafa99.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="194.37" ytl="456.96" xbr="518.56" ybr="750.24" z_order="0">
+    </box>
+  </image>
+  <image id="457" name="ef7492ea-abaa-4110-a24e-b5edadc85c3d.jpeg" width="768" height="1024">
+  </image>
+  <image id="458" name="efbf5276-43b6-4f92-8535-91e75be68873.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="278.05" ytl="673.34" xbr="547.96" ybr="886.71" z_order="0">
+    </box>
+  </image>
+  <image id="459" name="f0e13de3-657f-461b-939a-0c7c8eb0cb67.jpeg" width="576" height="1024">
+  </image>
+  <image id="460" name="f1732c1e-2340-4c1d-9e23-bcb14ce99d93.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="216.68" ytl="317.10" xbr="574.95" ybr="589.60" z_order="0">
+    </box>
+  </image>
+  <image id="461" name="f1fef2e8-8fc5-48ce-9ba6-f91d2a564852.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="261.92" ytl="195.48" xbr="572.15" ybr="546.42" z_order="0">
+    </box>
+  </image>
+  <image id="462" name="f2115bf2-caf9-4924-88d4-99bed9a41153.jpg" width="768" height="1024">
+  </image>
+  <image id="463" name="f2f0f2be-301d-436e-ab8d-a8c96e7c9f87.jpeg" width="1024" height="636">
+  </image>
+  <image id="464" name="f308f873-ed25-4834-940a-c61235458cbf.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="385.93" ytl="263.52" xbr="992.36" ybr="706.73" z_order="0">
+    </box>
+    <box label="springfrosch" source="manual" occluded="0" xtl="273.37" ytl="246.64" xbr="761.61" ybr="717.99" z_order="0">
+    </box>
+  </image>
+  <image id="465" name="f333b23b-39e8-4d92-8dec-def7848f70bd.jpg" width="1024" height="963">
+    <box label="springfrosch" source="manual" occluded="0" xtl="246.31" ytl="191.80" xbr="800.30" ybr="673.45" z_order="0">
+    </box>
+  </image>
+  <image id="466" name="f3770a29-9e9d-4758-8697-37381c0cc771.jpg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="322.65" ytl="223.38" xbr="748.67" ybr="513.58" z_order="0">
+    </box>
+  </image>
+  <image id="467" name="f41c305a-97e4-42d9-a627-6a12871569fb.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="104.10" ytl="287.51" xbr="573.21" ybr="740.88" z_order="0">
+    </box>
+  </image>
+  <image id="468" name="f437d7a6-222e-444c-b14e-5a79bf5eaf62.jpeg" width="461" height="1024">
+  </image>
+  <image id="469" name="f451a7b9-a841-4ba7-8918-11acd1dc68f6.jpg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="227.12" ytl="175.68" xbr="876.23" ybr="559.76" z_order="0">
+    </box>
+  </image>
+  <image id="470" name="f4da6d84-db16-4c3a-a95b-03d8c7b37d15.jpeg" width="1024" height="478">
+    <box label="springfrosch" source="manual" occluded="0" xtl="267.64" ytl="100.19" xbr="617.42" ybr="391.12" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="f4e9127d-5a7a-49fc-8f78-f7067ece6920.jpeg" width="768" height="1024">
+  </image>
+  <image id="472" name="f5685e2e-e111-47f4-9d53-5a9e78d7c8a5.jpeg" width="1024" height="683">
+    <box label="springfrosch" source="manual" occluded="0" xtl="368.27" ytl="178.82" xbr="805.10" ybr="477.88" z_order="0">
+    </box>
+  </image>
+  <image id="473" name="f589d692-c4f1-4420-8c07-08c4a3075c4b.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="1.67" ytl="40.13" xbr="763.34" ybr="942.50" z_order="0">
+    </box>
+  </image>
+  <image id="474" name="f5b15b15-9f6a-4bfd-9f49-0826e584a562.jpg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="231.49" ytl="371.67" xbr="559.92" ybr="767.72" z_order="0">
+    </box>
+  </image>
+  <image id="475" name="f6470d76-4cfe-4b77-829b-222d74d78235.jpg" width="576" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="32.55" ytl="333.89" xbr="501.69" ybr="761.21" z_order="0">
+    </box>
+  </image>
+  <image id="476" name="f75a98d8-cf72-4349-ba76-d2b878dd41f4.jpeg" width="1024" height="759">
+    <box label="springfrosch" source="manual" occluded="0" xtl="333.32" ytl="220.92" xbr="763.04" ybr="598.49" z_order="0">
+    </box>
+  </image>
+  <image id="477" name="f7a463e7-e230-4bdb-ae8a-4f7528f29a3b.jpg" width="1024" height="680">
+    <box label="springfrosch" source="manual" occluded="0" xtl="337.21" ytl="185.29" xbr="646.15" ybr="590.26" z_order="0">
+    </box>
+  </image>
+  <image id="478" name="f7e841fb-4634-4c07-a08c-92f68a4d0183.jpeg" width="1024" height="722">
+    <box label="springfrosch" source="manual" occluded="0" xtl="1.71" ytl="65.99" xbr="815.99" ybr="712.02" z_order="0">
+    </box>
+  </image>
+  <image id="479" name="f817e150-8da9-45ee-8e28-34e3b3d39081.jpeg" width="1024" height="768">
+  </image>
+  <image id="480" name="f8190535-b18e-4bae-aca8-4457d6f8b9a5.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="208.90" ytl="249.08" xbr="916.35" ybr="711.71" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="f8520a5e-6959-459b-99b6-233fb0a0cf51.jpeg" width="1024" height="683">
+  </image>
+  <image id="482" name="fa3ce13f-ece3-4579-b70d-fcef84c10fab.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="300.55" ytl="379.11" xbr="1008.75" ybr="583.13" z_order="0">
+    </box>
+  </image>
+  <image id="483" name="fa833eea-ab59-4f8e-a6c8-d031f8e95277.jpeg" width="768" height="1024">
+    <box label="springfrosch" source="manual" occluded="0" xtl="288.08" ytl="314.66" xbr="707.06" ybr="682.05" z_order="0">
+    </box>
+  </image>
+  <image id="484" name="fafd1763-83b6-4708-b7ce-6bf0b1514886.jpeg" width="771" height="1024">
+  </image>
+  <image id="485" name="fb70105f-e68e-4caf-869a-856dcb30e5a7.jpeg" width="1024" height="478">
+    <box label="springfrosch" source="manual" occluded="0" xtl="360.07" ytl="148.03" xbr="642.79" ybr="352.57" z_order="0">
+    </box>
+  </image>
+  <image id="486" name="fb70ca2e-abf9-48fc-94ff-3f5a600ad0b1.jpeg" width="768" height="1024">
+  </image>
+  <image id="487" name="fbf87b86-f09c-4265-8f84-4b8058728b56.jpeg" width="1024" height="686">
+    <box label="springfrosch" source="manual" occluded="0" xtl="166.05" ytl="134.42" xbr="966.21" ybr="586.90" z_order="0">
+    </box>
+  </image>
+  <image id="488" name="fca210ec-c1ca-4a29-b190-67d53c218fdf.jpg" width="1024" height="968">
+    <box label="springfrosch" source="manual" occluded="0" xtl="152.34" ytl="279.73" xbr="808.51" ybr="752.65" z_order="0">
+    </box>
+  </image>
+  <image id="489" name="ff074a90-acb0-4440-99a3-145d9397f902.jpeg" width="1024" height="768">
+    <box label="springfrosch" source="manual" occluded="0" xtl="268.77" ytl="315.79" xbr="648.79" ybr="567.88" z_order="0">
+    </box>
+  </image>
+</annotations>

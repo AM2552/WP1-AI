@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>24</id>
+      <size>78</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:33:34.653709+00:00</created>
+      <updated>2025-02-14 10:49:22.361589+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>77</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>24</id>
+          <start>0</start>
+          <stop>77</stop>
+          <url>http://localhost:8080/api/jobs/24</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:46:59.678280+00:00</dumped>
+  </meta>
+  <image id="0" name="0374d2f7-399a-4256-a39c-33b9a2fff502.jpeg" width="768" height="1024">
+  </image>
+  <image id="1" name="06a048a9-338b-479b-9f18-25909f41d66a.jpg" width="929" height="1000">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="107.68" ytl="229.06" xbr="732.37" ybr="730.33" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0f39e205-203f-4b0c-8151-3560864e3045.jpg" width="1024" height="771">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="340.36" ytl="275.12" xbr="952.45" ybr="636.10" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="11bd7e86-ae60-4971-a1da-05d7759a1b9d.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="213.25" ytl="422.09" xbr="554.71" ybr="859.83" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="12bbb7cf-608d-43ce-b118-21e11ea5a1ae.jpg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="477.81" ytl="278.49" xbr="688.87" ybr="498.33" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="148f90d1-7306-459d-82c2-7904850439e0.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="111.30" ytl="168.07" xbr="752.38" ybr="564.78" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="152f1fe0-79c1-4790-bc7a-fe3c25682336.jpeg" width="720" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="72.00" ytl="104.20" xbr="577.51" ybr="893.70" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="15793944-191a-4661-8ff5-b4786cef8de7.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="29.55" ytl="384.31" xbr="481.75" ybr="926.27" z_order="0">
+    </box>
+    <box label="wechselkröte" source="manual" occluded="0" xtl="17.83" ytl="209.73" xbr="403.59" ybr="841.59" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="1c9c7030-7525-4581-885a-f74c5b3bd88a.jpg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="200.22" ytl="313.95" xbr="610.73" ybr="643.56" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="2015e60e-a587-414f-834b-e8f8424e1901.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="193.71" ytl="313.95" xbr="519.54" ybr="577.12" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="22cb531d-6421-4576-8537-6f90addd496a.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="497.36" ytl="218.88" xbr="893.08" ybr="551.10" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="231abb48-55d8-4d42-9c39-5b3b3a89beef.jpg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="339.07" ytl="247.22" xbr="882.33" ybr="562.82" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="298ca37c-10d9-4f1b-9c8f-c22420dd6b51.jpg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="495.40" ytl="303.89" xbr="801.23" ybr="514.94" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="29feac34-daee-49d8-92e4-1b0bc7111cf0.jpeg" width="512" height="1024">
+  </image>
+  <image id="14" name="2aae3fc4-b654-41d3-b0ed-849826f31768.jpg" width="576" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="239.27" ytl="359.22" xbr="421.48" ybr="516.80" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="36d7cc16-5e5b-4669-a049-f8f4dd865b22.jpeg" width="1024" height="576">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="515.62" ytl="167.89" xbr="869.31" ybr="414.20" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="371d5132-5fb5-4c2a-adfc-aa37873d8eb9.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="141.62" ytl="169.04" xbr="464.61" ybr="671.16" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="3a280795-e165-4eec-908e-586176a6f0b4.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="287.24" ytl="104.72" xbr="709.35" ybr="712.56" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="3b148bfe-9afa-4733-9fa1-70c9d8bdbb2d.jpeg" width="1024" height="683">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="263.81" ytl="228.56" xbr="633.04" ybr="532.00" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="3c4b6887-4967-4d69-ae42-8713cc96745c.jpg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="310.90" ytl="361.74" xbr="571.46" ybr="529.12" z_order="0">
+    </box>
+    <box label="wechselkröte" source="manual" occluded="0" xtl="213.19" ytl="524.59" xbr="516.27" ybr="704.63" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="3cf0afa0-3fbf-4204-ae1f-1bba9a0c9212.jpg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="229.15" ytl="423.35" xbr="405.13" ybr="631.31" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="3e6ce2e8-25e5-4602-b004-842ae65b1aaf.jpeg" width="1024" height="683">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="303.10" ytl="163.92" xbr="613.75" ybr="380.43" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="4274b21c-d1cf-4043-92bb-1a02906e1d7f.jpeg" width="576" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="264.62" ytl="463.94" xbr="386.08" ybr="561.32" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="45ad9701-3c76-418e-bc61-cb67202a159a.jpg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="344.99" ytl="230.46" xbr="630.61" ybr="573.77" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="4dd38f70-cced-4739-ad3c-ee222dc58df4.jpg" width="785" height="786">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="40.96" ytl="86.44" xbr="715.36" ybr="690.04" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="4f1cbf71-c17e-44c1-8278-77e2a14cbfa3.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="353.08" ytl="184.12" xbr="653.36" ybr="576.91" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="4f6834b9-b018-487d-be80-ac37f8af90ed.jpeg" width="768" height="1024">
+  </image>
+  <image id="27" name="51c755c9-2b16-40e4-a462-21f20aabfe07.jpeg" width="1024" height="654">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="81.08" ytl="81.88" xbr="970.82" ybr="507.23" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="5aca8ba2-1307-40e0-a918-e8f8e0369919.jpg" width="768" height="1024">
+  </image>
+  <image id="29" name="6513c8b8-97ba-4b99-abf4-2129003b1363.jpeg" width="790" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="126.62" ytl="156.26" xbr="726.95" ybr="884.16" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="6a962d52-df4a-4b63-bb4b-e797fb935232.jpeg" width="1024" height="683">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="205.35" ytl="240.01" xbr="794.71" ybr="537.82" z_order="0">
+    </box>
+    <box label="wechselkröte" source="manual" occluded="0" xtl="305.45" ytl="129.90" xbr="793.46" ybr="453.98" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="6b367178-c829-440e-9b1b-015753f22dd7.jpeg" width="1024" height="771">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="219.53" ytl="200.32" xbr="853.75" ybr="672.10" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="71d75230-ad7f-4282-9b40-80b65e9dd99d.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="238.07" ytl="435.55" xbr="498.63" ybr="666.80" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="742d380a-2583-4885-aa86-ab333a21f89f.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="256.52" ytl="405.15" xbr="537.71" ybr="762.33" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="7838342e-cdc7-4e0e-ba2a-aa9ea98730c4.jpeg" width="1024" height="682">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="348.27" ytl="245.60" xbr="627.38" ybr="445.89" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="784666a3-af2f-4bab-9bf6-122b01fd3a3b.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="225.25" ytl="121.27" xbr="689.57" ybr="654.53" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="7cdd1528-02cc-49bb-a399-351f94722c21.jpeg" width="473" height="1024">
+  </image>
+  <image id="37" name="81939286-db3a-45a6-987d-9eea9598b52f.jpeg" width="1024" height="939">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="223.46" ytl="155.33" xbr="632.89" ybr="552.72" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="85520795-7342-4d40-8f83-8cea40f4a9da.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="24.19" ytl="243.12" xbr="875.43" ybr="653.97" z_order="0">
+    </box>
+    <box label="wechselkröte" source="manual" occluded="0" xtl="336.54" ytl="191.06" xbr="1003.47" ybr="497.79" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="8669726b-5a1f-4c3d-aada-cdffbbb18029.jpeg" width="576" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="111.60" ytl="256.23" xbr="367.31" ybr="461.68" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="8f1716c4-fb2c-4742-a1c9-c016d608cfdc.jpeg" width="1024" height="981">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="391.00" ytl="383.62" xbr="807.85" ybr="724.35" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="8f749e14-08c6-451f-8f01-56b4a2b961d8.jpg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="226.31" ytl="282.70" xbr="533.01" ybr="558.61" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="9afcc675-2835-4ccc-91c9-e06a9eb59029.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="163.79" ytl="441.90" xbr="441.63" ybr="763.08" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="9f66f01c-a7f1-4e72-9537-3b8f357e9838.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="209.84" ytl="321.01" xbr="502.97" ybr="718.36" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="a003cda8-e91d-4655-aad7-8a0d9a3f58eb.jpg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="319.49" ytl="394.80" xbr="524.68" ybr="705.34" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="a0f7ade6-756a-45a3-9c8c-3cb7b5e8c0fa.jpeg" width="1024" height="1024">
+  </image>
+  <image id="46" name="a4a3ddd5-49b2-4fed-b886-922deee31559.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="267.88" ytl="203.72" xbr="916.52" ybr="725.73" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="a6e191c1-3288-4693-aada-0ac420751515.jpeg" width="769" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="174.95" ytl="302.62" xbr="638.87" ybr="787.26" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="ab0983fc-89e0-4024-8024-6ce0549e3564.jpg" width="1024" height="576">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="268.34" ytl="350.29" xbr="586.56" ybr="570.75" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="abdea7f4-cedd-4cbc-8484-9d85e486ccd7.jpeg" width="1024" height="697">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="292.65" ytl="76.34" xbr="771.64" ybr="677.78" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="ac55b74d-cd72-4625-a021-8b3489bd70e5.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="424.78" ytl="301.75" xbr="564.26" ybr="477.51" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="ad02c396-e004-4ca4-8a11-b56d3f8c0709.jpg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="286.57" ytl="346.45" xbr="418.51" ybr="462.68" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="b57fb924-29c1-44fb-a006-eae6466c2e03.jpeg" width="1024" height="683">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="313.49" ytl="181.93" xbr="709.74" ybr="555.59" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="b5952dd3-0ea2-4f01-a712-e728060d2d41.jpeg" width="1024" height="678">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="345.05" ytl="239.73" xbr="634.11" ybr="470.91" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="b8b15e2c-41d0-4ff5-8d77-20b2c9624757.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="422.87" ytl="288.29" xbr="591.99" ybr="534.20" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="ba8cf43b-c289-4e6f-a44b-210b80ded384.jpg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="637.68" ytl="252.21" xbr="869.52" ybr="430.33" z_order="0">
+    </box>
+    <box label="wechselkröte" source="manual" occluded="0" xtl="174.01" ytl="435.42" xbr="431.86" ybr="638.98" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="be119f25-a521-4134-963d-7787271a20c0.jpeg" width="461" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="104.31" ytl="416.50" xbr="325.46" ybr="648.97" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="bebef65f-55b0-4b1f-98a1-9aa2508d4ad8.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="404.38" ytl="337.84" xbr="663.07" ybr="511.25" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="bf395e42-2f2a-4c55-8637-8fc02157e4c6.jpg" width="768" height="1024">
+  </image>
+  <image id="59" name="c348c5b2-1a61-4d91-b223-dc8bcb35a0ab.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="425.75" ytl="363.94" xbr="864.77" ybr="612.28" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="c4327e45-403b-4037-b756-cc569b74d872.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="110.72" ytl="135.34" xbr="687.60" ybr="521.10" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="c79cb9d4-4143-463f-893f-b86b454c416e.jpeg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="232.46" ytl="222.30" xbr="752.38" ybr="633.66" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="cac8f9df-7b3b-44f0-bdfc-4fc078a96c75.jpg" width="1024" height="768">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="214.00" ytl="184.20" xbr="726.00" ybr="564.29" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="cd8a99db-071f-4f11-870c-a96607f6346b.jpeg" width="806" height="937">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="238.46" ytl="238.46" xbr="461.40" ybr="520.99" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="d286223e-4335-4d92-a57d-33a3647995e9.jpeg" width="830" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="255.98" ytl="138.73" xbr="735.54" ybr="741.90" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="d28d3086-f92a-42bf-8dd9-223505b5d1e4.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="41.41" ytl="196.05" xbr="764.46" ybr="813.58" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="d671566c-d558-4bf1-b346-d0c4956b8ce1.jpeg" width="1024" height="577">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="184.83" ytl="135.57" xbr="474.80" ybr="363.14" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="da4aeb3f-f95f-41b8-b9a9-2c7505d4da6b.jpg" width="768" height="1024">
+  </image>
+  <image id="68" name="e07f275f-4264-4d03-9c92-684d44e223e9.jpeg" width="1024" height="683">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="101.21" ytl="254.58" xbr="609.63" ybr="609.11" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="e166cc4e-b931-48c6-a8c2-0ad63e40cf0c.jpeg" width="1024" height="831">
+  </image>
+  <image id="70" name="e1ae4ed5-7ffa-4697-893f-9df0d532c609.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="170.78" ytl="356.30" xbr="641.09" ybr="758.86" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="e3e7ed79-7654-4d5c-aced-6bc8c232c147.jpeg" width="1024" height="576">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="440.41" ytl="144.72" xbr="842.00" ybr="453.24" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="e6250d76-c3bb-4ca7-89f4-e0679f5805d7.jpg" width="1024" height="758">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="100.51" ytl="195.21" xbr="860.44" ybr="644.61" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="e7614018-789c-4e99-95d1-f1db28bb1aa3.jpg" width="1024" height="768">
+  </image>
+  <image id="74" name="e82e47e5-4245-4ae0-afcb-2e3b68d52b00.jpg" width="1024" height="771">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="498.68" ytl="344.70" xbr="755.68" ybr="589.90" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="f061ef7c-ebad-42c0-a6bb-5ea38e721650.jpeg" width="768" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="112.28" ytl="226.54" xbr="431.47" ybr="619.98" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="f6df5202-0a60-453a-ae2b-468b910019db.jpeg" width="576" height="1024">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="240.95" ytl="362.63" xbr="391.74" ybr="496.14" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="fc4a312a-faa6-4ebf-8753-5c0be2e74dc5.jpg" width="1000" height="667">
+    <box label="wechselkröte" source="manual" occluded="0" xtl="321.28" ytl="263.24" xbr="808.85" ybr="576.06" z_order="0">
+    </box>
+  </image>
+</annotations>

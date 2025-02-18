@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>10</id>
+      <size>132</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:24:39.156947+00:00</created>
+      <updated>2025-02-17 22:45:31.601659+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>131</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>10</id>
+          <start>0</start>
+          <stop>131</stop>
+          <url>http://localhost:8080/api/jobs/10</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:51:03.042165+00:00</dumped>
+  </meta>
+  <image id="0" name="00bcb047-4a8b-4c8f-a3e4-92dd9c91766c.jpeg" width="1024" height="882">
+    <box label="bergmolch" source="manual" occluded="0" xtl="34.01" ytl="304.11" xbr="924.98" ybr="690.12" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="01501c51-5e11-4f9c-8eb4-75b02ace3883.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="267.13" ytl="3.90" xbr="1024.00" ybr="659.34" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="048d7602-f4e1-4894-93b6-4720c58aba25.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="242.82" ytl="202.43" xbr="535.95" ybr="918.97" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="058a0b21-9a99-4cce-8475-a4534b4fcb4a.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="184.20" ytl="8.32" xbr="692.29" ybr="843.41" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="0a1e86ab-fdb2-4b95-aa12-b388d8ccfaa5.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="245.30" ytl="95.17" xbr="1019.28" ybr="761.76" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="0baca064-00d7-4f0f-8db3-eca58cf161a2.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="307.21" ytl="427.18" xbr="643.09" ybr="568.99" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="0efa489f-cbc7-4cbc-9dee-cd8bb6c8ce60.jpeg" width="1024" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="281.71" ytl="277.26" xbr="675.81" ybr="673.53" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="0f4f25c4-8e6b-45ba-9151-ec5b565073ce.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="181.83" ytl="419.48" xbr="434.90" ybr="972.08" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="100db703-4458-4856-a84e-cd54514de528.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="364.40" ytl="46.64" xbr="761.18" ybr="767.60" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="106205d1-9d43-4668-95a8-967b87952392.jpg" width="576" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="240.45" ytl="446.19" xbr="414.27" ybr="613.38" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="11c3c9b2-d7db-42f5-abc8-92b5a2bf1d7e.jpg" width="694" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="110.50" ytl="206.80" xbr="531.03" ybr="739.89" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="1206e340-0dfa-47c4-b4c8-94ff2271c8c4.jpg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="362.40" ytl="171.38" xbr="596.30" ybr="530.54" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="1255d594-a2da-45c3-87f4-0b192ff8ee4a.jpeg" width="1024" height="680">
+  </image>
+  <image id="13" name="17abe783-d0e5-447a-8fa5-9c70cf629f96.jpg" width="1024" height="768">
+  </image>
+  <image id="14" name="1a340b12-d9f5-47e0-a4b5-57055617ec78.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="201.26" ytl="437.46" xbr="698.93" ybr="821.79" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="1af0af8e-8924-4420-b351-77a4f4c529cb.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="0.00" ytl="312.39" xbr="709.35" ybr="712.35" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="23238453-79de-4c73-80f9-e538f21b61f9.jpg" width="1024" height="675">
+    <box label="bergmolch" source="manual" occluded="0" xtl="109.73" ytl="183.43" xbr="1024.00" ybr="610.07" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="23879772-f9f6-4462-b344-65a74d729687.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="287.86" ytl="55.98" xbr="921.02" ybr="758.09" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="24536339-b562-42a9-844b-52be0d17e905.jpeg" width="1024" height="769">
+    <box label="bergmolch" source="manual" occluded="0" xtl="512.92" ytl="302.02" xbr="670.71" ybr="526.02" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="25709a89-f1b8-408c-942d-9e9eca2a16ec.jpg" width="768" height="1024">
+  </image>
+  <image id="20" name="27cf9fb1-0a85-48a8-9948-bfa80afb4261.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="287.47" ytl="439.32" xbr="569.86" ybr="599.66" z_order="0">
+    </box>
+    <box label="kammmolch" source="manual" occluded="0" xtl="286.50" ytl="188.30" xbr="591.35" ybr="495.11" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="28a5203a-7e9a-4421-8d14-84327eb88d71.jpeg" width="1024" height="591">
+    <box label="bergmolch" source="manual" occluded="0" xtl="0.00" ytl="95.24" xbr="922.76" ybr="427.86" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="2b65f5a8-2213-4b80-b8be-eccfcdcceac9.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="88.44" ytl="418.46" xbr="682.52" ybr="803.05" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="2c343a3a-fba7-4a92-8e5e-f8b1766e9052.jpg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="293.00" ytl="50.25" xbr="751.81" ybr="649.83" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="2ce86b25-91d0-40f1-a76a-3af65a7190e0.jpg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="145.98" ytl="158.70" xbr="869.64" ybr="448.58" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="2e600fff-8d2a-4d2e-a63a-399199701957.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="440.16" ytl="262.33" xbr="681.18" ybr="463.45" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="2f150a94-bd18-4f19-a8f8-967847ecaea0.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="268.18" ytl="342.36" xbr="388.60" ybr="473.78" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="33d9a71c-69d7-4559-bac6-299c2b4548a5.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="485.49" ytl="293.87" xbr="764.51" ybr="572.89" z_order="0">
+    </box>
+    <box label="bergmolch" source="manual" occluded="0" xtl="151.10" ytl="558.77" xbr="397.55" ybr="784.59" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="3cffb098-2c76-48a2-80ef-ad03da2eea7a.jpeg" width="817" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="212.01" ytl="359.48" xbr="639.04" ybr="629.09" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="3d0342b4-aef9-47f6-b5ca-038deedf4edf.jpg" width="1000" height="667">
+    <box label="bergmolch" source="manual" occluded="0" xtl="115.93" ytl="228.86" xbr="929.56" ybr="536.39" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="3d441ba5-5608-4f06-99b7-9532ab63ed08.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="159.54" ytl="569.45" xbr="615.67" ybr="748.89" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="3e7c54b3-c6e7-48af-9e6e-06c7ebae03fb.jpg" width="768" height="1024">
+  </image>
+  <image id="32" name="3ef4af49-99b9-4478-8fb4-0ccc9428c341.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="15.74" ytl="144.10" xbr="642.81" ybr="880.44" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="410e2707-e568-4307-9953-194b2f21bcae.jpg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="122.51" ytl="189.46" xbr="709.69" ybr="570.06" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="41d3cb25-bc5b-4868-9d57-2bf5be9f0913.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="330.13" ytl="378.60" xbr="545.88" ybr="574.02" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="461f8107-b537-4876-b09e-598b84ba3df2.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="106.42" ytl="167.55" xbr="450.51" ybr="695.96" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="470c9339-1716-41c6-aff3-1836e0230231.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="388.37" ytl="95.12" xbr="924.21" ybr="468.10" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="478f6599-699c-4c9b-91e6-d183c345bde3.jpeg" width="576" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="105.95" ytl="377.04" xbr="421.75" ybr="652.19" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="47eb1bc5-cb8d-4039-baf0-5effd7340b10.jpg" width="1000" height="750">
+    <box label="bergmolch" source="manual" occluded="0" xtl="270.38" ytl="342.63" xbr="733.09" ybr="545.31" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="4b168cfc-4e6a-4253-9ed8-90a32ecd61cb.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="139.41" ytl="389.54" xbr="763.19" ybr="602.16" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="4d0bf27d-cbc0-44a9-b116-b39dd2736699.jpg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="87.16" ytl="126.89" xbr="1017.19" ybr="669.12" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="4dc75745-a720-431d-b25d-fee73ca00c5e.jpeg" width="1024" height="772">
+    <box label="bergmolch" source="manual" occluded="0" xtl="296.88" ytl="189.98" xbr="936.87" ybr="634.32" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="50bf1a4d-f646-4db1-bc78-6b432b09af68.jpeg" width="848" height="1024">
+  </image>
+  <image id="43" name="51810e06-3422-4fb5-ab51-1fc57a1fe4ca.jpeg" width="1024" height="655">
+    <box label="bergmolch" source="manual" occluded="0" xtl="93.52" ytl="205.72" xbr="902.32" ybr="560.92" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="57192f67-afce-41b1-94eb-3c08d80718ea.jpeg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="432.21" ytl="265.79" xbr="773.81" ybr="365.89" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="57666520-75fb-4738-9510-c3040171eb86.jpeg" width="1024" height="614">
+  </image>
+  <image id="46" name="583054ca-ab4e-4f04-b68b-7804ab4634cf.jpeg" width="1024" height="681">
+    <box label="bergmolch" source="manual" occluded="0" xtl="274.09" ytl="2.98" xbr="726.98" ybr="405.97" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="5b10dfa7-f824-4c9c-9e02-1be4d1a8bf9a.jpg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="97.64" ytl="158.15" xbr="647.21" ybr="366.87" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="5b6a46fd-ff92-4c08-92a3-8c444a6c64a4.jpg" width="768" height="1024">
+  </image>
+  <image id="49" name="5c7a7fe7-3f38-4670-98a7-a7b3d36919c9.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="454.73" ytl="295.18" xbr="782.29" ybr="555.20" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="601423c3-702d-4256-8bf5-d67fd0d4b232.jpeg" width="1024" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="59.52" ytl="437.85" xbr="869.34" ybr="645.78" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="62c21baf-abf6-4c48-8752-f98427564914.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="229.11" ytl="340.30" xbr="547.57" ybr="630.72" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="630e9573-0f29-486d-b947-e4096a3f521a.jpg" width="675" height="371">
+    <box label="bergmolch" source="manual" occluded="0" xtl="102.61" ytl="118.92" xbr="599.33" ybr="364.43" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="634ae7c7-cea7-4127-a6d4-56c707a93805.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="218.02" ytl="64.03" xbr="1021.71" ybr="641.64" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="63e43bf3-000e-45e0-a4d3-e79866280083.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="158.36" ytl="353.32" xbr="602.08" ybr="684.25" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="64f30d30-d547-4310-ac27-2b18e1b85669.jpg" width="1000" height="670">
+    <box label="bergmolch" source="manual" occluded="0" xtl="13.64" ytl="111.89" xbr="767.80" ybr="502.23" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="661d5fb4-5648-4362-b60c-1aa15fc960c7.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="225.80" ytl="374.64" xbr="667.77" ybr="662.34" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="6739dc88-cda0-48cc-9178-7f768ea369aa.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="193.34" ytl="445.21" xbr="469.10" ybr="806.74" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="68b3eadc-afe0-463a-a09a-d620b11c50f8.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="275.10" ytl="165.36" xbr="700.34" ybr="734.58" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="68c88e61-1f9f-443d-8929-ffd08da9fa4a.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="61.08" ytl="89.22" xbr="408.15" ybr="714.56" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="6cf64277-ecd0-4a22-b2cf-99eda20fe4a6.jpeg" width="1024" height="685">
+    <box label="bergmolch" source="manual" occluded="0" xtl="363.05" ytl="223.35" xbr="489.64" ybr="442.24" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="6f414037-31fb-4c28-bf80-f591459f043b.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="128.60" ytl="214.78" xbr="913.21" ybr="464.92" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="70cdf623-4408-4caf-a7cb-23135e59dc2f.jpg" width="1024" height="790">
+    <box label="bergmolch" source="manual" occluded="0" xtl="177.08" ytl="264.73" xbr="852.50" ybr="605.45" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="71ad698f-b79b-4918-ad72-926a65d732cb.jpg" width="699" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="132.21" ytl="231.10" xbr="564.87" ybr="693.59" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="725f19af-0828-4326-a0a4-d241d8502561.jpeg" width="1024" height="472">
+    <box label="bergmolch" source="manual" occluded="0" xtl="358.46" ytl="128.30" xbr="627.03" ybr="258.00" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="72fbe7dd-b499-4c2c-b6d0-23858626a61e.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="243.11" ytl="248.59" xbr="648.61" ybr="597.41" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="7781fd0e-9901-4d5d-8158-6ad1fb0fe225.jpeg" width="1024" height="769">
+    <box label="bergmolch" source="manual" occluded="0" xtl="250.48" ytl="172.12" xbr="556.81" ybr="696.52" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="7a5f3b32-813a-41c1-bc60-fc1958efd8d1.jpeg" width="576" height="1024">
+  </image>
+  <image id="68" name="7d5ceae8-19f0-4425-83bd-d239f08b5491.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="418.02" ytl="178.14" xbr="632.00" ybr="475.27" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="7eb4317e-281c-4e02-8aef-abc939bf9896.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="210.38" ytl="418.70" xbr="648.12" ybr="778.27" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="7fa7055a-0c80-4d54-8b94-fd2df0f0e3fc.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="198.07" ytl="300.37" xbr="474.69" ybr="640.40" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="8071835f-5e40-41d9-b969-36224e866701.jpeg" width="1024" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="167.78" ytl="264.97" xbr="761.86" ybr="804.33" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="81799394-51f2-437f-b629-5c5efe86bdd9.jpeg" width="683" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="66.94" ytl="109.94" xbr="546.37" ybr="776.97" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="88352f26-8d06-426a-8145-86f34f10e981.jpeg" width="1024" height="768">
+  </image>
+  <image id="74" name="8a33dc36-cbff-4880-9ef4-3235f583224d.jpeg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="0.00" ytl="309.32" xbr="497.10" ybr="441.40" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="8a49e387-6385-4188-ad70-b92f41c355d6.jpeg" width="1024" height="872">
+    <box label="bergmolch" source="manual" occluded="0" xtl="230.08" ytl="368.76" xbr="912.37" ybr="616.16" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="8a972ccb-e13b-476e-8866-a613a752d0e8.jpg" width="1024" height="530">
+  </image>
+  <image id="77" name="8c12a4b4-d8ce-4604-8c00-a037f646cf70.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="290.06" ytl="467.81" xbr="551.32" ybr="557.34" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="9c09d1cb-28e1-4902-bb35-84bb64e4429a.jpeg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="2.39" ytl="128.90" xbr="753.17" ybr="553.09" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="9caa2b5b-e151-4524-a512-499daeb83d56.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="289.27" ytl="399.65" xbr="484.69" ybr="571.64" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="9f92b767-22e3-4148-a527-152c73489dee.jpeg" width="1024" height="768">
+  </image>
+  <image id="81" name="a0490983-0807-4233-8b66-fe04f250dc6d.jpeg" width="1024" height="768">
+  </image>
+  <image id="82" name="a48c1215-c6aa-45cc-84ed-a52a4191bd71.jpeg" width="1024" height="589">
+    <box label="bergmolch" source="manual" occluded="0" xtl="330.68" ytl="233.47" xbr="819.86" ybr="408.82" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="a615f9b0-1775-4098-823b-5788ea5bdf08.jpeg" width="1024" height="673">
+    <box label="bergmolch" source="manual" occluded="0" xtl="170.94" ytl="119.65" xbr="857.83" ybr="438.99" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="a7fabc0d-4331-4678-a957-4f7c8a33ab70.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="257.05" ytl="507.35" xbr="329.93" ybr="596.57" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="acd5efdf-2d1b-494e-8b8f-732ab4dd78a8.jpeg" width="576" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="175.75" ytl="476.26" xbr="294.87" ybr="654.19" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="ae2c6647-86cc-49cc-8de3-45a613f16542.jpeg" width="1024" height="576">
+    <box label="bergmolch" source="manual" occluded="0" xtl="477.50" ytl="232.00" xbr="719.94" ybr="295.57" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="ae6984bd-c94c-4165-96b1-f907f2f95035.jpg" width="1024" height="768">
+  </image>
+  <image id="88" name="b1803acb-58c8-47b3-be62-0e39c58018a5.jpeg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="219.39" ytl="276.74" xbr="609.55" ybr="496.58" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="b319990c-3994-411c-8c2a-4ed36e18885e.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="196.70" ytl="166.09" xbr="510.68" ybr="937.34" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="b9a49ddd-92a6-431b-bb3a-d40b54dc5fe9.jpeg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="259.27" ytl="45.07" xbr="672.89" ybr="574.35" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="b9e69b05-55cd-4f78-81d6-206ed9934a79.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="192.66" ytl="448.79" xbr="588.84" ybr="807.06" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="ba28e2c6-76a4-43f9-85ca-c55fe26aea9b.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="0.00" ytl="352.58" xbr="958.03" ybr="633.99" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="c52e6826-6f35-4cfe-9381-74cba54bf6fd.jpeg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="216.61" ytl="270.29" xbr="1017.44" ybr="510.67" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="c61cf6d8-988e-40ed-a59e-9a1a9b633e41.jpg" width="1000" height="750">
+    <box label="bergmolch" source="manual" occluded="0" xtl="259.53" ytl="161.56" xbr="818.76" ybr="590.26" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="c802170c-9e55-4a05-9318-af22ab975422.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="128.68" ytl="209.35" xbr="592.25" ybr="751.52" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="c9034452-6ce7-4d63-aeb8-9b702e11d7ab.jpeg" width="1024" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="56.08" ytl="284.39" xbr="1024.00" ybr="584.56" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="c939c87d-56f8-4cb6-9bdf-446106e230ea.jpeg" width="1024" height="498">
+    <box label="bergmolch" source="manual" occluded="0" xtl="71.28" ytl="147.29" xbr="747.91" ybr="304.60" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="cb554fa8-cdda-482a-9d91-33a123f51c5a.jpeg" width="576" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="269.43" ytl="412.10" xbr="333.88" ybr="600.59" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="cc997e8c-53ae-49d8-9452-a893a01d6387.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="364.40" ytl="288.71" xbr="1024.00" ybr="463.18" z_order="0">
+    </box>
+    <box label="bergmolch" source="manual" occluded="0" xtl="80.19" ytl="171.92" xbr="375.66" ybr="513.83" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="cf8fbd55-206c-44db-8e93-73857a2d3a84.jpeg" width="1024" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="65.83" ytl="264.88" xbr="1024.00" ybr="739.52" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="d1675e49-4c0e-4764-9476-3cb480142fcf.jpg" width="576" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="210.92" ytl="359.55" xbr="408.62" ybr="606.11" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="d175d2d5-3ea7-4e45-b417-e9a49d89ad18.jpeg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="246.32" ytl="178.69" xbr="824.90" ybr="456.03" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="d1d5449f-8fb6-4655-9859-50756b44e727.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="317.78" ytl="257.75" xbr="463.18" ybr="706.44" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="d2883c5d-a78b-445a-b073-045ffef88949.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="155.16" ytl="200.42" xbr="457.67" ybr="542.79" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="d28cd08c-b0e5-4f5a-a23e-e4ef78d0f2d5.jpeg" width="576" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="71.71" ytl="234.30" xbr="479.75" ybr="748.65" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="d4faefe9-967e-4945-a931-bbf83a2f1888.jpg" width="1024" height="768">
+  </image>
+  <image id="107" name="d7de98f7-c3f5-4443-b991-3a81a3d74145.jpeg" width="1024" height="577">
+  </image>
+  <image id="108" name="d7fd0eec-299f-482d-b59d-9e4edc335f29.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="418.15" ytl="301.37" xbr="854.33" ybr="491.32" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="dad1bfa6-1293-4df3-8499-8fe96bb250b7.jpeg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="15.65" ytl="131.52" xbr="962.89" ybr="400.55" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="dbab69d4-e22a-422d-bfcd-a66576031bb6.jpeg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="275.52" ytl="392.95" xbr="492.75" ybr="677.13" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="dd74728a-b144-40cd-9101-5c50ad314dd0.jpg" width="767" height="1024">
+  </image>
+  <image id="112" name="de79bc47-f0a5-482f-ae77-bdbaa54ce12b.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="153.40" ytl="295.16" xbr="982.37" ybr="534.47" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="e086a8a8-0847-4cd5-a576-fc036bd5922f.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="298.50" ytl="462.44" xbr="755.39" ybr="636.14" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="e1acd1ee-b61c-41e4-80af-58b53b99425f.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="106.61" ytl="343.92" xbr="464.07" ybr="765.52" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="e2558453-8a88-40cb-917e-4d7c03e37f3a.jpeg" width="769" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="73.20" ytl="388.25" xbr="764.43" ybr="855.09" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="e279efc4-e25f-48d2-b73b-60dbd1c60f73.jpeg" width="1024" height="801">
+  </image>
+  <image id="117" name="e27a84e1-bdd8-4f38-b075-1103d4cb18cb.jpg" width="768" height="1024">
+  </image>
+  <image id="118" name="e3d0a5d7-9b3a-42e0-a4a4-6ae2ea17d7de.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="358.94" ytl="246.96" xbr="628.62" ybr="545.96" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="e6a1b9d2-6bc1-45db-9bcf-9bedb68a9f0c.jpg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="193.62" ytl="133.23" xbr="639.17" ybr="624.52" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="e6a41722-0253-48c9-9b84-b8229c4cb856.jpeg" width="867" height="1024">
+  </image>
+  <image id="121" name="e8aa5267-55e3-4f4d-80f6-cd22a6f49e98.jpg" width="915" height="686">
+    <box label="bergmolch" source="manual" occluded="0" xtl="273.09" ytl="84.47" xbr="610.43" ybr="580.90" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="e97c161b-147c-4524-b871-45b122da5b3e.jpeg" width="623" height="547">
+  </image>
+  <image id="123" name="ed05db0a-2366-404c-95ee-3e0ddc5d8b0b.jpg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="192.74" ytl="330.11" xbr="611.29" ybr="484.35" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="ed420068-d540-4e4b-b0f7-a197254e5c24.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="231.23" ytl="225.85" xbr="797.13" ybr="539.34" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="ee871a54-098e-4c79-a60c-caf397d0a990.jpeg" width="1024" height="683">
+    <box label="bergmolch" source="manual" occluded="0" xtl="362.91" ytl="189.62" xbr="804.63" ybr="527.79" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="f0230ec1-0c0b-4ad2-a7f2-0b8839898eaa.jpeg" width="1024" height="643">
+    <box label="bergmolch" source="manual" occluded="0" xtl="192.77" ytl="119.27" xbr="1024.00" ybr="409.18" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="f45f4286-2856-4603-80b7-75be63bbea44.jpg" width="577" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="9.74" ytl="408.58" xbr="546.47" ybr="736.89" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="f4909ac0-e129-424f-8df9-76977dc5d3be.jpeg" width="1024" height="1024">
+  </image>
+  <image id="129" name="f4f36a42-3107-42b1-9f13-470cfd1814fe.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="292.21" ytl="317.37" xbr="868.70" ybr="489.18" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="f6c9e0d7-a131-4331-825d-1cc0e1352140.jpg" width="768" height="1024">
+    <box label="bergmolch" source="manual" occluded="0" xtl="164.78" ytl="300.49" xbr="603.39" ybr="548.02" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="fc16920a-66b6-49ca-bf72-af68441ada9b.jpeg" width="1024" height="768">
+    <box label="bergmolch" source="manual" occluded="0" xtl="369.49" ytl="235.14" xbr="566.62" ybr="408.57" z_order="0">
+    </box>
+  </image>
+</annotations>

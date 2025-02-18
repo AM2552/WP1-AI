@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>12</id>
+      <size>156</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:25:24.600603+00:00</created>
+      <updated>2025-02-18 11:46:30.086635+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>155</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>12</id>
+          <start>0</start>
+          <stop>155</stop>
+          <url>http://localhost:8080/api/jobs/12</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:50:33.905223+00:00</dumped>
+  </meta>
+  <image id="0" name="0086e839-9044-4cb6-b018-9232ff83cf98.jpg" width="683" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="5.32" ytl="401.24" xbr="583.76" ybr="831.17" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="0275bef5-ed45-4183-92b8-d276208cd11b.jpg" width="1024" height="748">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="428.74" ytl="130.30" xbr="617.17" ybr="530.09" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="04538310-99e2-417b-8a2c-aab78b503349.jpg" width="1024" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="318.51" ytl="209.86" xbr="693.85" ybr="852.14" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="063409cb-bcd3-4c74-a9f3-3c8522996124.jpg" width="1024" height="768">
+  </image>
+  <image id="4" name="06d3b178-663a-43c9-8d20-1c14ceb12381.jpeg" width="576" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="197.35" ytl="193.66" xbr="421.11" ybr="859.18" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="0778c4fa-18e1-44c0-ab85-b79d3efd0411.jpg" width="1024" height="714">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="175.56" ytl="62.22" xbr="848.96" ybr="608.48" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="07b9bb08-2d6a-4c1e-9c89-6f651c207686.jpeg" width="1024" height="1024">
+  </image>
+  <image id="7" name="0b671819-a153-40f6-9ee9-48bdfdb461ab.jpeg" width="1024" height="683">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="145.39" ytl="91.93" xbr="890.16" ybr="679.04" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="0b965bba-86f7-44ae-815c-0fa93ed91eb7.jpg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="176.86" ytl="315.15" xbr="586.00" ybr="499.00" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="0dec236a-d6fc-4377-8cfe-64f66cb6ef92.jpg" width="768" height="1024">
+  </image>
+  <image id="10" name="0e673d95-3ad9-4db5-9215-dc47b58aee20.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="276.42" ytl="288.22" xbr="631.51" ybr="593.57" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="0f66dab3-f0da-46c6-8a54-65ddf4d26b4f.jpeg" width="1024" height="576">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="8.53" ytl="88.81" xbr="713.87" ybr="437.05" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="1018da13-a409-495b-9484-844db42fce11.jpeg" width="1024" height="683">
+  </image>
+  <image id="13" name="10c267d5-ba27-44cc-882c-023611acf5e1.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="194.75" ytl="414.92" xbr="452.05" ybr="784.16" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="12a7fb6c-c1bc-4218-9fa0-b26bf04cdac6.jpeg" width="1024" height="925">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="249.34" ytl="347.80" xbr="693.60" ybr="733.22" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="136466fb-5502-4d72-9dcd-8c4fa8f5b0ae.jpeg" width="1024" height="683">
+  </image>
+  <image id="16" name="15a29703-ec33-40db-b45c-9058b95207e3.jpeg" width="683" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="90.52" ytl="273.96" xbr="683.00" ybr="717.04" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="160c4750-0f36-4842-8f59-98d5fe41da91.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="252.89" ytl="309.07" xbr="722.87" ybr="542.60" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="1669ef69-7c7e-4f86-a5e5-6c953c86acf3.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="34.48" ytl="291.29" xbr="912.47" ybr="504.04" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="1cb2bc4d-3c08-472a-95e5-b75b0f653c50.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="73.70" ytl="449.01" xbr="473.33" ybr="848.54" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="1cd1da2f-a2e6-440b-a79d-3036c64662e7.jpg" width="1000" height="637">
+  </image>
+  <image id="21" name="22e47eda-a3d0-4f6b-8696-012f91e1cccb.jpeg" width="768" height="1024">
+  </image>
+  <image id="22" name="232f1eba-756f-4669-afc8-7d17f6c57195.jpeg" width="1024" height="681">
+  </image>
+  <image id="23" name="247233b8-044b-44db-bdf4-2629293eea5d.jpeg" width="1024" height="614">
+  </image>
+  <image id="24" name="26b5804f-cebf-4863-8c79-a7fe43ab5e72.jpg" width="1024" height="768">
+  </image>
+  <image id="25" name="2723b889-c8cc-4f5f-9f0b-cc149716634a.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="228.67" ytl="431.91" xbr="397.52" ybr="993.16" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="28ceab69-0208-4b88-9af2-7ea8de08ec3f.jpeg" width="1024" height="683">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="135.13" ytl="251.08" xbr="856.82" ybr="524.28" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="2a6d1692-0d9d-4720-a237-d35903a64959.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="150.50" ytl="188.03" xbr="533.50" ybr="764.90" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="2aec4563-2dd1-4ea0-b4b8-893f35a14954.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="116.11" ytl="277.14" xbr="564.80" ybr="649.22" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="2c2281e9-0eed-4c47-857f-9c5f75d5eed1.jpg" width="768" height="1024">
+  </image>
+  <image id="30" name="2febe1e3-2656-4a33-8219-87037f4ba2f8.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="105.91" ytl="214.95" xbr="700.38" ybr="762.52" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="30b3c308-6d4e-46fa-878a-ef4ee6ee9a97.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="238.61" ytl="392.34" xbr="554.54" ybr="810.32" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="312fa638-59af-467f-8df4-aca1972a33db.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="277.58" ytl="322.86" xbr="516.54" ybr="823.35" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="321d337f-1a64-4445-98f3-935ffab8d28b.jpeg" width="900" height="589">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="200.89" ytl="55.75" xbr="800.86" ybr="477.67" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="325d4875-9cfe-4e00-a878-35d63d8d61dc.jpeg" width="1024" height="767">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="397.07" ytl="169.43" xbr="648.60" ybr="529.29" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="344bbd97-a15c-43ad-962f-2717d3944bf7.jpeg" width="576" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="151.37" ytl="225.13" xbr="285.19" ybr="412.36" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="3521dc90-1017-4875-99cd-faf76d83d524.jpeg" width="496" height="439">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="124.03" ytl="110.52" xbr="374.97" ybr="430.95" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="352bc179-a582-4ee0-86c0-7d3ad44fdeed.jpg" width="1024" height="768">
+  </image>
+  <image id="38" name="377596c0-a9ff-4f4b-81d5-6b413b418197.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="284.61" ytl="528.81" xbr="497.98" ybr="617.78" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="37f4c028-b90f-4331-b0ff-8d3bc344f5dd.jpg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="192.21" ytl="223.75" xbr="701.08" ybr="609.51" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="38b5fe2c-e715-4da3-966f-dd9e1d75870f.jpeg" width="576" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="146.87" ytl="241.87" xbr="512.38" ybr="637.23" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="3900bf01-da42-4507-b291-f54dca56ff7e.jpeg" width="1024" height="990">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="280.91" ytl="81.55" xbr="870.52" ybr="766.23" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="39790a80-b101-40a9-88a4-108a72b4c95c.jpg" width="461" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="195.49" ytl="712.99" xbr="282.36" ybr="772.76" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="39ec8638-c5d1-4103-9ce5-4bf0cc9410ea.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="316.32" ytl="202.81" xbr="473.47" ybr="348.64" z_order="0">
+    </box>
+    <box label="feuersalamander" source="manual" occluded="0" xtl="563.03" ytl="331.54" xbr="884.66" ybr="513.93" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="40508c9e-4978-45e3-b46d-8ef658c8ac72.jpeg" width="576" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="173.69" ytl="332.41" xbr="307.22" ybr="693.94" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="42b836c8-6339-4d3c-8712-1686a1d9ba2d.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="131.34" ytl="64.26" xbr="768.00" ybr="890.46" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="43a32105-c1f5-4f2a-bb56-cd8676d4a8d3.jpeg" width="1024" height="767">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="123.78" ytl="82.81" xbr="848.86" ybr="620.72" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="45411af6-b053-453e-a896-58ecdb1938cc.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="343.72" ytl="377.95" xbr="493.00" ybr="749.64" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="465343fe-cc02-4429-8906-1546dfff4d50.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="57.43" ytl="329.33" xbr="572.04" ybr="820.48" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="47c6afbe-3273-4852-b0c2-e84554620bf9.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="1.41" ytl="158.66" xbr="615.03" ybr="827.00" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="4832573f-eff3-40bd-a69e-ec9e8a322dc0.jpeg" width="576" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="147.72" ytl="272.00" xbr="373.23" ybr="806.15" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="49223884-b424-4b45-954a-a2da7db33cc3.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="271.09" ytl="270.70" xbr="443.06" ybr="808.76" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="4a110a0c-f86b-44ac-888d-489300f50f88.jpg" width="1024" height="1024">
+  </image>
+  <image id="53" name="4b62c048-c038-4768-9171-f4499a8290b5.jpeg" width="1024" height="461">
+  </image>
+  <image id="54" name="4c93b026-46e0-4533-a1aa-25662c5535c4.jpeg" width="1024" height="683">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="289.31" ytl="69.33" xbr="616.03" ybr="681.22" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="4ecd9c9c-75c1-417c-aac6-1756982fb280.jpg" width="768" height="1024">
+  </image>
+  <image id="56" name="4ed87e70-0ebd-4fed-90b4-74ea7e517d34.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="82.16" ytl="468.81" xbr="751.90" ybr="755.84" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="4fa4c048-8bc1-44a6-9022-f6ce996ac930.jpeg" width="1005" height="1024">
+  </image>
+  <image id="58" name="528aab98-e8f4-4d17-ba70-0e3d05e93d4c.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="361.59" ytl="210.90" xbr="1024.00" ybr="609.09" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="53fc905a-9cea-409e-9c85-2b588738751c.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="253.50" ytl="332.58" xbr="508.98" ybr="630.93" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="542925da-c2cc-4f36-8751-8fc99591207f.jpeg" width="1024" height="692">
+  </image>
+  <image id="61" name="5616044c-5258-4f32-9a6e-5184cd4742a2.jpeg" width="1024" height="576">
+  </image>
+  <image id="62" name="578c5c46-fba0-4108-901b-e4221dbc580a.jpeg" width="1024" height="684">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="146.94" ytl="140.67" xbr="825.72" ybr="477.45" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="581efbd8-48d4-475b-be4f-8cdf4ef12b54.jpg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="199.73" ytl="201.00" xbr="749.94" ybr="573.28" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="581f4ed1-76b4-426f-9592-293c7ae0d892.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="197.09" ytl="149.41" xbr="507.03" ybr="790.39" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="585ff263-eef6-4817-a180-36f091bce76a.jpg" width="750" height="1000">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="107.00" ytl="175.11" xbr="745.85" ybr="857.05" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="5dc01f4c-942f-427e-a75f-b3b682ac59dd.jpeg" width="461" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="91.05" ytl="238.00" xbr="437.59" ybr="911.55" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="5ebb60fa-1974-4e8e-bfad-b37b4b84cbc6.jpeg" width="769" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="89.80" ytl="535.25" xbr="508.23" ybr="638.28" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="5f2e5da9-49ac-4a90-a93b-a9a93d8513c7.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="128.89" ytl="164.77" xbr="804.26" ybr="623.23" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="61b8f8e5-f4a3-4003-8000-4c7f271073ff.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="326.93" ytl="292.58" xbr="770.26" ybr="454.38" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="62a577e5-e2c8-4653-9732-db4de7142da9.jpg" width="1024" height="683">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="410.00" ytl="229.40" xbr="580.07" ybr="633.98" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="664bbab2-ea78-477e-9b2e-5e98880fb9e8.jpeg" width="577" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="1.99" ytl="177.39" xbr="500.70" ybr="622.95" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="66b4d2d4-802b-45c9-8805-1223826f0151.jpeg" width="854" height="1024">
+  </image>
+  <image id="73" name="67e3c002-9336-431e-948b-790ddc59606e.jpg" width="1024" height="683">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="430.96" ytl="161.62" xbr="842.84" ybr="522.41" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="696c9202-2012-414d-abca-0d3d3154d00f.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="211.79" ytl="298.86" xbr="347.50" ybr="557.25" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="6c9148f2-6796-4319-9cd6-9c87455e09e3.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="192.25" ytl="329.26" xbr="751.37" ybr="599.59" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="6d6730d4-34b4-47b4-98ec-e9e19e523bbd.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="365.96" ytl="306.46" xbr="479.95" ybr="544.22" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="6ed3143f-9166-4a3f-9d19-4a054bc667f7.jpeg" width="1024" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="92.26" ytl="424.80" xbr="987.90" ybr="816.70" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="751d01a3-7a09-4d65-8f31-a3647c232328.jpeg" width="576" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="225.47" ytl="368.35" xbr="388.32" ybr="751.59" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="75a6d40b-61ff-41f3-8ec8-84f32d9c29c1.jpeg" width="577" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="82.16" ytl="228.19" xbr="442.61" ybr="749.41" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="75af1d5f-a3f7-486c-a4d9-8458b599f892.jpg" width="1024" height="680">
+  </image>
+  <image id="81" name="76b01954-f8a7-4576-92da-4beb460340f2.jpeg" width="461" height="1024">
+  </image>
+  <image id="82" name="77003b28-4923-4c00-bc5b-9d11862f3c5f.jpeg" width="1024" height="814">
+  </image>
+  <image id="83" name="79608fa0-492a-407c-8ba6-dd13bf7a7d05.jpg" width="1024" height="686">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="413.94" ytl="198.28" xbr="594.60" ybr="632.92" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="7979e0cc-c3b0-48f3-9c0c-ad57c521aac9.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="26.56" ytl="280.34" xbr="611.51" ybr="667.27" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="7ae732f6-3020-4222-83b8-870b8843b9dd.jpg" width="1024" height="576">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="231.90" ytl="147.90" xbr="786.60" ybr="545.57" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="7c9b950c-aaff-45c9-84af-e9ed87959e33.jpeg" width="768" height="1024">
+  </image>
+  <image id="87" name="7da8a0cb-d9b9-4c0c-a4d8-438ccea973ea.jpeg" width="1024" height="927">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="232.70" ytl="263.76" xbr="823.70" ybr="552.48" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="7e6201ff-7c04-48c4-ab53-075bc256c2a7.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="180.46" ytl="200.53" xbr="501.26" ybr="770.85" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="7ecee966-dbc3-4c8e-b237-42fd58d3d9bb.jpg" width="320" height="480">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="76.94" ytl="161.88" xbr="252.93" ybr="288.26" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="7fda81f6-65bf-498e-80b2-1bc8156b2d54.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="326.13" ytl="195.70" xbr="1024.00" ybr="582.63" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="81e1e519-b104-4b5c-ac32-04f5e9b0c44c.jpeg" width="768" height="1024">
+  </image>
+  <image id="92" name="8206f83c-d004-41c8-9bae-ff0a21c6b9e7.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="281.22" ytl="436.65" xbr="571.64" ybr="775.92" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="853deede-81f2-4cf0-bd26-a7736f01530f.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="199.80" ytl="266.57" xbr="663.01" ybr="811.21" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="869ce5b6-8b1e-4b7c-8b5c-121d55994499.jpg" width="1024" height="856">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="46.64" ytl="220.02" xbr="980.00" ybr="585.95" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="874edb2e-3956-4768-8a46-4906286c73d7.jpeg" width="498" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="1.15" ytl="346.65" xbr="440.20" ybr="715.35" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="8bd1f8c3-fc05-453e-b3d4-7e045a5c8d49.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="294.80" ytl="303.89" xbr="808.76" ybr="494.42" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="8d23f79c-105f-43cd-986e-47a4b898c84a.jpg" width="1024" height="680">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="145.75" ytl="180.01" xbr="648.48" ybr="545.96" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="8f8a3369-2915-42f6-9901-ed0bbfb3a7bc.jpeg" width="1024" height="654">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="335.36" ytl="258.81" xbr="810.47" ybr="463.50" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="90ef7ae3-88bc-43b9-96f1-5fcaa243275c.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="268.19" ytl="529.03" xbr="479.08" ybr="716.30" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="91623aec-7ee0-4998-b11a-947e8b37d068.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="229.11" ytl="317.39" xbr="754.30" ybr="520.95" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="91f279ab-e25d-4773-8225-6228c3e6f018.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="0.49" ytl="481.07" xbr="587.65" ybr="758.82" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="99932bc2-df1f-4447-b1dc-95ace0c06ee7.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="0.00" ytl="194.75" xbr="887.51" ybr="629.56" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="9a0852ac-7263-411f-b252-60fe6642876f.jpg" width="461" height="1024">
+  </image>
+  <image id="104" name="9f0148b3-cf76-4cd6-8ac2-7b51a7a71ba6.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="263.67" ytl="367.17" xbr="470.85" ybr="756.20" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="a20bce3c-0f48-433f-9467-a17d712d9800.jpg" width="767" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="286.29" ytl="259.51" xbr="525.13" ybr="778.82" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="a5790afa-b6a5-49a4-bb6c-da135657fbed.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="459.99" ytl="461.26" xbr="724.17" ybr="677.49" z_order="0">
+    </box>
+    <box label="feuersalamander" source="manual" occluded="0" xtl="68.25" ytl="432.31" xbr="346.90" ybr="554.45" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="a713c269-f428-4d48-8f45-72e95d48c305.jpg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="360.00" ytl="320.85" xbr="743.38" ybr="449.09" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="a7bf3c30-e0a6-4605-95f9-948568d3e866.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="438.30" ytl="314.70" xbr="564.04" ybr="710.96" z_order="0">
+    </box>
+    <box label="feuersalamander" source="manual" occluded="0" xtl="146.06" ytl="477.55" xbr="529.66" ybr="776.10" z_order="0">
+    </box>
+    <box label="feuersalamander" source="manual" occluded="0" xtl="320.67" ytl="372.60" xbr="451.85" ybr="723.63" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="a8628634-4197-448b-850c-2d7726463d45.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="272.72" ytl="476.64" xbr="398.47" ybr="714.58" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="a930ab61-b313-4ff4-8fc1-920fd9e8a8c3.jpeg" width="1024" height="937">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="220.94" ytl="146.98" xbr="705.89" ybr="764.97" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="a998d4d2-c3b6-4ad9-970b-2268c994b36e.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="291.69" ytl="523.63" xbr="423.89" ybr="612.68" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="ab609294-4400-4f60-ae1f-8ee5a749daef.jpeg" width="986" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="155.35" ytl="554.48" xbr="649.37" ybr="788.98" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="ac02758e-15f0-42f4-a0e1-0fc86580c797.jpg" width="768" height="1024">
+  </image>
+  <image id="114" name="ac115378-beb9-4011-a9c9-421877b6978a.jpeg" width="576" height="1024">
+  </image>
+  <image id="115" name="b292e8ad-2bff-4032-9574-0ae6a545b6ad.jpeg" width="771" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="279.95" ytl="96.41" xbr="523.84" ybr="967.20" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="b385b766-c6f1-48b0-9617-cfac1957d481.jpeg" width="1024" height="684">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="234.24" ytl="205.42" xbr="783.53" ybr="405.92" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="b5ceb32a-2565-4e9e-bc0f-e54c9cd7dbf8.jpg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="424.13" ytl="157.85" xbr="710.23" ybr="571.87" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="b647f3fb-42ae-455e-bd7a-2061ac4e2783.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="227.58" ytl="393.45" xbr="416.90" ybr="903.11" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="bbb76ff1-682a-4dee-86cb-b5d432a8d78c.jpg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="67.69" ytl="188.34" xbr="925.97" ybr="630.50" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="bcc66d85-2ca0-4e63-a12b-f8e36be87b5f.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="144.88" ytl="85.47" xbr="596.69" ybr="879.66" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="beb4b860-9d32-4d94-ba50-c535a63baeab.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="133.78" ytl="288.71" xbr="696.74" ybr="839.01" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="c0d8e7ae-8cfc-4f85-b460-b867d38e5771.jpg" width="1024" height="683">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="384.77" ytl="157.65" xbr="611.15" ybr="447.54" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="c56d53d2-1b39-49a1-8568-d0e478ab83e5.jpeg" width="768" height="1024">
+  </image>
+  <image id="124" name="c9bd2360-36bc-469e-af6f-828a5ee71d18.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="131.00" ytl="207.22" xbr="857.96" ybr="487.45" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="ca6849ce-fa6d-4adc-9d35-bb32e8873242.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="363.16" ytl="243.45" xbr="673.88" ybr="468.69" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="cab2bbab-1a2a-4431-9f09-970f514c5133.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="144.52" ytl="392.32" xbr="566.12" ybr="503.60" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="cbc3a895-29b3-4831-996c-cdedcd7f77f4.jpeg" width="768" height="1024">
+  </image>
+  <image id="128" name="ccd52113-fe68-429a-8994-99a47fe4af11.jpeg" width="1024" height="510">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="247.05" ytl="183.11" xbr="873.16" ybr="353.58" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="cdba1a11-8577-49af-8aa7-3411baa2d98c.jpeg" width="1024" height="681">
+  </image>
+  <image id="130" name="cf3c3fb7-feab-4c0b-801d-3e397778afb6.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="436.09" ytl="199.95" xbr="656.53" ybr="631.43" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="d041fe19-126f-4372-8ce1-858f765f31b8.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="256.70" ytl="79.18" xbr="886.34" ybr="612.67" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="d0b119c4-255a-4808-8485-0d6b3edc38f3.jpeg" width="461" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="97.19" ytl="194.75" xbr="345.77" ybr="1023.33" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="d1c85d69-26cc-4c50-b734-1f68da8101fa.jpeg" width="1024" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="415.49" ytl="194.59" xbr="757.87" ybr="773.19" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="d5b0716c-c1f9-4f7c-865c-e91128f05c1a.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="106.11" ytl="104.07" xbr="606.38" ybr="918.58" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="d6777df4-01b9-4305-bad7-c232c679e047.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="279.23" ytl="381.46" xbr="588.65" ybr="556.08" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="d853c775-65d0-49f7-84bb-1355bb5d245a.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="501.27" ytl="373.57" xbr="850.04" ybr="528.35" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="d988c817-8842-418c-a0d1-005efd7241cd.jpg" width="768" height="1024">
+  </image>
+  <image id="138" name="dcf9a065-349c-4f0b-a882-d604d5d7c683.jpeg" width="1024" height="767">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="199.74" ytl="281.33" xbr="806.92" ybr="494.79" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="dec2b2f2-0843-497b-8862-17411cc6b3d1.jpeg" width="1024" height="576">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="239.80" ytl="218.12" xbr="717.71" ybr="361.63" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="def17226-746e-46cd-b32f-50edffcc68c8.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="348.60" ytl="331.57" xbr="943.68" ybr="494.42" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="dfe9e55a-c646-42d5-89c7-95b8a7b0c66f.jpg" width="473" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="192.83" ytl="345.28" xbr="387.35" ybr="755.11" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="e0878999-a3a0-42f0-8b6d-60d49dfa7a07.jpeg" width="1024" height="683">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="0.00" ytl="83.10" xbr="814.11" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="e16f22a9-b546-4513-b2ca-d62fdf7e0f68.jpg" width="1024" height="724">
+  </image>
+  <image id="144" name="e60a53b0-6595-4be3-9d93-765b38444462.jpeg" width="594" height="855">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="142.66" ytl="88.30" xbr="430.88" ybr="766.56" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="e77a5d54-67e1-4811-8168-b0af1b7887ba.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="128.52" ytl="501.67" xbr="402.22" ybr="977.19" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="e8e4702f-e8e7-4843-9fda-1bd0209ecf04.jpeg" width="1024" height="683">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="167.06" ytl="149.29" xbr="959.13" ybr="550.96" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="e9508980-972b-4d7a-82d3-cdbe7b893fff.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="247.62" ytl="80.28" xbr="527.34" ybr="965.77" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="e9f4d7af-ab57-4d7f-9361-2f425f9485c0.jpeg" width="1024" height="576">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="294.97" ytl="118.00" xbr="885.92" ybr="422.97" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="edce99ed-716f-41c6-b36a-1f12ad10675a.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="149.54" ytl="386.52" xbr="438.76" ybr="746.09" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="f4f2a96f-60b1-4aee-954f-8bcaec742b3b.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="204.23" ytl="174.62" xbr="783.65" ybr="617.25" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="f67ceeb0-ca57-4b8d-9185-2451d79a4ae2.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="219.89" ytl="187.19" xbr="497.39" ybr="920.67" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="f738fd82-0c48-42c7-87fd-24810103ed7d.jpeg" width="1024" height="768">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="377.17" ytl="184.39" xbr="868.65" ybr="495.11" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="fa1acacc-0ce1-44ba-990c-4a941bf2dab2.jpg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="245.34" ytl="367.59" xbr="556.93" ybr="599.92" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="fedc9fbb-b117-4b55-a3d7-e8c09f74e69e.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="357.67" ytl="483.43" xbr="534.09" ybr="840.79" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="ffad300b-46e7-4731-9054-2142cf623c93.jpeg" width="768" height="1024">
+    <box label="feuersalamander" source="manual" occluded="0" xtl="128.77" ytl="301.37" xbr="579.18" ybr="723.48" z_order="0">
+    </box>
+  </image>
+</annotations>

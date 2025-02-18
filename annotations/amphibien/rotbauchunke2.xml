@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>20</id>
+      <size>68</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:28:49.600787+00:00</created>
+      <updated>2025-02-16 22:58:07.594925+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>67</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>20</id>
+          <start>0</start>
+          <stop>67</stop>
+          <url>http://localhost:8080/api/jobs/20</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:47:50.364400+00:00</dumped>
+  </meta>
+  <image id="0" name="04c1b76f-7d84-458d-bf1c-f65714394188.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="287.31" ytl="175.04" xbr="688.02" ybr="642.09" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="09c42ed7-03bb-4fef-a058-e98f25181375.jpeg" width="1024" height="683">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="243.62" ytl="224.76" xbr="619.01" ybr="571.47" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0b946269-78f3-45fc-b9d3-1d0ff4486c16.jpg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="279.00" ytl="343.12" xbr="608.84" ybr="537.86" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0cd3ca55-3595-499a-87df-520a9618eb7c.jpg" width="959" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="329.44" ytl="422.17" xbr="571.09" ybr="741.54" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="0faafa9d-984d-4ec2-8f07-7d57b27c0aee.jpeg" width="700" height="424">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="202.93" ytl="15.75" xbr="527.41" ybr="362.61" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="11683bf5-f726-472a-9ed5-e5871e6bdc28.jpeg" width="961" height="668">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="295.15" ytl="141.15" xbr="740.82" ybr="447.11" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="14c7a242-c8f6-405b-968a-a3a831340722.jpg" width="1024" height="640">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="138.70" ytl="65.95" xbr="912.56" ybr="596.40" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="157bd473-6773-406a-b06e-2c8d9e2aeae0.jpg" width="1024" height="940">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="172.60" ytl="198.02" xbr="844.23" ybr="772.52" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="16c99f00-9d30-4b71-bae0-dc3eaf0b09f7.jpg" width="1024" height="682">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="165.22" ytl="61.16" xbr="955.38" ybr="668.40" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="175ae1d9-ac51-44b3-a942-6b960c5bbe68.jpeg" width="462" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="77.04" ytl="418.37" xbr="344.11" ybr="661.56" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="17ecf086-5ca3-4804-a4eb-c4b3b49e3c82.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="412.57" ytl="173.38" xbr="579.66" ybr="392.25" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="1d1a83e1-8bfa-4480-ba9c-783bbbf85501.jpeg" width="1024" height="683">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="85.62" ytl="138.55" xbr="898.97" ybr="636.57" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="1d757a54-9813-4ac4-bb7d-da867d2e6fbc.jpg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="107.52" ytl="385.65" xbr="625.00" ybr="796.81" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="20baaa99-7d13-458a-be52-8adb8be0cd21.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="114.64" ytl="244.67" xbr="644.62" ybr="533.11" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="248f8ffd-7968-4778-9eb8-4ddb0f65112e.jpeg" width="1024" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="329.62" ytl="551.55" xbr="564.03" ybr="657.40" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="2506c211-a5ad-4d31-b007-87ccef6deb01.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="420.75" ytl="214.20" xbr="711.16" ybr="400.12" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="2d3a6897-ed02-4a9e-973b-0d1c09e8aee0.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="32.21" ytl="154.50" xbr="773.24" ybr="703.24" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="2f2e259e-cf78-486c-9065-970e7b2ecd25.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="401.34" ytl="342.52" xbr="728.67" ybr="600.47" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="2ff334c4-c08c-4bf8-ac2b-b7044cca7bde.jpg" width="1000" height="750">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="225.92" ytl="80.00" xbr="701.34" ybr="728.55" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="30350375-86de-4606-8afb-a57037a330ed.jpeg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="195.54" ytl="161.77" xbr="593.26" ybr="837.14" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="36a19675-8853-478d-99ac-fdf1e353dab1.jpeg" width="574" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="151.67" ytl="523.97" xbr="381.62" ybr="698.88" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="39c4789c-5966-41af-bb6e-950368d21ae4.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="147.59" ytl="281.60" xbr="856.96" ybr="681.43" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="3ab4035b-49be-4c05-b2c6-c9d81ff522f5.jpg" width="1024" height="576">
+  </image>
+  <image id="23" name="3cf013b5-32a1-478c-9621-3f8cd1cf4062.jpeg" width="1024" height="623">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="381.73" ytl="267.31" xbr="739.37" ybr="403.33" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="3eff12fe-e4a5-48fa-9e56-ac74c5822458.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="258.62" ytl="174.20" xbr="826.24" ybr="627.97" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="460147fe-526d-4f6a-ba4e-3451e8ae43c6.jpeg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="266.83" ytl="436.29" xbr="502.06" ybr="692.32" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="475b5d80-b5c3-48b0-b955-3c7a1f7ce087.jpg" width="1024" height="683">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="227.80" ytl="239.36" xbr="895.42" ybr="443.56" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="4c36e3f1-229a-4922-b055-68ec3228d918.jpg" width="1024" height="683">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="260.72" ytl="413.37" xbr="572.17" ybr="515.47" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="4f822de5-2163-4bde-a5b1-06e9a4b72312.jpeg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="194.07" ytl="357.57" xbr="548.00" ybr="572.54" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="533f4027-035a-4e4c-b8f6-b7d011d5656a.jpg" width="1014" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="312.32" ytl="265.94" xbr="710.98" ybr="641.15" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="5e3e1ab9-8141-4042-a2d3-e05b0be82484.jpg" width="1024" height="686">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="285.03" ytl="72.74" xbr="775.18" ybr="532.52" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="67aff014-c9e7-407c-8109-0d552198ba60.jpeg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="130.87" ytl="491.47" xbr="452.04" ybr="625.67" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="6a3400b1-bdaa-44f2-b972-07944ae51d92.jpeg" width="413" height="343">
+  </image>
+  <image id="33" name="783ff8cc-4c5a-4451-b405-818337ece85d.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="433.52" ytl="269.85" xbr="792.60" ybr="574.38" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="8810b13a-b0a5-4dbe-b0f0-389974123dcf.jpg" width="1024" height="874">
+  </image>
+  <image id="35" name="98562f12-1595-42ce-a6e7-5f3fea985454.jpg" width="1024" height="949">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="363.44" ytl="368.89" xbr="680.38" ybr="710.23" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="9e9838ad-14c2-4723-a8f9-013679a8e889.jpeg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="79.92" ytl="369.61" xbr="519.61" ybr="618.41" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="9ed25620-8bd4-4a64-8fcc-fb627ea8ae85.jpeg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="359.70" ytl="560.85" xbr="428.78" ybr="631.45" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="a035a608-2807-47db-947e-a7b235d53e3b.jpeg" width="492" height="338">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="200.42" ytl="136.90" xbr="356.78" ybr="196.24" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="a17b7622-2dd0-499b-b95c-cdb0e970174b.jpg" width="1000" height="750">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="357.67" ytl="315.19" xbr="649.66" ybr="494.96" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="a4a7fe5c-13c9-4b85-9048-98458a760cea.jpg" width="1024" height="847">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="253.40" ytl="213.96" xbr="771.70" ybr="805.57" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="a894dcb9-2125-4470-abc3-c8f9fd378449.jpeg" width="1024" height="768">
+  </image>
+  <image id="42" name="aa79e089-4e8a-4858-9a73-17f7412c2164.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="575.85" ytl="154.39" xbr="987.90" ybr="399.48" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="ae525e7d-08fe-40ad-be6d-673bd1baa6de.jpg" width="1024" height="652">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="321.50" ytl="222.87" xbr="685.66" ybr="389.60" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="ae616dc3-8757-4a29-8243-4882d2525c2a.jpg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="279.33" ytl="765.18" xbr="457.76" ybr="897.74" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="b04f6acb-5b45-4cfd-b1c6-5124964f6bff.jpeg" width="1024" height="799">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="433.80" ytl="332.06" xbr="715.89" ybr="570.95" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="b100c943-0f7c-48a4-b40b-17abaca8f457.jpg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="458.76" ytl="186.80" xbr="636.26" ybr="538.56" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="b42da4a7-4b3f-4d4d-9cd5-330c56992373.jpeg" width="1024" height="683">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="356.02" ytl="275.13" xbr="462.53" ybr="382.30" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="b4c32637-6024-4580-9104-28669302e684.jpeg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="134.90" ytl="383.74" xbr="509.57" ybr="672.53" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="b6de0fa5-40b9-4115-b48b-509f8a366a30.jpg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="295.58" ytl="340.31" xbr="682.19" ybr="676.87" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="be13085e-bcc7-4c00-83ec-48c312c1c91b.jpeg" width="461" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="156.83" ytl="379.40" xbr="365.28" ybr="580.24" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="c3bb2a02-8daf-45cf-97ef-1ba18c9f3828.jpeg" width="1024" height="485">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="368.06" ytl="87.63" xbr="568.70" ybr="317.61" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="c5bf169c-0f43-499b-ba2f-75ba0f55e4f4.jpg" width="896" height="601">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="192.81" ytl="211.16" xbr="636.91" ybr="389.17" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="c84a164f-aafb-4bc8-9001-11343113c1a1.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="379.63" ytl="172.21" xbr="690.46" ybr="536.86" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="ce6907e5-94d5-4ede-b7db-e3e31f188232.jpeg" width="1024" height="576">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="161.63" ytl="281.93" xbr="606.11" ybr="556.72" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="d4dbd06b-11d6-4e3a-b40c-cc9a02689f0f.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="327.08" ytl="314.28" xbr="738.44" ybr="579.17" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="d4dfdd92-8585-442f-8ccb-aaff62b59b13.jpg" width="1024" height="683">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="326.60" ytl="379.09" xbr="484.84" ybr="479.02" z_order="0">
+    </box>
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="449.12" ytl="184.44" xbr="636.04" ybr="325.21" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="d679a690-c91c-4059-b2bf-e8e84e4a0c4c.jpeg" width="1024" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="308.42" ytl="337.08" xbr="756.58" ybr="681.02" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="d841dc60-5233-40f5-bb2b-0639c6e925ce.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="245.49" ytl="294.97" xbr="664.20" ybr="696.09" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="de346e00-80f5-49de-b94f-c92d69924bf2.jpeg" width="1024" height="945">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="832.12" ybr="890.71" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="e19319db-d32e-4de5-a920-a4d49f75ae91.jpeg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="167.96" ytl="175.22" xbr="1010.49" ybr="702.01" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="e5f005cd-70d2-4dec-a279-a191f87bb534.jpeg" width="576" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="164.49" ytl="375.37" xbr="343.93" ybr="511.83" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="e780a396-93b6-44b2-b233-281b8a69ba74.jpg" width="1024" height="653">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="287.23" ytl="258.99" xbr="657.77" ybr="468.35" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="e98e8f6d-b432-42ff-a988-d428d41e14eb.jpeg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="253.71" ytl="502.15" xbr="565.84" ybr="834.27" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="ecd2c70c-b7fa-4a21-96e3-5df6bcd59cd8.jpeg" width="576" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="108.57" ytl="354.27" xbr="474.65" ybr="702.12" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="ed5bf8f5-dfb9-474f-a1ec-9645d6c0c41e.jpg" width="768" height="1024">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="292.89" ytl="509.66" xbr="657.49" ybr="760.27" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="ee074b54-b9ab-4133-bb3f-d9e48d19034c.jpg" width="1024" height="768">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="273.98" ytl="441.24" xbr="457.25" ybr="477.88" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="ef6f499c-9c3f-48dd-a995-69e6955743db.jpg" width="1024" height="749">
+    <box label="rotbauchunke" source="manual" occluded="0" xtl="443.98" ytl="336.71" xbr="565.15" ybr="420.09" z_order="0">
+    </box>
+  </image>
+</annotations>

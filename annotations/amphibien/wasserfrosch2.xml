@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>23</id>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:33:14.000377+00:00</created>
+      <updated>2025-02-14 11:04:34.782654+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>23</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>http://localhost:8080/api/jobs/23</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:47:12.930967+00:00</dumped>
+  </meta>
+  <image id="0" name="02cd9650-88b9-4e4d-bea7-b45ee8b1624a.jpeg" width="1024" height="461">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="495.54" ytl="152.21" xbr="675.20" ybr="316.08" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="03905b04-71e4-4b97-99df-9955b176cb8d.jpeg" width="1024" height="768">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="363.32" ytl="331.91" xbr="549.99" ybr="489.33" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="04c857db-2fcf-4774-9b32-2ded0b340b86.jpeg" width="1024" height="929">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="89.58" ytl="202.25" xbr="814.63" ybr="855.81" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0b645b45-a494-4b9a-a58a-c56f6ac5c83e.jpeg" width="1024" height="768">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="327.05" ytl="214.19" xbr="717.01" ybr="554.22" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="1584db77-37d1-4df3-8d0d-1931dc5913af.jpg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="49.20" ytl="162.86" xbr="549.47" ybr="620.92" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="1ad38f51-56ee-4807-8654-83363eda2e68.jpeg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="281.60" ytl="546.72" xbr="508.51" ybr="835.51" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="233df7db-59bb-4721-88e4-154e82815703.jpg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="53.61" ytl="695.46" xbr="303.31" ybr="956.00" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="53.61" ytl="530.44" xbr="230.57" ybr="703.06" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="530.22" ytl="758.43" xbr="768.00" ybr="964.70" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="507.42" ytl="569.52" xbr="759.29" ybr="784.48" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="165.43" ytl="409.82" xbr="491.13" ybr="709.57" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="508.51" ytl="194.97" xbr="768.00" ybr="380.61" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="225.15" ytl="0.00" xbr="475.94" ybr="168.91" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="42.75" ytl="0.52" xbr="224.06" ybr="243.82" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="403a0317-0bfb-407f-8bde-6027e10d6325.jpeg" width="576" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="47.95" ytl="206.79" xbr="407.50" ybr="647.65" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="40fa65e5-c9bb-4f57-b1bc-f92cf3505c81.jpeg" width="1024" height="682">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="260.27" ytl="228.43" xbr="654.49" ybr="615.26" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="46ff38b5-650d-44b8-b218-fe3fcbd94c51.jpg" width="1024" height="900">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="267.63" ytl="261.45" xbr="826.87" ybr="651.68" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="4e48304e-a7ac-4d92-abc4-7ce319b0cd13.jpeg" width="1024" height="927">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="188.10" ytl="216.13" xbr="868.85" ybr="780.82" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="4f87cae8-0079-4d30-95dd-bd21d3de0aff.jpg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="382.79" ytl="540.30" xbr="484.45" ybr="647.19" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="53f1045c-5531-40a8-88d5-cbe6300858ca.jpg" width="1024" height="683">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="69.54" ytl="251.81" xbr="652.44" ybr="542.74" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="551c1e8a-8925-4c9c-be31-a351cd71dbf7.jpeg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="238.94" ytl="326.12" xbr="387.72" ybr="436.94" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="5dbf3443-bdcc-4780-a278-3c8905502544.jpg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="343.66" ytl="400.86" xbr="473.68" ybr="504.26" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="642ee812-6e6d-4a49-bc07-33e4e41ed287.jpg" width="1024" height="576">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="263.14" ytl="174.47" xbr="616.37" ybr="450.01" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="6e8f7d69-f9bb-40da-9681-281d7769f659.jpg" width="1024" height="768">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="369.65" ytl="286.30" xbr="639.33" ybr="566.73" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="6f641484-2149-428b-befa-60606a7c08af.jpg" width="800" height="687">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="97.62" ytl="245.40" xbr="648.27" ybr="594.67" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="724524fe-9256-4da9-a7aa-26d8d841662d.jpeg" width="1024" height="686">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="103.21" ytl="137.67" xbr="744.18" ybr="607.92" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="7624c83c-ad28-4d49-b28e-6c27d18b49cd.jpeg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="360.19" ytl="451.10" xbr="483.67" ybr="572.41" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="76e8cb3b-9dc6-4f2b-aa5b-b3d368275daa.jpg" width="577" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="91.42" ytl="412.58" xbr="271.00" ybr="554.46" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="361.58" ytl="307.34" xbr="495.61" ybr="404.20" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="774e4357-ce02-4bff-82f6-73423eff72f8.jpg" width="376" height="437">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="127.06" ytl="157.92" xbr="254.47" ybr="236.68" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="7c0a20a2-f70c-4d5f-bd51-384a3a248dcf.jpeg" width="508" height="416">
+  </image>
+  <image id="23" name="81bc4e2a-168e-4fd4-bcc7-3d9174f26f84.jpeg" width="1024" height="707">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="3.67" ytl="43.57" xbr="986.78" ybr="655.06" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="84180bcf-1f1c-43a7-84c6-919b52ffafdf.jpg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="196.48" ytl="369.88" xbr="470.23" ybr="593.05" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="92948f79-9644-497b-b63b-647c0c6b55ab.jpeg" width="1024" height="768">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="429.64" ytl="354.80" xbr="995.38" ybr="547.29" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="94a5d792-6b79-4896-99a0-33750bcf0b88.jpeg" width="1024" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="356.69" ytl="543.38" xbr="773.58" ybr="927.70" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="9682387f-0fae-4bb9-9540-b199baeaf8b6.jpg" width="1024" height="768">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="252.83" ytl="184.47" xbr="873.09" ybr="579.61" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="97b55b52-cfe9-4072-b739-229056f0eab3.jpeg" width="1024" height="768">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="511.84" ytl="229.03" xbr="867.23" ybr="489.32" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="288.00" ytl="173.92" xbr="551.82" ybr="519.81" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="9ae28d1e-f796-4596-94ea-43e1cd3909ef.jpeg" width="1024" height="683">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="423.20" ytl="292.79" xbr="828.98" ybr="580.59" z_order="0">
+    </box>
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="354.53" ytl="150.98" xbr="589.14" ybr="303.22" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="9d309014-af85-47b8-a21d-2dab575e051d.jpg" width="1024" height="768">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="307.94" ytl="264.20" xbr="690.18" ybr="491.67" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="a39b4ea3-766a-4020-833c-9a4aeefc8ea5.jpeg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="198.66" ytl="440.98" xbr="540.64" ybr="812.27" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="a7722e9b-3ac3-4892-b066-c4107f10c346.jpg" width="1024" height="577">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="410.44" ytl="100.19" xbr="734.97" ybr="403.57" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="af9bdab5-fe0f-4495-842a-80298da59ccb.jpg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="206.13" ytl="372.51" xbr="525.50" ybr="735.30" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="afa0e36b-81c4-4610-87bd-33c0c663586a.jpeg" width="1024" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="73.20" ytl="291.02" xbr="938.26" ybr="758.73" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="b656aa79-2451-4be2-99f8-a1072f5b5e43.jpg" width="1024" height="778">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="238.63" ytl="302.06" xbr="626.39" ybr="496.73" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="bd51b08f-4864-4027-b431-97641f4609ce.jpeg" width="699" height="772">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="118.57" ytl="110.22" xbr="564.49" ybr="603.28" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="c4513945-da12-45fb-adb5-2cd1f6090f8e.jpg" width="1024" height="768">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="371.33" ytl="26.38" xbr="1024.00" ybr="482.26" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="c800115a-1ebe-427c-b525-2893344f87a5.jpg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="363.36" ytl="480.27" xbr="484.30" ybr="632.63" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="cc649a8d-7898-4d37-a9e0-eb19daaa5f90.jpg" width="1024" height="576">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="692.19" ytl="466.19" xbr="790.08" ybr="531.57" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="d552ce8b-c134-48f1-b21b-4f3721ae8a6e.jpg" width="577" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="60.43" ytl="173.12" xbr="494.39" ybr="718.99" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="d7713f04-5233-4ce1-9f1b-9a0faa7ffd78.jpg" width="1024" height="817">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="203.84" ytl="202.07" xbr="674.71" ybr="656.31" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="db33b16b-3982-4287-8e92-3d6cfc03b1a6.jpeg" width="1024" height="683">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="87.22" ytl="121.98" xbr="812.88" ybr="666.81" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="ddc95345-3506-438f-a0a9-9e92ea954f12.jpeg" width="423" height="375">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="89.71" ytl="138.04" xbr="298.68" ybr="263.52" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="dfb14722-6527-453b-a595-5d95600fc888.jpeg" width="1024" height="576">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="354.57" ytl="125.23" xbr="743.26" ybr="389.04" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="e3689278-6f7f-4b72-9770-96093799937c.jpg" width="1024" height="683">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="419.46" ytl="261.39" xbr="707.67" ybr="355.52" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="fab759de-a35c-4f7d-9899-ce22b1d7bcc4.jpeg" width="768" height="1024">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="184.43" ytl="392.34" xbr="528.70" ybr="748.44" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="fd851ca4-8d68-4b13-8482-1271765720fa.jpg" width="1024" height="683">
+    <box label="wasserfrosch" source="manual" occluded="0" xtl="265.95" ytl="254.07" xbr="466.53" ybr="504.69" z_order="0">
+    </box>
+  </image>
+</annotations>

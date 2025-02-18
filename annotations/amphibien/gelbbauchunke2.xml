@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>13</id>
+      <size>60</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:25:47.061110+00:00</created>
+      <updated>2025-02-18 11:21:28.234068+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>59</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>13</id>
+          <start>0</start>
+          <stop>59</stop>
+          <url>http://localhost:8080/api/jobs/13</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:50:15.090310+00:00</dumped>
+  </meta>
+  <image id="0" name="013531c1-fd7b-4036-bf76-8c68b7cf3d99.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="261.51" ytl="11.64" xbr="643.23" ybr="776.51" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="0d4800d9-d6ee-40aa-9a24-bf7aad61dd67.jpeg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="218.39" ytl="310.89" xbr="526.99" ybr="505.50" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="11fd900c-b4c3-4503-b8c6-279e143b718b.jpg" width="577" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="90.83" ytl="426.41" xbr="411.10" ybr="742.33" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="1c84bdca-a3f7-4e1a-af13-e96f30e6026a.jpeg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="243.63" ytl="349.97" xbr="593.76" ybr="604.83" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="2575a699-f882-4fa3-8f9a-abdca79a8dab.jpeg" width="1024" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="164.33" ytl="234.68" xbr="827.45" ybr="935.58" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="25efd848-8224-47a7-bc20-dfa4e7495c32.jpeg" width="1024" height="946">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="317.61" ytl="299.08" xbr="724.42" ybr="720.33" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="293f3df4-3c61-49a5-91fc-874ea7b9b689.jpeg" width="786" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="353.23" ytl="534.71" xbr="669.81" ybr="755.01" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="311a6b4d-7f9a-4625-add9-46bbb0466ed2.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="185.30" ytl="439.74" xbr="591.77" ybr="808.43" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="38796ec5-6b46-473c-8a46-4f84c25c8aaf.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="66.75" ytl="245.62" xbr="546.18" ybr="541.36" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="391966c2-6337-4bb3-a8ef-4a98df0dcf32.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="208.75" ytl="326.39" xbr="572.23" ybr="760.23" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="3ba8e48c-afeb-46b4-a14b-5c8c72ce5734.jpg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="476.38" ytl="325.91" xbr="703.07" ybr="509.60" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="3fe69fb1-6528-45ff-9f21-7a76c54ea1dc.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="187.91" ytl="272.98" xbr="496.67" ybr="611.71" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="44612c31-25e9-4738-9d8c-4c41f387199e.jpg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="137.33" ytl="114.85" xbr="656.16" ybr="684.50" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="46bf01a3-cc97-451c-89ff-b2bf99d40f8a.jpg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="160.55" ytl="334.21" xbr="458.89" ybr="665.12" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="46dd4e2d-b779-4983-b374-b94b3c6611cb.jpeg" width="1024" height="683">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="166.63" ytl="259.78" xbr="283.94" ybr="375.35" z_order="0">
+    </box>
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="462.07" ytl="218.07" xbr="801.83" ybr="505.69" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="4748c4b4-33e4-47d3-b2ff-ecb45fabecaf.jpeg" width="1024" height="684">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="213.87" ytl="250.16" xbr="741.32" ybr="579.98" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="4bc48584-edde-44b4-ad04-12e2604b2d30.jpeg" width="1024" height="576">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="476.40" ytl="259.05" xbr="729.30" ybr="423.93" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="5096719a-d225-45ee-b79f-ba9dfb439d3f.jpeg" width="1024" height="683">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="269.16" ytl="181.57" xbr="673.23" ybr="523.94" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="50a6bf79-f3c7-4080-8ecf-c1755ba32a06.jpg" width="1024" height="681">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="386.76" ytl="300.60" xbr="936.07" ybr="622.95" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="5986f8fb-bdca-481a-8860-56239575e4c4.jpeg" width="1024" height="682">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="717.34" ytl="463.85" xbr="849.91" ybr="575.92" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="5a60012c-31d9-45f4-bd1a-e374f4bb8103.jpg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="242.56" ytl="213.64" xbr="751.63" ybr="671.90" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="5e8acd81-3b95-4216-ba54-38e394868458.jpg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="494.65" ytl="354.34" xbr="660.76" ybr="591.77" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="5f730857-49de-4fe8-abe2-37c5faf60659.jpeg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="314.86" ytl="224.38" xbr="658.80" ybr="525.30" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="63e890fe-2144-4af6-beeb-76e2c74d9777.jpeg" width="1024" height="686">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="459.03" ytl="338.46" xbr="520.94" ybr="381.40" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="67b2e1f1-c277-4cad-a27f-66005e00441b.jpeg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="152.08" ytl="194.49" xbr="862.43" ybr="655.68" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="6aabbd12-c349-43a1-868e-e71c30a46cfa.jpg" width="1024" height="683">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="515.16" ytl="266.38" xbr="860.14" ybr="569.65" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="6c9f326a-9664-46b6-8ac3-efde747a8f61.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="171.10" ytl="238.45" xbr="518.95" ybr="534.19" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="714bbb50-b534-442a-89bf-9f2fd88b0593.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="120.29" ytl="446.90" xbr="327.44" ybr="672.29" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="71a2f7d5-d895-4d30-b4c4-c102c5d1913d.jpeg" width="1024" height="511">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="215.87" ytl="335.40" xbr="458.25" ybr="476.50" z_order="0">
+    </box>
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="745.97" ytl="61.03" xbr="989.21" ybr="179.34" z_order="0">
+    </box>
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="711.90" ytl="91.32" xbr="895.51" ybr="263.57" z_order="0">
+    </box>
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="554.79" ytl="237.07" xbr="800.87" ybr="420.68" z_order="0">
+    </box>
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="256.57" ytl="163.25" xbr="558.58" ybr="351.59" z_order="0">
+    </box>
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="211.14" ytl="72.39" xbr="433.65" ybr="237.07" z_order="0">
+    </box>
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="66.43" ytl="72.30" xbr="272.75" ybr="308.05" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="751ed1b6-e4be-4c19-8ecb-8d1d0a7b33f0.jpg" width="1024" height="683">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="292.16" ytl="2.63" xbr="1020.83" ybr="659.95" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="7659bb72-e1a1-448b-8d16-fa267ae275b5.jpg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="330.39" ytl="103.97" xbr="848.74" ybr="455.16" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="7745c609-adea-4b24-890f-50d1c71f69ac.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="239.63" ytl="424.49" xbr="501.62" ybr="705.90" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="7a86e275-2af5-4832-ae87-e3b02c347b19.jpeg" width="1024" height="835">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="235.07" ytl="190.56" xbr="829.98" ybr="659.05" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="8b150538-0c9f-4e95-b472-ae549e3408d7.jpg" width="960" height="640">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="196.08" ytl="137.46" xbr="743.26" ybr="451.76" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="8f381721-21b8-4e24-8220-92ab00c4060a.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="266.99" ytl="586.04" xbr="648.84" ybr="932.59" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="8febb00b-cbe4-4e4e-8627-9a9513f854b5.jpg" width="1024" height="684">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="235.50" ytl="197.43" xbr="892.56" ybr="519.41" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="96546d72-8814-4ad7-bb20-c5479f271d2d.jpg" width="1024" height="616">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="88.27" ytl="103.31" xbr="863.36" ybr="556.30" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="96a4ad44-bc90-4e2d-bd3d-2bc0627e4a16.jpg" width="1000" height="750">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="324.68" ytl="255.59" xbr="662.50" ybr="471.20" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="97e2cd11-48a0-4cbf-a7d8-9c108a7145a7.jpg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="132.93" ytl="365.87" xbr="536.80" ybr="808.82" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="9a652187-217e-4614-a17f-0c66db823d55.jpeg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="367.63" ytl="377.98" xbr="620.70" ybr="469.83" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="9b0c4858-2718-44b7-ba12-9f25b13c1bd5.jpeg" width="1024" height="683">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="322.78" ytl="146.29" xbr="812.87" ybr="547.75" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="a02c9ad2-c8ea-4306-83d3-09f8177d33d6.jpeg" width="473" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="191.81" ytl="398.44" xbr="430.36" ybr="604.28" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="a7b63923-6a81-4536-b575-f6d487ac7c55.jpg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="290.35" ytl="241.59" xbr="506.58" ybr="420.72" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="ab92c929-6083-4a00-95fb-214b2accf763.jpg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="334.65" ytl="566.11" xbr="485.44" ybr="721.42" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="ac8fdd77-9c0d-408e-9928-90f5a62ac257.jpeg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="283.01" ytl="151.98" xbr="694.27" ybr="517.42" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="b1f0b39c-5738-4522-90c3-6221be63c67a.jpg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="190.64" ytl="97.10" xbr="687.01" ybr="684.66" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="bc209fe0-f2a7-4a60-b9f0-599aa04a5377.jpeg" width="462" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="152.21" ytl="300.34" xbr="360.79" ybr="547.87" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="bf611355-a348-478a-a4ca-d9509a31e08d.jpg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="470.52" ytl="332.75" xbr="717.72" ybr="461.72" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="c212f415-5181-44a5-9252-8064445bae91.jpeg" width="1024" height="933">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="370.26" ytl="381.07" xbr="929.35" ybr="687.32" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="cb2b5005-e748-486e-8688-dc2ef56221c7.jpg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="348.83" ytl="562.14" xbr="441.76" ybr="636.75" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="d1fe0ebb-1f9f-4d64-bbaf-4f22ed5d5cfe.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="382.67" ytl="335.93" xbr="665.80" ybr="628.28" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="daf07024-99c1-4831-9c3c-1799c5e99f74.jpg" width="1024" height="683">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="366.40" ytl="177.49" xbr="950.64" ybr="630.96" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="e01a10fb-3f2d-4796-b946-198554a77a20.jpg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="444.97" ytl="449.42" xbr="594.79" ybr="639.41" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="e1ba71d5-817b-4901-9b08-526d8b67676c.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="338.65" ytl="610.59" xbr="487.18" ybr="752.33" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="edf05b38-22a5-4371-8815-19f120fbaaf0.jpeg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="22.71" ytl="272.46" xbr="778.99" ybr="762.96" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="f0c5b694-71ea-4207-af95-59bb887f7fdb.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="206.26" ytl="453.40" xbr="513.11" ybr="694.66" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="f8c6ba33-808b-4c59-9788-2227aeb67970.jpeg" width="1024" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="4.86" ytl="8.37" xbr="1010.08" ybr="1024.00" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="fbaf3e73-d143-4448-bbbd-9864482f29dc.jpg" width="1024" height="769">
+  </image>
+  <image id="58" name="fce2f123-3643-40a6-bd55-e108b3f25189.jpg" width="1024" height="768">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="405.34" ytl="315.45" xbr="500.12" ybr="385.80" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="fd618c9b-3834-4eb6-911a-3abb5508efcf.jpeg" width="768" height="1024">
+    <box label="gelbbauchunke" source="manual" occluded="0" xtl="232.33" ytl="331.74" xbr="494.32" ybr="596.20" z_order="0">
+    </box>
+  </image>
+</annotations>

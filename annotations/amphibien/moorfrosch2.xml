@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>19</id>
+      <size>79</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:28:28.173737+00:00</created>
+      <updated>2025-02-16 23:15:23.766211+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>78</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>19</id>
+          <start>0</start>
+          <stop>78</stop>
+          <url>http://localhost:8080/api/jobs/19</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:48:11.774788+00:00</dumped>
+  </meta>
+  <image id="0" name="03a81b97-efbb-44f5-9779-f33e10058022.jpeg" width="768" height="1024">
+  </image>
+  <image id="1" name="0b1b1818-52aa-4638-a50d-d89850e96452.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="174.65" ytl="507.95" xbr="469.68" ybr="733.22" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0fd4d8c6-7ed7-4689-88d0-84e9b73c3daf.jpeg" width="1024" height="681">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="361.71" ytl="267.70" xbr="658.11" ybr="603.01" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="10c54eb1-2519-4d04-bbc7-124aca937558.jpeg" width="809" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="197.48" ytl="322.42" xbr="555.75" ybr="731.50" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="12741dbe-7ae1-401b-93d3-57e816caf174.jpg" width="1024" height="684">
+  </image>
+  <image id="5" name="140bf511-fdf4-4f60-a956-dc06f2398f70.jpeg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="447.70" ytl="216.10" xbr="889.50" ybr="629.77" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="1c5f55fa-b1fc-46cc-8beb-0849fd29e703.jpg" width="1024" height="679">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="183.93" ytl="274.99" xbr="503.75" ybr="450.38" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="1dca60ff-7b35-45fe-bbf3-13b39203aa0c.jpg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="355.67" ytl="292.23" xbr="530.18" ybr="442.85" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="2192b994-cc10-4132-933c-e95ea07c8dce.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="274.39" ytl="351.10" xbr="410.72" ybr="503.14" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="235e9469-a855-47b4-b912-805902b2eb02.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="232.85" ytl="420.13" xbr="481.47" ybr="732.80" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="28c16441-cbb9-4313-9966-964dcd912035.jpg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="149.79" ytl="127.77" xbr="854.40" ybr="528.19" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="29b21889-d275-417a-be0e-d747a4b1b9ae.jpeg" width="461" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="35.81" ytl="310.70" xbr="461.00" ybr="627.28" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="2b882665-872e-4b47-a6a2-5cc2924626fb.jpeg" width="1024" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="267.31" ytl="383.52" xbr="721.99" ybr="856.44" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="3c293b42-1d32-4429-90d6-1905d681a6f2.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="311.53" ytl="581.86" xbr="475.38" ybr="808.04" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="3dfa9db3-1544-438c-9254-1223f7c97235.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="286.36" ytl="235.24" xbr="674.07" ybr="638.74" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="3e972b60-456b-43f9-a500-4d304df0f76e.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="270.73" ytl="419.37" xbr="541.24" ybr="603.03" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="3e996a57-71e3-49c1-b380-d673928661f8.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="213.64" ytl="392.23" xbr="482.43" ybr="596.70" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="4288e45d-3f70-49ee-9b8e-9b624a4d04de.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="330.60" ytl="510.57" xbr="545.48" ybr="622.15" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="4472e8d3-d0f4-4234-a99d-c06541a94cf0.jpeg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="195.84" ytl="31.22" xbr="688.30" ybr="498.35" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="47cd5376-79f9-4a53-a20f-2bc0a663e712.jpg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="277.68" ytl="0.00" xbr="579.02" ybr="432.57" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="4c8e4d1e-c052-49bb-8c72-91cc5f3a815c.jpeg" width="766" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="287.83" ytl="379.84" xbr="428.06" ybr="549.02" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="4ceaefcb-a390-4c5b-ac45-5d46b0950cd8.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="151.30" ytl="463.07" xbr="566.57" ybr="858.43" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="4e8d08af-adc2-4ff2-8f87-09f8ee5d074a.jpg" width="1024" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="193.45" ytl="249.57" xbr="842.56" ybr="859.72" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="4e90a73e-7b48-430c-bb4d-ba4da3a2d5f0.jpeg" width="972" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="120.76" ytl="60.66" xbr="888.44" ybr="956.65" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="58961e10-0b87-4829-82ba-3a75a358494d.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="169.34" ytl="595.49" xbr="544.55" ybr="742.71" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="5d7134dd-3728-4c32-b403-4a71cfe82e8f.jpeg" width="1024" height="762">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="184.61" ytl="194.01" xbr="774.04" ybr="610.88" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="63429af1-8219-4327-87da-8aace0b359d5.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="289.20" ytl="403.98" xbr="547.16" ybr="719.25" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="69565014-116e-4fa0-875d-44092e8081ca.jpeg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="341.04" ytl="348.08" xbr="568.71" ybr="610.59" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="69971065-5e8c-4e07-9ae1-347ecf504eb7.jpg" width="1024" height="921">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="258.00" ytl="247.92" xbr="671.75" ybr="714.28" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="79c4a86c-07a8-4049-ae18-cf13e8e515df.jpeg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="440.97" ytl="219.56" xbr="638.22" ybr="501.97" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="8008a533-b99a-49f6-ad82-2d5b3df00984.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="187.58" ytl="387.04" xbr="488.53" ybr="581.16" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="837bc0a2-c416-470c-b6e2-f128509cfd2e.png" width="1024" height="576">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="386.19" ytl="189.86" xbr="647.80" ybr="354.75" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="879b5ed9-f0b3-4196-b995-73271420ac49.jpeg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="226.89" ytl="179.90" xbr="769.28" ybr="591.25" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="88fb6f61-f3a3-4bd6-a990-96c190eee910.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="186.28" ytl="544.68" xbr="385.61" ybr="794.82" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="8a223cbc-ec9a-4da2-973d-78d2e2f67e11.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="361.56" ytl="591.36" xbr="610.36" ybr="748.78" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="8a3c265d-5470-4a26-909a-c86b8058c65e.jpeg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="368.80" ytl="278.26" xbr="554.95" ybr="418.02" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="8e2a9b0e-0910-4922-b3ab-dac94dae0ce7.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="330.02" ytl="350.43" xbr="509.16" ybr="582.76" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="8f93f30a-2765-48ea-96a7-2d16cd788a0e.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="375.62" ytl="244.04" xbr="728.46" ybr="736.93" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="93d9eabf-7f12-440b-af45-72d4354ff49c.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="226.88" ytl="405.80" xbr="637.27" ybr="768.41" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="94cfb1b2-fbac-4c71-9714-1f34fe87c229.jpeg" width="1024" height="768">
+  </image>
+  <image id="40" name="987414a1-bcd4-4cf6-b7a9-548566757976.jpeg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="247.64" ytl="247.85" xbr="615.84" ybr="488.73" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="a072324a-bfa6-4eea-b878-840005b453d6.jpeg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="330.02" ytl="225.95" xbr="831.58" ybr="562.76" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="a1f017f5-f29e-4e85-a48b-166ed782da13.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="178.49" ytl="478.65" xbr="481.78" ybr="783.67" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="a3490831-a872-4ad3-b8d3-cc562ac0ee22.jpg" width="1000" height="793">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="216.10" ytl="183.65" xbr="797.23" ybr="624.34" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="a7cc498f-66e5-4e77-9ef6-85b9a4859b53.jpg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="228.91" ytl="169.11" xbr="778.82" ybr="646.32" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="ab8344cd-1c4e-4c83-9412-7c16bd4dc674.jpeg" width="576" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="90.16" ytl="274.01" xbr="521.80" ybr="730.51" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="acf9fce9-7c96-4498-9599-0ef7c3c51591.jpeg" width="576" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="80.78" ytl="303.71" xbr="476.47" ybr="667.98" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="af59c2ef-d0cb-46ee-a8d7-04ddc5a0f545.jpeg" width="854" height="834">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="296.72" ytl="309.24" xbr="480.28" ybr="594.66" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="b3a5be71-6060-4150-90be-0c7980085deb.jpeg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="251.32" ytl="227.19" xbr="849.31" ybr="639.52" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="b50d7c32-592b-4216-9e62-9c2606e82685.jpeg" width="1024" height="1005">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="100.48" ytl="155.98" xbr="948.34" ybr="898.86" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="b70bd7fc-c547-4a8f-a450-62fe7f0e51b5.jpeg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="270.65" ytl="351.03" xbr="847.64" ybr="604.77" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="525.17" ytl="194.62" xbr="929.32" ybr="416.20" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="be662294-1732-4ae2-8e26-4b4e0d3616a4.jpeg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="355.81" ytl="261.53" xbr="715.56" ybr="517.87" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="c0fac14c-469f-4980-8f05-71e95decd0f7.jpg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="418.41" ytl="259.43" xbr="805.34" ybr="552.56" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="c30981bf-1781-48e1-bc09-5585db42fcc4.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="231.88" ytl="390.17" xbr="600.57" ybr="687.21" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="c6916c59-0c64-452b-9a7a-f3959bdca682.jpeg" width="711" height="853">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="100.15" ytl="236.56" xbr="517.96" ybr="603.37" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="c7f403f8-7021-4b02-95e7-a4f64088212a.jpg" width="1024" height="681">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="699.78" ytl="468.24" xbr="885.89" ybr="530.63" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="919.16" ytl="654.35" xbr="977.38" ybr="677.22" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="696.67" ytl="372.59" xbr="776.72" ybr="419.38" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="131.23" ytl="129.93" xbr="214.98" ybr="180.47" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="786.08" ytl="636.68" xbr="875.49" ybr="680.34" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="0.55" ytl="276.43" xbr="133.40" ybr="339.31" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="297.42" ytl="510.87" xbr="378.52" ybr="558.70" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="334.12" ytl="3.58" xbr="422.92" ybr="54.84" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="14.63" ytl="402.74" xbr="140.43" ybr="467.20" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="842.22" ytl="534.79" xbr="936.84" ybr="582.61" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="301.58" ytl="464.09" xbr="385.80" ybr="507.75" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="658.70" ytl="328.38" xbr="755.63" ybr="363.27" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="927.48" ytl="449.53" xbr="1024.00" ybr="505.67" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="479.96" ytl="5.02" xbr="552.88" ybr="41.85" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="645.72" ytl="577.41" xbr="721.62" ybr="644.99" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="475.21" ytl="302.93" xbr="551.11" ybr="345.56" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="786.08" ytl="414.18" xbr="879.65" ybr="457.85" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="573.98" ytl="355.96" xbr="685.23" ybr="408.98" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="79.25" ytl="175.42" xbr="188.27" ybr="257.73" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="472.78" ytl="203.83" xbr="629.88" ybr="253.77" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="156.02" ytl="496.32" xbr="263.11" ybr="543.10" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="575.12" ytl="148.54" xbr="675.00" ybr="205.69" z_order="0">
+    </box>
+    <box label="moorfrosch" source="manual" occluded="0" xtl="157.94" ytl="182.64" xbr="287.18" ybr="221.63" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="cb9d14e8-4a0f-4d3b-990f-02434687db47.jpg" width="882" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="197.72" ytl="264.32" xbr="634.83" ybr="759.59" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="cd2213dc-f507-4457-9e5b-82c6f80f5d41.jpeg" width="461" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="42.21" ytl="347.61" xbr="366.83" ybr="617.94" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="ce54da69-e65b-43a5-a8e0-c5eaa8813967.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="306.90" ytl="431.21" xbr="591.45" ybr="700.45" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="d08873ef-eae7-41b2-a4b1-016d40670be8.jpg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="2.38" ytl="1.81" xbr="743.88" ybr="599.80" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="d28d1b26-68ce-4a04-bc82-d03ec611a04c.jpeg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="361.17" ytl="276.18" xbr="672.12" ybr="584.32" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="d36fbc60-4c7a-45fe-8f30-94db9d7e9268.jpg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="379.16" ytl="196.22" xbr="870.92" ybr="527.81" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="d38e02d9-53c5-406d-9a50-92c04f49306e.jpg" width="940" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="289.46" ytl="285.70" xbr="679.86" ybr="559.61" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="d4a643d9-dff7-43b5-a310-601813fc4669.jpg" width="1024" height="683">
+  </image>
+  <image id="64" name="d6384321-5449-4715-ad1d-2e67eee07bac.jpg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="295.74" ytl="269.59" xbr="791.72" ybr="572.10" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="df914bbc-2df3-47c2-86d4-c1a46a1cb015.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="348.17" ytl="474.92" xbr="539.97" ybr="645.92" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="e3029257-dd39-4c43-b65f-22fe6c34218e.jpeg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="310.90" ytl="197.68" xbr="588.42" ybr="413.62" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="e920f47f-c9bc-4b5e-8308-c38122981824.jpeg" width="782" height="1024">
+  </image>
+  <image id="68" name="eeabe822-ef58-4ff1-9706-d4b64b7f5eb4.jpeg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="193.45" ytl="287.25" xbr="642.91" ybr="515.24" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="f0fccc35-9b40-4110-86c1-3eae47a5664d.jpeg" width="1024" height="768">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="322.85" ytl="283.27" xbr="519.24" ybr="489.44" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="f1069920-65d5-41ce-b50a-5f8291a25199.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="172.21" ytl="484.49" xbr="406.71" ybr="720.30" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="f1ec53ce-3b62-40aa-9dc1-f9fe2d8f8cbc.jpg" width="1006" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="93.91" ytl="158.01" xbr="942.82" ybr="906.86" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="f23bfca7-2f2b-44e8-92c4-e888a1f7888b.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="216.35" ytl="396.57" xbr="521.53" ybr="558.34" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="f82ea31a-f2dc-47db-bc3f-6c754a845953.jpg" width="768" height="1024">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="144.70" ytl="328.18" xbr="596.44" ybr="840.61" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="fb492f0a-4be0-427b-9746-9f6cba5d9381.jpeg" width="1024" height="574">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="301.19" ytl="160.25" xbr="677.96" ybr="397.59" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="fc035ac0-53cd-412a-ac53-51ab61a87e9c.jpeg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="303.95" ytl="248.85" xbr="608.92" ybr="613.72" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="fc493c82-faa0-4d1e-a832-39f892f40f92.jpg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="277.26" ytl="252.65" xbr="545.35" ybr="445.56" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="fe109761-c2d7-4026-9cf9-86eb610273eb.jpg" width="1024" height="683">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="328.46" ytl="222.41" xbr="654.84" ybr="606.14" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="ff307696-238e-4903-b8e8-a0341cffc124.jpg" width="1024" height="820">
+    <box label="moorfrosch" source="manual" occluded="0" xtl="231.96" ytl="117.72" xbr="696.29" ybr="627.18" z_order="0">
+    </box>
+  </image>
+</annotations>

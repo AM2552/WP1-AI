@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>11</id>
+      <size>83</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:24:58.182857+00:00</created>
+      <updated>2025-02-17 23:01:25.125297+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>82</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>11</id>
+          <start>0</start>
+          <stop>82</stop>
+          <url>http://localhost:8080/api/jobs/11</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:50:47.290460+00:00</dumped>
+  </meta>
+  <image id="0" name="00f38cd8-98ce-4e3a-bf69-2acd32c13e48.jpeg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="165.14" ytl="144.62" xbr="796.30" ybr="534.49" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="02b902bb-9bbf-4ed2-9724-f31894cf86c9.jpeg" width="768" height="1024">
+  </image>
+  <image id="2" name="048e3629-a324-412c-93cd-846076de45b7.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="334.32" ytl="488.82" xbr="435.54" ybr="603.16" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0e0910d1-d857-475a-be71-b40e20ef8e52.jpeg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="182.48" ytl="280.15" xbr="541.38" ybr="608.45" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="0e442e23-3840-4f00-a136-e5ae7e24598d.jpg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="232.89" ytl="145.31" xbr="804.03" ybr="474.79" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="0f497816-5f5b-4ab2-a744-24e70404a060.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="189.66" ytl="431.41" xbr="374.23" ybr="667.54" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="159e26ed-cf23-4cd5-a4b6-493a3ce204ab.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="214.09" ytl="324.65" xbr="530.74" ybr="590.64" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="11.43" ytl="404.26" xbr="661.02" ybr="920.86" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="180c054b-6099-40c5-91fe-06b4c1727dfe.jpeg" width="1024" height="680">
+    <box label="erdkröte" source="manual" occluded="0" xtl="280.83" ytl="247.43" xbr="889.43" ybr="516.58" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="1aa5401c-80e7-4c13-b04c-e829638419df.jpeg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="192.61" ytl="179.94" xbr="921.44" ybr="768.00" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="1ab2f8aa-c99a-4df1-ab81-203685c24a84.jpg" width="1024" height="682">
+    <box label="erdkröte" source="manual" occluded="0" xtl="258.36" ytl="124.79" xbr="864.35" ybr="608.34" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="1b1f1933-0b64-4e75-8c6c-d2ff16fbab5d.jpg" width="1024" height="683">
+    <box label="erdkröte" source="manual" occluded="0" xtl="121.64" ytl="15.53" xbr="898.69" ybr="576.11" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="1f1e58b4-2540-4d17-bfa7-b8e9b5fa23f8.jpeg" width="577" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="195.65" ytl="332.64" xbr="311.76" ybr="528.66" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="265163cc-6a18-484d-97a4-34a605a59706.jpeg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="197.60" ytl="33.70" xbr="973.90" ybr="698.50" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="2676b457-e1d7-44e2-82e5-facd5d511ade.jpeg" width="1024" height="681">
+    <box label="erdkröte" source="manual" occluded="0" xtl="69.46" ytl="192.70" xbr="639.16" ybr="679.58" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="26bb48e7-0772-41e5-bdd2-b3901967f71d.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="289.96" ytl="448.69" xbr="448.58" ybr="596.34" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="2761ec3d-f168-4660-b1e6-2ed8ec0d3e86.jpeg" width="576" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="301.84" ytl="501.48" xbr="393.99" ybr="633.42" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="2efee809-de1d-4d48-8acd-c52922b99084.jpg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="450.06" ytl="281.32" xbr="840.90" ybr="534.49" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="3247fa9c-fcbf-4a58-b965-293718380357.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="103.29" ytl="214.94" xbr="675.22" ybr="652.68" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="3272aedd-1b86-49fd-9e2a-21e302cc8e94.jpeg" width="769" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="103.16" ytl="412.97" xbr="428.86" ybr="799.90" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="3398947d-ebfa-4cd8-ae54-22767db722de.jpg" width="576" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="10.01" ytl="295.72" xbr="559.79" ybr="672.22" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="3bc23e54-017d-4e56-99be-036060ef0195.jpg" width="1024" height="576">
+    <box label="erdkröte" source="manual" occluded="0" xtl="255.23" ytl="179.53" xbr="445.03" ybr="375.93" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="3ca40360-0ec7-4251-82c6-c50e533aa804.jpeg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="365.06" ytl="322.36" xbr="643.53" ybr="522.76" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="310.34" ytl="296.95" xbr="809.64" ybr="589.20" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="3ca5dd5f-3213-4566-82f6-74a3c4e32997.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="103.29" ytl="208.43" xbr="445.93" ybr="698.28" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="3cc8e5f1-365f-4846-8ec9-77bc3b748ed1.jpg" width="1024" height="578">
+  </image>
+  <image id="24" name="3e659c84-80b9-4cae-9e0a-c11171a8b063.jpeg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="226.02" ytl="242.63" xbr="780.03" ybr="593.40" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="3e8ac2ab-059e-41d2-a484-6942511e22b2.jpeg" width="768" height="1024">
+  </image>
+  <image id="26" name="3eab3415-dc5e-428e-9c7f-9fc285867d12.png" width="1024" height="670">
+  </image>
+  <image id="27" name="4542bc1a-345d-4e68-801e-7a8ef1378bc3.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="216.24" ytl="358.25" xbr="460.52" ybr="702.41" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="4b55d9f9-fb00-4e70-9e27-5465362e9a6b.jpeg" width="576" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="81.08" ytl="503.73" xbr="313.52" ybr="744.75" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="4bfec00a-b681-43ee-b4db-031b9bbf9eba.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="279.21" ytl="292.02" xbr="511.55" ybr="493.96" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="4eefb555-8b7f-4f06-bed8-0ecaf90f391d.jpeg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="200.49" ytl="104.39" xbr="684.60" ybr="561.80" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="5610ae50-d8b9-419f-a39a-1a43345ab571.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="190.30" ytl="407.43" xbr="459.90" ybr="711.42" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="5703db60-c063-401c-8370-91a02def1da9.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="395.22" ytl="368.35" xbr="562.59" ybr="754.66" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="60506343-006e-4179-bc70-83decce4aa3a.jpg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="138.32" ytl="127.58" xbr="772.50" ybr="632.09" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="652ec074-08e9-47c1-a336-32e52f852a93.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="209.73" ytl="278.56" xbr="640.74" ybr="615.12" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="67195f18-40cb-4f7b-97a1-d83d86d4deb0.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="223.67" ytl="442.74" xbr="333.62" ybr="584.54" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="69350aa2-013c-4262-b00d-6abeafc5f774.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="159.54" ytl="377.39" xbr="447.33" ybr="618.05" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="719db316-7889-4250-968f-1587bd9a7ac5.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="119.82" ytl="279.68" xbr="592.08" ybr="675.05" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="7b41268a-6cbf-479d-bf6b-3cc78aa7db3c.jpeg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="291.32" ytl="422.17" xbr="603.26" ybr="690.06" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="8b15cf07-452f-410b-9bad-9bde662feb53.jpg" width="1024" height="719">
+    <box label="erdkröte" source="manual" occluded="0" xtl="413.66" ytl="215.01" xbr="806.25" ybr="458.94" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="343.53" ytl="272.94" xbr="877.90" ybr="625.89" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="8bad44f5-44e3-4481-919f-75e9bf96ac3f.jpeg" width="1024" height="769">
+    <box label="erdkröte" source="manual" occluded="0" xtl="327.78" ytl="305.76" xbr="685.70" ybr="635.15" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="973557bb-2e52-4880-94b9-34c2a1a2f649.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="535.25" ytl="478.64" xbr="625.09" ybr="561.01" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="181.65" ytl="611.21" xbr="370.76" ybr="812.88" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="476.15" ytl="169.34" xbr="602.65" ybr="297.02" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="97d50a07-33fc-41e0-935d-b17ef08d6647.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="211.81" ytl="379.09" xbr="533.61" ybr="828.56" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="9ab4d51d-2032-47ed-8750-f3e4f6043a4d.jpg" width="1024" height="872">
+  </image>
+  <image id="44" name="9e624142-d031-493d-a88e-8f77e4ace64c.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="104.85" ytl="539.34" xbr="402.02" ybr="762.12" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="a03d99d3-0c99-45ea-95e3-fec76a4614fd.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="252.20" ytl="326.98" xbr="541.42" ybr="518.49" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="a09cc493-43be-4424-a551-ee02a6385b07.jpeg" width="1024" height="768">
+  </image>
+  <image id="47" name="a4f4c44e-767d-475e-912e-9142565d3c88.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="179.24" ytl="263.01" xbr="562.27" ybr="760.81" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="a589cfd6-cbf8-4068-b8a7-9d84cc7a411c.jpeg" width="1024" height="757">
+    <box label="erdkröte" source="manual" occluded="0" xtl="167.25" ytl="64.76" xbr="953.60" ybr="712.43" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="a66bffe7-02a1-4789-9d37-db286e5ffc55.jpg" width="768" height="1024">
+  </image>
+  <image id="50" name="a697650b-fd0f-4ca9-85e0-3239b95cb0d7.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="69.55" ytl="491.92" xbr="563.31" ybr="980.47" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="a6c4719d-f1a6-4793-b5f0-e46585bbdbfc.jpg" width="1024" height="683">
+    <box label="erdkröte" source="manual" occluded="0" xtl="267.04" ytl="194.84" xbr="702.62" ybr="467.62" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="242.01" ytl="303.70" xbr="914.09" ybr="616.53" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="a74b6f2d-c08c-43b6-ad9c-0b5803333042.jpeg" width="1024" height="709">
+  </image>
+  <image id="53" name="a95f68a4-7d5c-45ca-9abe-34c697a83caf.jpg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="62.03" ytl="197.25" xbr="1000.66" ybr="556.04" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="b8c8879e-3621-4f06-b6f4-cfa07d93a9f8.jpeg" width="1024" height="683">
+    <box label="erdkröte" source="manual" occluded="0" xtl="282.05" ytl="254.90" xbr="682.60" ybr="523.93" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="bba4d1c6-d0f5-48ad-8981-efd714469ba0.jpeg" width="960" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="206.54" ytl="232.99" xbr="713.25" ybr="848.33" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="bbac7ccb-76c8-48b9-a339-4b3a25a141a5.jpeg" width="576" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="269.28" ytl="459.45" xbr="369.70" ybr="556.26" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="c043f07d-c08a-40e8-bada-25df34cf8cb7.jpg" width="1024" height="990">
+    <box label="erdkröte" source="manual" occluded="0" xtl="270.78" ytl="243.05" xbr="752.82" ybr="647.16" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="c0b317ae-8951-4e79-828f-7fea6ffa3a02.jpg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="190.57" ytl="278.78" xbr="664.19" ybr="624.16" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="c6700d1a-dcbc-4919-98ef-362cbb6faedc.jpeg" width="771" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="117.47" ytl="402.45" xbr="514.73" ybr="838.53" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="c795d301-02f0-4206-892a-6066ef131989.jpeg" width="328" height="390">
+    <box label="erdkröte" source="manual" occluded="0" xtl="101.51" ytl="92.46" xbr="260.48" ybr="300.26" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="ca3d7a0a-cb28-4003-8fe9-2c5b39f7155b.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="47.95" ytl="169.11" xbr="768.00" ybr="907.17" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="cbc21c4c-30d0-4c70-a2ab-8dfdce22ce92.jpeg" width="1024" height="683">
+    <box label="erdkröte" source="manual" occluded="0" xtl="316.05" ytl="119.70" xbr="961.51" ybr="475.28" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="177.26" ytl="165.48" xbr="758.17" ybr="595.19" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="ceae0c38-6319-4863-b7e0-261d722fabf6.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="286.38" ytl="272.27" xbr="509.84" ybr="436.92" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="ced2f9f6-216d-40c2-b0bd-b328e4fa03b5.jpeg" width="577" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="118.21" ytl="387.02" xbr="450.42" ybr="713.80" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="71.52" ytl="422.85" xbr="384.20" ybr="832.14" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="cfccf39f-a810-4c7c-89c7-780409935172.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="242.41" ytl="232.85" xbr="460.63" ybr="495.59" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="d474cc10-bd99-4805-a560-8e845582ad3a.jpeg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="201.42" ytl="227.56" xbr="834.10" ybr="604.56" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="d6cfeb91-40b9-4f35-a618-3a5e0bacda36.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="120.81" ytl="340.34" xbr="493.20" ybr="849.51" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="dab1a35d-7a25-4235-a842-3e68541fc40e.jpg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="270.64" ytl="281.30" xbr="685.90" ybr="589.09" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="e532f832-5b30-4f62-b91e-c2fc98038671.jpg" width="843" height="834">
+    <box label="erdkröte" source="manual" occluded="0" xtl="0.00" ytl="212.61" xbr="809.12" ybr="735.32" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="e6e62c9e-61e0-4405-b598-44961e7fc22b.jpg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="65.46" ytl="60.39" xbr="738.95" ybr="611.95" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="e8fc207b-50f9-4023-a19f-99949b23c8d1.jpeg" width="1024" height="683">
+    <box label="erdkröte" source="manual" occluded="0" xtl="90.61" ytl="122.26" xbr="758.80" ybr="538.95" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="ea8b5eb1-ac90-48db-b7cb-2fe6f3826d35.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="274.22" ytl="349.52" xbr="666.36" ybr="823.74" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="ef0b81ee-0df7-4117-9eb5-6779de19d1aa.jpg" width="763" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="232.37" ytl="425.62" xbr="463.07" ybr="638.22" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="f004542d-acd5-4834-b39d-e24a1c97378c.jpeg" width="1024" height="743">
+    <box label="erdkröte" source="manual" occluded="0" xtl="352.96" ytl="224.69" xbr="673.42" ybr="584.84" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="f13fd8f4-d365-4c94-a152-85b4810e7c2d.jpg" width="768" height="1024">
+  </image>
+  <image id="76" name="f1a9ec0d-2e29-4772-b71b-35d12783f605.jpeg" width="1024" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="205.56" ytl="221.72" xbr="833.51" ybr="654.25" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="f2958b89-c7fc-4143-aa3d-5940b448ee30.jpg" width="1024" height="683">
+  </image>
+  <image id="78" name="f5b9b039-4a0a-49dd-86c9-224f8060bb17.jpeg" width="768" height="1024">
+    <box label="erdkröte" source="manual" occluded="0" xtl="206.60" ytl="451.00" xbr="364.72" ybr="602.32" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="f9e4149c-d8a4-4bb4-bbe9-953778ee0b5c.jpg" width="1024" height="683">
+    <box label="erdkröte" source="manual" occluded="0" xtl="229.19" ytl="78.20" xbr="860.05" ybr="593.31" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="fa4372b7-18bf-485d-9f73-6d4c47f2d9dc.jpeg" width="1024" height="578">
+    <box label="erdkröte" source="manual" occluded="0" xtl="308.79" ytl="160.10" xbr="832.96" ybr="525.43" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="181.72" ytl="167.16" xbr="926.50" ybr="573.96" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="fce38c51-a9bc-4b1e-9fe4-dcce9a775ef6.jpg" width="1024" height="768">
+    <box label="erdkröte" source="manual" occluded="0" xtl="245.56" ytl="125.96" xbr="752.09" ybr="562.14" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="fd3e7610-846b-4bc6-9749-0137a358380e.jpeg" width="771" height="409">
+    <box label="erdkröte" source="manual" occluded="0" xtl="453.79" ytl="316.29" xbr="519.70" ybr="371.83" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="444.25" ytl="270.36" xbr="504.52" ybr="320.23" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="315.03" ytl="321.49" xbr="376.60" ybr="380.51" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="246.95" ytl="357.48" xbr="308.52" ybr="409.00" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="240.88" ytl="296.38" xbr="290.31" ybr="354.05" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="126.83" ytl="297.21" xbr="200.55" ybr="366.63" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="211.39" ytl="255.60" xbr="256.90" ybr="322.83" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="282.94" ytl="267.28" xbr="338.44" ybr="317.63" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="225.70" ytl="192.70" xbr="276.00" ybr="250.85" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="356.66" ytl="232.59" xbr="423.87" ybr="282.51" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="306.35" ytl="172.75" xbr="376.17" ybr="228.74" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="364.90" ytl="152.37" xbr="405.66" ybr="198.38" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="518.83" ytl="170.59" xbr="576.94" ybr="211.39" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="444.68" ytl="116.38" xbr="501.49" ybr="163.26" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="507.13" ytl="94.27" xbr="550.49" ybr="148.08" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="665.40" ytl="94.27" xbr="729.58" ybr="147.65" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="482.41" ytl="56.58" xbr="539.65" ybr="96.91" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="422.57" ytl="66.08" xbr="472.87" ybr="108.62" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="481.98" ytl="3.25" xbr="533.58" ybr="36.64" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="573.91" ytl="7.50" xbr="625.94" ybr="58.32" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="285.97" ytl="106.84" xbr="334.54" ybr="166.73" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="314.59" ytl="73.00" xbr="352.80" ybr="138.54" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="303.75" ytl="40.97" xbr="349.72" ybr="83.04" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="205.32" ytl="53.98" xbr="257.35" ybr="99.51" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="163.26" ytl="57.84" xbr="215.29" ybr="97.35" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="140.27" ytl="26.62" xbr="189.27" ybr="78.27" z_order="0">
+    </box>
+    <box label="erdkröte" source="manual" occluded="0" xtl="86.50" ytl="15.35" xbr="140.71" ybr="63.52" z_order="0">
+    </box>
+  </image>
+</annotations>

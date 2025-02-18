@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>22</id>
+      <size>95</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:32:40.982244+00:00</created>
+      <updated>2025-02-14 11:37:16.139526+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>94</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>22</id>
+          <start>0</start>
+          <stop>94</stop>
+          <url>http://localhost:8080/api/jobs/22</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:47:25.111411+00:00</dumped>
+  </meta>
+  <image id="0" name="01f69cf3-aa67-49b8-b632-13c75e7c3d95.jpg" width="1024" height="701">
+    <box label="teichmolch" source="manual" occluded="0" xtl="106.19" ytl="24.05" xbr="883.89" ybr="551.14" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="04552eb3-c762-4ebc-bc3d-007e70fc9e12.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="374.79" ytl="99.64" xbr="648.50" ybr="955.58" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0b013334-fc32-4f6d-9e5b-a752a3e0c1af.jpg" width="796" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="208.82" ytl="113.84" xbr="552.76" ybr="776.97" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0c90b2bb-6f14-42da-8cb3-7c45509fcb24.jpg" width="1024" height="684">
+    <box label="teichmolch" source="manual" occluded="0" xtl="11.18" ytl="145.89" xbr="815.27" ybr="564.65" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="12136001-354b-480d-a492-467be0bd5bed.jpeg" width="1024" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="88.91" ytl="272.29" xbr="1023.80" ybr="894.51" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="1281a73d-584f-41b3-9521-8f84630b3a71.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="163.26" ytl="362.16" xbr="513.93" ybr="673.85" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="14b40977-7079-46ed-88c7-25cc6c05d58a.jpg" width="1024" height="688">
+    <box label="teichmolch" source="manual" occluded="0" xtl="215.57" ytl="164.58" xbr="515.44" ybr="497.20" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="1556f805-907c-4df1-87b9-6c7811bacea5.jpeg" width="1024" height="683">
+  </image>
+  <image id="8" name="165ff1c1-3fda-4914-920d-cb2fb584ae71.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="403.20" ytl="477.46" xbr="543.90" ybr="893.05" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="16e51e28-8b37-4ed1-8269-39873e00e881.jpg" width="1024" height="576">
+    <box label="teichmolch" source="manual" occluded="0" xtl="167.36" ytl="262.92" xbr="768.35" ybr="416.82" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="183a779f-3c1f-4729-a51f-380c22e639ad.jpeg" width="1024" height="985">
+  </image>
+  <image id="11" name="1c26cc5d-7bbd-49b3-926d-176cfe1b5910.jpg" width="1000" height="750">
+    <box label="teichmolch" source="manual" occluded="0" xtl="198.30" ytl="266.91" xbr="828.07" ybr="667.67" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="1d1b653e-cc90-4870-a932-ef36827eb1ec.jpeg" width="576" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="3.63" ytl="236.83" xbr="488.40" ybr="894.74" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="1edc231e-fdcd-4cf7-8dbc-8d347285da35.jpeg" width="1024" height="683">
+    <box label="teichmolch" source="manual" occluded="0" xtl="0.00" ytl="260.05" xbr="885.44" ybr="500.75" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="21417a3d-e883-4823-b4f2-63fa0ffd6a06.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="134.95" ytl="390.43" xbr="700.36" ybr="606.69" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="23dbd90c-eebb-47b0-b59e-6523dd06b645.jpeg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="382.74" ytl="170.71" xbr="732.64" ybr="656.33" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="2751e807-fd6e-4197-8108-2cee99f9e57f.jpeg" width="1024" height="738">
+    <box label="teichmolch" source="manual" occluded="0" xtl="135.27" ytl="100.25" xbr="751.21" ybr="615.72" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="3215348e-952c-41b0-8618-f614849142b7.jpeg" width="1024" height="962">
+    <box label="teichmolch" source="manual" occluded="0" xtl="351.31" ytl="197.95" xbr="793.27" ybr="692.41" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="35d179c0-f575-4fe9-8197-cf1c5a25cafe.jpg" width="1024" height="789">
+  </image>
+  <image id="19" name="3745b981-d410-4cbc-806d-67839b5f6d37.jpeg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="144.63" ytl="130.28" xbr="876.28" ybr="718.41" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="3b91e934-b50a-4cfa-9617-9a0ebbaf1aec.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="0.00" ytl="173.71" xbr="578.93" ybr="892.23" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="467d7d4d-94aa-4eb6-8d55-bd37767fbd5b.jpeg" width="1024" height="683">
+  </image>
+  <image id="22" name="491fb6d3-2772-4a94-b068-bd7ec242ea36.jpeg" width="576" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="2.61" ytl="218.73" xbr="402.39" ybr="789.04" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="4bbdab5b-935c-4a15-99e7-8891df3ea685.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="160.98" ytl="324.27" xbr="563.77" ybr="568.54" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="525.77" ytl="0.63" xbr="740.73" ybr="182.05" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="4bf190c5-8115-43fd-948f-44768b038de6.jpeg" width="1024" height="498">
+    <box label="teichmolch" source="manual" occluded="0" xtl="178.59" ytl="169.67" xbr="369.70" ybr="363.15" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="4e844469-ee89-4840-bf9b-b603524cba59.jpeg" width="1024" height="684">
+    <box label="teichmolch" source="manual" occluded="0" xtl="92.09" ytl="211.39" xbr="1024.00" ybr="616.15" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="4fa98560-97b8-4014-8912-3736f20e4e58.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="165.98" ytl="560.07" xbr="686.01" ybr="779.38" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="528112e6-8225-4182-8235-5cb52d1c7f4c.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="234.37" ytl="397.22" xbr="537.28" ybr="651.27" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="56400236-a979-46e2-aeea-6c1fb37400e7.jpeg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="143.25" ytl="404.56" xbr="534.88" ybr="585.72" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="577b3ff4-efb2-4be4-9391-dcedfa80ad6e.jpeg" width="1024" height="513">
+    <box label="teichmolch" source="manual" occluded="0" xtl="111.31" ytl="133.83" xbr="992.64" ybr="412.44" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="60efc6d9-7321-41bf-ba0e-7bd2d188cb78.jpeg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="423.47" ytl="0.00" xbr="595.28" ybr="141.58" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="282.36" ytl="376.90" xbr="516.95" ybr="603.26" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="477.78" ytl="270.23" xbr="718.07" ybr="469.72" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="619b733f-49f7-4bc7-b0e8-a4274e22c124.jpeg" width="1024" height="716">
+    <box label="teichmolch" source="manual" occluded="0" xtl="42.02" ytl="89.25" xbr="1010.10" ybr="550.98" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="638e04b9-5f1c-49d9-aba1-e69405100a25.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="266.04" ytl="573.71" xbr="520.86" ybr="886.38" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="45.60" ytl="101.57" xbr="362.97" ybr="289.17" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="12.77" ytl="354.84" xbr="228.52" ybr="569.02" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="65450279-95da-484f-964c-375453c4d4d2.jpeg" width="694" height="228">
+    <box label="teichmolch" source="manual" occluded="0" xtl="27.76" ytl="12.56" xbr="648.61" ybr="200.95" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="662f4e0e-e756-4ff7-b2a0-1655774cee3c.jpeg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="201.63" ytl="165.20" xbr="500.23" ybr="873.40" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="668eb05e-b77c-4f7c-b76a-15770aa3ae7b.jpg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="200.53" ytl="125.02" xbr="412.76" ybr="360.70" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="392.83" ytl="363.04" xbr="850.11" ybr="567.06" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="6941122a-ea9c-44f6-adf1-6dc02f696807.jpeg" width="663" height="744">
+    <box label="teichmolch" source="manual" occluded="0" xtl="63.21" ytl="209.70" xbr="522.20" ybr="460.76" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="697d463b-509c-47e5-bd35-3cbac5e366d4.jpg" width="822" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="41.67" ytl="393.97" xbr="708.27" ybr="718.58" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="6b28789f-bcdd-403e-b548-df40d36bf4c7.jpeg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="275.20" ytl="328.83" xbr="577.01" ybr="856.46" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="721616ee-25c7-43c4-a8da-9119bf4db7ce.jpeg" width="1024" height="692">
+    <box label="teichmolch" source="manual" occluded="0" xtl="324.98" ytl="310.15" xbr="698.98" ybr="586.53" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="72c281c5-daaa-4eb3-abec-d9f37842a116.jpeg" width="651" height="1024">
+  </image>
+  <image id="41" name="75525213-867c-4e2a-9cdc-42d798dd6e06.jpeg" width="1024" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="442.67" ytl="306.14" xbr="961.18" ybr="969.26" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="75e2cea3-6e32-4c9b-a084-f2bb1bfa1bb1.jpeg" width="771" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="73.20" ytl="432.51" xbr="672.48" ybr="590.15" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="7770141c-433e-4de5-a2ed-cd1ff14979b9.jpeg" width="1024" height="488">
+    <box label="teichmolch" source="manual" occluded="0" xtl="148.73" ytl="181.25" xbr="716.19" ybr="349.55" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="78a4dc67-bd44-4b03-8c2e-a40cc644eb49.jpeg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="323.73" ytl="274.28" xbr="675.58" ybr="500.97" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="79c576ed-0a0d-4852-b40c-c7876b1cb060.jpeg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="163.16" ytl="489.68" xbr="624.56" ybr="617.85" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="7bd2c326-1bb3-48ba-a5d1-0633c828bb9f.jpeg" width="1024" height="682">
+    <box label="teichmolch" source="manual" occluded="0" xtl="125.74" ytl="307.87" xbr="720.10" ybr="412.86" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="7d150a87-45f8-4fde-917b-948b51f0e12d.jpeg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="386.85" ytl="298.81" xbr="675.09" ybr="612.46" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="7f51dbd7-6869-470d-947d-335dc7311d94.jpeg" width="1024" height="683">
+    <box label="teichmolch" source="manual" occluded="0" xtl="425.12" ytl="206.14" xbr="602.39" ybr="635.75" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="8c4b7c55-cdf2-4ca0-8c6a-9f67a5a0b8a8.jpeg" width="1024" height="461">
+    <box label="teichmolch" source="manual" occluded="0" xtl="467.09" ytl="211.81" xbr="602.55" ybr="316.06" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="550.45" ytl="185.54" xbr="721.01" ybr="318.80" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="430.35" ytl="69.27" xbr="547.16" ybr="239.83" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="604.42" ytl="18.76" xbr="672.97" ybr="56.60" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="8cc89d61-3d08-4d9b-8250-3759dc8541f2.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="97.98" ytl="300.90" xbr="609.19" ybr="1024.00" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="8fdaa83d-1048-4125-8368-d4fedea3faeb.jpeg" width="1024" height="625">
+    <box label="teichmolch" source="manual" occluded="0" xtl="420.31" ytl="191.23" xbr="685.36" ybr="329.72" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="8fdd6a4f-76a9-4767-acec-1886b1adbec2.jpeg" width="1024" height="683">
+    <box label="teichmolch" source="manual" occluded="0" xtl="2.15" ytl="21.18" xbr="925.15" ybr="487.37" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="91903a8c-8d8c-48ed-b6f8-71b8575da290.jpeg" width="1024" height="750">
+    <box label="teichmolch" source="manual" occluded="0" xtl="227.44" ytl="129.66" xbr="908.74" ybr="674.69" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="91c43f9d-e3d6-4413-8c9e-0400b009b5d2.jpeg" width="576" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="196.72" ytl="485.96" xbr="372.33" ybr="666.90" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="92d43e35-53f8-492a-82af-abb0b3fc6c42.jpg" width="1024" height="768">
+  </image>
+  <image id="56" name="99a9e547-cf8c-47ef-a864-980899dd4bed.jpg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="251.70" ytl="239.60" xbr="766.67" ybr="685.63" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="9a6003cd-8f90-477c-ad94-b0bac563555e.jpg" width="1024" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="164.89" ytl="187.96" xbr="954.70" ybr="884.16" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="9edb87c6-aa01-4b62-b5a9-0365aa6795ca.jpeg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="47.54" ytl="459.10" xbr="863.76" ybr="646.23" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="a060d467-8923-46fa-b97d-333a7d375abd.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="273.57" ytl="444.10" xbr="682.65" ybr="679.91" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="a0728671-39db-4d40-afb7-a54889e70422.jpg" width="1024" height="768">
+  </image>
+  <image id="61" name="a62e72bb-4901-480e-95e2-d5a48b7164a5.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="330.76" ytl="300.80" xbr="659.20" ybr="845.37" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="a7e80770-da47-483a-957f-5aa2447f1675.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="229.27" ytl="248.68" xbr="551.10" ybr="836.25" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="a7f0545a-d092-4cf8-8a1e-38fbecb6ed18.jpeg" width="1024" height="683">
+    <box label="teichmolch" source="manual" occluded="0" xtl="423.50" ytl="203.66" xbr="548.72" ybr="443.49" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="a9792246-c042-4e28-b667-3c4ebc02ddc2.jpeg" width="461" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="0.00" ytl="273.44" xbr="416.48" ybr="601.74" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="aa50c21c-0c12-4bff-8373-e6d9932963d6.jpeg" width="576" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="84.55" ytl="516.65" xbr="471.16" ybr="753.32" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="ab5b986e-2972-4c66-ace9-ba39c33d2bad.jpg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="446.79" ytl="352.92" xbr="593.80" ybr="436.61" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="ad345057-9ef8-4337-b23f-fbdcf5526339.jpeg" width="682" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="273.44" ytl="268.92" xbr="404.72" ybr="605.47" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="b06981d5-fdd7-41cf-a4ec-b888b23edecb.jpeg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="220.16" ytl="611.58" xbr="445.30" ybr="704.31" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="b140d0f5-13cc-4601-8cea-75d6561dad48.jpeg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="137.37" ytl="284.02" xbr="726.76" ybr="640.46" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="b14611c7-37af-46d7-859d-6863e93c598a.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="390.64" ytl="435.51" xbr="546.97" ybr="910.92" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="b1e79d4a-f80e-4a1d-882c-780910a1eeac.jpg" width="1024" height="684">
+    <box label="teichmolch" source="manual" occluded="0" xtl="54.62" ytl="100.86" xbr="1024.00" ybr="599.61" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="b609825a-914e-4f59-ba75-a178ffd6f131.jpeg" width="683" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="186.41" ytl="221.59" xbr="505.60" ybr="591.71" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="c108748f-8dd7-458a-9cce-1df9f59a30b2.jpeg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="204.78" ytl="233.44" xbr="380.79" ybr="798.86" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="c436d0e6-c127-49a7-ab6a-5f43a2edd0f6.jpeg" width="1024" height="577">
+    <box label="teichmolch" source="manual" occluded="0" xtl="38.98" ytl="275.18" xbr="772.18" ybr="446.43" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="722.71" ytl="320.84" xbr="1024.00" ybr="545.37" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="cc868b9b-7629-4e35-9a0d-75313915bb6b.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="324.95" ytl="578.50" xbr="476.49" ybr="695.36" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="cfd7c93c-31f9-4658-ad20-7a6da0a256a9.jpg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="675.23" ytl="356.94" xbr="797.93" ybr="403.87" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="775.88" ytl="350.15" xbr="914.41" ybr="400.48" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="d1d1e48c-c21d-4e39-96dc-55b35f4c2fc8.jpg" width="1024" height="488">
+    <box label="teichmolch" source="manual" occluded="0" xtl="104.06" ytl="103.92" xbr="993.80" ybr="376.85" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="d394cce8-7b2c-4b69-a9e4-be198f8fa6ff.jpeg" width="1024" height="682">
+    <box label="teichmolch" source="manual" occluded="0" xtl="11.98" ytl="185.25" xbr="1003.36" ybr="451.53" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="d5d9e1eb-afa5-4af7-a9d1-15cd5cafbaf7.jpeg" width="1024" height="1024">
+  </image>
+  <image id="80" name="d66d773e-901b-4b9e-9c80-bd2dda560189.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="306.22" ytl="261.35" xbr="493.82" ybr="810.09" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="d6a56e1c-fd31-480d-9f9f-3cc31d16eab5.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="179.27" ytl="316.69" xbr="599.81" ybr="580.90" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="d8f8629c-0d09-43da-a5f1-cf54c58a8de6.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="305.38" ytl="498.72" xbr="523.51" ybr="634.43" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="223.95" ytl="469.77" xbr="347.99" ybr="677.85" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="d913b77e-f7b7-43bf-b320-975fcd91994a.jpeg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="145.24" ytl="313.25" xbr="381.46" ybr="847.94" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="ddce5c3a-e33b-4fdb-b9aa-0a1dfa5f5b19.jpeg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="199.92" ytl="1.53" xbr="876.70" ybr="426.59" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="df386c92-2498-40b8-b4df-6ef0ef880242.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="156.29" ytl="286.57" xbr="403.58" ybr="522.56" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="0.23" ytl="210.43" xbr="224.15" ybr="453.19" z_order="0">
+    </box>
+    <box label="teichmolch" source="manual" occluded="0" xtl="494.06" ytl="522.56" xbr="710.44" ybr="693.70" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="e3b17b28-3db8-4052-a23e-5300efc9fe93.jpeg" width="1024" height="773">
+    <box label="teichmolch" source="manual" occluded="0" xtl="260.06" ytl="211.80" xbr="904.55" ybr="499.75" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="e4cce1df-611f-4261-a00e-4e2dc758178e.jpg" width="1024" height="783">
+    <box label="teichmolch" source="manual" occluded="0" xtl="115.78" ytl="232.45" xbr="966.92" ybr="502.62" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="e8e831e4-aed0-460d-9d9e-6ca0d9aeece5.jpeg" width="1024" height="768">
+    <box label="teichmolch" source="manual" occluded="0" xtl="203.11" ytl="269.59" xbr="617.01" ybr="604.93" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="eb3e9ba9-cd3f-481a-b56d-2ce7f092e3e6.jpeg" width="768" height="1024">
+  </image>
+  <image id="90" name="f19368f7-97a4-4d0d-8b91-635ba1ddc80e.jpg" width="768" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="146.96" ytl="248.38" xbr="476.28" ybr="488.13" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="f795d812-3da6-405d-be7e-ee755b1361af.jpg" width="1024" height="684">
+    <box label="teichmolch" source="manual" occluded="0" xtl="0.00" ytl="168.76" xbr="779.35" ybr="508.15" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="f80a048f-63d1-485c-b909-f19d60fd0bb6.jpeg" width="783" height="1024">
+    <box label="teichmolch" source="manual" occluded="0" xtl="375.16" ytl="297.93" xbr="589.34" ybr="715.50" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="f90992ae-9f54-4e87-8a56-d0432c22a36e.jpg" width="1024" height="681">
+    <box label="teichmolch" source="manual" occluded="0" xtl="150.20" ytl="56.32" xbr="722.03" ybr="512.74" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="fba42697-f9d7-4a89-a8b8-31898445fd02.jpeg" width="1024" height="757">
+    <box label="teichmolch" source="manual" occluded="0" xtl="332.03" ytl="198.20" xbr="654.48" ybr="747.17" z_order="0">
+    </box>
+  </image>
+</annotations>

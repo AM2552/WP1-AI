@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>17</id>
+      <size>79</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-14 10:27:44.032972+00:00</created>
+      <updated>2025-02-17 20:29:35.083109+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>78</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>17</id>
+          <start>0</start>
+          <stop>78</stop>
+          <url>http://localhost:8080/api/jobs/17</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-18 11:49:11.397269+00:00</dumped>
+  </meta>
+  <image id="0" name="02712ab1-75e0-4fee-a8b3-8404aa9d2211.jpeg" width="1024" height="576">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="358.85" ytl="172.20" xbr="778.76" ybr="447.01" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="03bc5f5f-493c-46ba-8691-04fe060ad61e.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="361.44" ytl="206.18" xbr="805.14" ybr="496.38" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="041acf71-3d31-4cfb-a035-14228b08000c.jpg" width="768" height="1024">
+  </image>
+  <image id="3" name="0b1465d8-762c-442d-931c-5bb9a7225108.jpeg" width="1024" height="734">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="402.73" ytl="204.47" xbr="608.17" ybr="552.79" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="0bed0832-aecd-46be-8141-a84391cc2b25.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="24.34" ytl="109.41" xbr="643.30" ybr="827.26" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="1221ef9b-cbaa-4160-aa1b-c51b0bdb5994.jpeg" width="1024" height="576">
+  </image>
+  <image id="6" name="15d8f88d-2384-4664-90ba-455c35770f51.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="16.53" ytl="102.90" xbr="614.64" ybr="829.86" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="1781025a-be3d-4aca-86ab-d4faf859854f.jpeg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="377.28" ytl="193.32" xbr="686.62" ybr="416.64" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="1c70ce4f-f6b8-443e-a82b-09fc1c03498b.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="350.69" ytl="287.18" xbr="861.81" ybr="567.71" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="1c965581-fd99-4326-be50-ad643ac1a43b.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="170.39" ytl="484.62" xbr="592.49" ybr="772.54" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="1c992c47-66a9-4d60-9e38-99e353982c99.jpeg" width="1024" height="681">
+  </image>
+  <image id="11" name="1d8cadef-9751-4070-b60a-899567af405d.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="376.10" ytl="274.58" xbr="647.83" ybr="583.34" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="205b7dfa-70db-4bf2-ab02-e871b5179440.jpg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="264.94" ytl="445.73" xbr="507.78" ybr="650.05" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="209ce6ad-c72f-430d-bade-b1a9effbcde4.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="210.73" ytl="435.93" xbr="533.41" ybr="671.91" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="28308714-8bab-46e9-8a1e-1bcc03d0f389.jpg" width="1024" height="590">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="169.05" ytl="88.89" xbr="916.69" ybr="509.99" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="2cb11e78-cd91-4891-8a47-e31fa53ef742.jpeg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="86.35" ytl="210.18" xbr="835.39" ybr="531.69" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="2ec6213b-c2f8-4825-8868-b443e50f1cf0.jpeg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="244.50" ytl="273.61" xbr="1005.70" ybr="534.30" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="2f4cabd7-504b-4765-9bac-31894ff686e0.jpg" width="1000" height="750">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="200.59" ytl="78.65" xbr="957.27" ybr="484.18" z_order="0">
+    </box>
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="24.07" ytl="266.62" xbr="570.82" ybr="627.31" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="30900326-0c11-4c58-8415-61efd4d01443.jpeg" width="578" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="215.87" ytl="461.00" xbr="326.07" ybr="570.80" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="330f3d32-4cc1-4ebe-bb08-78dae26b7d38.jpg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="303.79" ytl="242.24" xbr="832.40" ybr="586.17" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="332f772d-6404-448f-98df-096eef96f67d.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="274.74" ytl="507.43" xbr="394.03" ybr="626.32" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="35829157-5127-49db-98b9-4de902206cd7.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="326.93" ytl="160.43" xbr="886.20" ybr="575.50" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="3dd8395d-c5a8-4962-9e00-584ade606659.jpg" width="771" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="289.69" ytl="541.13" xbr="520.93" ybr="724.81" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="40d49168-b3ec-41ad-813f-1a51461b5f53.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="167.35" ytl="206.75" xbr="850.93" ybr="615.96" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="492caf4d-09ce-4e4f-89d0-e556bc8ad662.jpg" width="1024" height="966">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="75.93" ytl="555.24" xbr="469.70" ybr="900.34" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="4d7b2e11-f12f-4300-b000-7eadee768f02.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="134.95" ytl="26.00" xbr="776.90" ybr="627.90" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="5c838f8d-c46b-4a51-ba78-cbbff43eb070.jpeg" width="1024" height="576">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="0.00" ytl="1.31" xbr="763.99" ybr="576.00" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="5caf2453-d74f-49ef-ab59-6295dcec1856.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="38.02" ytl="40.37" xbr="801.45" ybr="638.47" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="5d17126b-95c9-48f7-ae0a-bdab4f2f1030.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="186.82" ytl="466.82" xbr="653.66" ybr="642.69" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="5d29e134-91f4-4f08-b6eb-8e583bd33fae.jpg" width="1024" height="704">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="329.72" ytl="62.09" xbr="919.15" ybr="534.15" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="63807d19-1ebc-4c73-a7c0-2b45b44e59e1.jpeg" width="1024" height="473">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="440.16" ytl="126.97" xbr="592.08" ybr="318.36" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="662e449a-2c8c-4ded-ac87-722b601d6506.jpg" width="1000" height="667">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="450.48" ytl="258.06" xbr="724.15" ybr="428.48" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="68a62edb-acd0-44b9-a4fe-144823bf9213.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="164.67" ytl="212.12" xbr="517.52" ybr="739.75" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="6987a106-bc10-4032-a37f-c2c792978f52.jpg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="271.07" ytl="587.76" xbr="497.97" ybr="923.23" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="6c01397a-68cd-4566-8660-8077afd642c7.jpg" width="910" height="934">
+  </image>
+  <image id="35" name="6f334846-af3f-4f57-87f2-312f7f0b0003.jpeg" width="1024" height="576">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="334.66" ytl="154.44" xbr="520.92" ybr="293.07" z_order="0">
+    </box>
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="310.23" ytl="250.32" xbr="499.54" ybr="352.92" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="7353cf04-d62f-4d00-b3ae-1ef4df9b59e8.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="259.78" ytl="252.94" xbr="600.79" ybr="657.89" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="74687c7f-e1f3-420d-b46b-b014c9313002.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="231.85" ytl="448.23" xbr="470.60" ybr="721.53" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="74ee0070-dc53-4113-a96f-1aa3f582ee7c.jpg" width="1024" height="947">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="256.57" ytl="254.86" xbr="743.52" ybr="798.04" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="77944ba8-3b12-490c-8127-80530922e12f.jpeg" width="1024" height="678">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="188.44" ytl="152.42" xbr="884.04" ybr="542.45" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="787d16ef-362f-4110-8c42-57de7d12b99b.jpeg" width="1024" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="461.30" ytl="429.41" xbr="634.83" ybr="663.91" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="7b751c59-1e51-49b6-964d-08d979f713a3.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="185.76" ytl="258.98" xbr="550.54" ybr="750.13" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="848d155b-4eac-4dad-80e9-ab4ad48098e8.jpeg" width="1024" height="637">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="422.78" ytl="214.99" xbr="926.06" ybr="467.84" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="8537e52f-285f-4130-991e-1dfe41150867.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="260.70" ytl="124.79" xbr="767.91" ybr="587.05" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="8e10c6f6-6a51-4de0-b55f-756eb0862145.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="384.89" ytl="329.10" xbr="788.40" ybr="605.62" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="90caca50-ca69-4b2b-b531-b8d205c28966.jpeg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="303.23" ytl="296.17" xbr="471.65" ybr="467.55" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="93e5d108-37e3-42cd-be8a-52578e8368b9.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="212.96" ytl="181.54" xbr="737.08" ybr="542.79" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="9bc33f0c-e735-4784-b7f4-f37233159e56.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="183.60" ytl="90.20" xbr="700.73" ybr="506.44" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="9cb6a64e-9e88-4bbb-991f-a6a28b951083.jpeg" width="421" height="395">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="115.43" ytl="128.97" xbr="299.97" ybr="310.61" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="9db064f7-e177-4fc5-a69c-bcfe0caf3210.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="358.82" ytl="278.39" xbr="734.03" ybr="485.92" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="9fd67479-3c7f-4dcc-86e2-adc9513669f9.jpeg" width="768" height="1024">
+  </image>
+  <image id="51" name="aa298742-a99b-4ef2-8324-32feee249d28.jpg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="254.78" ytl="318.10" xbr="703.47" ybr="815.25" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="b03fe2a8-6a39-4623-9871-13da5eac31e0.jpg" width="1024" height="768">
+  </image>
+  <image id="53" name="b0edd3d5-fae2-467c-b541-86c6f06fe929.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="146.43" ytl="2.57" xbr="838.70" ybr="640.80" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="b12ef4a1-e8aa-4107-9519-57a89576b5e3.jpeg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="483.11" ytl="207.34" xbr="817.42" ybr="391.39" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="b4a5a5f1-3266-4af1-8208-1ef1fb696498.jpg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="422.08" ytl="226.90" xbr="997.67" ybr="612.27" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="ba5adcb4-1251-43af-8d50-107b8a0001d0.jpeg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="573.48" ytl="218.11" xbr="1001.43" ybr="409.56" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="c23d9c2a-4269-44bb-bc4f-908f82301cbd.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="113.95" ytl="306.43" xbr="665.65" ybr="718.69" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="c71adb48-8228-4821-a35e-e46c1d0101b4.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="207.56" ytl="391.36" xbr="533.26" ybr="726.83" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="cb9ed568-a23b-4cdc-b21c-0081db6c0d3c.jpeg" width="1024" height="984">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="258.86" ytl="335.61" xbr="700.79" ybr="662.35" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="cf826659-2854-4084-8e1a-c89af4321b1a.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="87.92" ytl="311.48" xbr="705.45" ybr="766.16" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="d209a618-872a-4bc4-84e7-55b93c8df9de.jpeg" width="1024" height="576">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="170.30" ytl="148.82" xbr="738.23" ybr="507.91" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="d3cbf344-154a-42c7-8ca9-4287f7392b89.jpg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="197.14" ytl="339.03" xbr="473.98" ybr="578.97" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="d4505824-c4ae-4d4c-9d1f-8c9931d79071.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="304.62" ytl="276.06" xbr="488.09" ybr="507.31" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="d4cc2983-7435-488a-afb0-93a87da8088e.jpeg" width="1024" height="576">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="356.82" ytl="314.08" xbr="573.62" ybr="434.38" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="d4eaeede-3c6f-49ca-a24e-1c9178aa04a7.jpg" width="898" height="620">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="185.98" ytl="139.50" xbr="560.00" ybr="357.74" z_order="0">
+    </box>
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="415.39" ytl="211.15" xbr="633.62" ybr="397.18" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="d8716a8c-cded-4d16-b6c2-8f194b672b08.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="245.64" ytl="165.52" xbr="886.45" ybr="620.68" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="dab8f1b7-1c12-4d73-8377-7bc854b416e6.jpeg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="269.96" ytl="144.10" xbr="807.08" ybr="570.58" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="dc024175-7c20-464e-89af-7404edb43ed3.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="269.79" ytl="357.65" xbr="618.42" ybr="640.62" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="e047d234-e8d4-450a-9f23-d4f717593def.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="170.75" ytl="70.03" xbr="893.02" ybr="668.02" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="e7760a47-04fe-47cd-ad57-b5d1ebda8385.jpg" width="720" height="499">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="169.47" ytl="106.09" xbr="616.67" ybr="445.10" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="eaef109e-a239-4193-84de-30dad0506cd4.jpg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="243.45" ytl="179.08" xbr="792.19" ybr="549.59" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="ed9a39b6-c104-4ee0-b5e1-d0f742932faa.jpg" width="1024" height="498">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="459.02" ytl="45.44" xbr="1024.00" ybr="498.00" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="f1499807-25b5-45f3-bdcb-a73600c94ebc.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="421.55" ytl="284.60" xbr="590.51" ybr="723.12" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="f242c381-f6d3-4f02-b842-017f739a07d5.jpeg" width="768" height="1024">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="145.68" ytl="403.85" xbr="355.21" ybr="598.18" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="f7572373-8bc4-4035-9ddc-1f30bdc077a5.jpg" width="1024" height="683">
+  </image>
+  <image id="76" name="f75e37db-fe9d-4fac-98ed-4a8921ce1bba.jpeg" width="1024" height="768">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="175.09" ytl="101.57" xbr="570.23" ybr="538.92" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="f95c50e9-2bdf-45a7-a275-b7104583f304.jpeg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="86.23" ytl="224.29" xbr="964.22" ybr="585.08" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="fd083e02-c118-41ef-bdae-0e470fc87132.jpeg" width="1024" height="683">
+    <box label="kreuzkröte" source="manual" occluded="0" xtl="407.39" ytl="204.47" xbr="897.48" ybr="570.48" z_order="0">
+    </box>
+  </image>
+</annotations>

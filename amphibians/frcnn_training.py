@@ -1,7 +1,7 @@
 import torch
 import torch.utils.data
 from torch.utils.data import DataLoader
-from torchvision.models.detection.faster_rcnn import fasterrcnn_resnet50_fpn, FastRCNNPredictor, fasterrcnn_resnet50_fpn_v2, fasterrcnn_mobilenet_v3_large_320_fpn, FasterRCNN_ResNet50_FPN_V2_Weights, FasterRCNN_MobileNet_V3_Large_320_FPN_Weights
+from torchvision.models.detection.faster_rcnn import FastRCNNPredictor, fasterrcnn_resnet50_fpn_v2, fasterrcnn_mobilenet_v3_large_320_fpn, fasterrcnn_mobilenet_v3_large_fpn, FasterRCNN_ResNet50_FPN_V2_Weights, FasterRCNN_MobileNet_V3_Large_FPN_Weights, FasterRCNN_MobileNet_V3_Large_320_FPN_Weights
 from torch.optim import Adam
 from dataset_class import AmphibianDataset, Compose, RandomHorizontalFlip, RandomVerticalFlip, RandomRotation
 import torchvision.transforms as T
@@ -14,7 +14,7 @@ def collate_fn(batch):
     return tuple(zip(*batch))
 
 def get_model(num_classes):
-    model = fasterrcnn_mobilenet_v3_large_320_fpn(weights=FasterRCNN_MobileNet_V3_Large_320_FPN_Weights.DEFAULT)
+    model = fasterrcnn_resnet50_fpn_v2()
     in_features = model.roi_heads.box_predictor.cls_score.in_features
     model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
     return model
@@ -115,13 +115,13 @@ def main(pretrained_model_path):
 
     optimizer = Adam(model.parameters(), lr=0.0001, weight_decay=0.0005)
 
-    # if continue training from a pretrained model
+    # optional: continue training from a pretrained model
     if pretrained_model_path is not None and os.path.exists(pretrained_model_path):
         print(f"Loading pretrained model from {pretrained_model_path}")
         model.load_state_dict(torch.load(pretrained_model_path))
 
     
-    num_epochs = 100
+    num_epochs = 50
     save_dir = 'amphibians/models/'
 
     if not os.path.exists(save_dir):
@@ -151,5 +151,5 @@ def main(pretrained_model_path):
     plot_losses(train_losses, val_losses, save_dir)
 
 if __name__ == '__main__':
-    pretrained_model_path = None  # set to model path
+    pretrained_model_path = None
     main(pretrained_model_path=pretrained_model_path)

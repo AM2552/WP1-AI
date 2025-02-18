@@ -1,0 +1,2149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>8</id>
+      <size>500</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-09 20:03:54.533061+00:00</created>
+      <updated>2025-02-13 23:25:21.756723+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>499</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>8</id>
+          <start>0</start>
+          <stop>499</stop>
+          <url>http://localhost:8080/api/jobs/8</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>feuersalamander</name>
+          <color>#181821</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alpensalamander</name>
+          <color>#bf2f2d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergmolch</name>
+          <color>#3a45fe</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kammmolch</name>
+          <color>#a0ed7c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>teichmolch</name>
+          <color>#ceeaab</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>rotbauchunke</name>
+          <color>#9e6331</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>gelbbauchunke</name>
+          <color>#b78312</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>knoblauchkröte</name>
+          <color>#25330b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>erdkröte</name>
+          <color>#69fce1</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kreuzkröte</name>
+          <color>#60085f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wechselkröte</name>
+          <color>#066386</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>laubfrosch</name>
+          <color>#7336d8</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>moorfrosch</name>
+          <color>#4b10de</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>springfrosch</name>
+          <color>#b2475f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>grasfrosch</name>
+          <color>#c40eef</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>wasserfrosch</name>
+          <color>#8ee164</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-13 23:25:35.558655+00:00</dumped>
+  </meta>
+  <image id="0" name="006d1b80-b79c-4a77-91c7-eb213bad1f01.jpg" width="1000" height="750">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="320.63" ytl="285.32" xbr="751.93" ybr="487.61" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="00e33c8f-b0ed-486f-82b6-c46642875bdc.jpeg" width="1024" height="682">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="355.85" ytl="218.67" xbr="695.98" ybr="498.93" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="02423024-f7b9-445b-95d5-fd1991ecb9c5.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="131.60" ytl="151.46" xbr="681.05" ybr="731.86" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="02c48628-5afc-4732-aa8a-2f1477d65edb.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="307.82" ytl="635.51" xbr="472.57" ybr="794.74" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="02fb3348-7449-42ba-865e-f6e7a4220ebe.jpg" width="1024" height="681">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="360.68" ytl="74.22" xbr="894.67" ybr="559.55" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="047d896a-168e-4fa6-bcc1-0091288e9b65.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="259.72" ytl="236.65" xbr="760.62" ybr="654.53" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="048be446-b928-4f76-8f15-261f066c2baa.png" width="795" height="627">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="259.93" ytl="163.90" xbr="475.88" ybr="493.57" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="0532b4e0-8e2e-4885-a73b-b8850f9a99d0.jpeg" width="575" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="175.64" ytl="397.12" xbr="393.86" ybr="681.56" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="055fd860-77d3-4b4a-83df-4f7f94b45878.jpg" width="1024" height="723">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="52.34" ytl="134.05" xbr="857.28" ybr="663.00" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="05adb42b-956c-4180-8e6d-91e6e727255c.jpg" width="1000" height="750">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="263.17" ytl="268.89" xbr="815.08" ybr="653.63" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="06828f14-c290-428a-a059-2fa6a020e1cf.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="183.88" ytl="227.27" xbr="923.74" ybr="705.65" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="06f629ef-d550-4f17-8c4e-e685360d4d80.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="277.92" ytl="370.31" xbr="492.10" ybr="756.46" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="074c32cf-a1f3-47cd-933a-7e3a102bb066.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="228.46" ytl="240.24" xbr="658.17" ybr="547.85" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="0750b0db-7db8-4a1a-967e-c69c41005c9d.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="260.87" ytl="380.51" xbr="436.53" ybr="575.03" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="07dae119-604e-4b09-a303-fd392c7455c1.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="254.53" ytl="556.94" xbr="596.82" ybr="895.45" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="08f8e566-a3d0-40de-8bc0-2fe6a74f6f18.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="95.47" ytl="220.39" xbr="486.47" ybr="753.49" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="0927d6a9-0237-4074-b3a5-be04a4ab0b17.jpg" width="594" height="593">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="180.04" ytl="285.10" xbr="381.22" ybr="413.81" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="0952c10b-f327-4efb-a8ac-1cd9f26b2be7.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="250.72" ytl="188.34" xbr="890.91" ybr="708.94" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="09618716-2e1f-4019-9813-4fb713a836c6.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="372.46" ytl="250.46" xbr="635.23" ybr="504.89" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="0a4f9ea8-9023-4d83-bd47-033fdaf0b1cf.jpeg" width="683" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="264.48" ytl="331.43" xbr="436.38" ybr="565.76" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="0b296731-546c-4c8d-8801-f2fceb7fec27.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="130.13" ytl="361.20" xbr="492.02" ybr="767.42" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="0c426ac2-377c-47da-b683-3c55a5f98fb6.jpeg" width="1024" height="575">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="366.33" ytl="104.73" xbr="653.83" ybr="414.17" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="0c5f0138-c60f-4675-830a-b18a26ec5d37.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="390.15" ytl="74.14" xbr="786.93" ybr="639.76" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="0c6e776a-a10c-4a50-b6bf-2dd1b48f36c1.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="244.58" ytl="827.82" xbr="445.13" ybr="966.55" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="0c9336ee-8116-47ec-b91a-5e545b8eea7d.jpeg" width="1024" height="682">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="290.10" ytl="213.13" xbr="696.17" ybr="511.75" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="0c965cea-4d9b-4f10-886c-70669adcdb2b.jpg" width="1000" height="750">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="236.72" ytl="132.70" xbr="776.72" ybr="638.35" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="0d2280ec-c7b0-4687-a9a9-9be901cef7f7.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="289.85" ytl="374.13" xbr="482.83" ybr="511.74" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="0d97e520-a77b-48de-895b-c3d8bc99df54.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="273.91" ytl="167.25" xbr="547.63" ybr="380.14" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="548.36" ytl="325.11" xbr="754.01" ybr="535.83" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="0e48f340-5467-4f8a-a0f0-1ccdc0c07784.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="0.26" ytl="156.55" xbr="652.31" ybr="622.03" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="0efe1021-4202-4b98-90b9-74f30e5cb381.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="308.08" ytl="136.53" xbr="748.66" ybr="583.24" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="0f5a10ec-d7c5-4084-8586-caf17ef9d02c.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="386.61" ytl="356.27" xbr="478.50" ybr="465.59" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="10de780c-86e7-407b-9627-7e660d854a6e.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="218.24" ytl="53.28" xbr="1022.20" ybr="616.36" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="10f23046-47f4-40c3-a80f-c5f5b98ffd13.jpeg" width="1024" height="768">
+  </image>
+  <image id="33" name="10f4d4c3-caa9-4df8-8bff-eac43d7f2b40.jpg" width="819" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="149.80" ytl="284.64" xbr="487.23" ybr="876.11" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="114b8ac4-18e6-443c-baa0-a247a9146025.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="144.46" ytl="338.06" xbr="583.50" ybr="807.06" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="116fee4f-6dd1-4708-aab2-b7eb9a70da11.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="389.39" ytl="313.51" xbr="576.56" ybr="501.24" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="11868c50-5822-4c5c-a1dd-b7f0b6f333bf.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="121.40" ytl="372.32" xbr="432.90" ybr="649.80" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="12819c00-9782-413a-b968-e697b9877b69.jpeg" width="1024" height="773">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="396.51" ytl="106.94" xbr="615.74" ybr="296.12" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="13a82ffa-decf-4e36-9462-5e4c5723b1fa.jpeg" width="1024" height="961">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="262.61" ytl="132.03" xbr="764.38" ybr="856.81" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="13e27a8d-0832-43cf-99e9-9a4266b90127.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="435.86" ytl="280.85" xbr="706.71" ybr="436.80" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="13f0d12b-ed93-4fa4-9384-7310616cd170.jpg" width="533" height="533">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="14.67" ytl="89.53" xbr="516.74" ybr="458.16" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="148c55b8-7651-432e-9d95-afa4d7dddc50.jpeg" width="461" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="30.89" ytl="333.97" xbr="348.44" ybr="676.86" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="151f97cb-919b-44f3-b02b-9c19dd40de57.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="363.00" ytl="301.25" xbr="752.87" ybr="652.03" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="153d1e5d-b1e8-427c-b887-e74665ff2323.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="472.10" ytl="343.11" xbr="535.91" ybr="390.23" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="168ce8d7-2fa4-4af0-8c5e-be495339c685.jpg" width="716" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="300.03" ytl="445.27" xbr="440.52" ybr="631.14" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="1745a1bf-e016-4eb6-9c10-2e32dfcfacbf.jpeg" width="560" height="420">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="198.28" ytl="158.85" xbr="331.87" ybr="354.42" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="18121cc3-2a9f-42fc-914d-8a118cec78b5.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="176.80" ytl="78.24" xbr="777.00" ybr="598.98" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="1913c993-6e76-42f0-9300-9acdca095877.jpeg" width="1024" height="771">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="197.50" ytl="130.12" xbr="967.32" ybr="675.35" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="1a0faa3b-2a04-4927-87c1-7e312383c8b4.jpg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="164.81" ytl="577.44" xbr="299.77" ybr="689.78" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="1a2bc4a2-368c-4544-b100-009607510455.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="91.28" ytl="269.33" xbr="551.61" ybr="868.62" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="1a372abe-023a-4f17-bd47-c11b21afc26d.jpg" width="1024" height="681">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="206.72" ytl="55.51" xbr="731.97" ybr="548.32" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="1b1d33d0-b35b-464c-ae45-44c9edcd4fdc.jpeg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="468.98" ytl="239.46" xbr="721.19" ybr="368.20" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="1c4c26b2-6467-4169-8a33-4f341136d062.png" width="822" height="625">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="273.13" ytl="192.96" xbr="422.29" ybr="386.45" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="1c6c4e45-011a-4ffd-a837-018ba4a540c9.jpeg" width="1024" height="682">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="507.64" ytl="252.83" xbr="731.07" ybr="450.95" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="1da00b70-37e7-4d22-9665-5f9e53499050.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="437.28" ytl="278.04" xbr="724.76" ybr="517.00" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="1df523d7-cfbc-4c6f-9b84-323b50f5ee8a.jpeg" width="1024" height="980">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="360.58" ytl="499.90" xbr="654.97" ybr="690.38" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="1e07e594-7814-4b9b-9e09-c8e7d61aea84.jpeg" width="718" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="163.58" ytl="185.34" xbr="506.89" ybr="903.86" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="1e4a0edb-71d9-430d-a363-cd4bf64e1377.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="101.01" ytl="186.84" xbr="600.50" ybr="579.40" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="1f04ed70-0aa0-4180-8c56-4a2f863cc16f.png" width="736" height="603">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="152.83" ytl="115.32" xbr="585.59" ybr="567.95" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="1f264e7a-e53f-43e9-a755-b3a0ea353fa9.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="204.87" ytl="197.58" xbr="805.32" ybr="617.28" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="20aaf6a8-4840-4e81-9e80-bf42bc0c9338.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="81.27" ytl="248.68" xbr="584.15" ybr="815.40" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="20ab0963-081d-4cd8-b809-58b892433841.jpeg" width="771" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="164.13" ytl="113.19" xbr="650.08" ybr="978.25" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="20b1b1bc-54cc-43ff-b173-b99936d6dd0b.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="58.02" ytl="108.94" xbr="795.85" ybr="640.74" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="2179291c-0117-4c88-ac22-c58b2e61c859.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="0.00" ytl="268.62" xbr="359.16" ybr="813.19" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="217f5afc-0d8d-4a64-b4a6-9db714075fca.jpg" width="1024" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="276.95" ytl="309.00" xbr="705.71" ybr="818.40" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="219ddc09-09fc-41d7-9d4f-6fce12546c5e.jpeg" width="1024" height="1018">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="313.15" ytl="337.98" xbr="686.41" ybr="710.34" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="22900320-e633-4e63-9b16-0c8b90419b90.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="460.36" ytl="166.75" xbr="621.17" ybr="422.56" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="232eeb6a-9b5c-44ab-945f-a9717e8492bf.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="304.92" ytl="154.66" xbr="684.54" ybr="536.64" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="23fa081a-21dc-41c5-a921-5185db939fe2.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="205.48" ytl="55.82" xbr="956.25" ybr="665.20" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="25581e9d-e69f-48e8-873a-bc0b57c70e7f.jpeg" width="1024" height="958">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="320.63" ytl="349.41" xbr="761.34" ybr="716.23" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="2568a9a4-123a-4722-98cc-2596c6b4a43e.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="175.86" ytl="270.27" xbr="1004.60" ybr="660.02" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="25b21d06-c4b0-469b-88a3-f647969fd6d2.jpg" width="1024" height="766">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="273.40" ytl="328.55" xbr="565.43" ybr="583.96" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="25cd69bd-8e01-456f-8bb9-435413e82f25.jpg" width="1000" height="750">
+  </image>
+  <image id="73" name="263724a0-8d8b-4616-9670-e5b042360460.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="205.59" ytl="346.09" xbr="407.34" ybr="575.89" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="26cbf1ff-e4a5-4c79-9f93-7669b94fea91.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="248.11" ytl="403.09" xbr="543.05" ybr="677.22" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="2701b82e-8fd7-468b-9b80-db7914538af1.jpeg" width="576" height="1024">
+  </image>
+  <image id="76" name="27c00152-6a40-40b6-8dac-4cca464b3267.jpeg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="317.19" ytl="186.29" xbr="668.83" ybr="341.43" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="27e56fb3-b7a6-46a2-bd74-7f8613b8660e.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="248.92" ytl="440.65" xbr="570.28" ybr="754.41" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="28a9371a-aaff-406b-9c44-5a1a1994fe68.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="245.23" ytl="137.73" xbr="865.73" ybr="568.28" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="28ab5fdf-683e-48c8-a650-c361d11a00a0.jpg" width="849" height="726">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="107.84" ytl="308.00" xbr="642.64" ybr="646.98" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="2927eecb-7b1f-42eb-8be7-ee57f3cfa72b.jpeg" width="1024" height="768">
+  </image>
+  <image id="81" name="2a1d4efd-e18e-4474-bf72-6cdbf48dd883.jpeg" width="656" height="487">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="215.02" ytl="145.56" xbr="416.39" ybr="330.82" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="2a82c98d-c41a-443c-a259-4a1e05dbf56c.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="353.33" ytl="250.54" xbr="653.40" ybr="625.75" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="2c98f200-dae3-45f2-8259-17252910f682.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="464.78" ytl="350.16" xbr="609.90" ybr="539.60" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="2cec314b-48e1-4a42-85df-ce632e234406.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="236.12" ytl="481.09" xbr="433.40" ybr="700.99" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="2d6007ae-be8a-4078-a21a-dd1d73384acb.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="454.43" ytl="335.56" xbr="499.70" ybr="393.92" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="2d86d788-bb04-4332-a51c-ef8fa71425c6.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="188.89" ytl="178.10" xbr="824.98" ybr="743.90" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="2e2447c3-8fb4-4998-91c0-3c86d049aa74.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="85.98" ytl="86.49" xbr="996.04" ybr="731.47" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="2e66a461-0677-43c9-bd81-8121a6e376c6.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="312.96" ytl="396.35" xbr="558.74" ybr="564.47" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="2e84e404-b7d0-4b48-bca9-8dff55a370d8.jpeg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="530.54" ytl="155.52" xbr="669.64" ybr="372.65" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="2eaaf5ba-00a9-4804-b4cd-1f568c069136.jpeg" width="803" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="135.11" ytl="293.89" xbr="390.24" ybr="499.26" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="2f318b82-b6ee-4af5-aad6-fe37826e68f6.jpeg" width="1024" height="768">
+  </image>
+  <image id="92" name="2f6355c7-c971-422a-bc55-2f7ac41ce62a.jpeg" width="480" height="640">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="115.15" ytl="242.09" xbr="449.90" ybr="438.30" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="30b17e07-8ebd-4863-9713-e3f3fd6d3224.jpeg" width="1024" height="677">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="155.70" ytl="106.09" xbr="788.26" ybr="591.88" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="3161fb02-0185-4caa-b4f6-b3224cde20f0.jpeg" width="1024" height="766">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="234.55" ytl="302.91" xbr="496.47" ybr="514.74" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="31873cd5-3922-4d12-b9f3-efdb16d3759f.jpg" width="478" height="640">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="103.95" ytl="155.58" xbr="304.74" ybr="430.95" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="31a19a5b-f4d6-467d-821d-aa1e120bcdc7.jpeg" width="1024" height="684">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="390.28" ytl="201.73" xbr="652.08" ybr="507.04" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="326086ac-3de0-4727-ae8a-3ddb9c5ccd01.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="302.57" ytl="510.21" xbr="515.18" ybr="762.62" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="331498b0-ed5b-4aa9-b156-6e8947d2747f.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="422.71" ytl="303.83" xbr="667.71" ybr="438.40" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="341ceae7-9163-43f9-a3d3-36c9c2a74ee4.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="401.60" ytl="320.28" xbr="533.85" ybr="513.89" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="3496882e-8a87-4346-9ffb-9379950ac8cf.jpeg" width="768" height="1024">
+  </image>
+  <image id="101" name="349e046d-d8ad-458d-9fdc-2c4ec87ecb4d.jpg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="185.85" ytl="391.60" xbr="433.14" ybr="734.64" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="34a17a27-f03f-4709-acef-43a289212ed6.jpg" width="1024" height="682">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="499.70" ytl="275.39" xbr="715.11" ybr="496.33" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="34b97de4-2782-487c-b8ea-854a3dd879f1.jpg" width="728" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="168.36" ytl="357.67" xbr="525.72" ybr="736.90" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="34ccd4c1-6baa-46e6-9df3-cf60a28a9dca.jpeg" width="577" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="299.01" ytl="489.61" xbr="501.82" ybr="592.14" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="368946d9-fc78-483e-8144-35f3e41396b0.jpg" width="1000" height="750">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="241.81" ytl="262.50" xbr="701.80" ybr="596.05" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="382d0952-a8e7-444c-bc00-0852013a45ad.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="79.69" ytl="345.61" xbr="560.78" ybr="709.76" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="3839634f-cac5-49b3-92ca-104dd2355e71.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="344.17" ytl="195.66" xbr="996.75" ybr="555.41" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="386f5e31-a0ba-4c1b-bf1c-19482a95c83e.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="430.84" ytl="271.33" xbr="683.60" ybr="459.06" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="388ba5b7-2905-4cca-9100-54f9696f5470.jpg" width="1000" height="750">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="252.80" ytl="196.48" xbr="844.26" ybr="619.50" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="39800adb-c02d-49b0-9b30-16646774de34.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="135.49" ytl="391.90" xbr="523.76" ybr="634.67" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="39ce278c-deb6-40d5-a1bf-339d0116342a.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="385.09" ytl="189.63" xbr="606.69" ybr="520.28" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="3a53fc9d-048b-4e79-b2d5-49a359ddcb08.jpeg" width="1024" height="575">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="376.24" ytl="131.54" xbr="442.70" ybr="176.00" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="551.76" ytl="160.96" xbr="602.56" ybr="218.54" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="398.93" ytl="244.79" xbr="451.42" ybr="306.60" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="3a5ec3c8-23aa-44e8-a769-11c6cf5a5830.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="97.01" ytl="348.14" xbr="474.93" ybr="567.55" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="3b8c885b-5c25-4859-8cd1-cdf7c2280e1a.jpeg" width="1024" height="680">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="398.92" ytl="197.10" xbr="964.73" ybr="525.17" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="3b91898a-81e6-418d-8d54-5ae370a292d8.jpeg" width="1024" height="771">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="365.65" ytl="262.86" xbr="679.00" ybr="489.01" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="3baf7cce-cdb7-4709-a113-d5ba43dd4640.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="443.95" ytl="385.79" xbr="880.12" ybr="712.92" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="3bbbbb6a-35fb-4194-a265-8671ab0790f3.jpeg" width="1024" height="641">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="459.13" ytl="208.99" xbr="607.88" ybr="483.98" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="3c8208f2-dca0-4fe6-8d92-31ccdc116b77.jpeg" width="850" height="593">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="150.70" ytl="89.22" xbr="540.90" ybr="474.00" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="3d63154f-0b60-482f-8b1c-ff9cc253daa4.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="425.93" ytl="495.04" xbr="496.92" ybr="659.65" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="3f3c04a2-9d25-4a79-ad9b-59a44d25f9e8.jpeg" width="771" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="280.73" ytl="350.53" xbr="422.72" ybr="504.46" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="3f8df797-8fc9-4560-83e8-b0cd36392b3c.jpeg" width="1024" height="964">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="551.31" ytl="440.99" xbr="658.45" ybr="556.00" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="3fabc96a-9611-4dec-8db8-2dff814c1130.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="386.66" ytl="224.60" xbr="1001.97" ybr="526.13" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="409c55bb-51b5-4600-a2dc-8541d42d3626.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="463.40" ytl="310.40" xbr="556.03" ybr="363.62" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="44de28de-d930-4802-8a2a-dbdcafe008ed.jpeg" width="738" height="738">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="301.94" ytl="299.92" xbr="438.87" ybr="462.28" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="44e5f0c0-fff9-4621-8968-0ef3f1a22dca.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="471.42" ytl="298.59" xbr="604.41" ybr="382.73" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="459c2957-c683-4cfc-a404-1558ffc99295.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="240.08" ytl="448.61" xbr="363.22" ybr="615.10" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="463f21b5-48f7-4ce3-9f62-1123625d1543.jpeg" width="1024" height="762">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="227.01" ytl="159.65" xbr="938.99" ybr="621.51" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="46963713-d91e-4c67-8fc1-5063cc8317b0.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="296.97" ytl="540.64" xbr="484.41" ybr="658.97" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="46da94e0-1583-4423-a514-ca05b90ec45f.jpeg" width="1024" height="684">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="149.46" ytl="119.44" xbr="803.87" ybr="538.02" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="47962b9c-cade-4f99-9046-72c67184dd7c.jpg" width="1000" height="750">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="281.92" ytl="252.02" xbr="655.73" ybr="532.72" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="48335492-355c-43dc-ac61-6d455add19d4.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="195.94" ytl="239.91" xbr="595.47" ybr="728.46" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="4883caef-5428-4c6e-a55a-e1fb5d0ac044.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="417.73" ytl="224.09" xbr="697.96" ybr="347.92" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="493ac027-2148-4703-98ad-6b14f69f1307.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="137.32" ytl="365.85" xbr="381.59" ybr="701.32" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="49520706-4ecc-445d-b7d8-5e263d84803b.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="239.04" ytl="363.03" xbr="696.22" ybr="746.27" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="495a725a-c3bc-4635-beb3-fadd78a0bed6.jpeg" width="498" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="50.90" ytl="342.40" xbr="274.54" ybr="545.42" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="4965f47a-e215-49ac-a1e8-09b24ac34a0c.jpeg" width="1024" height="683">
+  </image>
+  <image id="137" name="4a0723c4-650d-42ed-81ca-bcad8a12bfe7.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="193.88" ytl="575.27" xbr="406.67" ybr="917.26" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="4abdad10-0439-4f49-922f-2c6302fcf5a4.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="257.03" ytl="161.93" xbr="690.81" ybr="473.71" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="4b12f0a7-cb12-4b27-a22f-d5346cb20f26.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="276.50" ytl="362.30" xbr="500.15" ybr="700.99" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="4b89b7ae-6dec-4a51-9dce-cfa2b47a4d09.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="239.64" ytl="169.31" xbr="818.99" ybr="586.00" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="4bc10260-0739-4870-97d5-b103cddf7c8d.jpeg" width="768" height="1024">
+  </image>
+  <image id="142" name="4cd07c1f-9ea6-45c1-a752-01702396d369.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="243.39" ytl="427.84" xbr="443.15" ybr="681.89" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="4d62f399-d111-4399-a83a-1a01ea69b952.jpeg" width="1024" height="682">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="384.68" ytl="125.04" xbr="703.29" ybr="533.62" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="4d797d0d-6fd6-46f4-9b05-b38ad899ff84.jpeg" width="1024" height="795">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="245.52" ytl="171.24" xbr="752.38" ybr="587.80" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="4ec829a7-9058-4ff8-9126-b5ab8384c4a9.jpeg" width="1024" height="680">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="480.42" ytl="302.34" xbr="708.96" ybr="504.21" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="4edd6566-8561-4d6b-be0e-5c909c94ef09.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="339.52" ytl="254.03" xbr="709.19" ybr="507.26" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="4f5001c0-f03a-4c34-a508-b41c928b8f67.jpg" width="1024" height="788">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="589.82" ytl="322.48" xbr="751.06" ybr="414.38" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="4fdf7797-11f6-4b37-95c9-b681e1f87e9e.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="211.89" ytl="380.48" xbr="320.79" ybr="480.48" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="504f1c3e-6e89-4c40-a7d4-932ea59cf069.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="375.12" ytl="182.73" xbr="723.95" ybr="379.13" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="50f6ab75-abcd-43ab-b3da-0d0839deecdd.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="330.90" ytl="370.57" xbr="566.74" ybr="527.97" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="5126fbd9-6917-4081-9300-eb40b8e1931c.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="296.38" ytl="509.21" xbr="518.11" ybr="695.43" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="5175d2dc-306d-4188-a48c-2e2d737d5c40.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="539.02" ytl="528.90" xbr="619.65" ybr="614.78" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="85.08" ytl="432.58" xbr="163.62" ybr="532.58" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="5185422b-3585-470c-bfb8-a445d1d029da.jpeg" width="1024" height="684">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="360.26" ytl="278.60" xbr="607.55" ybr="478.03" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="51861ec7-5c25-4436-ab2b-ac519eecddf0.jpeg" width="1024" height="575">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="210.43" ytl="105.38" xbr="480.95" ybr="235.59" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="52a0f8c5-7465-4017-923a-e41b34addc40.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="280.15" ytl="196.43" xbr="736.37" ybr="530.60" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="52bbc7a8-660d-4b75-b49d-65812ee4b5f6.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="379.97" ytl="201.35" xbr="631.27" ybr="596.55" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="52e74791-86dd-4437-8775-78bffacdc6fd.jpg" width="1024" height="708">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="84.31" ytl="257.91" xbr="638.80" ybr="590.83" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="53ef088f-5be4-4c8f-9acc-082cf37ba209.jpg" width="1024" height="739">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="219.10" ytl="221.20" xbr="873.44" ybr="595.78" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="543d45d2-c8ea-48b4-b14e-10494a02951e.jpeg" width="827" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="174.11" ytl="322.94" xbr="594.66" ybr="752.87" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="54444700-1ea5-48c9-a249-fef4ee08ad0b.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="418.65" ytl="312.96" xbr="670.33" ybr="465.63" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="54720200-698e-4991-81a8-84264e70486f.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="155.75" ytl="163.26" xbr="756.37" ybr="531.14" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="550049bf-aa79-47f2-b84e-9a8ad4e89ac3.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="438.11" ytl="310.23" xbr="577.95" ybr="432.42" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="569e1998-8e99-40e8-a291-d44f97a2ab95.jpg" width="1024" height="684">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="337.26" ytl="243.18" xbr="768.89" ybr="563.43" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="56f484d5-1f63-416e-b24b-920a97fe3cbd.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="114.14" ytl="245.07" xbr="587.22" ybr="575.65" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="57aeda28-951d-478d-84fa-02684e374d2b.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="334.80" ytl="297.18" xbr="609.20" ybr="547.97" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="58b64253-d023-4569-9154-423cf71facf6.jpeg" width="1024" height="907">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="255.57" ytl="268.75" xbr="608.58" ybr="628.39" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="58e93ff9-d6c5-4491-b2b1-d90580d0bc2b.jpg" width="1024" height="776">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="397.94" ytl="216.36" xbr="903.10" ybr="453.31" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="174.16" ytl="341.42" xbr="563.31" ybr="595.64" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="59435637-d8fb-42bb-8824-9dbf8223439d.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="315.26" ytl="170.97" xbr="750.88" ybr="368.83" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="59599237-c9a8-414e-a265-dff2d7ee4765.jpeg" width="1024" height="759">
+  </image>
+  <image id="170" name="59b157a7-2a4b-4590-b9c8-37a81413ca78.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="258.05" ytl="249.45" xbr="534.47" ybr="550.98" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="5a54bb12-343f-4ac5-b6e8-d0bc82834592.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="396.52" ytl="271.16" xbr="768.79" ybr="517.39" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="5aad9d11-200c-48d4-b393-d3a37adabe92.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="305.88" ytl="135.89" xbr="652.35" ybr="563.40" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="5ad89acf-31a5-4256-8a71-4cb73e204e9a.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="81.84" ytl="484.25" xbr="341.00" ybr="686.35" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="5b40d39d-4317-4802-bebf-1c98cb0d3caf.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="341.16" ytl="414.09" xbr="431.79" ybr="564.88" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="5b67ff0c-e1e2-4d3c-8715-6aa4c59f48cb.jpg" width="1024" height="769">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="245.18" ytl="321.17" xbr="706.65" ybr="650.56" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="5b8c0c58-808f-48b6-8706-033d61f8eead.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="361.56" ytl="454.71" xbr="440.59" ybr="521.11" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="5bf05f41-cf0b-4109-a593-45ba61d94ba2.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="371.24" ytl="328.09" xbr="600.14" ybr="642.02" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="5cce2a77-29cb-4851-80a6-9c3ed26a8818.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="285.29" ytl="467.41" xbr="560.33" ybr="805.78" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="5d2a6f47-f474-4bc6-b2c8-88aea2d40149.jpeg" width="404" height="223">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="81.32" ytl="23.19" xbr="369.59" ybr="214.98" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="5d99bdb3-d82c-47b8-9c33-f58c728faa41.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="691.66" ytl="250.31" xbr="806.87" ybr="436.41" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="5de454fd-8d76-4ec7-af5f-d59b04d64c46.jpeg" width="1024" height="686">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="310.96" ytl="123.38" xbr="678.25" ybr="340.96" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="428.48" ytl="173.92" xbr="803.78" ybr="472.12" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="5e5b0bda-5591-49bc-9b07-ec4d8e5f90c4.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="240.24" ytl="341.75" xbr="465.00" ybr="488.31" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="5e738bfe-6dea-4d4d-b088-c860cec0eead.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="381.27" ytl="568.23" xbr="502.21" ybr="702.26" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="5efc3f1e-7903-4a0b-8ad0-7de90c23f2dd.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="199.72" ytl="313.96" xbr="435.09" ybr="611.77" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="60341b2b-f630-4491-9d9e-5a7e33b6daba.jpeg" width="577" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="201.91" ytl="384.43" xbr="435.63" ybr="599.31" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="618fa06d-27c6-49f1-9780-0581a46b8d59.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="287.55" ytl="579.78" xbr="448.90" ybr="737.35" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="61a315c9-1465-4122-b1e9-56f13e1e526d.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="261.76" ytl="503.64" xbr="422.60" ybr="638.72" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="625d91ab-ffaa-4077-b501-05d500055e9b.jpg" width="916" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="286.88" ytl="432.46" xbr="574.12" ybr="755.90" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="62604c63-6a3a-4eb3-8faa-858a6d3a7d35.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="553.88" ytl="362.76" xbr="610.43" ybr="428.35" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="398.61" ytl="160.44" xbr="478.00" ybr="261.54" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="62641882-9fc3-4c29-92b9-8f2516b53ee6.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="308.14" ytl="409.77" xbr="434.12" ybr="607.30" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="62fe89f2-b351-42fc-896e-1a5f73b29cfb.jpeg" width="1024" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="558.23" ytl="358.90" xbr="916.24" ybr="776.32" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="63d9cc6c-eda5-4ced-bb08-0fa84e8caf1e.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="274.41" ytl="488.91" xbr="450.38" ybr="579.49" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="64e6b89b-c324-482a-a83a-42327b6f7336.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="58.91" ytl="367.55" xbr="350.06" ybr="536.66" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="650529a0-02d8-4b51-a9e3-1c6a372b7e6c.jpeg" width="1000" height="750">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="63.73" ytl="349.80" xbr="606.61" ybr="698.81" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="66007d42-eeea-4256-9f20-7c82b7bb2fda.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="269.98" ytl="386.26" xbr="416.42" ybr="498.88" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="66439962-880a-4eb7-9335-e051c50bb970.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="384.44" ytl="58.90" xbr="728.29" ybr="677.54" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="664d5179-45cf-4a95-8925-621f53cf0209.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="309.69" ytl="187.99" xbr="715.50" ybr="580.78" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="677e586e-b72b-4716-9c26-3c816f21feed.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="291.26" ytl="242.21" xbr="728.31" ybr="550.26" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="6832225b-c7d7-42cb-8e85-d593a0091db4.jpg" width="1024" height="681">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="178.79" ytl="179.52" xbr="413.76" ybr="406.18" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="68baf858-3080-45c7-986e-3b9ae2ce50cc.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="220.60" ytl="476.94" xbr="550.83" ybr="714.43" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="68cd7911-181d-4e1c-b9a4-74956b4d5ed7.jpg" width="1000" height="750">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="298.32" ytl="109.73" xbr="665.88" ybr="678.82" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="694d6b92-2cc0-482b-b6c3-9fcc00c38b5e.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="256.96" ytl="352.60" xbr="552.26" ybr="749.96" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="6977a96d-ddd9-4f25-ae23-a258a3fbf8e7.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="421.60" ytl="184.65" xbr="922.36" ybr="566.53" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="698f01bb-db45-439a-99dc-a0c8515bd619.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="264.45" ytl="421.00" xbr="471.92" ybr="635.96" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="6ae523a6-6e93-4d59-82da-ecd4c5355b7d.jpeg" width="1024" height="686">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="421.79" ytl="268.18" xbr="577.44" ybr="451.47" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="6b1dad30-2ea0-490c-87f1-f1ffd685c759.jpeg" width="1024" height="575">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="280.95" ytl="182.80" xbr="487.71" ybr="371.78" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="6c032b80-3c1f-4437-a77d-5b8e6dfb6340.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="361.56" ytl="479.81" xbr="580.50" ybr="711.42" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="6daa6757-91e9-43f8-bc62-02eb1cc6abf0.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="193.10" ytl="241.95" xbr="336.55" ybr="402.16" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="6e544fb8-a8c7-4e91-bb4a-bbab9f916eed.jpg" width="1024" height="768">
+  </image>
+  <image id="210" name="6e7bad06-939d-4184-9a34-9a11c8d2a6c0.jpeg" width="791" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="97.47" ytl="318.95" xbr="769.50" ybr="714.13" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="6ec6bdfa-b5ca-4183-ad34-b1dfac4ca292.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="316.00" ytl="272.67" xbr="738.11" ybr="686.33" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="714eb631-19fb-4735-beaa-c996b219e265.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="118.90" ytl="447.77" xbr="339.05" ybr="798.35" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="7159af22-5f41-4417-a315-9d82f226ae75.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="240.87" ytl="114.63" xbr="762.64" ybr="562.14" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="72774324-7fb8-4234-87d8-eec19c2a6ac1.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="479.06" ytl="216.20" xbr="670.95" ybr="543.51" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="72e52f2f-e48b-4dc6-a8d8-4f4ced6340e3.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="394.57" ytl="159.32" xbr="637.53" ybr="545.14" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="73fee064-fa4c-4ad6-878b-161122f64c79.jpg" width="976" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="102.35" ytl="300.59" xbr="812.27" ybr="963.45" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="74aea7c7-e8cf-46c8-ac8f-2fd2138034c4.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="375.08" ytl="658.57" xbr="436.50" ybr="722.57" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="76b30fed-74b3-4077-9746-0ea657ab76fa.jpeg" width="461" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="144.98" ytl="260.28" xbr="285.68" ybr="455.70" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="76d4e5a4-268e-41b4-bf85-7fd96b6332af.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="60.13" ytl="397.12" xbr="706.10" ybr="862.87" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="779991ac-0de6-4707-9b1a-6324fe008359.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="322.17" ytl="517.05" xbr="387.06" ybr="568.56" z_order="0">
+    </box>
+  </image>
+  <image id="221" name="77d0016c-1a7e-42c8-beb1-de82632a21be.jpeg" width="1024" height="771">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="305.41" ytl="254.80" xbr="826.87" ybr="678.56" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="780c3541-6138-437f-9c61-25af3785fcfd.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="276.04" ytl="98.99" xbr="715.74" ybr="644.21" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="7820def5-d499-454b-b1f3-3e5d286740df.jpg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="342.14" ytl="370.56" xbr="454.48" ybr="522.86" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="263.73" ytl="516.07" xbr="341.39" ybr="624.64" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="7a34cf86-fca5-4ca4-b5eb-f83be573e6ac.jpeg" width="1024" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="169.39" ytl="421.53" xbr="943.82" ybr="910.05" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="7a62b2fa-bea0-4150-b175-e6505e4d6925.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="258.69" ytl="229.49" xbr="608.10" ybr="473.38" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="7aada55a-bdb8-4d4c-8b15-0d1682e80357.jpeg" width="1024" height="722">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="386.39" ytl="266.28" xbr="654.30" ybr="476.02" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="7ba3de6f-34a9-4c99-9ee1-08dc7947ae04.jpeg" width="861" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="205.06" ytl="281.06" xbr="519.90" ybr="970.46" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="7bb0a124-0820-4760-8f55-efc0201f311a.jpeg" width="1024" height="768">
+  </image>
+  <image id="229" name="7bc98f99-5578-47ed-8b6c-a2dc53e48e21.jpeg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="477.86" ytl="188.72" xbr="692.40" ybr="369.00" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="7bf0bc63-19bf-4972-b0fe-2f08e912e0c1.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="215.01" ytl="222.20" xbr="895.92" ybr="564.22" z_order="0">
+    </box>
+  </image>
+  <image id="231" name="7df0b2a9-dfc1-4cf5-9a45-cb756489755d.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="199.75" ytl="504.29" xbr="443.63" ybr="752.87" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="7f00c373-c04e-4fc9-af75-8d91d2941763.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="481.70" ytl="387.67" xbr="638.82" ybr="551.82" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="7f731e64-9a44-44c7-b635-ff09d8e65e6a.jpg" width="683" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="173.64" ytl="216.64" xbr="477.09" ybr="544.94" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="7f7c8463-0c07-4030-9d6c-3c5f5e9dcd0b.jpg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="517.74" ytl="259.05" xbr="664.30" ybr="458.75" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="7fd37468-02cb-4900-9123-5e815dc9ad5d.jpeg" width="1024" height="680">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="133.98" ytl="242.68" xbr="640.61" ybr="539.60" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="8019d5df-f07a-40ac-b1a7-e3187c9c4adf.jpeg" width="875" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="266.19" ytl="409.24" xbr="625.77" ybr="739.11" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="80412def-c3b2-4d21-8f44-96daec1b89dc.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="623.02" ytl="319.29" xbr="692.16" ybr="413.16" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="8048987a-d812-46a1-8381-3814144b4c72.jpeg" width="1024" height="682">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="164.34" ytl="0.00" xbr="1024.00" ybr="593.78" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="817858bf-5107-4ba8-9076-bb6f049747f5.jpeg" width="1024" height="681">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="481.54" ytl="204.46" xbr="667.90" ybr="469.67" z_order="0">
+    </box>
+  </image>
+  <image id="240" name="81dcbf2a-be6c-4253-8bfd-b6f10481e9f8.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="364.24" ytl="207.74" xbr="673.59" ybr="529.26" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="822cd865-5ed4-4ddb-8553-fbd36e7a449b.jpeg" width="533" height="800">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="72.37" ytl="124.64" xbr="358.17" ybr="783.08" z_order="0">
+    </box>
+  </image>
+  <image id="242" name="8330d68e-5ef7-40b9-85e4-027a1201f717.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="475.28" ytl="643.56" xbr="572.99" ybr="802.79" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="834c02e9-9f3a-491f-a477-186f0d023f74.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="348.24" ytl="269.13" xbr="750.14" ybr="526.80" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="84195e52-be40-4e0c-a82d-3f2828af1fa0.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="176.46" ytl="364.09" xbr="383.64" ybr="514.28" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="845c214a-5a34-4102-ade7-751c5765b4da.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="262.46" ytl="179.90" xbr="596.63" ybr="643.92" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="84769c93-a565-401d-9e23-cefd6547fb31.jpeg" width="683" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="269.64" ytl="455.02" xbr="380.92" ybr="722.82" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="857faf2c-fcb7-485e-a9d6-87db9328350c.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="440.19" ytl="582.18" xbr="592.23" ybr="749.30" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="85a8b5a1-44c1-4963-89a9-f8e7fd8aee02.jpeg" width="472" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="192.30" ytl="375.55" xbr="246.01" ybr="468.48" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="87fc00f0-b256-4142-b2b8-9c14fd492257.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="57.44" ytl="577.97" xbr="242.78" ybr="649.59" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="350.85" ytl="587.39" xbr="457.65" ybr="673.47" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="455.71" ytl="618.18" xbr="670.64" ybr="724.36" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="8a45c9fc-f0e5-4b82-86c3-77f017e124b0.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="205.71" ytl="441.63" xbr="530.53" ybr="653.36" z_order="0">
+    </box>
+  </image>
+  <image id="251" name="8b193bcb-1627-49df-aa19-8ece91546eef.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="299.63" ytl="645.49" xbr="443.18" ybr="766.79" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="8b637a58-3869-428a-86c5-1a69aad6d738.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="532.74" ytl="520.74" xbr="573.46" ybr="561.10" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="175.58" ytl="602.18" xbr="216.31" ybr="644.36" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="8b95a346-aba4-4bae-aa8f-93ad2f74dde3.jpeg" width="1024" height="817">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="337.98" ytl="278.64" xbr="701.78" ybr="574.02" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="8bdec7a5-7f7e-49c6-b5b1-3a10af6586ac.jpeg" width="1024" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="432.73" ytl="353.04" xbr="619.57" ybr="646.17" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="8c34028f-009f-4b1c-861c-8991a81552a6.jpg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="423.82" ytl="192.61" xbr="664.42" ybr="319.24" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="8c5d86a3-e7ea-478d-8886-8acfd025f77d.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="263.66" ytl="196.47" xbr="776.57" ybr="564.35" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="8ca4783a-aa8b-4745-80f9-195e008ef260.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="254.78" ytl="302.83" xbr="697.86" ybr="531.81" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="8cb78f19-ed3f-4614-91e6-945d9b861a31.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="253.72" ytl="516.84" xbr="444.08" ybr="665.11" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="8cbf68dc-d602-44c8-8039-bc444d2a7cbc.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="358.54" ytl="529.26" xbr="428.78" ybr="616.09" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="302.69" ytl="525.33" xbr="491.17" ybr="643.14" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="8d4591f3-1dea-4875-ba78-88d678ebb483.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="396.96" ytl="276.83" xbr="647.30" ybr="397.31" z_order="0">
+    </box>
+  </image>
+  <image id="261" name="8e3fc21a-1bd7-4594-9be6-5b07c999cdc2.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="164.33" ytl="259.44" xbr="763.72" ybr="592.90" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="8e70adde-ca77-4f80-9aab-1fab3f7822b1.jpg" width="795" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="197.53" ytl="79.53" xbr="591.50" ybr="899.35" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="8f128b20-25b4-42d2-94f6-f3bec68dabaf.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="166.70" ytl="535.15" xbr="407.20" ybr="770.37" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="8f346953-99e3-434d-8ecc-01d137ce0e21.png" width="900" height="688">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="172.27" ytl="231.35" xbr="733.35" ybr="532.46" z_order="0">
+    </box>
+  </image>
+  <image id="265" name="8fbc5789-1c8b-467b-a93c-86713dbf19f9.jpeg" width="458" height="672">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="18.40" ytl="193.63" xbr="314.90" ybr="425.50" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="8fcbdfbc-f09e-4c22-aa1b-bf6e96a0ec06.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="273.61" ytl="317.03" xbr="475.66" ybr="580.16" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="9057e28e-1082-46e7-bc31-09734be3c6cd.jpeg" width="1024" height="892">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="305.06" ytl="221.46" xbr="679.56" ybr="717.01" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="90ce8e65-ec94-4f6f-a041-c324ddf303b8.jpeg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="542.66" ytl="169.28" xbr="732.58" ybr="297.53" z_order="0">
+    </box>
+  </image>
+  <image id="269" name="90d00058-dac1-4066-a3b3-c73b28e99012.jpeg" width="829" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="134.87" ytl="102.60" xbr="656.41" ybr="916.80" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="90f69be0-2ee2-4d34-8c3d-3afdbe7d6fdd.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="17.06" ytl="175.77" xbr="557.54" ybr="873.65" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="9166ef1c-8319-46f9-8071-1ddb3f0e5673.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="239.60" ytl="167.00" xbr="719.54" ybr="693.23" z_order="0">
+    </box>
+  </image>
+  <image id="272" name="91b1dbd5-4557-45e7-935a-0ede3cd404b3.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="249.30" ytl="404.50" xbr="700.10" ybr="757.56" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="91c94f97-4702-4bd6-8b42-a4b4c87be269.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="301.45" ytl="327.63" xbr="539.86" ybr="752.35" z_order="0">
+    </box>
+  </image>
+  <image id="274" name="920b9960-2f32-43e2-a9df-a40b6c9bb34e.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="14.70" ytl="418.83" xbr="455.18" ybr="657.24" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="9213834a-1f37-45c5-804a-d51d457eb619.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="458.96" ytl="72.02" xbr="827.60" ybr="712.22" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="925087c8-00c6-4402-a455-25767198913f.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="468.40" ytl="155.14" xbr="652.44" ybr="356.70" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="9306ad12-95be-4f7a-a84c-75b63cbdfa13.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="418.18" ytl="279.76" xbr="734.92" ybr="466.22" z_order="0">
+    </box>
+  </image>
+  <image id="278" name="939d571a-77c3-4641-b9ef-8370a05efe47.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="124.14" ytl="187.96" xbr="762.37" ybr="758.65" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="9466c141-af41-4fae-98ae-d1d07e513810.jpeg" width="577" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="2.91" ytl="233.18" xbr="502.43" ybr="722.82" z_order="0">
+    </box>
+  </image>
+  <image id="280" name="94a7e2a2-90b9-4ddd-b012-bb9cf9defc81.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="395.06" ytl="202.95" xbr="615.92" ybr="520.12" z_order="0">
+    </box>
+  </image>
+  <image id="281" name="94c83018-9dfd-47de-b2dc-bf97c865222c.jpeg" width="1024" height="694">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="169.11" ytl="85.32" xbr="726.01" ybr="646.03" z_order="0">
+    </box>
+  </image>
+  <image id="282" name="94d9ac90-20ff-464b-9516-677524753c5c.jpg" width="774" height="600">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="248.78" ytl="108.96" xbr="640.11" ybr="379.37" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="94ff54a0-1822-408c-b313-c399a76c5730.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="236.76" ytl="416.45" xbr="395.40" ybr="509.12" z_order="0">
+    </box>
+  </image>
+  <image id="284" name="96c2eba8-7786-431a-910d-41b58f67100d.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="342.06" ytl="301.02" xbr="731.33" ybr="571.87" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="976d723e-1534-4a70-a284-5fe000840410.jpg" width="480" height="640">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="260.99" ytl="271.12" xbr="302.93" ybr="319.18" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="97f078f5-8db7-4ce6-a13a-59a71d044965.jpg" width="1024" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="418.74" ytl="318.50" xbr="678.39" ybr="686.72" z_order="0">
+    </box>
+  </image>
+  <image id="287" name="980aabc6-e0c4-47be-b2f6-a0efa996fe5a.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="230.68" ytl="427.95" xbr="556.38" ybr="723.25" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="9865037f-849f-49af-b4d7-5c711203719c.jpg" width="1024" height="687">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="265.84" ytl="223.42" xbr="444.56" ybr="495.28" z_order="0">
+    </box>
+  </image>
+  <image id="289" name="98889447-f8f9-41ac-8f94-a1f6d4988745.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="428.71" ytl="262.16" xbr="638.93" ybr="411.06" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="99adde89-d872-483e-a75b-dcfc55f43a4d.jpg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="165.73" ytl="432.18" xbr="278.30" ybr="498.94" z_order="0">
+    </box>
+  </image>
+  <image id="291" name="9adee057-5109-4e17-9bbb-3aa67a316728.jpg" width="683" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="370.18" ytl="293.96" xbr="494.53" ybr="393.88" z_order="0">
+    </box>
+  </image>
+  <image id="292" name="9adf4d5c-5b40-489f-8350-00790aa51349.jpeg" width="500" height="574">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="183.26" ytl="261.21" xbr="374.45" ybr="420.45" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="9ae5ea78-804c-4187-a7a4-0729ef2ea472.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="237.58" ytl="179.90" xbr="861.36" ybr="633.66" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="9bfe97c0-1ff8-4dec-92ee-0e9edd938a0c.jpeg" width="1024" height="680">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="411.95" ytl="241.44" xbr="717.35" ybr="545.10" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="9ceaf41f-d762-49a9-9255-a3d54d229fcb.jpeg" width="1024" height="992">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="275.40" ytl="283.10" xbr="802.95" ybr="847.25" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="9d924f53-0298-4a76-b7d7-34d349662fbf.jpeg" width="896" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="203.74" ytl="393.82" xbr="668.84" ybr="778.14" z_order="0">
+    </box>
+  </image>
+  <image id="297" name="9d9e6fc1-174c-419e-87d3-20390b7a4590.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="430.50" ytl="428.13" xbr="600.76" ybr="536.69" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="9e248f29-8aed-44c1-97a1-5d3e80b3b566.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="217.88" ytl="70.49" xbr="1021.52" ybr="629.07" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="9e2a2273-eda2-4b19-ac82-6a79386da160.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="441.59" ytl="178.93" xbr="687.68" ybr="558.49" z_order="0">
+    </box>
+  </image>
+  <image id="300" name="9ebc4973-7ba9-49aa-badd-8588be914ed9.jpg" width="683" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="175.68" ytl="123.77" xbr="522.74" ybr="578.71" z_order="0">
+    </box>
+  </image>
+  <image id="301" name="9f2d1e9e-96e9-4c69-84b0-cbc9a0cda200.jpeg" width="1024" height="705">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="356.42" ytl="128.78" xbr="606.13" ybr="609.90" z_order="0">
+    </box>
+  </image>
+  <image id="302" name="9f360909-e817-439f-8353-567b44e38217.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="258.08" ytl="354.10" xbr="393.11" ybr="426.70" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="414.15" ytl="312.71" xbr="577.00" ybr="375.81" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="a0da9955-aa2b-4d3d-9d4f-deee2098fb41.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="511.16" ytl="266.33" xbr="868.50" ybr="501.31" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="a347e55d-54b5-41b0-9362-672ad955566a.jpg" width="800" height="533">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="174.75" ytl="189.20" xbr="544.84" ybr="410.86" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="a39a6e4b-432b-4fb1-9e65-2eb55d166565.jpeg" width="1024" height="771">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="208.80" ytl="236.91" xbr="797.82" ybr="575.91" z_order="0">
+    </box>
+  </image>
+  <image id="306" name="a39c73f7-d5a8-4b4b-a78a-4a02d9233767.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="237.13" ytl="172.30" xbr="503.70" ybr="591.50" z_order="0">
+    </box>
+  </image>
+  <image id="307" name="a4321f31-3dab-4973-a7c9-86b7af635eb2.jpg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="350.90" ytl="181.74" xbr="607.33" ybr="406.51" z_order="0">
+    </box>
+  </image>
+  <image id="308" name="a46d08d1-3423-4993-9ddc-cdb51a4d64d3.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="227.64" ytl="301.14" xbr="608.82" ybr="767.98" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="a47f1dea-daef-4a13-b04d-d29294a81a20.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="399.04" ytl="209.25" xbr="921.86" ybr="485.14" z_order="0">
+    </box>
+  </image>
+  <image id="310" name="a59eb389-7dcb-4906-8e77-655f81bdfd14.jpeg" width="1024" height="577">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="495.18" ytl="255.58" xbr="578.02" ybr="297.21" z_order="0">
+    </box>
+  </image>
+  <image id="311" name="a61d1d9b-bd7b-4ec7-9801-9dadf9e53602.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="399.98" ytl="271.24" xbr="720.19" ybr="550.30" z_order="0">
+    </box>
+  </image>
+  <image id="312" name="a6500387-7376-4a70-b7c1-0314613ab678.jpeg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="382.20" ytl="210.78" xbr="470.83" ybr="349.46" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="a66ce238-7957-4401-ae03-a21a134f91e3.jpeg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="350.35" ytl="143.18" xbr="824.49" ybr="456.83" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="a6e5159e-dccb-4f2f-8444-255dbe5b0af2.jpg" width="1024" height="698">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="462.30" ytl="250.67" xbr="577.42" ybr="420.26" z_order="0">
+    </box>
+  </image>
+  <image id="315" name="a7f019a9-02ab-48f0-8133-1eac5a962f23.jpeg" width="358" height="383">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="26.01" ytl="28.53" xbr="349.44" ybr="376.12" z_order="0">
+    </box>
+  </image>
+  <image id="316" name="a8ee0b8f-9de8-4bae-b184-6f636172a8f8.jpeg" width="456" height="464">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="138.57" ytl="117.46" xbr="265.00" ybr="286.69" z_order="0">
+    </box>
+  </image>
+  <image id="317" name="a903bdaa-336e-4eeb-a169-9171689da322.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="371.58" ytl="343.45" xbr="586.03" ybr="461.72" z_order="0">
+    </box>
+  </image>
+  <image id="318" name="a922c184-fbfd-41ed-890f-adf217448672.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="325.02" ytl="547.12" xbr="466.39" ybr="652.67" z_order="0">
+    </box>
+  </image>
+  <image id="319" name="a9d4951e-e908-4cbb-b75c-e506fe696c05.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="429.92" ytl="286.35" xbr="561.50" ybr="368.90" z_order="0">
+    </box>
+  </image>
+  <image id="320" name="aa6f58cc-9b43-467e-995d-3ed176a00916.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="377.30" ytl="197.52" xbr="607.82" ybr="660.01" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="aa70eb15-d4ed-413b-9dd5-844b30b9c1e5.jpg" width="900" height="488">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="519.98" ytl="237.14" xbr="814.89" ybr="415.20" z_order="0">
+    </box>
+  </image>
+  <image id="322" name="aa7c501c-2f9a-4a91-bb4d-fdbc2482cf5a.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="410.69" ytl="118.73" xbr="753.75" ybr="708.02" z_order="0">
+    </box>
+  </image>
+  <image id="323" name="ab4fa0de-ceee-4bf8-a82b-d5b496ad17cf.jpeg" width="742" height="742">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="254.15" ytl="305.68" xbr="499.67" ybr="447.28" z_order="0">
+    </box>
+  </image>
+  <image id="324" name="abfe534d-740c-4dec-ae3a-eebb2df12c41.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="372.34" ytl="384.71" xbr="551.55" ybr="519.88" z_order="0">
+    </box>
+  </image>
+  <image id="325" name="ac1b685e-3aa4-4944-9c69-aa76025bbe6b.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="134.82" ytl="289.31" xbr="553.99" ybr="762.66" z_order="0">
+    </box>
+  </image>
+  <image id="326" name="ad63491c-8c2c-49fc-928a-c3e2756e717a.jpeg" width="766" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="336.86" ytl="465.19" xbr="534.45" ybr="759.40" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="adac4b82-a66f-4348-8931-71515c1f4c95.jpg" width="1024" height="929">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="246.59" ytl="307.36" xbr="727.25" ybr="715.13" z_order="0">
+    </box>
+  </image>
+  <image id="328" name="ae79e75c-0d9b-48e3-bb6d-4cfc97ab24fe.jpg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="409.71" ytl="152.37" xbr="876.89" ybr="390.53" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="afeee01b-7835-4a75-8728-af46ea5656d6.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="367.37" ytl="752.19" xbr="462.24" ybr="816.28" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="440.25" ytl="311.77" xbr="504.34" ybr="371.45" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="b0c760d8-de81-4ce9-9668-45968839cb62.jpeg" width="1024" height="767">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="415.07" ytl="114.81" xbr="655.12" ybr="530.51" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="b0e1750c-8dbd-42a0-b076-e559db60cac5.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="367.46" ytl="106.60" xbr="1022.65" ybr="616.67" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="b1aa5247-02c0-4e2b-8e59-d460417c963d.jpeg" width="1024" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="197.61" ytl="288.16" xbr="983.20" ybr="862.69" z_order="0">
+    </box>
+  </image>
+  <image id="333" name="b1b0e6bf-c1e9-4456-8ab3-b9fe99f9cef2.jpg" width="1024" height="851">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="326.52" ytl="128.50" xbr="967.48" ybr="751.05" z_order="0">
+    </box>
+  </image>
+  <image id="334" name="b2799253-731c-4545-8a1f-777320897059.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="214.16" ytl="448.40" xbr="571.13" ybr="718.08" z_order="0">
+    </box>
+  </image>
+  <image id="335" name="b2f88bdc-f941-4183-9a89-ed68bfea3d79.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="441.32" ytl="267.35" xbr="599.47" ybr="404.65" z_order="0">
+    </box>
+  </image>
+  <image id="336" name="b50d7ea8-fc84-4845-8949-2365f8f383a0.jpeg" width="1024" height="773">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="129.05" ytl="78.30" xbr="993.61" ybr="663.46" z_order="0">
+    </box>
+  </image>
+  <image id="337" name="b5531572-f71d-4575-a65f-bc4845ecb2e3.jpeg" width="1024" height="648">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="224.82" ytl="170.74" xbr="676.60" ybr="455.99" z_order="0">
+    </box>
+  </image>
+  <image id="338" name="b57c887f-9a75-4466-8731-11ab86628b60.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="317.28" ytl="300.08" xbr="453.09" ybr="426.13" z_order="0">
+    </box>
+  </image>
+  <image id="339" name="b6a6b196-37d8-4fce-b5d3-390ff26ed093.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="327.48" ytl="138.75" xbr="701.14" ybr="510.66" z_order="0">
+    </box>
+  </image>
+  <image id="340" name="b73c7342-cd2f-4e7c-82a6-a406c00beaec.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="203.74" ytl="411.92" xbr="655.81" ybr="697.24" z_order="0">
+    </box>
+  </image>
+  <image id="341" name="b76f7e32-834d-4409-9266-9a342566bfe6.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="323.08" ytl="544.67" xbr="486.43" ybr="657.13" z_order="0">
+    </box>
+  </image>
+  <image id="342" name="b77f61cc-2f8f-4ab6-8e2d-50b278c02bf9.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="313.02" ytl="518.28" xbr="478.26" ybr="641.43" z_order="0">
+    </box>
+  </image>
+  <image id="343" name="b7adca62-587b-41b9-aca4-93fe6dd4934f.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="78.22" ytl="167.44" xbr="975.40" ybr="678.09" z_order="0">
+    </box>
+  </image>
+  <image id="344" name="b7b6d52a-0aed-471b-b33f-049befe84b53.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="323.06" ytl="476.94" xbr="446.00" ybr="626.98" z_order="0">
+    </box>
+  </image>
+  <image id="345" name="b9e44431-f689-4018-bd04-20e04a86849e.jpg" width="900" height="675">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="150.91" ytl="209.75" xbr="858.89" ybr="597.23" z_order="0">
+    </box>
+  </image>
+  <image id="346" name="ba474195-37cf-4883-a3a3-16af52dba800.jpeg" width="771" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="120.27" ytl="535.27" xbr="377.30" ybr="795.83" z_order="0">
+    </box>
+  </image>
+  <image id="347" name="bab50c2f-70c0-4d33-adb2-3a974a5a5d61.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="345.38" ytl="291.42" xbr="603.46" ybr="479.99" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="baf7ce77-2117-4251-82a9-c2673c85123a.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="110.38" ytl="49.44" xbr="1007.56" ybr="680.09" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="baffd9a2-0e9e-4641-bfcf-6db13bd60f73.jpg" width="1024" height="913">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="68.78" ytl="183.19" xbr="928.53" ybr="815.46" z_order="0">
+    </box>
+  </image>
+  <image id="350" name="bb41968f-40e3-4cee-9766-137279b5d4d0.jpeg" width="1024" height="768">
+  </image>
+  <image id="351" name="bbaad1db-7db2-4a3d-862f-062117d47712.jpeg" width="1024" height="801">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="365.65" ytl="454.48" xbr="577.19" ybr="654.05" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="bbb2b79b-e947-42b3-b3b2-5df7dda2b45d.jpg" width="1024" height="683">
+  </image>
+  <image id="353" name="bbd652b8-ca55-48e3-9008-39037346a82e.jpeg" width="1024" height="1010">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="493.45" ytl="416.14" xbr="672.28" ybr="573.55" z_order="0">
+    </box>
+  </image>
+  <image id="354" name="bbe9bd5c-010f-4b87-8130-5732bfd7e867.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="417.28" ytl="351.41" xbr="583.39" ybr="455.60" z_order="0">
+    </box>
+  </image>
+  <image id="355" name="bbf4c477-dfa9-4615-be7b-c1a5f436763b.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="214.29" ytl="268.79" xbr="606.22" ybr="746.48" z_order="0">
+    </box>
+  </image>
+  <image id="356" name="bda55acf-cba8-4804-95a6-2b1de2172779.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="189.46" ytl="32.92" xbr="841.38" ybr="664.83" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="be890e39-7a2e-4b10-9a4c-7eef1feabb6c.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="149.27" ytl="213.57" xbr="755.84" ybr="607.54" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="bea0d665-a085-41c1-8ff0-178a0830ddff.jpeg" width="1024" height="799">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="240.07" ytl="164.14" xbr="829.67" ybr="672.41" z_order="0">
+    </box>
+  </image>
+  <image id="359" name="bf1fc143-c0e4-4986-8cac-43e5091393b5.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="1.01" ytl="103.49" xbr="844.51" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="360" name="c010b750-bba0-4625-9115-9eb5b59ebce8.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="178.35" ytl="189.10" xbr="543.25" ybr="742.79" z_order="0">
+    </box>
+  </image>
+  <image id="361" name="c08da11f-ef53-45ec-a557-4d7fac83b544.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="290.26" ytl="447.98" xbr="519.88" ybr="557.90" z_order="0">
+    </box>
+  </image>
+  <image id="362" name="c1321181-5cd6-47b6-9cc1-199ea60eccc4.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="194.55" ytl="256.82" xbr="647.93" ybr="477.68" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="c1409660-433d-4c2d-9bd6-aa20713ab1c8.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="365.50" ytl="180.07" xbr="662.41" ybr="398.03" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="c164cd4f-6437-486e-828e-c3a236582ea6.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="170.80" ytl="287.90" xbr="461.82" ybr="614.68" z_order="0">
+    </box>
+  </image>
+  <image id="365" name="c183b8a5-0782-4c88-9bd6-394b385ef090.jpeg" width="550" height="412">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="29.95" ytl="109.21" xbr="435.03" ybr="365.84" z_order="0">
+    </box>
+  </image>
+  <image id="366" name="c41ca64f-f106-4828-bced-4a30a314908a.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="167.86" ytl="192.56" xbr="561.82" ybr="747.55" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="c429f52b-8416-4e12-834e-f1f80ca85998.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="397.99" ytl="267.60" xbr="701.67" ybr="600.60" z_order="0">
+    </box>
+  </image>
+  <image id="368" name="c4ac3c1d-0c4e-444a-a855-ec90f44fad6b.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="391.96" ytl="503.15" xbr="506.86" ybr="629.81" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="c5b0b53e-fc0c-452c-8702-a18c3fdfd8e2.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="397.63" ytl="287.30" xbr="716.56" ybr="586.29" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="c5c7badf-2a63-42e8-a448-aa914dcc9f5c.jpg" width="512" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="325.13" ytl="490.09" xbr="391.63" ybr="546.81" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="c5e44bcb-11bf-4f12-9115-b0d925e80308.jpeg" width="584" height="751">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="157.16" ytl="284.28" xbr="252.27" ybr="482.23" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="c6cecb94-d9ce-432f-be2c-b2f0096052f7.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="222.00" ytl="579.50" xbr="467.60" ybr="740.75" z_order="0">
+    </box>
+  </image>
+  <image id="373" name="c6e96019-e449-4cd6-96a5-5a13cb72f9e6.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="395.92" ytl="235.66" xbr="708.28" ybr="650.73" z_order="0">
+    </box>
+  </image>
+  <image id="374" name="c73999f8-dc1b-48fb-8d6d-6454481d8253.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="360.75" ytl="162.50" xbr="913.71" ybr="761.89" z_order="0">
+    </box>
+  </image>
+  <image id="375" name="c826755a-171a-402b-a344-a358332b79a6.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="343.62" ytl="145.16" xbr="888.06" ybr="631.92" z_order="0">
+    </box>
+  </image>
+  <image id="376" name="c869b08d-29d7-4d18-9435-e987c7f479a4.jpg" width="1000" height="750">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="339.91" ytl="289.21" xbr="769.98" ybr="635.47" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="c943ba14-8a4f-42e5-b3ca-b49df2fa36ca.jpeg" width="683" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="245.12" ytl="430.77" xbr="494.83" ybr="805.33" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="c95fddc8-af1c-4708-a8c5-c3161e3b905f.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="500.32" ytl="276.67" xbr="532.63" ybr="349.63" z_order="0">
+    </box>
+  </image>
+  <image id="379" name="c961748e-b9f0-4451-a235-30eb1b135fd7.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="246.99" ytl="418.57" xbr="619.59" ybr="754.69" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="c974298f-d9b0-42ad-8ab5-f4989175e7f1.jpg" width="1024" height="717">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="323.01" ytl="336.42" xbr="618.57" ybr="518.86" z_order="0">
+    </box>
+  </image>
+  <image id="381" name="c9bbf685-07a4-471e-a0ed-5ed8c9f0e0b6.jpeg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="108.08" ytl="69.83" xbr="697.27" ybr="442.10" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="c9c6e7ee-3793-4356-a5db-1618508de92a.jpg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="204.14" ytl="390.69" xbr="347.09" ybr="582.49" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="ca4de1ad-c33a-44af-aa27-4a714e53adbd.jpeg" width="1024" height="686">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="482.45" ytl="296.94" xbr="543.51" ybr="394.09" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="cac89681-be41-4d82-89c0-138610b9f262.jpg" width="800" height="599">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="111.12" ytl="103.07" xbr="633.30" ybr="504.54" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="cb7fc671-80a4-402a-9943-0381cf11388c.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="187.58" ytl="465.86" xbr="451.46" ybr="649.82" z_order="0">
+    </box>
+  </image>
+  <image id="386" name="cbbd6787-44fb-4f8c-a988-842cb0b87a7f.jpeg" width="684" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="260.28" ytl="287.77" xbr="513.02" ybr="732.02" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="cc8e2091-fce9-4bad-bc27-166d467c2429.jpeg" width="948" height="918">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="248.99" ytl="154.03" xbr="712.66" ybr="743.84" z_order="0">
+    </box>
+  </image>
+  <image id="388" name="cc9d8f30-04f5-41c6-a815-e4c4929d464b.jpeg" width="682" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="82.06" ytl="360.72" xbr="605.91" ybr="743.75" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="cd121dec-379d-4725-8b58-3655aa98ffba.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="100.95" ytl="79.10" xbr="767.33" ybr="709.29" z_order="0">
+    </box>
+  </image>
+  <image id="390" name="cd6a286d-51df-468f-a6f4-3a9bf2ecb925.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="270.96" ytl="380.27" xbr="418.31" ybr="617.38" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="cd70db16-fb51-4eb7-b569-7cc795927ba9.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="143.29" ytl="166.61" xbr="625.45" ybr="853.18" z_order="0">
+    </box>
+  </image>
+  <image id="392" name="ce7a4e68-0fe8-4a0d-89cf-0ea4020721f8.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="324.42" ytl="482.45" xbr="477.12" ybr="567.96" z_order="0">
+    </box>
+  </image>
+  <image id="393" name="ceba1560-5702-4508-b023-ac4945443768.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="102.12" ytl="188.33" xbr="592.63" ybr="563.72" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="cf842a5d-862f-48a0-a2e8-d2dd46c0000c.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="282.31" ytl="233.38" xbr="653.94" ybr="494.90" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="cf9bb568-eaae-4e9f-922b-6a88f9a6ec51.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="402.43" ytl="174.57" xbr="747.79" ybr="482.39" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="cfae9fce-58e4-4285-999f-7d3e07a1e82a.jpeg" width="461" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="133.68" ytl="389.71" xbr="341.01" ybr="727.40" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="d0b8b0f1-aed7-4ebf-b081-78126465682e.jpeg" width="1024" height="768">
+  </image>
+  <image id="398" name="d160c5b4-5e7c-479a-a119-5cfe276d3b89.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="254.84" ytl="350.50" xbr="597.80" ybr="647.54" z_order="0">
+    </box>
+  </image>
+  <image id="399" name="d226b57a-3fa4-4f0e-a8bf-08fd68ebd934.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="228.60" ytl="273.09" xbr="567.49" ybr="513.79" z_order="0">
+    </box>
+  </image>
+  <image id="400" name="d2d1611a-f0a5-48ee-bf7b-abbe506a81bf.jpeg" width="1024" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="292.85" ytl="236.83" xbr="784.00" ybr="954.67" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="d374245f-53bb-4573-a233-5c5e511098d2.jpg" width="669" height="722">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="113.09" ytl="109.60" xbr="564.11" ybr="579.00" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="d3a2f0f6-0efa-4715-970c-4ccb99873704.jpeg" width="1024" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="493.98" ytl="432.10" xbr="575.48" ybr="590.41" z_order="0">
+    </box>
+  </image>
+  <image id="403" name="d3fef1b5-81ed-4470-a5ad-21aa191e7e92.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="250.89" ytl="284.12" xbr="628.16" ybr="465.16" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="d4056fa8-d890-493f-91f7-2f7a433cedaa.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="158.70" ytl="266.94" xbr="637.48" ybr="680.58" z_order="0">
+    </box>
+  </image>
+  <image id="405" name="d4743ec2-8c43-49a4-8ba9-5cd343cf4ce8.jpeg" width="1024" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="495.15" ytl="397.12" xbr="728.57" ybr="679.50" z_order="0">
+    </box>
+  </image>
+  <image id="406" name="d50d8fe0-519e-44d6-8f1e-b6491910816c.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="464.93" ytl="268.76" xbr="642.57" ybr="502.95" z_order="0">
+    </box>
+  </image>
+  <image id="407" name="d62154f7-5137-40a0-86b0-39ac277c5818.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="433.10" ytl="313.96" xbr="705.08" ybr="481.90" z_order="0">
+    </box>
+  </image>
+  <image id="408" name="d63d15c4-f411-4d81-a45a-0d3b9a093c92.jpeg" width="925" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="269.95" ytl="269.16" xbr="793.67" ybr="833.54" z_order="0">
+    </box>
+  </image>
+  <image id="409" name="d69cf037-e823-44b6-b459-9288a09f5204.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="434.78" ytl="193.94" xbr="749.17" ybr="497.48" z_order="0">
+    </box>
+  </image>
+  <image id="410" name="d69e69d7-7f80-48c0-9947-5cdb90d060a6.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="149.59" ytl="136.83" xbr="820.79" ybr="585.79" z_order="0">
+    </box>
+  </image>
+  <image id="411" name="d6cdd01a-bcc3-4ed8-a0eb-da3c09b66482.jpg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="371.28" ytl="130.94" xbr="980.70" ybr="559.21" z_order="0">
+    </box>
+  </image>
+  <image id="412" name="d737de74-cf8e-4d42-8b0c-fc4840215284.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="142.61" ytl="297.73" xbr="490.97" ybr="572.10" z_order="0">
+    </box>
+  </image>
+  <image id="413" name="d829be79-90a8-48f2-9b6a-b825b9fb9847.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="73.68" ytl="386.80" xbr="358.67" ybr="635.60" z_order="0">
+    </box>
+  </image>
+  <image id="414" name="d88b4ed4-57af-43fa-a6b3-1f275a03e1d8.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="220.04" ytl="133.93" xbr="763.29" ybr="703.78" z_order="0">
+    </box>
+  </image>
+  <image id="415" name="d9ad9f72-bb1e-47fc-8b40-b90426849924.jpeg" width="1024" height="768">
+  </image>
+  <image id="416" name="d9cb1479-b788-4c3d-8408-3afcf34ba403.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="396.78" ytl="232.98" xbr="596.95" ybr="427.04" z_order="0">
+    </box>
+  </image>
+  <image id="417" name="db5f4ed5-f9a4-4f78-9333-e48b0141e8ff.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="75.49" ytl="284.39" xbr="423.81" ybr="630.90" z_order="0">
+    </box>
+  </image>
+  <image id="418" name="db62acbb-95fa-450f-8184-dd6b359013ec.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="153.11" ytl="273.01" xbr="829.01" ybr="602.78" z_order="0">
+    </box>
+  </image>
+  <image id="419" name="dbe53303-c821-4c62-bc02-ab2d373e8023.jpeg" width="1024" height="682">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="427.15" ytl="251.50" xbr="786.27" ybr="484.69" z_order="0">
+    </box>
+  </image>
+  <image id="420" name="dc166594-83c4-47c3-bd26-c165ec4f9d0d.jpeg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="180.44" ytl="421.00" xbr="353.24" ybr="672.51" z_order="0">
+    </box>
+  </image>
+  <image id="421" name="dc3fd1ff-20f1-4ccb-a363-6e61cb00a171.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="217.62" ytl="407.43" xbr="526.22" ybr="630.90" z_order="0">
+    </box>
+  </image>
+  <image id="422" name="dc54fbfd-547a-41b2-aade-c30c0760178c.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="280.05" ytl="371.24" xbr="495.46" ybr="471.67" z_order="0">
+    </box>
+  </image>
+  <image id="423" name="dc9ff03e-c741-4f5a-8977-fea1eef75601.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="416.66" ytl="427.33" xbr="488.22" ybr="536.81" z_order="0">
+    </box>
+  </image>
+  <image id="424" name="dd0fddce-6054-4452-a090-7b4bfbd2147b.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="332.26" ytl="427.71" xbr="444.60" ybr="655.40" z_order="0">
+    </box>
+  </image>
+  <image id="425" name="dd479542-60a9-474c-9f87-22d6d1c42f3f.jpeg" width="1024" height="913">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="212.71" ytl="239.43" xbr="803.96" ybr="679.67" z_order="0">
+    </box>
+  </image>
+  <image id="426" name="dd4ba2de-1235-4600-b1c4-2d9ca3f9da75.jpeg" width="985" height="967">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="119.55" ytl="185.98" xbr="824.50" ybr="780.21" z_order="0">
+    </box>
+  </image>
+  <image id="427" name="dd58db67-2769-44ab-9b79-2c3571ca485f.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="298.94" ytl="577.07" xbr="490.40" ybr="712.02" z_order="0">
+    </box>
+  </image>
+  <image id="428" name="dd5de9d6-dc22-41a0-bb9b-714612136c2f.jpeg" width="1024" height="680">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="250.87" ytl="194.89" xbr="731.10" ybr="486.44" z_order="0">
+    </box>
+  </image>
+  <image id="429" name="dd8c8c62-f51d-4034-b69d-347cd96351b8.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="514.74" ytl="212.70" xbr="757.27" ybr="343.91" z_order="0">
+    </box>
+  </image>
+  <image id="430" name="dde8c341-b8c4-4da7-a036-5a88d3f4a36e.jpg" width="1024" height="683">
+  </image>
+  <image id="431" name="e07ce115-cbc7-40f2-9456-ce00e0fe26e0.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="263.04" ytl="405.37" xbr="702.73" ybr="710.44" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="41.45" ytl="250.01" xbr="594.16" ybr="918.89" z_order="0">
+    </box>
+  </image>
+  <image id="432" name="e0988d3b-8da7-41eb-8b89-6f8ef298f217.jpg" width="600" height="600">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="73.21" ytl="187.26" xbr="470.22" ybr="388.28" z_order="0">
+    </box>
+  </image>
+  <image id="433" name="e0fb3c1c-b4a5-4342-b733-1b6daf25115e.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="397.23" ytl="159.93" xbr="720.19" ybr="543.72" z_order="0">
+    </box>
+  </image>
+  <image id="434" name="e1c3c05a-7a5d-4a76-b7fd-83f183b423ef.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="326.84" ytl="188.67" xbr="637.79" ybr="629.06" z_order="0">
+    </box>
+  </image>
+  <image id="435" name="e1c54cf6-e7ae-4b0b-8db8-3eb9ef78a82b.jpeg" width="498" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="180.14" ytl="347.96" xbr="334.07" ybr="490.58" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="117.94" ytl="342.30" xbr="263.70" ybr="515.71" z_order="0">
+    </box>
+  </image>
+  <image id="436" name="e2bb11ab-87b0-4b56-8f63-52ec2906aaba.jpeg" width="1024" height="826">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="286.94" ytl="302.08" xbr="992.13" ybr="594.14" z_order="0">
+    </box>
+  </image>
+  <image id="437" name="e2cb60f3-92a1-493e-947c-8fc78a5918ee.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="409.71" ytl="196.41" xbr="813.53" ybr="648.06" z_order="0">
+    </box>
+  </image>
+  <image id="438" name="e35a7059-bf08-422f-b05f-d9e2d59d35b7.jpeg" width="1024" height="682">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="373.69" ytl="189.39" xbr="619.83" ybr="495.51" z_order="0">
+    </box>
+  </image>
+  <image id="439" name="e3cb6650-5e65-4c87-a377-a09838b85a4c.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="176.33" ytl="393.20" xbr="613.45" ybr="582.68" z_order="0">
+    </box>
+  </image>
+  <image id="440" name="e48bdb48-ce86-4d18-b5cd-b66d6fa10762.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="475.84" ytl="102.10" xbr="871.21" ybr="482.03" z_order="0">
+    </box>
+  </image>
+  <image id="441" name="e53b8f33-460e-431b-be0b-ef8594b4fe8d.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="100.73" ytl="336.10" xbr="482.88" ybr="589.06" z_order="0">
+    </box>
+  </image>
+  <image id="442" name="e57f6a52-4340-46b9-b1c6-63de19cc6162.jpeg" width="1024" height="680">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="342.45" ytl="275.38" xbr="615.49" ybr="567.11" z_order="0">
+    </box>
+  </image>
+  <image id="443" name="e5d6736d-acdb-4e8a-9dd9-59e3812c0e3f.jpeg" width="679" height="905">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="140.85" ytl="224.86" xbr="565.03" ybr="798.25" z_order="0">
+    </box>
+  </image>
+  <image id="444" name="e6119bd0-c1d1-4f67-9e32-4fba72f8276d.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="380.28" ytl="254.70" xbr="671.06" ybr="683.85" z_order="0">
+    </box>
+  </image>
+  <image id="445" name="e6db3029-93ce-47fb-8a52-5684ba1eba5c.jpeg" width="1024" height="768">
+  </image>
+  <image id="446" name="e79ab1bf-1222-4499-adc7-8414fd7cd271.jpeg" width="1024" height="575">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="417.98" ytl="135.30" xbr="682.21" ybr="342.48" z_order="0">
+    </box>
+  </image>
+  <image id="447" name="e805419c-6d69-42d8-9dc5-524e68ed4873.jpg" width="782" height="787">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="61.96" ytl="117.16" xbr="677.91" ybr="677.74" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="e952876a-9829-4fcf-8a8f-388b29205ced.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="726.78" ytl="352.39" xbr="933.60" ybr="496.51" z_order="0">
+    </box>
+  </image>
+  <image id="449" name="e9dded9f-fb1d-41ce-81db-782493185100.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="265.10" ytl="330.40" xbr="516.70" ybr="511.17" z_order="0">
+    </box>
+  </image>
+  <image id="450" name="ea276c58-2366-4435-8586-f704a741e3b8.jpg" width="1024" height="909">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="257.29" ytl="393.47" xbr="561.84" ybr="574.65" z_order="0">
+    </box>
+  </image>
+  <image id="451" name="eaa2e659-9cf8-43a1-a72f-fa58103141bf.jpg" width="1024" height="639">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="354.57" ytl="113.86" xbr="811.19" ybr="361.82" z_order="0">
+    </box>
+  </image>
+  <image id="452" name="eace38e0-05de-4a1b-8d15-31d74ac1cac9.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="133.60" ytl="338.29" xbr="512.08" ybr="714.51" z_order="0">
+    </box>
+  </image>
+  <image id="453" name="eb1b28dd-2489-47c4-8894-9a789508c63a.jpg" width="1000" height="750">
+  </image>
+  <image id="454" name="eb32722a-ac95-43a0-a4e7-70ced993cc11.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="269.41" ytl="281.49" xbr="703.75" ybr="613.30" z_order="0">
+    </box>
+  </image>
+  <image id="455" name="ec46b771-a246-49f3-86a3-d61c581722e5.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="413.33" ytl="245.53" xbr="611.47" ybr="451.13" z_order="0">
+    </box>
+  </image>
+  <image id="456" name="ec526d7e-c759-4733-868e-d986186804eb.jpeg" width="1024" height="947">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="291.52" ytl="289.85" xbr="610.39" ybr="750.87" z_order="0">
+    </box>
+  </image>
+  <image id="457" name="ece3d19e-61d5-4e58-a050-87a6fbff22e8.jpg" width="576" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="199.89" ytl="432.40" xbr="375.40" ybr="615.15" z_order="0">
+    </box>
+  </image>
+  <image id="458" name="ed5e42ae-9a2a-47dc-8ad7-700a9ad19498.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="214.72" ytl="152.98" xbr="811.16" ybr="544.50" z_order="0">
+    </box>
+  </image>
+  <image id="459" name="ed9405c7-ef04-4619-8bd6-86ef0d829339.jpeg" width="1024" height="766">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="329.92" ytl="184.22" xbr="773.34" ybr="525.32" z_order="0">
+    </box>
+  </image>
+  <image id="460" name="ee1686e8-3d8d-4b7c-b400-150504c81001.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="248.55" ytl="261.84" xbr="606.95" ybr="763.42" z_order="0">
+    </box>
+  </image>
+  <image id="461" name="ee287bbb-3cb9-40bd-8155-0ffe1133805a.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="279.56" ytl="260.80" xbr="895.10" ybr="666.50" z_order="0">
+    </box>
+  </image>
+  <image id="462" name="ee909b9d-f6f9-4954-b28f-b278f26acf29.jpeg" width="1024" height="793">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="76.46" ytl="97.38" xbr="937.69" ybr="737.20" z_order="0">
+    </box>
+  </image>
+  <image id="463" name="eea4759e-da8c-4994-a29f-b32fbf4e6e44.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="598.11" ytl="215.21" xbr="767.78" ybr="435.94" z_order="0">
+    </box>
+  </image>
+  <image id="464" name="eef37fb7-ddf5-434e-b5d6-2b38453b4b44.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="257.97" ytl="493.47" xbr="355.68" ybr="637.32" z_order="0">
+    </box>
+  </image>
+  <image id="465" name="efe32ee1-b9fc-4707-b5b9-d0de2965900e.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="131.40" ytl="213.80" xbr="815.21" ybr="757.47" z_order="0">
+    </box>
+  </image>
+  <image id="466" name="efeec0fc-4822-4caa-adac-26926f67ddfd.jpeg" width="1024" height="576">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="363.35" ytl="161.62" xbr="664.73" ybr="328.78" z_order="0">
+    </box>
+  </image>
+  <image id="467" name="f038de3a-a0ac-4ff3-99be-7cfccbc3e681.jpeg" width="768" height="1024">
+  </image>
+  <image id="468" name="f0468787-0085-4aa1-96a9-f658e0b19f23.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="408.24" ytl="201.00" xbr="876.27" ybr="430.62" z_order="0">
+    </box>
+  </image>
+  <image id="469" name="f0660ab0-04cd-4e0f-8a22-73eb79e62d03.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="245.69" ytl="439.93" xbr="497.13" ybr="703.10" z_order="0">
+    </box>
+  </image>
+  <image id="470" name="f07477d7-0554-43b6-9c96-99dd4280c0c3.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="225.53" ytl="250.83" xbr="803.00" ybr="679.78" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="f0a8d9c2-e55d-448d-bd17-d9ace2cc9644.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="233.72" ytl="72.27" xbr="663.90" ybr="617.11" z_order="0">
+    </box>
+  </image>
+  <image id="472" name="f30e2f5a-c39b-4c7b-b839-931b332a0e20.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="542.99" ytl="125.76" xbr="798.11" ybr="269.40" z_order="0">
+    </box>
+  </image>
+  <image id="473" name="f34f5ad8-8f22-4c8b-a194-5b359f64d69a.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="159.57" ytl="482.41" xbr="504.94" ybr="745.57" z_order="0">
+    </box>
+  </image>
+  <image id="474" name="f3af5c00-aa93-46df-ac82-16e7ee73b6f4.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="437.93" ytl="323.05" xbr="518.83" ybr="369.11" z_order="0">
+    </box>
+  </image>
+  <image id="475" name="f3c6be2a-036a-4aca-a09e-fb1a02a98713.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="267.50" ytl="74.82" xbr="313.62" ybr="155.98" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="218.28" ytl="727.19" xbr="253.36" ybr="779.54" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="553.36" ytl="777.97" xbr="592.11" ybr="836.09" z_order="0">
+    </box>
+  </image>
+  <image id="476" name="f409816b-8d40-4252-8251-d3d1db943d87.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="348.22" ytl="176.28" xbr="643.70" ybr="518.19" z_order="0">
+    </box>
+  </image>
+  <image id="477" name="f41951b8-5428-426f-8959-889c7fe8715a.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="328.10" ytl="611.10" xbr="560.40" ybr="717.50" z_order="0">
+    </box>
+  </image>
+  <image id="478" name="f67ecf22-d497-4ca7-9983-f4c6c82a8e8c.jpeg" width="1024" height="681">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="433.61" ytl="145.38" xbr="659.60" ybr="426.24" z_order="0">
+    </box>
+  </image>
+  <image id="479" name="f6a05552-5074-4526-ba17-aa384f898841.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="393.05" ytl="406.14" xbr="492.00" ybr="475.25" z_order="0">
+    </box>
+  </image>
+  <image id="480" name="f762f2a9-3166-43ce-b100-2d8cffb0686b.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="297.62" ytl="340.06" xbr="729.10" ybr="546.40" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="f933a9c0-7d8a-4579-86d4-566a535caf7f.jpeg" width="1024" height="740">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="413.83" ytl="255.33" xbr="734.70" ybr="518.56" z_order="0">
+    </box>
+  </image>
+  <image id="482" name="f9fdc5c7-b91b-40cd-8b4c-59773154099f.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="166.90" ytl="233.05" xbr="709.41" ybr="917.80" z_order="0">
+    </box>
+  </image>
+  <image id="483" name="faab3016-7b06-4330-949e-38fc559129b4.jpg" width="1024" height="705">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="414.22" ytl="270.75" xbr="748.96" ybr="541.98" z_order="0">
+    </box>
+  </image>
+  <image id="484" name="fabe8eed-ff13-4292-bdbd-b0ed31141628.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="222.32" ytl="400.37" xbr="451.40" ybr="676.13" z_order="0">
+    </box>
+  </image>
+  <image id="485" name="fb860ad8-48e0-487a-8c38-b499ed421c9c.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="201.33" ytl="66.54" xbr="683.94" ybr="661.71" z_order="0">
+    </box>
+  </image>
+  <image id="486" name="fc313024-aef4-4feb-b13e-3e5dd0e5d1e0.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="154.90" ytl="297.29" xbr="658.60" ybr="492.87" z_order="0">
+    </box>
+  </image>
+  <image id="487" name="fc38b385-b77c-4408-848c-5fa6661b3634.jpeg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="267.32" ytl="326.70" xbr="690.97" ybr="651.86" z_order="0">
+    </box>
+  </image>
+  <image id="488" name="fcd7653f-877c-4ef7-92cc-0b4570d5f0c5.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="254.83" ytl="464.58" xbr="358.95" ybr="617.63" z_order="0">
+    </box>
+  </image>
+  <image id="489" name="fcf3b9d0-fecf-44b8-a24d-54a185618c8b.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="316.73" ytl="432.91" xbr="435.10" ybr="612.35" z_order="0">
+    </box>
+  </image>
+  <image id="490" name="fd009a23-ab95-46af-b46b-c7f911fcd3c8.jpg" width="1024" height="817">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="106.58" ytl="258.90" xbr="866.36" ybr="697.16" z_order="0">
+    </box>
+  </image>
+  <image id="491" name="fd588f79-64d7-4b76-b0a4-6ab52bae8395.jpg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="87.43" ytl="127.82" xbr="730.09" ybr="513.72" z_order="0">
+    </box>
+  </image>
+  <image id="492" name="fd7c2a29-8399-4b6d-b2da-4cc6707c49c6.jpeg" width="1024" height="683">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="73.91" ytl="78.27" xbr="830.70" ybr="620.33" z_order="0">
+    </box>
+  </image>
+  <image id="493" name="fd8e7369-9a89-495f-9bab-3dd0562023c0.jpg" width="1024" height="768">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="274.41" ytl="250.94" xbr="851.85" ybr="605.51" z_order="0">
+    </box>
+  </image>
+  <image id="494" name="fde1f692-026e-4de5-97a4-5f25fb7b670f.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="233.55" ytl="348.14" xbr="569.21" ybr="791.63" z_order="0">
+    </box>
+  </image>
+  <image id="495" name="fe12ee03-df3b-4e5b-ad93-39fd9f4a315b.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="188.31" ytl="511.50" xbr="383.71" ybr="703.75" z_order="0">
+    </box>
+  </image>
+  <image id="496" name="fe6adfa7-9af6-432e-b076-53c6ee978029.jpeg" width="1024" height="817">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="28.80" ytl="403.50" xbr="83.94" ybr="464.65" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="78.42" ytl="495.68" xbr="121.53" ybr="558.39" z_order="0">
+    </box>
+    <box label="laubfrosch" source="manual" occluded="0" xtl="796.96" ytl="604.47" xbr="841.24" ybr="668.39" z_order="0">
+    </box>
+  </image>
+  <image id="497" name="fef7efca-7ed6-4b84-baca-3c3c774a4cba.jpeg" width="779" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="146.88" ytl="231.49" xbr="672.17" ybr="889.97" z_order="0">
+    </box>
+  </image>
+  <image id="498" name="fefeb81e-7047-45f9-b12f-72069d5cfc59.jpg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="307.53" ytl="503.33" xbr="470.38" ybr="663.92" z_order="0">
+    </box>
+  </image>
+  <image id="499" name="ffbb8dfa-2e1d-42c3-b229-7a0d4cf93b72.jpeg" width="768" height="1024">
+    <box label="laubfrosch" source="manual" occluded="0" xtl="284.92" ytl="458.85" xbr="602.32" ybr="717.45" z_order="0">
+    </box>
+  </image>
+</annotations>
