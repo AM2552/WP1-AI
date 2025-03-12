@@ -14,7 +14,7 @@ def collate_fn(batch):
     return tuple(zip(*batch))
 
 def get_model(num_classes):
-    model = fasterrcnn_mobilenet_v3_large_320_fpn(weights=FasterRCNN_MobileNet_V3_Large_320_FPN_Weights.COCO_V1)
+    model = fasterrcnn_resnet50_fpn_v2(weights=FasterRCNN_ResNet50_FPN_V2_Weights.COCO_V1)
     in_features = model.roi_heads.box_predictor.cls_score.in_features
     model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
     return model
@@ -106,14 +106,14 @@ def main(pretrained_model_path):
         transforms=transforms
     )
 
-    train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True, num_workers=4, collate_fn=collate_fn)
-    val_loader = DataLoader(val_dataset, batch_size=8, shuffle=False, num_workers=4, collate_fn=collate_fn)
+    train_loader = DataLoader(train_dataset, batch_size=1, shuffle=True, num_workers=4, collate_fn=collate_fn)
+    val_loader = DataLoader(val_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=collate_fn)
 
    
     model = get_model(num_classes=17)
     model.to('cuda')
 
-    optimizer = Adam(model.parameters(), lr=0.0001, weight_decay=0.0005)
+    optimizer = Adam(model.parameters(), lr=0.0005)
 
     # optional: continue training from a pretrained model
     if pretrained_model_path is not None and os.path.exists(pretrained_model_path):

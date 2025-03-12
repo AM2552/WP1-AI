@@ -8,7 +8,9 @@ from torchvision.models.detection.faster_rcnn import (
     fasterrcnn_mobilenet_v3_large_320_fpn,
     fasterrcnn_mobilenet_v3_large_fpn,
     FasterRCNN_MobileNet_V3_Large_FPN_Weights,
-    FasterRCNN_MobileNet_V3_Large_320_FPN_Weights
+    FasterRCNN_MobileNet_V3_Large_320_FPN_Weights,
+    ResNet50_Weights,
+    MobileNet_V3_Large_Weights
 )
 from torch.optim import Adam, SGD, AdamW
 from dataset_class import AmphibianDataset, Compose, RandomHorizontalFlip, RandomVerticalFlip, RandomRotation
@@ -22,12 +24,15 @@ def collate_fn(batch):
     return tuple(zip(*batch))
 
 def get_model(num_classes):
-    model = fasterrcnn_mobilenet_v3_large_fpn(weights=FasterRCNN_MobileNet_V3_Large_FPN_Weights.COCO_V1)
+    model = fasterrcnn_mobilenet_v3_large_320_fpn(
+        weights=FasterRCNN_MobileNet_V3_Large_320_FPN_Weights.DEFAULT,
+        trainable_backbone_layers=6
+    )
     in_features = model.roi_heads.box_predictor.cls_score.in_features
     model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
     return model
 
-# ---------------------- LR RANGE TEST FUNCTION (as defined above) ----------------------
+# ---------------------- LR RANGE TEST FUNCTION ----------------------
 def lr_range_test(
     model,
     data_loader,
@@ -206,8 +211,8 @@ def main(pretrained_model_path, run_lr_test=False):
             device='cuda',
             start_lr=1e-7,
             end_lr=1,
-            num_iter=250,
-            optimizer_cls=Adam, 
+            num_iter=200,
+            optimizer_cls=SGD, 
             smoothing=0.05,
             diverge_threshold=5.0
         )
@@ -219,7 +224,7 @@ def main(pretrained_model_path, run_lr_test=False):
         plt.xlabel("Learning Rate (log scale)")
         plt.ylabel("Loss (smoothed)")
         plt.title("LR Range Test")
-        plt.savefig("lr_range_adam.png")
+        plt.savefig("lr_range_sgd_mobilenet.png")
         plt.show()
         
         # After seeing this plot, pick your best LR or range of LR

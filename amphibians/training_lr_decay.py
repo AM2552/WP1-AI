@@ -2,16 +2,18 @@ import torch
 import torch.utils.data
 from torch.utils.data import DataLoader
 from torchvision.models.detection.faster_rcnn import (
-    FastRCNNPredictor, 
+    FastRCNNPredictor,
     fasterrcnn_resnet50_fpn_v2, 
     fasterrcnn_mobilenet_v3_large_fpn,
     fasterrcnn_mobilenet_v3_large_320_fpn,
     FasterRCNN_ResNet50_FPN_V2_Weights,
     FasterRCNN_MobileNet_V3_Large_FPN_Weights,
-    FasterRCNN_MobileNet_V3_Large_320_FPN_Weights
+    FasterRCNN_MobileNet_V3_Large_320_FPN_Weights,
+    ResNet50_Weights,
+    MobileNet_V3_Large_Weights
 )
 from torch.optim import Adam
-from torch.optim.lr_scheduler import ExponentialLR  # <-- NEW
+from torch.optim.lr_scheduler import ExponentialLR, ReduceLROnPlateau
 from dataset_class import AmphibianDataset, Compose, RandomHorizontalFlip, RandomVerticalFlip, RandomRotation
 import torchvision.transforms as T
 import os
@@ -23,7 +25,10 @@ def collate_fn(batch):
     return tuple(zip(*batch))
 
 def get_model(num_classes):
-    model = fasterrcnn_mobilenet_v3_large_320_fpn(weights=FasterRCNN_MobileNet_V3_Large_320_FPN_Weights.COCO_V1)
+    model = fasterrcnn_mobilenet_v3_large_320_fpn(
+        weights=FasterRCNN_MobileNet_V3_Large_320_FPN_Weights.COCO_V1,
+        trainable_backbone_layers=6
+        )
     in_features = model.roi_heads.box_predictor.cls_score.in_features
     model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
     return model
@@ -71,7 +76,6 @@ def evaluate(model, data_loader, device, epoch):
             targets = [{k: v.to(device) for k, v in t.items()} for t in targets]
 
             # Temporarily set model to train to compute the loss in evaluation
-            # (some detection models require train mode to compute the loss)
             model.train()
             eval_loss_dict = model(images, targets)
             model.eval()
@@ -117,30 +121,40 @@ def main(pretrained_model_path):
         transforms=transforms
     )
 
-    train_loader = DataLoader(train_dataset, batch_size=2, shuffle=True, num_workers=4, collate_fn=collate_fn)
-    val_loader = DataLoader(val_dataset, batch_size=2, shuffle=False, num_workers=4, collate_fn=collate_fn)
+    train_loader = DataLoader(train_dataset, batch_size=4, shuffle=True, num_workers=4, collate_fn=collate_fn)
+    val_loader = DataLoader(val_dataset, batch_size=4, shuffle=False, num_workers=4, collate_fn=collate_fn)
 
     model = get_model(num_classes=17)
+    #state_dict = torch.load('amphibians/cnn/models/resnet50_adam_default.pth')
+    #state_dict.pop("fc.1.weight", None)
+    #state_dict.pop("fc.1.bias", None)
+    #model.backbone.body.load_state_dict(state_dict)
     model.to('cuda')
 
-    # Create optimizer
-    initial_lr = 4e-4
+    # HYPERPARAMETERS #
+    num_epochs = 150
+    initial_lr = 1e-4
+    
     optimizer = Adam(model.parameters(), lr=initial_lr)
+    exponentialLR_scheduler = ExponentialLR(optimizer, gamma=0.92)
+    plateau_scheduler = ReduceLROnPlateau(
+        optimizer,
+        mode='min',
+        factor=0.75,
+        patience=2,
+        threshold=1e-3,
+        min_lr=1e-6
+    )
+    
+    scheduler = plateau_scheduler
+    ###############
 
-    # OPTIONAL: Load a pretrained checkpoint
+
+    # Load a pretrained checkpoint
     if pretrained_model_path is not None and os.path.exists(pretrained_model_path):
         print(f"Loading pretrained model from {pretrained_model_path}")
         model.load_state_dict(torch.load(pretrained_model_path))
 
-    # ---------------------------------------------------------
-    # Create EXponential LR Scheduler:
-    # gamma < 1 => decays the LR each epoch
-    # for example, gamma=0.95 => 5% reduction in LR each epoch
-    # ---------------------------------------------------------
-    gamma = 0.90
-    scheduler = ExponentialLR(optimizer, gamma=gamma)  # <-- NEW
-
-    num_epochs = 30
     save_dir = 'amphibians/models/'
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
@@ -163,13 +177,13 @@ def main(pretrained_model_path):
 
         print(f"Training Loss: {round(train_loss, 5)} / Validation Loss: {round(validation_loss, 5)}")
 
-        # Step the scheduler AFTER each epoch
-        scheduler.step()  # <-- NEW: Exponential decay
+        scheduler.step(validation_loss)  # Update the learning rate
 
         # Save the best model
         if validation_loss < best_validation_loss:
             best_validation_loss = validation_loss
             torch.save(model.state_dict(), os.path.join(save_dir, f"best_model.pth"))
+        torch.save(model.state_dict(), os.path.join(save_dir, f"model_epoch_{epoch+1}.pth"))
 
     plot_losses(train_losses, val_losses, save_dir)
 

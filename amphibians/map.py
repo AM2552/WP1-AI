@@ -28,9 +28,9 @@ label_mapping = {
 THRESHOLD = 0.5
 
 def get_model(num_classes):
-    model = fasterrcnn_resnet50_fpn_v2(weights=None)
+    #model = fasterrcnn_resnet50_fpn_v2(weights=None)
     #model = fasterrcnn_mobilenet_v3_large_fpn(weights=None)
-    #model = fasterrcnn_mobilenet_v3_large_320_fpn(weights=None)
+    model = fasterrcnn_mobilenet_v3_large_320_fpn(weights=None)
     in_features = model.roi_heads.box_predictor.cls_score.in_features
     model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
     return model
@@ -144,7 +144,7 @@ def process_directory(test_dir, model_path, annotations_file, output_dir):
                         gt_labels_list.append(label)
                     gt_boxes_tensor = torch.tensor(gt_boxes_list, dtype=torch.float32)
                     # Adjust labels to start from 0
-                    gt_labels_tensor = torch.tensor(gt_labels_list, dtype=torch.int64) - 1
+                    gt_labels_tensor = torch.tensor(gt_labels_list, dtype=torch.int64)
                     target = {'boxes': gt_boxes_tensor, 'labels': gt_labels_tensor}
                 else:
                     # No ground truth for this image
@@ -162,7 +162,7 @@ def process_directory(test_dir, model_path, annotations_file, output_dir):
                         continue  # Skip background class
                     pred_boxes_list.append(box.cpu())
                     # Adjust labels to start from 0
-                    pred_labels_list.append(label.cpu() - 1)
+                    pred_labels_list.append(label.cpu())
                     pred_scores_list.append(score.cpu())
 
                 if len(pred_boxes_list) > 0:
@@ -210,7 +210,7 @@ def process_directory(test_dir, model_path, annotations_file, output_dir):
 
 if __name__ == "__main__":
     test_dir = 'datasets/amphibia/test'
-    model_path = 'amphibians/models/best_model.pth'
+    model_path = 'amphibians/models/model_epoch_145.pth'
     annotations_file = 'amphibians/amphibia_annotations.json'  # Path to your annotations file
     output_dir = 'amphibians/evaluation'  # Directory to save visualized images
     process_directory(test_dir, model_path, annotations_file, output_dir)

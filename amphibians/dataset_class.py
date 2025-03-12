@@ -95,9 +95,6 @@ class AmphibianDataset(Dataset):
             bbox = bbox_info['bbox']
             boxes.append(bbox)
             
-            # Here bbox_info['label'] is already an integer (class_label).
-            # You can either store it directly as `labels.append(bbox_info['label'])`
-            # or map it to a name via label_mapping if needed.
             class_label_idx = bbox_info['label']
             labels.append(class_label_idx)
 
@@ -119,29 +116,6 @@ class AmphibianDataset(Dataset):
 
         return image, target
 
-
-# Keep your label mapping if you still need to interpret class_label -> species name
-label_mapping = {
-    1: 'feuersalamander',
-    2: 'alpensalamander',
-    3: 'bergmolch',
-    4: 'kammmolch',
-    5: 'teichmolch',
-    6: 'rotbauchunke',
-    7: 'gelbbauchunke',
-    8: 'knoblauchkröte',
-    9: 'erdkröte',
-    10: 'kreuzkröte',
-    11: 'wechselkröte',
-    12: 'laubfrosch',
-    13: 'moorfrosch',
-    14: 'springfrosch',
-    15: 'grasfrosch',
-    16: 'wasserfrosch'
-}
-
-
-# Your augmentation/transforms remain the same
 class Compose:
     def __init__(self, transforms):
         self.transforms = transforms
